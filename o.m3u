@@ -1,2 +1,4 @@
-#EXTM3U 
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Toffee Playlist" group-title="Toffee Live",Toffee Live Channels
 https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/toffee_NS_Player.m3u
