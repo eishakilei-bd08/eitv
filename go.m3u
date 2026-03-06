@@ -28,3 +28,5 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",NEWS21📺
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
+#EXTINF:-1,group-title="PREMIUM",Sony Yay📺
+http://103.99.249.139/sonyyay/tracks-v1a1/mono.m3u8
