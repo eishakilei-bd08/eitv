@@ -30,3 +30,11 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:-1,group-title="PREMIUM",Sony Yay📺
 http://103.99.249.139/sonyyay/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="PREMIUM",Bangla Vision📺
+http://tvn2.chowdhury-shaheb.com/banglavision/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Somoy📺
+http://tvn2.chowdhury-shaheb.com/somoy/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",GTV📺
+http://tvn2.chowdhury-shaheb.com/gazitv/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",RTV📺
+http://tvn2.chowdhury-shaheb.com/rtv/index.m3u8
