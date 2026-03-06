@@ -1,31 +1,30 @@
 #EXTM3U 
-
 #######PREMIUM########
-#EXTINF-1,group-title="PREMIUM",Deepto TV HD 📺
+#EXTINF:-1,group-title="PREMIUM",Deepto TV HD 📺
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
-#EXTINF-1,group-title="PREMIUM",Bangla Vision 📺
+#EXTINF:-1,group-title="PREMIUM",Bangla Vision 📺
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-#EXTINF-1,group-title="PREMIUM",BTV 📺
+#EXTINF:-1,group-title="PREMIUM",BTV 📺
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF-1,group-title="PREMIUM",HUM TV 📺
+#EXTINF:-1,group-title="PREMIUM",HUM TV 📺
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
-#EXTINF-1,group-title="PREMIUM",NTV 📺
+#EXTINF:-1,group-title="PREMIUM",NTV 📺
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF-1,group-title="PREMIUM",ATN Bangla 📺
+#EXTINF:-1,group-title="PREMIUM",ATN Bangla 📺
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-#EXTINF-1,group-title="PREMIUM",Channel I HD 📺
+#EXTINF:-1,group-title="PREMIUM",Channel I HD 📺
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
-#EXTINF-1,group-title="PREMIUM",Jamuna TV 📺
+#EXTINF:-1,group-title="PREMIUM",Jamuna TV 📺
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF-1,group-title="PREMIUM",ATN News 📺
+#EXTINF:-1,group-title="PREMIUM",ATN News 📺
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-#EXTINF-1,group-title="PREMIUM",Channel 24 HD
+#EXTINF:-1,group-title="PREMIUM",Channel 24 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-#EXTINF-1,group-title="PREMIUM",Ekattor HD 📺
+#EXTINF:-1,group-title="PREMIUM",Ekattor HD 📺
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-#EXTINF-1,group-title="PREMIUM",Independent TV 📺
+#EXTINF:-1,group-title="PREMIUM",Independent TV 📺
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF-1,group-title="PREMIUM",Somoy📺 
+#EXTINF:-1,group-title="PREMIUM",Somoy📺 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF-1,group-title="PREMIUM",MEWS21
+#EXTINF:-1,group-title="PREMIUM",NEWS21📺
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
