@@ -1,5 +1,9 @@
 #EXTM3U 
 #######PREMIUM########
+
+
+#EXTINF:-1,group-title="PREMIUM",SRKTV📺
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1,group-title="PREMIUM",Deepto TV HD 📺
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Bangla Vision 📺
