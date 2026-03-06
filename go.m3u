@@ -144,10 +144,10 @@ https://tplay.live/playlist/mix/humayun-ahmed/index.m3u8
 
 #EXTINF:-1 group-title="PREMIUM",24/7 Kid Creation 
 http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
-EXTINF:-1 tvg-id="DeshiTV.ca@SD" tvg-logo="https://i.imgur.com/PzqzgMm.png" group-title="PREMIUM",Deshi TV (720p)
+#EXTINF:-1 tvg-id="DeshiTV.ca@SD" tvg-logo="https://i.imgur.com/PzqzgMm.png" group-title="PREMIUM",Deshi TV (720p)
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id="ChannelS.uk@SD" tvg-logo="https://i.imgur.com/hJxFLvF.png" group-title="PREMIUM",Channel S
+http://vmi3039524.contaboserver.net:5050/music/index.m3u8
 
 
 #EXTINF:-1,group-title="PREMIUM",TELEMUNDO 🇲🇽
