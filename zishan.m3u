@@ -1,12 +1,5 @@
 [
-  {
-    "category": "LIVE",
-    "name": "TOFFEE Sports VIP",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1772980787:KeyName=prod_linear:Signature=dbMpyUM1kvt0PgLyBlCxJ8Z-Bt6p9m9XtkJwxKw4MlE7ioyn0KCj-tDRpro5xcFB0HwOGR0bV211nfe1m6SrCA",
-    "user_agent": "okhttp/4.11.0"
-  },
+
   {
     "category": "LIVE",
     "name": "TOFFEE Movies VIP",
