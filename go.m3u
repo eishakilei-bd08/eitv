@@ -148,7 +148,8 @@ http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="ChannelS.uk@SD" tvg-logo="https://i.imgur.com/hJxFLvF.png" group-title="PREMIUM",Channel S
 http://vmi3039524.contaboserver.net:5050/music/index.m3u8
-
+#EXTINF:-1 tvg-id="ProbashiTVNews.ca@SD" tvg-logo="https://i.imgur.com/7oTsfQ4.png" group-title="PREMIUM",Probashi TV News
+http://158.69.24.53:8080/probashi_tv/index.m3u8
 
 #EXTINF:-1,group-title="PREMIUM",TELEMUNDO 🇲🇽
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
