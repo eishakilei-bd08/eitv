@@ -42,3 +42,15 @@ http://tvn2.chowdhury-shaheb.com/rtv/index.m3u8
 http://198.27.83.207:2550/COLORS_TAMIL_SD/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Btv📺
 https://www.btvlive.gov.bd/live/undefined/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",News 24📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",SATV📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Star news📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Ekhon tv📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",DBC news📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Channel 9📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
