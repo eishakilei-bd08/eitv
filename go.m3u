@@ -86,10 +86,8 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Movie Bangla📺
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-
-
-
-
+#EXTINF:-1,group-title="PREMIUM",ETV📺
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 
 
