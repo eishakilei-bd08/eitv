@@ -27,3 +27,5 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF-1,group-title="PREMIUM",Somoy📺 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF-1,group-title="PREMIUM",MEWS21
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
