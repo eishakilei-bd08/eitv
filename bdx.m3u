@@ -1,6 +1,4 @@
 #EXTM3U
-# Made with love by Mahamudun Nabi Siam
-# Generated at Fri Mar  6 15:28:13 2026
 
 #EXTINF:-1 tvg-id="t sports" tvg-name="t sports" tvg-logo="https://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
 https://edge2.roarzone.info:8447/roarzone/edge2/tsports/index.m3u8?token=6ef8b6502c48fc018b2158158c59f19e9dc1b7d3-c64211fc3b8e91d23fa8e70f16fbaac2-1772814392-1772810792
