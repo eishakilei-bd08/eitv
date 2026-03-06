@@ -136,7 +136,7 @@ https://tplay.live/playlist/music/dance-performance/index.m3u8
 https://tplay.live/playlist/music/coke-studio-bangla/index.m3u8
 #EXTINF:-1 group-title="PREMIUM",24/7 Bhojpuri Songs
 https://tplay.live/playlist/music/bhojpuri/index.m3u8
-#EXTINF:-1 group-title=" PREMIUM",24/7 Adnan Sami
+#EXTINF:-1 group-title="PREMIUM",24/7 Adnan Sami
 https://tplay.live/playlist/music/adnan-sami/index.m3u8
 #EXTINF:-1 group-title="PREMIUM",24/7 Bangla Natok
 https://tplay.live/playlist/mix/humayun-ahmed/index.m3u8
@@ -168,8 +168,6 @@ https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 https://server.zillarbarta.com/zbmusic/index.m3u8
 #EXTINF:-1 tvg-id="Zee24Ghanta.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022KGXP.png?lock=720x540" group-title="PREMIUM",Zee 24 Ghanta (576p)
 http://45.148.145.57/IN_Zee24Ghanta/index.m3u8
-#EXTINF:-1 tvg-id="ZeeBangla.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment",Zee Bangla HD (1080p)
-http://103.161.153.165:8000/play/zeebnhd/index.m3u8
 #EXTINF:-1 tvg-id="ZeeBanglaSonar.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540" group-title="PREMIUM",Zee Bangla Sonar (576p)
 http://103.229.254.25:7001/play/a070/index.m3u8
 #EXTINF:-1 tvg-id="ZillarBartaNews.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zillarbarta.png" group-title="PREMIUM",ZillarBarta News
