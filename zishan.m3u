@@ -1,14 +1,6 @@
 [
   {
     "category": "LIVE",
-    "name": "TOFFEE Sports VIP",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1773127984:KeyName=prod_linear:Signature=43aLECeNiwGGlvP_r0jk9kvTOBembH4hhjgTAURo5kMeEocB-8BM1Xm4Xz94tU37YsMk_75GEfQXq-Xu2z7pCQ",
-    "user_agent": "okhttp/4.11.0"
-  },
-  {
-    "category": "LIVE",
     "name": "TOFFEE Movies VIP",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png",
