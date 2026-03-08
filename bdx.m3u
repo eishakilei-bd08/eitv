@@ -198,3 +198,8 @@ https://edge2.roarzone.info:8447/roarzone/bk/88/index.m3u8?token=0443c794d93fd81
 https://edge2.roarzone.info:8447/roarzone/edge3/ekhon-tv/index.m3u8?token=4f3c8fba56632feb3600d73b49c1cba99000ec57-3b8f7edeae885a922b3fb5f4b23f597d-1772958215-1772954615
 #EXTINF:-1 tvg-id="bijoy-tv" tvg-name="bijoy-tv" tvg-logo="https://tvassets.roarzone.info/images/bijoy-tv.jpg" group-title="bangla",bijoy-tv
 https://edge2.roarzone.info:8447/roarzone/edge3/bijoy-tv/index.m3u8?token=b20c6aacd5707ae9c4d08e09f14a1a6cc2295ab1-43ce636c62e18e57540241fdbcc2e587-1772958215-1772954615
+
+
+https://raw.githubusercontent.com/siam3310/roarzone-test/refs/heads/main/playlist.m3u
+
+
