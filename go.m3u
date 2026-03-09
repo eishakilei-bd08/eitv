@@ -74,8 +74,6 @@ http://115.187.41.216:8080/hls/montvbangla/index.m3u8
 http://115.187.41.216:8080/hls/bhaktibangla/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Salam Bangla📺
 http://115.187.41.216:8080/hls/salambangla/index.m3u8
-#EXTINF:-1,group-title="PREMIUM",Digital Fashion📺
-http://115.187.41.216:8080/hls/digitalfashion/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Bangla Jago📺
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 #EXTINF:-1,group-title="PREMIUM",YRF Music📺
@@ -216,6 +214,6 @@ https://server.zillarbarta.com/zillarbarta/index.m3u8
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 #EXTINF:-1,group-title="PREMIUM",TELEMUNDO 🇲🇽
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-
+#EXTINF:-1,group-title="PREMIUM",Digital Fashion📺
+http://115.187.41.216:8080/hls/digitalfashion/index.m3u8
 
