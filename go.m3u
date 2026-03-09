@@ -70,11 +70,12 @@ http://82.212.74.98:8000/live/hls/7823.m3u8
 http://103.121.61.218/tmp_hls/ae0eb3eed39d2bcef4622b2499a05fe6/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Ptv bangla 
 http://103.121.61.218/tmp_hls/1ecfb463472ec9115b10c292ef8bc986/index.m3u8
-#EXTINF:-1,group-title="PREMIUM",  Akash tv
+#EXTINF:-1,group-title="PREMIUM",Akash tv
 http://103.121.61.218/tmp_hls/500e75a036dc2d7d2fec5da1b71d36cc/index.m3u8
-#EXTINF:-1,group-title="PREMIUM",  Jatv 
+#EXTINF:-1,group-title="PREMIUM",Jatv 
 http://103.121.61.218/tmp_hls/86b122d4358357d834a87ce618a55de0/index.m3u8
-
+#EXTINF:-1,group-title="PREMIUM",SB TV
+https://livestream.sbtvus.com/hls/stream.m3u8
 #EXTINF:-1,group-title="PREMIUM",Soudi Sunnah📺
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Soudi Quran📺
