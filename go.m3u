@@ -69,8 +69,12 @@ http://82.212.74.98:8000/live/hls/7823.m3u8
 
 
 
-
-
+#EXTINF:-1,group-title="PREMIUM",Soudi Sunnah📺
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Soudi Quran📺
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Desi Tv📺
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1,group-title="PREMIUM",Azan Tv📺
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Rajdhani📺
