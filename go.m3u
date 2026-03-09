@@ -64,6 +64,8 @@ http://158.69.24.53:8080/probashi_tv/index.m3u8
 http://157.245.116.246:8080/hls/islamnow/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Channel 16📺
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Vision Tv📺
+http://82.212.74.98:8000/live/hls/7823.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png"group-title="PREMIUM",Green TV📺
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 #http://cdn01.palki.tv/live/GreenTV-M/index.m3u8
