@@ -129,7 +129,8 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="ATN Music" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="PREMIUM",ATN Music📺
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
-
+#EXTINF:-1,group-title="PREMIUM",MTV📺
+http://103.229.254.25:7001/play/a02s/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",And Flix📺
 http://103.161.153.165:8000/play/a01z/index.m3u8
 
