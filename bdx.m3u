@@ -1,15 +1,5 @@
 #EXTM3U
-# Made with love by Mahamudun Nabi Siam
-# Generated at Tue Mar 10 05:39:13 2026
 
-#EXTINF:-1 tvg-id="t sports" tvg-name="t sports" tvg-logo="https://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8447/roarzone/edge2/tsports/index.m3u8?token=a5c9949967ab61b34b844639afd35b64bd025d1d-563f785e71dac2f38d6be0e33a6a1d3e-1773124652-1773121052
-#EXTINF:-1 tvg-id="star sports 1" tvg-name="star sports 1" tvg-logo="https://tvassets.roarzone.info/images/25.png" group-title="sports",star sports 1
-https://edge2.roarzone.info:8447/roarzone/edge2/star-sports-1/index.m3u8?token=f5e273ccda79a312b9c646c571f0297773cf5905-71413891f7aadcbac58b7f8b3ee89f4a-1773124652-1773121052
-#EXTINF:-1 tvg-id="star sports 2" tvg-name="star sports 2" tvg-logo="https://tvassets.roarzone.info/images/26.png" group-title="sports",star sports 2
-https://edge2.roarzone.info:8447/roarzone/edge2/star-sports-2/index.m3u8?token=89611ded89b1517d4c8da5b3c734e2ffdc238d82-45d11dcf6a0f539370046dcd453c681c-1773124652-1773121052
-#EXTINF:-1 tvg-id="gazi tv" tvg-name="gazi tv" tvg-logo="https://tvassets.roarzone.info/images/1.png" group-title="sports",gazi tv
-https://edge2.roarzone.info:8447/roarzone/edge2/gazi/index.m3u8?token=fde3f824660de5bba06842410ef69691bb9169b1-5f8485f3fd3d551962403fc890aed20d-1773124652-1773121052
 #EXTINF:-1 tvg-id="ptv spotrs" tvg-name="ptv spotrs" tvg-logo="https://tvassets.roarzone.info/images/73.png" group-title="sports",ptv spotrs
 https://edge2.roarzone.info:8447/roarzone/edge2/ptv-sports/index.m3u8?token=f8ef947e6c120ba569e6c76094fc1817532fec93-32ee2d82c0f5ced2b310321e34f418c3-1773124652-1773121052
 #EXTINF:-1 tvg-id="asports" tvg-name="asports" tvg-logo="https://tvassets.roarzone.info/images/add-sports-1.png" group-title="sports",asports
