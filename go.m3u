@@ -282,8 +282,8 @@ http://88.212.15.19/live/nova_cinema_avc_25p/playlist.m3u8
 
 #EXTINF:-1,group-title="PREMIUM",CN📺
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
-
-
+#EXTINF:-1,group-title="PREMIUM",Nova Action📺
+http://88.212.15.19/live/nova_action_avc_25p/playlist.m3u8
 
 #EXTINF:-1,group-title="PREMIUM",TELEMUNDO 🇲🇽
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
