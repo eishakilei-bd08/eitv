@@ -248,3 +248,50 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1,group-title="PREMIUM",Digital Fashion📺
 http://115.187.41.216:8080/hls/digitalfashion/index.m3u8
 
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000233656545-msk33i-t1080x1080.jpg",QURAN ABDULBASIT TV
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1877354.ts
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000233656545-msk33i-t1080x1080.jpg",QURAN ALAFASI TV
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1877355.ts
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000233656545-msk33i-t1080x1080.jpg",QURAN ALGHAMDI TV
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1877356.ts
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000233656545-msk33i-t1080x1080.jpg",QURAN ALMOAIQLY TV
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1877357.ts
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000233656545-msk33i-t1080x1080.jpg",QURAN FARES ABAD TV
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1877358.ts
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000233656545-msk33i-t1080x1080.jpg",QURAN KHALIL ABDULJALIL TV
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1877359.ts
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000233656545-msk33i-t1080x1080.jpg",QURAN NASIR ALQUTAMI TV
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1877360.ts
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000233656545-msk33i-t1080x1080.jpg",QURAN YASER ALDOUSRI TV
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1877361.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ARABE/quran.png",Abdulbasit Abdulsamad 
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/122889.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ARABE/quran.png",Abdul Rahman  Al Sudais
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/122896.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ARABE/quran.png",Maher al Muaiqly
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/122890.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ARABE/quran.png",Mishary bin Rashid Alafasy  
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/122956.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ARABE/quran.png",Omar Al Qzabri
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/122891.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ARABE/quran.png",Saad Al Ghamidi
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/122892.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ARABE/quran.png",aravic
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/150449.ts
+#EXTINF:-1 tvg-logo="",Saad Al Ghamidi 
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/120548.ts
+
+
+
+
+
+
+
+
+
+
