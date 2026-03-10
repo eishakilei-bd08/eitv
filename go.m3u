@@ -125,6 +125,11 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",G-Series📺
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="ATN Music" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Bangla Music",ATN Music
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+
+
 #EXTINF:-1,group-title="PREMIUM",NICK BANGLA📺
 http://103.180.212.191:3500/live/1341.m3u8
 #EXTINF:-1,group-title="PREMIUM",Peace TV English📺
