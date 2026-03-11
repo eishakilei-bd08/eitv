@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="t sports" tvg-name="t sports" tvg-logo="https://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8447/roarzone/edge2/tsports/index.m3u8?token=55092873b4f86350776e0160cf1b3946de6f24b2-b044b6fba3a7027bdc42e784e4edf0ab-1773271067-1773267467
+ 
 #EXTINF:-1 tvg-id="star sports 1" tvg-name="star sports 1" tvg-logo="https://tvassets.roarzone.info/images/25.png" group-title="sports",star sports 1
 https://edge2.roarzone.info:8447/roarzone/edge2/star-sports-1/index.m3u8?token=3261576dc45452977aa73518356a904e94789897-c82d6999310ddda300b2544d8873671e-1773271067-1773267467
 #EXTINF:-1 tvg-id="ptv spotrs" tvg-name="ptv spotrs" tvg-logo="https://tvassets.roarzone.info/images/73.png" group-title="sports",ptv spotrs
