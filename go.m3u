@@ -280,8 +280,8 @@ http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/120548.ts
 
 
 
-
-
+#EXTINF:-1,group-title="PREMIUM",FX📺
+http://23.237.104.106:8080/USA_FX/index.m3u8
 
 #EXTINF:-1,group-title="PREMIUM",Nova Cinema📺
 http://88.212.15.19/live/nova_cinema_avc_25p/playlist.m3u8
