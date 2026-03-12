@@ -86,6 +86,14 @@ http://103.229.254.25:7001/play/a034/index.m3u8
 http://103.229.254.25:7001/play/a035/index.m3u8
 
 
+#EXTINF:-1 tvg-id="AnandaTV.bd@SD" tvg-logo="https://i.imgur.com/jkbo7Qe.png" group-title="PREMIUM",Ananda TV (576p)
+https://edge2.roarzone.info:8447/roarzone/edge3/ananda-tv/index.m3u8
+#EXTINF:-1 tvg-id="AsianTV.bd@SD" tvg-logo="https://i.imgur.com/k2adSjA.png" group-title="PREMIUM",Asian TV (1080p)
+https://edge2.roarzone.info:8447/roarzone/edge3/asian-tv/index.m3u8
+#EXTINF:-1 tvg-id="BanglaTV.bd@SD" tvg-logo="https://i.imgur.com/DLGjTfI.png" group-title="PREMIUM",Bangla TV (720p)
+https://edge2.roarzone.info:8447/roarzone/edge3/bangla-tv/index.m3u8
+#EXTINF:-1 tvg-id="BijoyTV.bd@SD" tvg-logo="https://i.imgur.com/Faetm0C.png" group-title="PREMIUM",Bijoy TV (720p)
+https://edge2.roarzone.info:8447/roarzone/edge3/bijoy-tv/index.m3u8
 
 #EXTINF:-1,group-title="PREMIUM",Islam now📺
 http://157.245.116.246:8080/hls/islamnow/index.m3u8
