@@ -93,6 +93,10 @@ http://103.180.212.191:3500/live/625.m3u8
 http://stvlive.net:8080/zeebangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="PREMIUM",Star jalsa SD 🔴
 http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
+#EXTINF:-1,group-title="PREMIUM",Star jalsa SD 🔴
+http://103.182.170.32:8888/play/a046
+#EXTINF:-1,group-title="PREMIUM",Colors Bangla🔴
+http://103.180.212.191:3500/live/756.m3u8
 
 #EXTINF:-1 tvg-id="AnandaTV.bd@SD" tvg-logo="https://i.imgur.com/jkbo7Qe.png" group-title="PREMIUM",Ananda TV (576p)
 https://edge2.roarzone.info:8447/roarzone/edge3/ananda-tv/index.m3u8
