@@ -3,18 +3,7 @@
 
 
 
-#EXTINF:-1 tvg-id="sony ten 1" tvg-name="sony ten 1" tvg-logo="https://tvassets.roarzone.info/images/20.png" group-title="sports",sony ten 1
-https://edge2.roarzone.info:8447/roarzone/edge2/sony-sports-1-hd/index.m3u8?token=f82d84c4ff1471a70f4f636ff8ba31d8d8b40472-72ce37dd3d4717d05207f9837e1f06dd-1773490542-1773486942
-#EXTINF:-1 tvg-id="sony ten 2" tvg-name="sony ten 2" tvg-logo="https://tvassets.roarzone.info/images/21.png" group-title="sports",sony ten 2
-https://edge2.roarzone.info:8447/roarzone/edge2/sony-sports-2-hd/index.m3u8?token=f1dbcbe9a0046fb7d4b2b1a544cee0cd9ce8cfdd-4f05500453b2f29c6723976901977812-1773490542-1773486942
-#EXTINF:-1 tvg-id="sony ten 3" tvg-name="sony ten 3" tvg-logo="https://tvassets.roarzone.info/images/22.png" group-title="sports",sony ten 3
-https://edge2.roarzone.info:8447/roarzone/edge2/sony-sports-3-hd/index.m3u8?token=09d113ac12e839874f9984356ad668d34f7991a2-254746c87bd4ce62fcfe5b50ad1bedee-1773490542-1773486942
-#EXTINF:-1 tvg-id="sony six" tvg-name="sony six" tvg-logo="https://tvassets.roarzone.info/images/24.png" group-title="sports",sony six
-https://edge2.roarzone.info:8447/roarzone/edge2/sony-sports-5-hd/index.m3u8?token=7169a2104c84e10b068074979f5fc4a85190a074-86cdf09f47b286e729d0ecc8add18f1f-1773490542-1773486942
-#EXTINF:-1 tvg-id="star sports select 1" tvg-name="star sports select 1" tvg-logo="https://tvassets.roarzone.info/images/27.png" group-title="sports",star sports select 1
-https://edge2.roarzone.info:8447/roarzone/edge2/star-sports-select-1/index.m3u8?token=6df1b0a0acb8539901d3960459e8f86573ed523b-f78d84c7f02c841a107788bfa5419e57-1773490542-1773486942
-#EXTINF:-1 tvg-id="star sports select 2" tvg-name="star sports select 2" tvg-logo="https://tvassets.roarzone.info/images/28.png" group-title="sports",star sports select 2
-https://edge2.roarzone.info:8447/roarzone/edge2/star-sports-select-2/index.m3u8?token=b3df889a2d495ccc38b6cb77cee8a0250413796b-be1d85da2f97df7dfd96cfe13c394bd4-1773490542-1773486942
+
 #EXTINF:-1 tvg-id="euro sports" tvg-name="euro sports" tvg-logo="https://tvassets.roarzone.info/images/euro_sports_hd.png" group-title="sports",euro sports
 https://edge2.roarzone.info:8447/roarzone/edge3/euro-sport-hd/index.m3u8?token=af5921a524f15b0e5fcade93e85fea619c030bc2-18aeb0988245f50f6253737d7e175989-1773490542-1773486942
 #EXTINF:-1 tvg-id="dubai sports" tvg-name="dubai sports" tvg-logo="https://tvassets.roarzone.info/images/dubai-sports.png" group-title="sports",dubai sports
