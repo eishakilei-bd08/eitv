@@ -275,8 +275,6 @@ https://livecdn.live247stream.com/isaac/tv/playlist.m3u8
 https://cdn.live247stream.com/pmi/tv/playlist.m3u8
 #EXTINF:-1,group-title="PREMIUM",Zindagi tv
 https://5ad386ff92705.streamlock.net:443/live_transcoder/ngrp:zindagitv.stream_all/playlist.m3u8
-#EXTINF:-1,group-title="PREMIUM", Ocean network 
-https://sscsott.com/oceannews/live/index.fmp4.m3u8
 #EXTINF:-1,group-title="PREMIUM",Huda 
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 
