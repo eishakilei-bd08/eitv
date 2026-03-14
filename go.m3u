@@ -188,8 +188,6 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 https://tplay.live/originals/oxygen-music/index.m3u8
 #EXTINF:-1 group-title="PREMIUM",Bengali Beats 🎼
 https://tplay.live/originals/bengali-beats/index.m3u8
-#EXTINF:-1 group-title="PREMIUM",Om Bangla 🙏
-https://tplay.live/originals/om-bangla/index.m3u8
 #EXTINF:-1 group-title="PREMIUM",Ilm TV 📖
 https://tplay.live/originals/ilm-tv/index.m3u8
 #EXTINF:-1 group-title="PREMIUM",24/7 Motu Patlu 😂
@@ -210,7 +208,6 @@ https://tplay.live/playlist/movies/bollywood-movies/index.m3u8
 https://tplay.live/playlist/movies/dubbed-movies/index.m3u8
 #EXTINF:-1 group-title="PREMIUM",24/7 T Play Special
 https://tplay.live/playlist/music/tplay-special/index.m3u8
-
 #EXTINF:-1 group-title="PREMIUM",Arabica
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",Joo music
@@ -219,7 +216,6 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="PREMIUM",Goal Tv
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="PREMIUM",Sony Aath📺
 #http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd
 http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
@@ -247,7 +243,6 @@ https://server.zillarbarta.com/zbmusic/index.m3u8
 http://45.148.145.57/IN_Zee24Ghanta/index.m3u8
 #EXTINF:-1 tvg-id="ZillarBartaNews.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zillarbarta.png" group-title="PREMIUM",ZillarBarta News📺
 https://server.zillarbarta.com/zillarbarta/index.m3u8
-
 #EXTINF:-1,group-title="PREMIUM",Rplus 
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Discovery pk
@@ -328,15 +323,12 @@ http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/120548.ts
 
 #EXTINF:-1,group-title="PREMIUM",FX📺
 http://23.237.104.106:8080/USA_FX/index.m3u8
-
 #EXTINF:-1,group-title="PREMIUM",Nova Cinema📺
 http://88.212.15.19/live/nova_cinema_avc_25p/playlist.m3u8
-
 #EXTINF:-1,group-title="PREMIUM",CN📺
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1,group-title="PREMIUM",Nova Action📺
 http://88.212.15.19/live/nova_action_avc_25p/playlist.m3u8
-
 #EXTINF:-1,group-title="PREMIUM",TELEMUNDO 🇲🇽
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 #EXTINF:-1,group-title="PREMIUM",TELEMUNDO 🇲🇽
