@@ -87,6 +87,11 @@ http://103.229.254.25:7001/play/a035/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
+#EXTINF:-1,group-title="PREMIUM",Zee Bangla SD 🔴
+http://103.180.212.191:3500/live/625.m3u8
+#EXTINF:-1,group-title="PREMIUM",Zee Bangla HD 🔴
+http://stvlive.net:8080/zeebangla/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="AnandaTV.bd@SD" tvg-logo="https://i.imgur.com/jkbo7Qe.png" group-title="PREMIUM",Ananda TV (576p)
 https://edge2.roarzone.info:8447/roarzone/edge3/ananda-tv/index.m3u8
 #EXTINF:-1 tvg-id="AsianTV.bd@SD" tvg-logo="https://i.imgur.com/k2adSjA.png" group-title="PREMIUM",Asian TV (1080p)
