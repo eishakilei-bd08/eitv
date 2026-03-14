@@ -269,10 +269,6 @@ https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1,group-title="PREMIUM",King TV 
 https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8
-#EXTINF:-1,group-title="PREMIUM",Gawahi tv
-https://livecdn.live247stream.com/gawahi/tv/playlist.m3u8
-#EXTINF:-1,group-title="PREMIUM",Barkat tv
-https://streamer12.vdn.dstreamone.net/barkattv/dexpo/playlist.m3u8?720p
 #EXTINF:-1,group-title="PREMIUM",Issac tv
 https://livecdn.live247stream.com/isaac/tv/playlist.m3u8
 #EXTINF:-1,group-title="PREMIUM",Pmi tv 
