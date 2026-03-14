@@ -263,14 +263,10 @@ https://server.zillarbarta.com/zillarbarta/index.m3u8
 
 #EXTINF:-1,group-title="PREMIUM",Rplus 
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
-#EXTINF:-1,group-title="PREMIUM",I film English 
-https://cdnlive.presstv.ir/ifilmlive/smil:ifilmen.smil/playlist.m3u8
 #EXTINF:-1,group-title="PREMIUM",Discovery pk
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1,group-title="PREMIUM",Joo music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:-1,group-title="PREMIUM",Afghan tv
-https://cdn5.mjunoon.tv:8087/web/AfghanTV-140/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNi8yMDIzIDEwOjI0OjA3IFBNJmhhc2hfdmFsdWU9MGEvL2kwV21JWExPSENKYlljb0pFQT09JnZhbGlkbWludXRlcz0x
 #EXTINF:-1,group-title="PREMIUM",King TV 
 https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8
 #EXTINF:-1,group-title="PREMIUM",Gawahi tv
