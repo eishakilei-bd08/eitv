@@ -259,6 +259,32 @@ http://45.148.145.57/IN_Zee24Ghanta/index.m3u8
 #EXTINF:-1 tvg-id="ZillarBartaNews.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zillarbarta.png" group-title="PREMIUM",ZillarBarta News📺
 https://server.zillarbarta.com/zillarbarta/index.m3u8
 
+#EXTINF:-1,group-title="PREMIUM",Rplus 
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",I film English 
+https://cdnlive.presstv.ir/ifilmlive/smil:ifilmen.smil/playlist.m3u8
+#EXTINF:-1,group-title="PREMIUM",Discovery pk
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#EXTINF:-1,group-title="PREMIUM",Joo music
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1,group-title="PREMIUM",Afghan tv
+https://cdn5.mjunoon.tv:8087/web/AfghanTV-140/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNi8yMDIzIDEwOjI0OjA3IFBNJmhhc2hfdmFsdWU9MGEvL2kwV21JWExPSENKYlljb0pFQT09JnZhbGlkbWludXRlcz0x
+#EXTINF:-1,group-title="PREMIUM",King TV 
+https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8
+#EXTINF:-1,group-title="PREMIUM",Gawahi tv
+https://livecdn.live247stream.com/gawahi/tv/playlist.m3u8
+#EXTINF:-1,group-title="PREMIUM",Barkat tv
+https://streamer12.vdn.dstreamone.net/barkattv/dexpo/playlist.m3u8?720p
+#EXTINF:-1,group-title="PREMIUM",Issac tv
+https://livecdn.live247stream.com/isaac/tv/playlist.m3u8
+#EXTINF:-1,group-title="PREMIUM",Pmi tv 
+https://cdn.live247stream.com/pmi/tv/playlist.m3u8
+#EXTINF:-1,group-title="PREMIUM",Zindagi tv
+https://5ad386ff92705.streamlock.net:443/live_transcoder/ngrp:zindagitv.stream_all/playlist.m3u8
+#EXTINF:-1,group-title="PREMIUM", Ocean network 
+https://sscsott.com/oceannews/live/index.fmp4.m3u8
+#EXTINF:-1,group-title="PREMIUM",Huda 
+https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 
 
 
