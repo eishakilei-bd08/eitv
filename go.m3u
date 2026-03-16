@@ -212,6 +212,35 @@ http://stvlive.net:8080/starjalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="PREMIUM",Colors Bangla🔴
 http://103.180.212.191:3500/live/756.m3u8
 
+EXTINF:-1 tvg-logo="" group-title="English Movies",And Flix
+http://103.161.153.165:8000/play/a01z/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English Movies",And Flix HD
+http://103.182.170.32:8888/play/a02a
+#EXTINF:-1 tvg-logo="" group-title="English Movies",And Prive
+http://202.70.146.135:8000/play/a05y/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English Movies",And Prive HD
+http://103.229.254.25:7001/play/a03f/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg" group-title="English Movies",Action Hollywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",YRF Music HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi Music",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png" group-title="Hindi Music",9XM
+http://103.175.73.12:8080/live/155/155_0.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/391/logo/240x240/mobile_logo_430259001655891309.png" group-title="Hindi Music",Zing
+http://103.175.73.12:8080/live/154/154_0.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png" group-title="Hindi Music",MTV
+http://103.175.73.12:8080/live/150/150_0.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png" group-title="Hindi Music",MTV HD
+http://103.175.73.12:8080/live/149/149_0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi Music",B4U Music
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png" group-title="Hindi Music",E24
+http://103.175.73.12:8080/live/159/159_0.m3u8
+
+
+
 #EXTINF:-1 tvg-id="AnandaTV.bd@SD" tvg-logo="https://i.imgur.com/jkbo7Qe.png" group-title="PREMIUM",Ananda TV (576p)
 https://edge2.roarzone.info:8447/roarzone/edge3/ananda-tv/index.m3u8
 #EXTINF:-1 tvg-id="AsianTV.bd@SD" tvg-logo="https://i.imgur.com/k2adSjA.png" group-title="PREMIUM",Asian TV (1080p)
