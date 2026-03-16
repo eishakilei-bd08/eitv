@@ -13,6 +13,15 @@ https://go.iptvpulse.top/xudr.m3u8
 
 #EXTINF:-1,group-title="E.I.🇧🇩",T
 http://103.175.242.10:8080/tsports1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,group-title="E.I.🇧🇩", T sports 
+http://103.175.242.10:8080/tsports1/index.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",Discovery 
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",Sports 
+http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩", Nat Geo HD
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",Star sport 2
 http://103.175.242.10:8080/starsports2/index.m3u8
 #EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="E.I.🇧🇩", SOMOY TV
