@@ -8,6 +8,8 @@ http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",Willow
 http://198.195.239.50:8095/WiLLow/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="E.I.🇧🇩",Willow
+http://198.195.239.50:8095/WiLLow/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",Taptap
 https://go.iptvpulse.top/xudr.m3u8
 
