@@ -863,6 +863,8 @@ http://103.182.170.32:8888/play/a045
 http://103.182.170.32:8888/play/a047
 #EXTINF:-1 group-title="REAL IP2",TEN 2 HD 
 http://103.182.170.32:8888/play/a026
+#EXTINF:-1 group-title="REAL IP2",TEN 3 HD 
+http://103.182.170.32:8888/play/a048
 #EXTINF:-1 group-title="REAL IP2",TLC HD 
 http://103.182.170.32:8888/play/a01q
 #EXTINF:-1 group-title="REAL IP2",Travelxp HD 
