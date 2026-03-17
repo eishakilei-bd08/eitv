@@ -172,20 +172,10 @@ https://tplay.live/out/bangladesh/mohona.index.m3u8
 https://tplay.live/out/bangladesh/rtv.index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Ekhon Tv📺
 https://tplay.live/out/bangladesh/ekhontv.index.m3u8
-#EXTINF:-1,group-title="PREMIUM",Ananda Tv📺
-https://edge2.roarzone.info:8447/roarzone/edge3/ananda-tv/index.m3u8
-#EXTINF:-1,group-title="PREMIUM",Asian Tv📺
-https://edge2.roarzone.info:8447/roarzone/edge3/asian-tv/index.m3u8
-#EXTINF:-1,group-title="PREMIUM",Bangla Tv📺
-https://edge2.roarzone.info:8447/roarzone/edge3/bangla-tv/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",ZEE Bangla HD📺
 http://103.161.153.165:8000/play/zeebnhd/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",ETv📺
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1,group-title="PREMIUM",S📺
-https://edge2.roarzone.info:8447/roarzone/edge3/channel-s/index.m3u8
-#EXTINF:-1,group-title="PREMIUM",Bijoy Tv📺
-https://edge2.roarzone.info:8447/roarzone/edge3/bijoy-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg" group-title="PREMIUM",Sony Aath📺
 http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png" group-title="PREMIUM",Channel 9📺
