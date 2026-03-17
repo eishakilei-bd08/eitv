@@ -743,18 +743,11 @@ http://103.175.73.12:8080/live/695/695_0.m3u8
 http://103.175.73.12:8080/live/64/64_0.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Live Tv",Channel 471
 http://103.175.73.12:8080/live/471/471_0.m3u8
-
-
-
-
-#EXTINF:-1 group-title="REAL IP2",Star jalsa
-http://103.182.170.32:8888/play/a046
+##############################################
 #EXTINF:-1 group-title="REAL IP2",&flix HD - Rs 19.00
 http://103.182.170.32:8888/play/a02a
 #EXTINF:-1 group-title="REAL IP2",&tv - Rs 6.00
 http://103.182.170.32:8888/play/a03v
-#EXTINF:-1 group-title="REAL IP2",Animal Planet - Rs 2.00
-http://103.182.170.32:8888/play/a049
 #EXTINF:-1 group-title="REAL IP2",BBC News - Rs 1.50
 http://103.182.170.32:8888/play/a04k
 #EXTINF:-1 group-title="REAL IP2",Colors Cineplex Bollywood 
