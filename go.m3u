@@ -359,18 +359,6 @@ http://103.175.73.12:8080/live/149/149_0.m3u8
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png" group-title="Music",E24
 http://103.175.73.12:8080/live/159/159_0.m3u8
-
-
-
-#EXTINF:-1 tvg-id="AnandaTV.bd@SD" tvg-logo="https://i.imgur.com/jkbo7Qe.png" group-title="PREMIUM",Ananda TV (576p)
-https://edge2.roarzone.info:8447/roarzone/edge3/ananda-tv/index.m3u8
-#EXTINF:-1 tvg-id="AsianTV.bd@SD" tvg-logo="https://i.imgur.com/k2adSjA.png" group-title="PREMIUM",Asian TV (1080p)
-https://edge2.roarzone.info:8447/roarzone/edge3/asian-tv/index.m3u8
-#EXTINF:-1 tvg-id="BanglaTV.bd@SD" tvg-logo="https://i.imgur.com/DLGjTfI.png" group-title="PREMIUM",Bangla TV (720p)
-https://edge2.roarzone.info:8447/roarzone/edge3/bangla-tv/index.m3u8
-#EXTINF:-1 tvg-id="BijoyTV.bd@SD" tvg-logo="https://i.imgur.com/Faetm0C.png" group-title="PREMIUM",Bijoy TV (720p)
-https://edge2.roarzone.info:8447/roarzone/edge3/bijoy-tv/index.m3u8
-
 #EXTINF:-1,group-title="PREMIUM",Islam now📺
 http://157.245.116.246:8080/hls/islamnow/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Channel 16📺
