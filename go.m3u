@@ -50,6 +50,8 @@ http://172.16.29.2:8090/hls/eurosportshd.m3u8
 http://172.16.29.2:8090/hls/SonyTen1hd.m3u8
 #EXTINF:-1 tvg-name="SONY TEN 3" tvg-logo="http://172.16.29.28/images/sony-ten-3.png" group-title="DentCure",SONY TEN 3📺
 http://172.16.29.2:8090/hls/SonyTen3hd.m3u8
+#EXTINF:-1 tvg-name="SONY TEN 3" tvg-logo="http://172.16.29.28/images/sony-ten-3.png" group-title="DentCure",SONY TEN 3📺
+http://103.182.170.32:8888/play/a048
 #EXTINF:-1 tvg-name="DD SPORTS" tvg-logo="http://172.16.29.28/images/sony-ten-1.png" group-title="DentCure",DD SPORTS📺
 http://172.16.29.2:8090/hls/ddsports.m3u8
 #EXTINF:-1 tvg-name="WORLD FREE SPORTS" tvg-logo="http://172.16.29.28/images/sony-ten-1.png" group-title="DentCure",WORLD FREE SPORTS📺
