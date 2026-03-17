@@ -757,15 +757,9 @@ http://103.182.170.32:8888/play/a03v
 http://103.182.170.32:8888/play/a049
 #EXTINF:-1 group-title="REAL IP2",BBC News - Rs 1.50
 http://103.182.170.32:8888/play/a04k
-#EXTINF:-1 group-title="REAL IP2",Cartoon Network - Rs 4.75
-http://103.182.170.32:8888/play/a04o
-#EXTINF:-1 group-title="REAL IP2",Cartoon Network HD+ - Rs 6.00
-http://103.182.170.32:8888/play/a035
-#EXTINF:-1 group-title="REAL IP2",Colors Bangla Cinema - Rs 5.00
-http://103.182.170.32:8888/play/a04a
-#EXTINF:-1 group-title="REAL IP2",Colors Cineplex Bollywood - Rs 0.10
+#EXTINF:-1 group-title="REAL IP2",Colors Cineplex Bollywood 
 http://103.182.170.32:8888/play/a01o
-#EXTINF:-1 group-title="REAL IP2",Colors Cineplex HD - Rs 19.00
+#EXTINF:-1 group-title="REAL IP2",Colors Cineplex HD 
 http://103.182.170.32:8888/play/a04i
 #EXTINF:-1 group-title="REAL IP2",Colors HD - Rs 19.00
 http://103.182.170.32:8888/play/a041
@@ -773,7 +767,7 @@ http://103.182.170.32:8888/play/a041
 http://103.182.170.32:8888/play/a02o
 #EXTINF:-1 group-title="REAL IP2",Disney Channel - Rs 10.00
 http://103.182.170.32:8888/play/a04g
-#EXTINF:-1 group-title="REAL IP2",Disney International HD - Rs 19.00
+#EXTINF:-1 group-title="REAL IP2",Disney International HD 
 http://103.182.170.32:8888/play/a01y
 #EXTINF:-1 group-title="REAL IP2",MTV HD - Rs 2.00
 http://103.182.170.32:8888/play/a025
