@@ -60,7 +60,6 @@ http://116.204.149.16/cartoon_network/index.m3u8
 http://103.182.170.32:8888/play/a046
 #EXTINF:-1,group-title="E.I.🇧🇩",Zee Bangla
 http://stvlive.net:8080/zeebangla/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,group-title="E.I.🇧🇩", MADANI TV FHD
 http://203.18.159.115/MADANITVHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",JAMUNA
@@ -297,10 +296,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="E.I.🇧🇩",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-
 #EXTINF:-1 group-title="E.I.🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/2560px-ATN_Bangla.svg.png",Atn Bangla
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
-
 #EXTINF:-1 group-title="E.I.🇧🇩" tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png",Ekushey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="E.I.🇧🇩" tvg-logo="https://i.postimg.cc/g27Qp4RD/Background-Eraser-20240628-105829130.png",Ntv
