@@ -176,6 +176,49 @@ https://tplay.live/out/bangladesh/ekhontv.index.m3u8
 http://103.161.153.165:8000/play/zeebnhd/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",ETv📺
 https://ekusheyserver.com/etvlivesn.m3u8
+
+#EXTINF:-1,group-title="PREMIUM",SOMOYTV
+http://172.16.29.3:8090/hls/somoytv.m3u8
+#EXTINF:-1,group-title="PREMIUM",JAMUNATV 
+http://172.16.29.3:8090/hls/JamunaTV.m3u8
+#EXTINF:-1,group-title="PREMIUM",AtnNews
+http://172.16.29.3:8090/hls/AtnNews.m3u8
+#EXTINF:-1,group-title="PREMIUM",channelihd
+http://172.16.29.3:8090/hls/channelihd.m3u8
+#EXTINF:-1,group-title="PREMIUM",gazitvhd
+http://172.16.29.3:8090/hls/gazitvhd.m3u8
+#EXTINF:-1,group-title="PREMIUM",BTV HD
+http://172.16.29.3:8090/hls/BTVNationalHD.m3u8
+#EXTINF:-1,group-title="PREMIUM",tsportshd
+http://172.16.29.3:8090/hls/tsportshd.m3u8
+#EXTINF:-1,group-title="PREMIUM",ptvsportsh
+http://172.16.29.3:8090/hls/ptvsportshd.m3u8
+#EXTINF:-1,group-title="PREMIUM",9xm
+http://172.16.29.3:8090/hls/9xm.m3u8
+#EXTINF:-1 ,group-title="PREMIUM",TSPORTS
+https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 ,group-title="PREMIUM",GOLDMINES
+http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441441.m3u8
+#EXTINF:-1 ,group-title="PREMIUM",colorsbanglahd
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+#EXTINF:-1 ,group-title="PREMIUM",Star Jalsha
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+#EXTINF:-1,group-title="PREMIUM",JALSHA MOVIES HD
+https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
+#EXTINF:-1,group-title="PREMIUM",Zee-Bangla-Cinema
+http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Zee-Bangla
+http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",ZeeCinema
+http://smart.bengaldigital.live/ZeeCinema/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Nagorik TV 
+https://mohon-iptv.vercel.app/MOHON-IPTV/Nagorik-TV/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg" group-title="PREMIUM",Sony Aath📺
 http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png" group-title="PREMIUM",Channel 9📺
