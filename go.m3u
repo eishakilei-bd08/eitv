@@ -381,6 +381,8 @@ http://157.245.116.246:8080/hls/islamnow/index.m3u8
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Vision Tv📺
 http://82.212.74.98:8000/live/hls/7823.m3u8
+#EXTINF:-1,group-title="PREMIUM",Jhankar Tv📺 
+https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Channela1📺 
 http://103.121.61.218/tmp_hls/ae0eb3eed39d2bcef4622b2499a05fe6/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Ptv bangla📺 
