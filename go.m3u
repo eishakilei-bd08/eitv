@@ -2402,18 +2402,6 @@ https://str3.openstream.co/1703?
 aw_0_1st.collectionid%3D5013%26stationId%3D5013%26publisherId%3D1727%26k%3D1766011612
 #EXTINF:-1,Hello Dhaka Shongkolpo
 http://108.163.245.230:8001/high
-#EXTINF:-1,Roots Air BD
-http://live64.zeilsteen.com:7054/
-#EXTINF:-1,Radio4indiacom
-http://myradio4.listen2myradio.com
-#EXTINF:-1,Washington Bangla Radio The 1 Bengali Streaming Internet Web Radio
-http://supratim.sanyal.org/washington_bangla_radio.m3u/stream/1
-#EXTINF:-1,Weaver Radio Bangla Station
-http://weaverradio.listen2myradio.com/
-#EXTINF:-1,Allahu Akbar
-http://66.45.232.132:9996/
-#EXTINF:-1,SS FM BD
-http://myradiostream.com/41/31728
 #EXTINF:-1,Jago FM 94.4 - 96 - Bangladesh -
 https://server.mixify.in/listen/bangla/radio.mp3
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/29317.v9.png",Radio GoonGoon
@@ -2466,7 +2454,7 @@ http://audio.streamcast.xyz/radio/8000/radio.mp3
 http://178.32.146.186:5099/stream/
 #EXTINF:-1,iWiFM
 http://94.23.23.97:29270/
-#EXTINF:-1,গসপে ল নে টওয়া র্ক
+#EXTINF:-1,গসপে লনেটওয়ার্ক
 https://sonicpanel.oficialserver.com/8066/stream
 #EXTINF:-1,Radio Rong tk
 https://streaming.brol.tech/rtfmlounge
@@ -2490,14 +2478,10 @@ http://live64.zeilsteen.com:7054/;
 https://radiopadmabd.radioca.st/radiopadma
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/WO6GGI.png",FnF.fm Bangla
 http://netradio.live24.gr/loveradio-1000
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80325/logo_sOLnyWDwAz.png",Radio
-
-
-Capital
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80325/logo_sOLnyWDwAz.png",Radio Capital
 https://server03.quran-uni.com:7038/
 #EXTM3U
 #EXTINF:-1,92.3 The Fox
-
 https://17843.live.streamtheworld.com/KOFXFMAAC.aac?dist=onlineradiobox
 #EXTM3U
 #EXTINF:-1,Peoples Radio
