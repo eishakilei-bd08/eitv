@@ -735,8 +735,6 @@ http://103.175.73.12:8080/live/352/352_0.m3u8
 http://103.175.73.12:8080/live/375/375_0.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Live Tv",Channel 368
 http://103.175.73.12:8080/live/368/368_0.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Live Tv",Channel 378
-http://103.175.73.12:8080/live/378/378_0.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Live Tv",Channel 417
 http://103.175.73.12:8080/live/417/417_0.m3u8 
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Live Tv",Channel 469
