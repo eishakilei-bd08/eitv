@@ -66,6 +66,8 @@ http://103.180.212.191:3500/live/3518.m3u8
 http://103.161.153.165:8000/play/a03k/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",SUN Bangla📺
 http://103.180.212.191:3500/live/1669.m3u8
+#EXTINF:-1,group-title="PREMIUM",Colors Super📺
+http://103.180.212.191:3500/live/785.m3u8
 #EXTINF:-1,group-title="PREMIUM",Akash 8📺
 http://103.180.212.191:3500/live/698.m3u8 
 #EXTINF:-1,group-title="PREMIUM",SRKTV📺
