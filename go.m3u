@@ -58,8 +58,8 @@ http://103.182.170.32:8888/play/a048
 http://172.16.29.2:8090/hls/ddsports.m3u8
 #EXTINF:-1 tvg-name="WORLD FREE SPORTS" tvg-logo="http://172.16.29.28/images/sony-ten-1.png" group-title="DentCure",WORLD FREE SPORTS📺
 http://172.16.29.2:8090/hls/WorldofFreeSports.m3u8
-
-
+#EXTINF:-1,group-title="PREMIUM",Descovery Bangla📺
+http://103.180.212.191:3500/live/3428.m3u8
 #EXTINF:-1,group-title="PREMIUM",SUN Bangla📺
 http://103.161.153.165:8000/play/a03k/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",SRKTV📺
