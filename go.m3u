@@ -415,6 +415,8 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png" group-title="Music",E24
 http://103.175.73.12:8080/live/159/159_0.m3u8
 
+#EXTINF:-1,group-title="PREMIUM",Sangit Bangla
+http://103.180.212.191:3500/live/740.m3u8
 #EXTINF:-1,group-title="PREMIUM",Horror📺
 http://host.phorious.art/validation/477?deviceMac=10:27:BE:25:67:80&split=1009411fe99372accc5c526e9068c09e&smart=1
 #EXTINF:-1,group-title="PREMIUM",Bisso Bangla📺
