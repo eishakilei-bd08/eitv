@@ -355,10 +355,6 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 http://103.182.170.32:8888/play/a01o
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png" group-title="PREMIUM",Asian TV📺
 http://103.229.254.25:7001/play/a063/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png" group-title="PREMIUM",Bangla TV📺
-http://103.161.153.165:8000/play/a02x/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png" group-title="PREMIUM",Bangla TV Europe📺
-https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Zee Bangla SD 🔴
 http://103.180.212.191:3500/live/625.m3u8
 #EXTINF:-1,group-title="PREMIUM",Zee Bangla HD 🔴
