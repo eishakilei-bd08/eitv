@@ -371,7 +371,7 @@ https://playztv-apps.pages.dev/star-jalsha/index.m3u8
 http://103.180.212.191:3500/live/756.m3u8
 #EXTINF:1 tvg-name="Star Movies" tvg-logo="http://103.175.242.10/assets/images/Star%20Movies1731469513.png" group-title="PREMIUM",Star Movies
 http://103.175.242.10:8080/starmovies/index.m3u8
-EXTINF:-1 tvg-logo="" group-title="English Movies",And Flix
+#EXTINF:-1 tvg-logo="" group-title="English Movies",And Flix
 http://103.161.153.165:8000/play/a01z/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Flix HD
 http://103.182.170.32:8888/play/a02a
