@@ -1662,26 +1662,16 @@ http://103.213.31.109:90/ShowBox/playlist.m3u8
 http://103.213.31.109:90/StarUtsavMovies/playlist.m3u8
 #EXTINF:-1,group-title="PREMIUM",Time Now📺
 http://103.213.31.109:90/TimesNow/playlist.m3u8
-
 #EXTINF:-1,group-title="PREMIUM",Trace Uraban📺
 http://103.213.31.109:90/TraceUrbanHD/playlist.m3u8
-
 #EXTINF:-1,group-title="PREMIUM",Zee Cinema📺
 http://103.213.31.109:90/ZeeAnmolCinema2/playlist.m3u8
-
 #EXTINF:-1,group-title="PREMIUM",Zee mandir📺
 http://103.213.31.109:90/ZeeChitraMandir/playlist.m3u8
 
 
-
-
-
-
-
-🌸PINK CHANNELS🌸
 #EXTINF:-1 group-title="Pink",Pink
 http://amgsupport.space:80/amigos-skype-new/zMQu6uyVdQ/2855.ts
-
 #EXTINF:-1 group-title="Pink",Pink HD 
 http://amgsupport.space:80/amigos-skype-new/zMQu6uyVdQ/24541.ts
 #EXTINF:-1 group-title="Pink",Red 
@@ -1756,9 +1746,6 @@ http://amgsupport.space:80/amigos-skype-new/zMQu6uyVdQ/1876.ts
 http://amgsupport.space:80/amigos-skype-new/zMQu6uyVdQ/1877.ts
 
 
-
-
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000233656545-msk33i-t1080x1080.jpg",QURAN ABDULBASIT TV
 http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1877354.ts
@@ -1793,9 +1780,6 @@ http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/150449.ts
 #EXTINF:-1 tvg-logo="",Saad Al Ghamidi 
 http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/120548.ts
 
-
-
-
 #EXTINF:-1,group-title="PREMIUM",CV TV📺
 http://177.234.247.66:9975/ColoradosTV/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",TV📺
@@ -1814,7 +1798,6 @@ https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1,group-title="PREMIUM",Digital Fashion📺
 http://115.187.41.216:8080/hls/digitalfashion/index.m3u8
-
 
 
 
@@ -1864,10 +1847,8 @@ https://cdn-2.pishow.tv/live/1460/master.m3u8
 https://tplay.live/playlist/movies/dubbed-movies/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ManoranjanMovies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Manoranjan_Movies.jpg",MOV | Manoranjan Movies
 https://cdn-2.pishow.tv/live/228/228_1.m3u8
-
 #EXTINF:-1 group-title="India" tvg-id="9x-tashan" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/14041644189x_Tashan__mob___384x512.webp",MU | 9X TASHAN
 https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
-
 https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://i.pinimg.com/736x/16/96/5a/16965ad632bc23692c8c1a946bd15f2a.jpg" ,AVA FAMILY
 https://familyhls.avatv.live/hls/stream.m3u8
@@ -2090,7 +2071,7 @@ https://7pal.short.gy/mlbnw
 #EXTINF:-1 group-title="国际",NHL Network
 https://7pal.short.gy/nhlnw
 
-EXTM3U url-tvg="https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/epg.xml" x-tvg-url="https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/epg.xml"
+#EXTM3U
 #EXTINF:-1 group-title="Bangla" tvg-id="akashaat.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/34/Aakash_Aath_logo_%282013%29.png",Akash Aath
 https://mumt03.tangotv.in/AAKASHAATH/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-id="amarbangla.bd" tvg-logo="https://amarbanglatv.in/wp-content/uploads/2024/08/cropped-Amar-Bangla.png",Amar Bangla
@@ -3208,7 +3189,6 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 
 
 
-
 #EXTM3U
 #EXTINF:-1,FM Kuthi Bari
 https://listen.radioking.com/radio/1743/stream/125
@@ -3324,27 +3304,27 @@ https://stream-140.zeno.fm/g372rxef798uv?zs=zMsr18fRTH-5eFy8qKIW-g
 https://stream-160.zeno.fm/zu59ykebs2zuv?zs=TJdihQC0Q8CabTsCGBWA4A
 
 #EXTM3U
-#EXTINF:-1 ,RCTI LIVE SPORTS (SD)
+#EXTINF:-1,RCTI LIVE SPORTS (SD)
 http://103.66.62.83:8000/play/a00v/index.m3u8
-#EXTINF:-1 ,ANTV SPORTS
+#EXTINF:-1,ANTV SPORTS
 http://103.66.62.83:8000/play/a00r/index.m3u8
-#EXTINF:-1 ,103.66.62.83:8000
+#EXTINF:-1,8000
 http://103.66.62.83:8000/play/a04l/index.m3u8
-#EXTINF:-1 ,MNCTV Sports
+#EXTINF:-1,MNCTV Sports
 http://103.66.62.83:8000/play/a00w/index.m3u8
-#EXTINF:-1 ,VTV (1080p)
+#EXTINF:-1,VTV (1080p)
 http://103.66.62.83:8000/play/a00c/index.m3u8
-#EXTINF:-1 ,SCTV SPORTS
+#EXTINF:-1,SCTV SPORTS
 http://103.66.62.83:8000/play/a00z/index.m3u8
-#EXTINF:-1 ,Indosiar
+#EXTINF:-1,Indosiar
 http://103.66.62.83:8000/play/a04h/index.m3u8
-#EXTINF:-1 ,PROLIGA 2026
+#EXTINF:-1,PROLIGA 2026
 http://103.66.62.83:8000/play/a00i/index.m3u8
-#EXTINF:-1 ,LIGA BRI/PEGADAIAN (AKTIF SAAT LIVE)
+#EXTINF:-1,LIGA BRI/PEGADAIAN
 http://103.66.62.83:8000/play/a00o/index.m3u8
-#EXTINF:-1 ,HBO Family 103
+#EXTINF:-1,HBO Family 103
 http://103.66.62.83:8000/play/a02s/index.m3u8
-#EXTINF:-1 ,RCTI
+#EXTINF:-1,RCTI
 http://103.66.62.83:8000/play/a00v/index.m3u8
 
 
