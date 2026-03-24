@@ -1340,39 +1340,39 @@ http://103.182.170.32:8888/play/a028
 http://103.182.170.32:8888/play/a03o
 #EXTINF:-1 group-title="-",STAR Plus HD - Rs 22.00
 http://103.182.170.32:8888/play/a03z
-#EXTINF:-1 group-title="-",Sonic - Rs 1.00
+#EXTINF:-1 group-title="IP",Sonic
 http://103.182.170.32:8888/play/a02s
-#EXTINF:-1 group-title="-",Sports 18 - 1 HD - Rs 19.00
+#EXTINF:-1 group-title="IP",Sports 18
 http://103.182.170.32:8888/play/a04p
-#EXTINF:-1 group-title="-",Sports 18 3 - Rs 4.00
+#EXTINF:-1 group-title="IP",Sports 18 3 
 http://103.182.170.32:8888/play/a02i
-#EXTINF:-1 group-title="-",Star Bharat - Rs 12.00
+#EXTINF:-1 group-title="IP",Star Bharat 
 http://103.182.170.32:8888/play/a02n
-#EXTINF:-1 group-title="-",Star Gold 2 - Rs 3.00
+#EXTINF:-1 group-title="IP",Star Gold 2
 http://103.182.170.32:8888/play/a02k
-#EXTINF:-1 group-title="-",Star Gold 2 HD - Rs 5.00
+#EXTINF:-1 group-title="IP",Star Gold 2 HD
 http://103.182.170.32:8888/play/a01z
-#EXTINF:-1 group-title="-",Star Jalsha HD - Rs 19.00
+#EXTINF:-1 group-title="IP",Star Jalsha HD 
 http://103.182.170.32:8888/play/a046
-#EXTINF:-1 group-title="-",Star Life HD - Rs 2.00
+#EXTINF:-1 group-title="IP",Star Life HD
 http://103.182.170.32:8888/play/a020
-#EXTINF:-1 group-title="-",Star Pravah HD - Rs 19.00
+#EXTINF:-1 group-title="IP",Star Pravah HD
 http://103.182.170.32:8888/play/a04n
-#EXTINF:-1 group-title="-",Star Sports 1 HD - Rs 19.00
+#EXTINF:-1 group-title="IP",Star Sports 1 HD
 http://103.182.170.32:8888/play/a040
-#EXTINF:-1 group-title="-",Star Sports 1 Hindi - Rs 19.00
+#EXTINF:-1 group-title="IP",Star Sports 1 Hindi
 http://103.182.170.32:8888/play/a02m
-#EXTINF:-1 group-title="-",Star Sports 1 Hindi HD - Rs 19.00
+#EXTINF:-1 group-title="IP",Star Sports 1 Hindi HD
 http://103.182.170.32:8888/play/a04e
-#EXTINF:-1 group-title="-",Star Sports Select 1 HD - Rs 19.00
+#EXTINF:-1 group-title="IP",Star Sports Select 1 HD
 http://103.182.170.32:8888/play/a045
-#EXTINF:-1 group-title="-",Star Sports Select 2 HD - Rs 15.00
+#EXTINF:-1 group-title="IP",Star Sports Select 2 HD
 http://103.182.170.32:8888/play/a047
-#EXTINF:-1 group-title="-",Sun Bangla - Free
+#EXTINF:-1 group-title="IP",Sun Bangla
 http://103.182.170.32:8888/play/a01v
-#EXTINF:-1 group-title="-",TEN 2 HD - Rs 19.00
+#EXTINF:-1 group-title="IP",TEN 2 HD 
 http://103.182.170.32:8888/play/a026
-#EXTINF:-1 group-title="-",TLC HD - Rs 3.00
+#EXTINF:-1 group-title="IP",TLC HD
 http://103.182.170.32:8888/play/a01q
 #EXTINF:-1 group-title="IP",Travelxp HD
 http://103.182.170.32:8888/play/a01x
