@@ -766,65 +766,65 @@ http://103.175.73.12:8080/live/64/64_0.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Live Tv",Channel 471
 http://103.175.73.12:8080/live/471/471_0.m3u8
 ##############################################
-#EXTINF:-1 group-title="REAL IP2",&flix HD - Rs 19.00
+#EXTINF:-1 group-title="REAL IP2",&flix HD
 http://103.182.170.32:8888/play/a02a
-#EXTINF:-1 group-title="REAL IP2",&tv - Rs 6.00
+#EXTINF:-1 group-title="REAL IP2",&tv
 http://103.182.170.32:8888/play/a03v
-#EXTINF:-1 group-title="REAL IP2",BBC News - Rs 1.50
+#EXTINF:-1 group-title="REAL IP2",BBC News
 http://103.182.170.32:8888/play/a04k
 #EXTINF:-1 group-title="REAL IP2",Colors Cineplex Bollywood 
 http://103.182.170.32:8888/play/a01o
 #EXTINF:-1 group-title="REAL IP2",Colors Cineplex HD 
 http://103.182.170.32:8888/play/a04i
-#EXTINF:-1 group-title="REAL IP2",Colors HD - Rs 19.00
+#EXTINF:-1 group-title="REAL IP2",Colors HD
 http://103.182.170.32:8888/play/a041
-#EXTINF:-1 group-title="REAL IP2",Discovery Kids - Rs 3.50
+#EXTINF:-1 group-title="REAL IP2",Discovery Kids
 http://103.182.170.32:8888/play/a02o
-#EXTINF:-1 group-title="REAL IP2",Disney Channel - Rs 10.00
+#EXTINF:-1 group-title="REAL IP2",Disney Channel 
 http://103.182.170.32:8888/play/a04g
 #EXTINF:-1 group-title="REAL IP2",Disney International HD 
 http://103.182.170.32:8888/play/a01y
-#EXTINF:-1 group-title="REAL IP2",MTV HD - Rs 2.00
+#EXTINF:-1 group-title="REAL IP2",MTV HD 
 http://103.182.170.32:8888/play/a025
-#EXTINF:-1 group-title="REAL IP2",Movies Now HD - Rs 14.00
+#EXTINF:-1 group-title="REAL IP2",Movies Now HD
 http://103.182.170.32:8888/play/a01n
-#EXTINF:-1 group-title="REAL IP2",Nat Geo Wild HD - Rs 8.00
+#EXTINF:-1 group-title="REAL IP2",Nat Geo Wild HD
 http://103.182.170.32:8888/play/a01r
-#EXTINF:-1 group-title="REAL IP2",Nick  - Rs 6.00
+#EXTINF:-1 group-title="REAL IP2",Nick
 http://103.182.170.32:8888/play/a04q
-#EXTINF:-1 group-title="REAL IP2",Nick Jr. - Rs 1.00
+#EXTINF:-1 group-title="REAL IP2",Nick Jr.
 http://103.182.170.32:8888/play/a02q
-#EXTINF:-1 group-title="REAL IP2",Pogo - Rs 4.75
+#EXTINF:-1 group-title="REAL IP2",Pogo
 http://103.182.170.32:8888/play/a02p
-#EXTINF:-1 group-title="REAL IP2",SET HD - Rs 19.00
+#EXTINF:-1 group-title="REAL IP2",SET HD 
 http://103.182.170.32:8888/play/a03t
-#EXTINF:-1 group-title="REAL IP2",SONY  TEN 3 HD - Rs 19.00
+#EXTINF:-1 group-title="REAL IP2",SONY  TEN 3 HD
 http://103.182.170.32:8888/play/a03a
-#EXTINF:-1 group-title="REAL IP2",SONY  TEN 5 HD - Rs 19.00
+#EXTINF:-1 group-title="REAL IP2",SONY  TEN 5 HD
 http://103.182.170.32:8888/play/a034
-#EXTINF:-1 group-title="REAL IP2",SONY MAX 2 - Rs 1.00
+#EXTINF:-1 group-title="REAL IP2",SONY MAX 2
 http://103.182.170.32:8888/play/a02l
-#EXTINF:-1 group-title="REAL IP2",SONY MAX HD - Rs 19.00
+#EXTINF:-1 group-title="REAL IP2",SONY MAX HD
 http://103.182.170.32:8888/play/a04f
-#EXTINF:-1 group-title="REAL IP2",SONY PIX HD - Rs 19.00
+#EXTINF:-1 group-title="REAL IP2",SONY PIX HD
 http://103.182.170.32:8888/play/a027
-#EXTINF:-1 group-title="REAL IP2",SONY SAB - Rs 19.00
+#EXTINF:-1 group-title="REAL IP2",SONY SAB
 http://103.182.170.32:8888/play/a03r
-#EXTINF:-1 group-title="REAL IP2",SONY SPORTS TEN 1 - Rs 19.00
+#EXTINF:-1 group-title="REAL IP2",SONY SPORTS TEN 1
 http://103.182.170.32:8888/play/a04j
-#EXTINF:-1 group-title="REAL IP2",SONY SPORTS TEN 3 - Rs 19.00
+#EXTINF:-1 group-title="REAL IP2",SONY SPORTS TEN 3
 http://103.182.170.32:8888/play/a03p
-#EXTINF:-1 group-title="REAL IP2",SONY YAY! - Rs 4.00
+#EXTINF:-1 group-title="REAL IP2",SONY YAY!
 http://103.182.170.32:8888/play/a04m
-#EXTINF:-1 group-title="REAL IP2",STAR GOLD HD - Rs 19.00
+#EXTINF:-1 group-title="REAL IP2",STAR GOLD HD
 http://103.182.170.32:8888/play/a02j
-#EXTINF:-1 group-title="REAL IP2",STAR Movies HD - Rs 19.00
+#EXTINF:-1 group-title="REAL IP2",STAR Movies HD
 http://103.182.170.32:8888/play/a029
-#EXTINF:-1 group-title="REAL IP2",STAR Movies Select HD - Rs 19.00
+#EXTINF:-1 group-title="REAL IP2",STAR Movies Select HD
 http://103.182.170.32:8888/play/a028
-#EXTINF:-1 group-title="REAL IP2",STAR PLUS - Rs 19.00
+#EXTINF:-1 group-title="REAL IP2",STAR PLUS
 http://103.182.170.32:8888/play/a03o
-#EXTINF:-1 group-title="REAL IP2",STAR Plus HD - Rs 22.00
+#EXTINF:-1 group-title="REAL IP2",STAR Plus HD
 http://103.182.170.32:8888/play/a03z
 #EXTINF:-1 group-title="REAL IP2",Sonic
 http://103.182.170.32:8888/play/a02s
@@ -1278,67 +1278,67 @@ http://110.39.27.47:8001/play/a006/index.m3u8
 http://110.39.27.47:8001/play/a01m/index.m3u8
 #EXTINF:-1 ,Star Sports Select 1 HD
 http://110.39.27.47:8001/play/a00o/index.m3u8
-#EXTINF:-1 group-title="-",&flix HD - Rs 19.00
+#EXTINF:-1 group-title="-",&flix HD
 http://103.182.170.32:8888/play/a02a
-#EXTINF:-1 group-title="-",&tv - Rs 6.00
+#EXTINF:-1 group-title="-",&tv
 http://103.182.170.32:8888/play/a03v
-#EXTINF:-1 group-title="-",BBC News - Rs 1.50
+#EXTINF:-1 group-title="-",BBC News 
 http://103.182.170.32:8888/play/a04k
-#EXTINF:-1 group-title="-",Cartoon Network - Rs 4.75
+#EXTINF:-1 group-title="-",Cartoon Network
 http://103.182.170.32:8888/play/a04o
-#EXTINF:-1 group-title="-",Colors Cineplex Bollywood - Rs 0.10
+#EXTINF:-1 group-title="-",Colors Cineplex Bollywood
 http://103.182.170.32:8888/play/a01o
-#EXTINF:-1 group-title="-",Colors Cineplex HD - Rs 19.00
+#EXTINF:-1 group-title="-",Colors Cineplex HD
 http://103.182.170.32:8888/play/a04i
-#EXTINF:-1 group-title="-",Colors HD - Rs 19.00
+#EXTINF:-1 group-title="-",Colors HD
 http://103.182.170.32:8888/play/a041
-#EXTINF:-1 group-title="-",Discovery Kids - Rs 3.50
+#EXTINF:-1 group-title="-",Discovery Kids
 http://103.182.170.32:8888/play/a02o
-#EXTINF:-1 group-title="-",Disney Channel - Rs 10.00
+#EXTINF:-1 group-title="-",Disney Channel
 http://103.182.170.32:8888/play/a04g
-#EXTINF:-1 group-title="-",Disney International HD - Rs 19.00
+#EXTINF:-1 group-title="-",Disney International HD
 http://103.182.170.32:8888/play/a01y
-#EXTINF:-1 group-title="-",Disney Junior - Rs 4.00
+#EXTINF:-1 group-title="-",Disney Junior
 http://103.182.170.32:8888/play/a03q
-#EXTINF:-1 group-title="-",ETV Bal Bharat - Rs 4.00
+#EXTINF:-1 group-title="-",ETV Bal Bharat
 http://103.182.170.32:8888/play/a022
-#EXTINF:-1 group-title="-",MTV HD - Rs 2.00
+#EXTINF:-1 group-title="-",MTV HD
 http://103.182.170.32:8888/play/a025
-#EXTINF:-1 group-title="-",Movies Now HD - Rs 14.00
+#EXTINF:-1 group-title="-",Movies Now HD
 http://103.182.170.32:8888/play/a01n
-#EXTINF:-1 group-title="-",Nat Geo Wild HD - Rs 8.00
+#EXTINF:-1 group-title="-",Nat Geo Wild HD
 http://103.182.170.32:8888/play/a01r
-#EXTINF:-1 group-title="-",Nick  - Rs 6.00
+#EXTINF:-1 group-title="-",Nick
 http://103.182.170.32:8888/play/a04q
-#EXTINF:-1 group-title="-",Nick Jr. - Rs 1.00
+#EXTINF:-1 group-title="-",Nick Jr.
 http://103.182.170.32:8888/play/a02q
-#EXTINF:-1 group-title="-",Pogo - Rs 4.75
+#EXTINF:-1 group-title="-",Pogo
 http://103.182.170.32:8888/play/a02p
-#EXTINF:-1 group-title="-",SET HD - Rs 19.00
+#EXTINF:-1 group-title="-",SET HD
 http://103.182.170.32:8888/play/a03t
-#EXTINF:-1 group-title="-",SONY MAX 2 - Rs 1.00
+#EXTINF:-1 group-title="-",SONY MAX 2
 http://103.182.170.32:8888/play/a02l
-#EXTINF:-1 group-title="-",SONY MAX HD - Rs 19.00
+#EXTINF:-1 group-title="-",SONY MAX HD
 http://103.182.170.32:8888/play/a04f
-#EXTINF:-1 group-title="-",SONY PIX HD - Rs 19.00
+#EXTINF:-1 group-title="-",SONY PIX HD
 http://103.182.170.32:8888/play/a027
-#EXTINF:-1 group-title="-",SONY SAB - Rs 19.00
+#EXTINF:-1 group-title="-",SONY SAB
 http://103.182.170.32:8888/play/a03r
-#EXTINF:-1 group-title="-",SONY SPORTS TEN 1 - Rs 19.00
+#EXTINF:-1 group-title="-",SONY TEN 1
 http://103.182.170.32:8888/play/a04j
-#EXTINF:-1 group-title="-",SONY SPORTS TEN 3 - Rs 19.00
+#EXTINF:-1 group-title="-",SONY TEN 3
 http://103.182.170.32:8888/play/a03p
-#EXTINF:-1 group-title="-",SONY YAY! - Rs 4.00
+#EXTINF:-1 group-title="-",SONY YAY!
 http://103.182.170.32:8888/play/a04m
-#EXTINF:-1 group-title="-",STAR GOLD HD - Rs 19.00
+#EXTINF:-1 group-title="-",STAR GOLD HD
 http://103.182.170.32:8888/play/a02j
-#EXTINF:-1 group-title="-",STAR Movies HD - Rs 19.00
+#EXTINF:-1 group-title="-",STAR Movies HD
 http://103.182.170.32:8888/play/a029
-#EXTINF:-1 group-title="-",STAR Movies Select HD - Rs 19.00
+#EXTINF:-1 group-title="-",STAR Movies Select HD
 http://103.182.170.32:8888/play/a028
-#EXTINF:-1 group-title="-",STAR PLUS - Rs 19.00
+#EXTINF:-1 group-title="-",STAR PLUS
 http://103.182.170.32:8888/play/a03o
-#EXTINF:-1 group-title="-",STAR Plus HD - Rs 22.00
+#EXTINF:-1 group-title="-",STAR Plus HD
 http://103.182.170.32:8888/play/a03z
 #EXTINF:-1 group-title="IP",Sonic
 http://103.182.170.32:8888/play/a02s
