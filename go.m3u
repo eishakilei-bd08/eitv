@@ -952,18 +952,12 @@ http://116.90.120.151:8000/play/a0ij/index.m3u8
 http://116.90.120.151:8000/play/a0kc/index.m3u8
 #EXTINF:-1,group-title="IP",Star Utsav Movies📺
 http://116.90.120.151:8000/play/a0ka/index.m3u8
-#EXTINF:-1,StarPlus (576p)
+#EXTINF:-1,group-title="IP",Star Plus📺
 http://103.229.254.25:7001/play/a09p/index.m3u8
-#EXTINF:-1,StarPlus HD (1080p)
+#EXTINF:-1,group-title="IP",Star Plus Hd📺
 http://103.229.254.25:7001/play/a09z/index.m3u8
-#EXTINF:-1,Live Sports
+#EXTINF:-1,group-title="IP",Sports📺
 http://103.229.254.25:7001/play/a087/index.m3u8
-#EXTINF:-1,Gazi TV
-http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
-#EXTINF:-1,Maasranga TV
-http://103.229.254.25:7001/play/a05q/index.m3u8
-#EXTINF:-1,RTV
-http://tvn3.chowdhury-shaheb.com/rtv/index.m3u8
 #EXTINF:-1 group-title="MYANMAR",MWD HD
 http://203.81.84.130/hls/mwd/index.m3u8
 #EXTINF:-1 group-title="MYANMAR",TVM
