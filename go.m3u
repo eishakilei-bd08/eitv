@@ -872,81 +872,83 @@ http://103.182.170.32:8888/play/a054
 http://103.182.170.32:8888/play/a03s
 #EXTINF:-1 group-title="REAL IP2",Zee TV HD
 http://103.182.170.32:8888/play/a04r
-#EXTINF:-1,And Prive
+
+
+#EXTINF:-1,group-title="IP",& prive📺
 http://202.70.146.135:8000/play/a05y/index.m3u8
-#EXTINF:-1,Discovery Bangla
+#EXTINF:-1,group-title="IP",Discovery Bangla📺
 http://202.70.146.135:8000/play/a05z/index.m3u8
-#EXTINF:-1,Nat Geo HD
+#EXTINF:-1,group-title="IP",Nat Geo📺
 http://202.70.146.135:8000/play/a05o/index.m3u8
-#EXTINF:-1,Star Sports 1 Hindi
+#EXTINF:-1,group-title="IP",Star Sport📺
 http://202.70.146.135:8000/play/a01e/index.m3u8
-#EXTINF:-1,Discovery Kids Hindi
+#EXTINF:-1,group-title="IP",Discovery Kids📺
 http://202.70.146.135:8000/play/a02l/index.m3u8
-#EXTINF:-1,Nick
+#EXTINF:-1,group-title="IP",Nick📺
 http://202.70.146.135:8000/play/a04c/index.m3u8
-#EXTINF:-1,Sony Yay
+#EXTINF:-1,group-title="IP",Sony Yay📺
 http://202.70.146.135:8000/play/a045/index.m3u8
-#EXTINF:-1,Sony Sports Ten 2 HD (1080p)
+#EXTINF:-1,group-title="IP",Sony Ten2📺
 http://103.229.254.25:7001/play/a02t/index.m3u8
-#EXTINF:-1,Sony Sports Ten 3 Hindi (576p)
+#EXTINF:-1,group-title="IP",Sony Ten3📺
 http://103.229.254.25:7001/play/a09q/index.m3u8
-#EXTINF:-1,Sony Sports Ten 5 HD (1080p)
+#EXTINF:-1,group-title="IP",Sony Ten5📺
 http://116.90.120.151:8000/play/a0hb/index.m3u8
-#EXTINF:-1,Star Sports 1 HD (1080p)
+#EXTINF:-1,group-title="IP",Star Sports1📺
 http://116.90.120.151:8000/play/a0gs/index.m3u8
-#EXTINF:-1,Star Sports 1 Hindi (576p)
+#EXTINF:-1,group-title="IP",Star Sports hindi📺
 http://116.90.120.151:8000/play/a0h1/index.m3u8
-#EXTINF:-1,Star Sports 1 Hindi HD (1080p)
+#EXTINF:-1,group-title="IP",Star Sports Hd📺
 http://116.90.120.151:8000/play/a0je/index.m3u8
-#EXTINF:-1,Star Sports 2 HD (1080p)
+#EXTINF:-1,group-title="IP",Star Sports2📺
 http://116.90.120.151:8000/play/a0jb/index.m3u8
-#EXTINF:-1,Star Sports 2 Hindi (576p)
+#EXTINF:-1,group-title="IP",Star Sports2 hindi📺
 http://116.90.120.151:8000/play/a0jc/index.m3u8
-#EXTINF:-1,Star Sports 2 Hindi HD (1080p)
+#EXTINF:-1,group-title="IP",Star Sports2 Hd📺
 http://116.90.120.151:8000/play/a0hi/index.m3u8
-#EXTINF:-1,Star Sports 2 Tamil (576p)
+#EXTINF:-1,group-title="IP",Star Sports2 tamil📺
 http://103.229.254.25:7001/play/a0dc/index.m3u8
-#EXTINF:-1,Willow Sports (1080p)
+#EXTINF:-1,group-title="IP",Willow📺
 https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
-#EXTINF:-1,ESPN Premium
+#EXTINF:-1,group-title="IP",ESPN📺
 http://46.225.94.157/hls/espn/index.m3u8
-#EXTINF:-1,Rosario Central vs Banfield
+#EXTINF:-1,group-title="IP",Tnt📺
 http://46.225.94.157/hls/tnt/index.m3u8
-#EXTINF:-1,5 SPORT 🇮🇱
+#EXTINF:-1,group-title="IP",Sports5📺
 http://185.132.134.159:80/sport5/index.m3u8
-#EXTINF:-1,Colors HD
+#EXTINF:-1,group-title="IP",Colors HD📺
 https://padmaonline.duckdns.org:8088/ColorsHD/index.m3u8
-#EXTINF:-1,Colors Cineplex HD
+#EXTINF:-1,group-title="IP",Cineplex Hd📺
 https://padmaonline.duckdns.org:8088/ColorsCineplexHD/index.m3u8
-#EXTINF:-1,Sony Max HD
+#EXTINF:-1,group-title="IP",Sony Max📺
 https://padmaonline.duckdns.org:8088/SonyMaxHD/index.m3u8
-#EXTINF:-1,Sony Entertainment Television HD
+#EXTINF:-1,group-title="IP",Sony Tv📺
 https://padmaonline.duckdns.org:8088/SETHD/index.m3u8
-#EXTINF:-1,StarPlus HD
+#EXTINF:-1,group-title="IP",star plus📺
 https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8
-#EXTINF:-1,Star Bharat (576p)
+#EXTINF:-1,group-title="IP",Star Bharat📺
 http://116.90.120.151:8000/play/a0h2/index.m3u8
-#EXTINF:-1,Star Bharat HD (1080p)
+#EXTINF:-1,group-title="IP",Star Bharat Hd📺
 http://103.121.6.5:8000/play/a05z/index.m3u8
-#EXTINF:-1,Star Gold 2 (576p)
+#EXTINF:-1,group-title="IP",Star Gold2📺
 http://116.90.120.151:8000/play/a0gz/index.m3u8
-#EXTINF:-1,Star Gold 2 HD (1080p)
+#EXTINF:-1,group-title="IP",Star Gold2 HD📺
 http://103.229.254.25:7001/play/a0d0/index.m3u8
-#EXTINF:-1,Star Gold HD (1080p)
+#EXTINF:-1,group-title="IP",Star Gold HD📺
 http://103.229.254.25:7001/play/a0dd/index.m3u8
-#EXTINF:-1,Star Gold Romance (576p)
+#EXTINF:-1,group-title="IP",Star Gold Romance📺
 http://116.90.120.151:8000/play/a0he/index.m3u8
-#EXTINF:-1,Star Gold Select HD (1080p)
+#EXTINF:-1,group-title="IP",Star Gold Select📺
 http://103.229.254.25:7001/play/a032/index.m3u8
-#EXTINF:-1,Star Gold Thrills (576p)
+#EXTINF:-1,group-title="IP",Star Hold📺
 http://116.90.120.151:8000/play/a0gw/index.m3u8
-#EXTINF:-1,Star Maa Gold (576p)
+#EXTINF:-1,group-title="IP",Star Maa Gold📺
 http://103.121.6.5:8000/play/a063/index.m3u8
-#EXTINF:-1,Star Movies Select HD (1080p)
+#EXTINF:-1,group-title="IP",Star Movies📺
 http://116.90.120.151:8000/play/a0ij/index.m3u8
-#EXTINF:-1,Star Utsav (576p)
+#EXTINF:-1,group-title="IP",Star Utsav📺
 http://116.90.120.151:8000/play/a0kc/index.m3u8
-#EXTINF:-1,Star Utsav Movies (576p)
+#EXTINF:-1,group-title="IP",Star Utsav Movies📺
 http://116.90.120.151:8000/play/a0ka/index.m3u8
 #EXTINF:-1,StarPlus (576p)
 http://103.229.254.25:7001/play/a09p/index.m3u8
@@ -960,8 +962,6 @@ http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
 http://103.229.254.25:7001/play/a05q/index.m3u8
 #EXTINF:-1,RTV
 http://tvn3.chowdhury-shaheb.com/rtv/index.m3u8
-#EXTINF:-1,Deepto TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 group-title="MYANMAR",MWD HD
 http://203.81.84.130/hls/mwd/index.m3u8
 #EXTINF:-1 group-title="MYANMAR",TVM
