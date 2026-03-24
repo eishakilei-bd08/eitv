@@ -1595,6 +1595,93 @@ http://110.39.27.47:8001/play/a01o/index.m3u8
 #EXTINF:-1 ,Probashi TV News
 http://158.69.24.53:8080/probashi_tv/index.m3u8
 
+
+
+
+
+http://103.213.31.109:90/AajtakHD/playlist.m3u8
+
+http://103.213.31.109:90/AasthaSD/playlist.m3u8
+
+http://103.213.31.109:90/ABPNews/playlist.m3u8
+
+http://103.213.31.109:90/ActionCinema/playlist.m3u8
+
+http://103.213.31.109:90/B4UBhojpuri/playlist.m3u8
+
+http://103.213.31.109:90/B4UKadak/playlist.m3u8
+
+http://103.213.31.109:90/B4UMovies/playlist.m3u8
+
+http://103.213.31.109:90/BBCNewsHD/playlist.m3u8
+
+http://103.213.31.109:90/BigMagic/playlist.m3u8
+
+http://103.213.31.109:90/BhojpuriCinema/playlist.m3u8
+
+http://103.213.31.109:90/BollywoodHD/playlist.m3u8
+
+http://103.213.31.109:90/BollywoodClassic/playlist.m3u8
+
+http://103.213.31.109:90/ChumbakTv/playlist.m3u8
+
+http://103.213.31.109:90/CNNNewsHD/playlist.m3u8
+
+http://103.213.31.109:90/CineplxBollywood/playlist.m3u8
+
+http://103.213.31.109:90/ColorsCineplexSuperHit/playlist.m3u8
+
+http://103.213.31.109:90/Dangal/playlist.m3u8
+
+http://103.213.31.109:90/Dangal2/playlist.m3u8
+
+http://103.213.31.109:90/DDBharati/playlist.m3u8
+
+http://103.213.31.109:90/DDIndia/playlist.m3u8
+
+http://103.213.31.109:90/FilmachiBhojpuri/playlist.m3u8
+
+http://103.213.31.109:90/GoldminesMovies/playlist.m3u8
+
+http://103.213.31.109:90/KantipurPiracyHD/playlist.m3u8
+
+http://103.213.31.109:90/ManoranjanTv/playlist.m3u8
+
+http://103.213.31.109:90/ManoranjanMovies/playlist.m3u8
+
+http://103.213.31.109:90/News18SD/playlist.m3u8
+
+http://103.213.31.109:90/NewsNation/playlist.m3u8
+
+http://103.213.31.109:90/SangeetBhojpuri/playlist.m3u8
+
+http://103.213.31.109:90/ShemarooBollywoodHD/playlist.m3u8
+
+http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8
+
+http://103.213.31.109:90/ShemarooUmang/playlist.m3u8
+
+http://103.213.31.109:90/ShowBox/playlist.m3u8
+
+http://103.213.31.109:90/StarUtsavMovies/playlist.m3u8
+
+http://103.213.31.109:90/TimesNow/playlist.m3u8
+
+
+http://103.213.31.109:90/TraceUrbanHD/playlist.m3u8
+
+
+http://103.213.31.109:90/ZeeAnmolCinema2/playlist.m3u8
+
+
+http://103.213.31.109:90/ZeeChitraMandir/playlist.m3u8
+
+
+
+
+
+
+
 🌸PINK CHANNELS🌸
 #EXTINF:-1 group-title="Pink",Pink
 http://amgsupport.space:80/amigos-skype-new/zMQu6uyVdQ/2855.ts
@@ -1629,37 +1716,37 @@ http://amgsupport.space:80/amigos-skype-new/zMQu6uyVdQ/1891.ts
 http://amgsupport.space:80/amigos-skype-new/zMQu6uyVdQ/1883.ts
 #EXTINF:-1 group-title="Pink",Pink thriller 
 http://amgsupport.space:80/amigos-skype-new/zMQu6uyVdQ/1892.ts
-Pink style 
+#EXTINF:-1 group-title="Pink",Pink style 
 http://amgsupport.space:80/amigos-skype-new/zMQu6uyVdQ/1867.ts
-Pink soap 
+#EXTINF:-1 group-title="Pink",Pink soap 
 http://amgsupport.space:80/amigos-skype-new/zMQu6uyVdQ/1893.ts
-Pink show 
+#EXTINF:-1 group-title="Pink",Pink show 
 http://amgsupport.space:80/amigos-skype-new/zMQu6uyVdQ/1868.ts
-Pink serije 
+#EXTINF:-1 group-title="Pink",Pink serije 
 http://amgsupport.space:80/amigos-skype-new/zMQu6uyVdQ/1869.ts
-Pink sci-fy fantasy
+#EXTINF:-1 group-title="Pink",Pink sci-fy fantasy
 http://amgsupport.space:80/amigos-skype-new/zMQu6uyVdQ/1894.ts
-Pink plus 
+#EXTINF:-1 group-title="Pink",Pink plus 
 http://amgsupport.space:80/amigos-skype-new/zMQu6uyVdQ/2881.ts
-Pink pedia 
+#EXTINF:-1 group-title="Pink",Pink pedia 
 http://amgsupport.space:80/amigos-skype-new/zMQu6uyVdQ/1898.ts
-Pink music 2 
+#EXTINF:-1 group-title="Pink",Pink music 2 
 http://amgsupport.space:80/amigos-skype-new/zMQu6uyVdQ/1870.ts
-Pink music 
+#EXTINF:-1 group-title="Pink",Pink music 
 http://amgsupport.space:80/amigos-skype-new/zMQu6uyVdQ/1871.ts
-Pink movies 
+#EXTINF:-1 group-title="Pink",Pink movies 
 http://amgsupport.space:80/amigos-skype-new/zMQu6uyVdQ/1885.ts
-Pink lol 
+#EXTINF:-1 group-title="Pink",Pink lol 
 http://amgsupport.space:80/amigos-skype-new/zMQu6uyVdQ/1880.ts
-Pink kuvar 
+#EXTINF:-1 group-title="Pink",Pink kuvar 
 http://amgsupport.space:80/amigos-skype-new/zMQu6uyVdQ/1873.ts
-Pink koncert 
+#EXTINF:-1 group-title="Pink",Pink koncert 
 http://amgsupport.space:80/amigos-skype-new/zMQu6uyVdQ/3059.ts
-PINKHorror 
+#EXTINF:-1 group-title="Pink",PINKHorror 
 http://amgsupport.space:80/amigos-skype-new/zMQu6uyVdQ/1899.ts
-PINKHits 2 
+#EXTINF:-1 group-title="Pink",PINKHits 2 
 http://amgsupport.space:80/amigos-skype-new/zMQu6uyVdQ/1874.ts
-PINKHa-ha 
+#EXTINF:-1 group-title="Pink",PINKHa-ha 
 http://amgsupport.space:80/amigos-skype-new/zMQu6uyVdQ/1881.ts
 #EXTINF:-1 group-title="Pink",PINKFolk 1 
 http://amgsupport.space:80/amigos-skype-new/zMQu6uyVdQ/2854.ts
