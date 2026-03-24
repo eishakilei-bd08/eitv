@@ -968,131 +968,131 @@ http://203.81.84.130/hls/mwd_document/index.m3u8
 http://203.81.84.130/hls/mwd_family/index.m3u8
 #EXTINF:-1 group-title="MYANMAR",ForatuneTV HD
 http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
-#EXTINF:-1 group-title="-",&flix HD📺
+#EXTINF:-1 group-title="IP",&flix HD📺
 http://103.229.254.25:7001/play/a02x/index.m3u8
-#EXTINF:-1 group-title="-",&pictures HD📺
+#EXTINF:-1 group-title="IP",&pictures HD📺
 http://103.229.254.25:7001/play/a033/index.m3u8
-#EXTINF:-1 group-title="-",&tv📺
+#EXTINF:-1 group-title="IP",&tv📺
 http://103.229.254.25:7001/play/a09v/index.m3u8
-#EXTINF:-1 group-title="-",9X JALWA📺
+#EXTINF:-1 group-title="IP",9X JALWA📺
 http://103.229.254.25:7001/play/a07r/index.m3u8
-#EXTINF:-1 group-title="-",9X JHAKAAS📺
+#EXTINF:-1 group-title="IP",9X JHAKAAS📺
 http://103.229.254.25:7001/play/a07p/index.m3u8
-#EXTINF:-1 group-title="-",9X TASHAN📺
+#EXTINF:-1 group-title="IP",9X TASHAN📺
 http://103.229.254.25:7001/play/a07n/index.m3u8
-#EXTINF:-1 group-title="-",9XM📺
+#EXTINF:-1 group-title="IP",9XM📺
 http://103.229.254.25:7001/play/a07o/index.m3u8
-#EXTINF:-1 group-title="-",ARYDigitalAsia HD📺
+#EXTINF:-1 group-title="IP",ARYDigitalAsia HD📺
 http://103.229.254.25:7001/play/a07w/index.m3u8
-#EXTINF:-1 group-title="-",ARYZindagi📺
+#EXTINF:-1 group-title="IP",ARYZindagi📺
 http://103.229.254.25:7001/play/a07u/index.m3u8
-#EXTINF:-1 group-title="-",ATN Bangla📺
+#EXTINF:-1 group-title="IP",ATN Bangla📺
 http://103.229.254.25:7001/play/a06b/index.m3u8
-#EXTINF:-1 group-title="-",ATN News📺
+#EXTINF:-1 group-title="IP",ATN News📺
 http://103.229.254.25:7001/play/a05u/index.m3u8
-#EXTINF:-1 group-title="-",Ananda TV📺
+#EXTINF:-1 group-title="IP",Ananda TV📺
 http://103.229.254.25:7001/play/a05v/index.m3u8
-#EXTINF:-1 group-title="-",Animal Planet HD📺
+#EXTINF:-1 group-title="IP",Animal Planet HD📺
 http://103.229.254.25:7001/play/a0dr/index.m3u8
-#EXTINF:-1 group-title="-",B4U KADAK📺
+#EXTINF:-1 group-title="IP",B4U KADAK📺
 http://103.229.254.25:7001/play/a08c/index.m3u8
-#EXTINF:-1 group-title="-",BTV Chattagram📺
+#EXTINF:-1 group-title="IP",BTV Chattagram📺
 http://103.229.254.25:7001/play/a061/index.m3u8
-#EXTINF:-1 group-title="-",BTV HD📺
+#EXTINF:-1 group-title="IP",BTV HD📺
 http://103.229.254.25:7001/play/a064/index.m3u8
-#EXTINF:-1 group-title="-",BTV NEWS HD📺
+#EXTINF:-1 group-title="IP",BTV NEWS HD📺
 http://103.229.254.25:7001/play/a065/index.m3u8
-#EXTINF:-1 group-title="-",Bangla Vision📺
+#EXTINF:-1 group-title="IP",Bangla Vision📺
 http://103.229.254.25:7001/play/a06d/index.m3u8
-#EXTINF:-1 group-title="-",BanglaTV HD📺
+#EXTINF:-1 group-title="IP",BanglaTV HD📺
 http://103.229.254.25:7001/play/a06c/index.m3u8
-#EXTINF:-1 group-title="-",Bein Sport 1📺
+#EXTINF:-1 group-title="IP",Bein Sport 1📺
 http://103.229.254.25:7001/play/a0f0/index.m3u8
-#EXTINF:-1 group-title="-",Bein Sport 2📺
+#EXTINF:-1 group-title="IP",Bein Sport 2📺
 http://103.229.254.25:7001/play/a0ea/index.m3u8
-#EXTINF:-1 group-title="-",Best Action📺
+#EXTINF:-1 group-title="IP",Best Action📺
 http://103.229.254.25:7001/play/a088/index.m3u8
-#EXTINF:-1 group-title="-",BijoyTV📺
+#EXTINF:-1 group-title="IP",BijoyTV📺
 http://103.229.254.25:7001/play/a066/index.m3u8
-#EXTINF:-1 group-title="-",Boishakhi TV📺
+#EXTINF:-1 group-title="IP",Boishakhi TV📺
 http://103.229.254.25:7001/play/a067/index.m3u8
-#EXTINF:-1 group-title="-",CHANNEL NINE BD📺
+#EXTINF:-1 group-title="IP",CHANNEL NINE BD📺
 http://103.229.254.25:7001/play/a05j/index.m3u8
-#EXTINF:-1 group-title="-",CINEMA HALL📺
+#EXTINF:-1 group-title="IP",CINEMA HALL📺
 http://103.229.254.25:7001/play/a0es/index.m3u8
-#EXTINF:-1 group-title="-",COLORS📺
+#EXTINF:-1 group-title="IP",COLORS📺
 http://103.229.254.25:7001/play/a077/index.m3u8
-#EXTINF:-1 group-title="-",COLORS BANGLA📺
+#EXTINF:-1 group-title="IP",COLORS BANGLA📺
 http://103.229.254.25:7001/play/a076/index.m3u8
-#EXTINF:-1 group-title="-",Channel 24HD📺
+#EXTINF:-1 group-title="IP",Channel 24HD📺
 http://103.229.254.25:7001/play/a05n/index.m3u8
-#EXTINF:-1 group-title="-",Channel I HD📺
+#EXTINF:-1 group-title="IP",Channel I HD📺
 http://103.229.254.25:7001/play/a06e/index.m3u8
-#EXTINF:-1 group-title="-",Channel S📺
+#EXTINF:-1 group-title="IP",Channel S📺
 http://103.229.254.25:7001/play/a060/index.m3u8
-#EXTINF:-1 group-title="-",Colors Bangla HD📺
+#EXTINF:-1 group-title="IP",Colors Bangla HD📺
 http://103.229.254.25:7001/play/a0ds/index.m3u8
-#EXTINF:-1 group-title="-",Colors HD📺
+#EXTINF:-1 group-title="IP",Colors HD📺
 http://103.229.254.25:7001/play/a0a1/index.m3u8
-#EXTINF:-1 group-title="-",Colors Infinity HD📺
+#EXTINF:-1 group-title="IP",Colors Infinity HD📺
 http://103.229.254.25:7001/play/a0du/index.m3u8
-#EXTINF:-1 group-title="-",DBC NEWS📺
+#EXTINF:-1 group-title="IP",DBC NEWS📺
 http://103.229.254.25:7001/play/a06h/index.m3u8
-#EXTINF:-1 group-title="-",DISCOVERY📺
+#EXTINF:-1 group-title="IP",DISCOVERY📺
 http://103.229.254.25:7001/play/a071/index.m3u8
-#EXTINF:-1 group-title="-",Deepto TV HD📺
+#EXTINF:-1 group-title="IP",Deepto TV HD📺
 http://103.229.254.25:7001/play/a05r/index.m3u8
-#EXTINF:-1 group-title="-",Desh TV📺
+#EXTINF:-1 group-title="IP",Desh TV📺
 http://103.229.254.25:7001/play/a05s/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Kids📺
+#EXTINF:-1 group-title="IP",Discovery Kids📺
 http://103.229.254.25:7001/play/a0dg/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Science📺
+#EXTINF:-1 group-title="IP",Discovery Science📺
 http://103.229.254.25:7001/play/a03h/index.m3u8
-#EXTINF:-1 group-title="-",Duronto TV HD📺
+#EXTINF:-1 group-title="IP",Duronto TV HD📺
 http://103.229.254.25:7001/play/a05k/index.m3u8
-#EXTINF:-1 group-title="-",EKHON TV📺
+#EXTINF:-1 group-title="IP",EKHON TV📺
 http://103.229.254.25:7001/play/a09k/index.m3u8
-#EXTINF:-1 group-title="-",ENC 6103📺
+#EXTINF:-1 group-title="IP",ENC 6103📺
 http://103.229.254.25:7001/play/a06n/index.m3u8
-#EXTINF:-1 group-title="-",ENC 6106📺
+#EXTINF:-1 group-title="IP",ENC 6106📺
 http://103.229.254.25:7001/play/a06q/index.m3u8
-#EXTINF:-1 group-title="-",ENC 7014📺
+#EXTINF:-1 group-title="IP",ENC 7014📺
 http://103.229.254.25:7001/play/a07e/index.m3u8
-#EXTINF:-1 group-title="-",ENC 7016📺
+#EXTINF:-1 group-title="IP",ENC 7016📺
 http://103.229.254.25:7001/play/a07g/index.m3u8
-#EXTINF:-1 group-title="-",ETV HD📺
+#EXTINF:-1 group-title="IP",ETV HD📺
 http://103.229.254.25:7001/play/a0de/index.m3u8
-#EXTINF:-1 group-title="-",Ekattor TV HD📺
+#EXTINF:-1 group-title="IP",Ekattor TV HD📺
 http://103.229.254.25:7001/play/a06f/index.m3u8
-#EXTINF:-1 group-title="-",Ekushey TV📺
+#EXTINF:-1 group-title="IP",Ekushey TV📺
 http://103.229.254.25:7001/play/a05x/index.m3u8
-#EXTINF:-1 group-title="-",Enc 6114📺
+#EXTINF:-1 group-title="IP",Enc 6114📺
 http://103.229.254.25:7001/play/a06y/index.m3u8
-#EXTINF:-1 group-title="-",GEO SUPER📺
+#EXTINF:-1 group-title="IP",GEO SUPER📺
 http://103.229.254.25:7001/play/a0ei/index.m3u8
-#EXTINF:-1 group-title="-",GLOBAL TV HD📺
+#EXTINF:-1 group-title="IP",GLOBAL TV HD📺
 http://103.229.254.25:7001/play/a05o/index.m3u8
-#EXTINF:-1 group-title="-",GOLDMINES MOVIES📺
+#EXTINF:-1 group-title="IP",GOLDMINES MOVIES📺
 http://103.229.254.25:7001/play/a07k/index.m3u8
-#EXTINF:-1 group-title="-",Gazi Tv HD📺
+#EXTINF:-1 group-title="IP",Gazi Tv HD📺
 http://103.229.254.25:7001/play/a06t/index.m3u8
-#EXTINF:-1 group-title="-",Goldmines Bollywood📺
+#EXTINF:-1 group-title="IP",Goldmines Bollywood📺
 http://103.229.254.25:7001/play/a07l/index.m3u8
-#EXTINF:-1 group-title="-",ITV24📺
+#EXTINF:-1 group-title="IP",ITV24📺
 http://103.229.254.25:7001/play/a06a/index.m3u8
-#EXTINF:-1 group-title="-",Investigation Discovery📺
+#EXTINF:-1 group-title="IP",Investigation Discovery📺
 http://103.229.254.25:7001/play/a03c/index.m3u8
-#EXTINF:-1 group-title="-",JALSHA MOVIES📺
+#EXTINF:-1 group-title="IP",JALSHA MOVIES📺
 http://103.229.254.25:7001/play/a078/index.m3u8
-#EXTINF:-1 group-title="-",JB CABLES TV📺
+#EXTINF:-1 group-title="IP",JB CABLES TV📺
 http://103.229.254.25:7001/play/a07d/index.m3u8
-#EXTINF:-1 group-title="-",Jalsha Movies HD📺
+#EXTINF:-1 group-title="IP",Jalsha Movies HD📺
 http://103.229.254.25:7001/play/a0dt/index.m3u8
-#EXTINF:-1 group-title="-",Jamuna Television📺
+#EXTINF:-1 group-title="IP",Jamuna Television📺
 http://103.229.254.25:7001/play/a05y/index.m3u8
-#EXTINF:-1 group-title="-",MAX Movie📺
+#EXTINF:-1 group-title="IP",MAX Movie📺
 http://103.229.254.25:7001/play/a0et/index.m3u8
-#EXTINF:-1 group-title="-",MYTV HD📺
+#EXTINF:-1 group-title="IP",MYTV HD📺
 http://103.229.254.25:7001/play/a05z/index.m3u8
 #EXTINF:-1 group-title="-",Madani TV📺
 http://103.229.254.25:7001/play/a05p/index.m3u8
