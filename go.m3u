@@ -618,10 +618,7 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/45/7e/3a/457e3aaf075e58defea4d9455fd79004.jpg" group-title="MUSIC",Zoom-2
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
-
-
 #EXTM3U 
-
 
 #EXTINF:-1 tvg-logo="https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg" group-title="Live Tv",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
