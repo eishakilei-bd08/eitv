@@ -1,4 +1,18 @@
 #EXTM3U
+
+
+
+
+#EXTINF:-1 tvg-logo="https://porosh.com.bd/upload/tv/tv_1770821919_9282.png" group-title="Bangladesh",channel-16 tv
+https://iptv.porosh.com.bd/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
+#EXTINF:-1 tvg-logo="https://porosh.com.bd/upload/tv/tv_1771144676_6801.jpg" group-title="Bangladesh",Akash
+https://iptv.porosh.com.bd/tmp_hls/500e75a036dc2d7d2fec5da1b71d36cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://porosh.com.bd/upload/tv/tv_1771064849_5532.jpeg" group-title="Bangladesh",channela1tv
+https://iptv.porosh.com.bd/tmp_hls/ae0eb3eed39d2bcef4622b2499a05fe6/index.m3u8
+#EXTINF:-1 tvg-logo="https://porosh.com.bd/upload/tv/tv_1771585053_6632.jpg" group-title="Bangladesh",Ptv Bangla
+https://iptv.porosh.com.bd/tmp_hls/1ecfb463472ec9115b10c292ef8bc986/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10"group-title="IPL 2026" group-title="",IPL 2026
 http://stvlive.net:8080/sonyten5/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10"group-title="IPL 2026" group-title="",IPL 2026
