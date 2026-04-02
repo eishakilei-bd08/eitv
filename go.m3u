@@ -436,6 +436,8 @@ http://103.121.61.218/tmp_hls/86b122d4358357d834a87ce618a55de0/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",SB TV📺
 https://livestream.sbtvus.com/hls/stream.m3u8
 
+#EXTINF:-1,group-title="PREMIUM",Cinema📺 
+http://103.161.153.165:8000/play/a00l/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Jatv📺 
 http://103.121.61.218/tmp_hls/86b122d4358357d834a87ce618a55de0/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Ptv📺 
