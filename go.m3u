@@ -435,6 +435,24 @@ http://103.121.61.218/tmp_hls/500e75a036dc2d7d2fec5da1b71d36cc/index.m3u8
 http://103.121.61.218/tmp_hls/86b122d4358357d834a87ce618a55de0/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",SB TV📺
 https://livestream.sbtvus.com/hls/stream.m3u8
+
+#EXTINF:-1,group-title="PREMIUM",Jatv📺 
+http://103.121.61.218/tmp_hls/86b122d4358357d834a87ce618a55de0/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Ptv📺 
+http://103.121.61.218/tmp_hls/1ecfb463472ec9115b10c292ef8bc986/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Akash tv📺 
+http://103.121.61.218/tmp_hls/500e75a036dc2d7d2fec5da1b71d36cc/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Studio1📺 
+http://174.138.87.116:8080/hls/studio1/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Islam Now📺 
+http://157.245.116.246:8080/hls/islamnow/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Channel 16📺 
+http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",Sanonda📺 
+https://live.sanandatelevision.in/sananda/index.m3u8
+#EXTINF:-1,group-title="PREMIUM",VIP TV📺 
+http://59.152.99.22:9999/live/channel1/index.m3u8
+
 #EXTINF:-1,group-title="PREMIUM",Soudi Sunnah📺
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Soudi Quran📺
