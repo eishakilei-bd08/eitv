@@ -202,7 +202,12 @@ http://103.77.252.113/ftpdata/hindi2/English/Movie%20Sequels/Harry%20Potter/7.Ha
 #EXTINF:-1,group-title="Movie",Harry Potter8📺
 http://103.77.252.113/ftpdata/hindi2/English/Movie%20Sequels/Harry%20Potter/8.Harry%20Potter%20and%20the%20Deathly%20Hallows%20Part%202%20(2011).mkv
 
-
+#EXTINF:-1,group-title="Movie",Matrix📺
+http://103.77.252.113/ftpdata/disk4/May%202020/08%20May%202020/3.Movie%20Sequels/The%20Matrix%20Trilogy%20(1999-2003)%20Dual%20Audio/The%20Matrix%20(1999)%20Dual%20Audio.mkv
+#EXTINF:-1,group-title="Movie",Matrix2📺
+http://103.77.252.113/ftpdata/disk4/May%202020/08%20May%202020/3.Movie%20Sequels/The%20Matrix%20Trilogy%20(1999-2003)%20Dual%20Audio/The%20Matrix%20Reloaded%20(2003)%20Dual%20Audio.mkv
+#EXTINF:-1,group-title="Movie",Matrix3📺
+http://103.77.252.113/ftpdata/disk4/May%202020/08%20May%202020/3.Movie%20Sequels/The%20Matrix%20Trilogy%20(1999-2003)%20Dual%20Audio/The%20Matrix%20Revolutions%20(2003)%20Dual%20Audio.mkv
 
 #EXTINF:-1,group-title="Movie",Monkey King📺
 http://103.77.252.113/ftpdata/english/Others%20Movie/The%20Monkey%20King%202%20(2016)%20720p%20BluRay.mkv
