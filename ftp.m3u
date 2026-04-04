@@ -1,6 +1,8 @@
 #EXTM3U 
 
 
+#EXTINF:-1,group-title="Movie",MAD MAX📺
+http://103.77.252.113/ftpdata/disk3/New%20TRansfer/English%20Movies%201/Mad%20Max%20Fury%20Road%20(2015)%201080p%20Bluray.mkv
 #EXTINF:-1,group-title="Movie",MAD MAX2📺
 http://103.77.252.113/ftpdata/english/English%20720p%20&%201080p%20BluRay/Mad%20Max%202%20(1981)%20720p%20BluRay.mp4
 #EXTINF:-1,group-title="Movie",CHAPPIE📺
