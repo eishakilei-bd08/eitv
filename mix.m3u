@@ -33,6 +33,27 @@ https://live.sanandatelevision.in/sananda/index.m3u8
 https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8
 #EXTINF:-1,VIP TV
 http://59.152.99.22:9999/live/channel1/index.m3u8
+
+
+
+#EXTINF:-1,SONY YAY Bengali
+http://103.180.212.191:3500/live/3424.m3u8
+
+#EXTINF:-1,Nick Bangla
+http://103.180.212.191:3500/live/1341.m3u8
+
+#EXTINF:-1,Sonic Bangla
+http://103.180.212.191:3500/live/1345.m3u8
+
+#EXTINF:-1,Search India Bangla
+https://stream.ottlive.co.in/searchindia/index.m3u8
+
+#EXTINF:-1,Stv Bangla
+https://server.playontv.in/sailendar/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,ZB Cartoon
+http://103.180.212.191:3500/live/3321.m3u8
+
 #EXTINF:-1,Aljazeeranews
 http://172.16.29.2:8090/hls/ALjazeeraNews.m3u8
 #EXTINF:-1,Asportshd
