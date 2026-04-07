@@ -29,6 +29,8 @@ http://157.245.116.246:8080/hls/islamnow/index.m3u8
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 #EXTINF:-1,Sananda
 https://live.sanandatelevision.in/sananda/index.m3u8
+#EXTINF:-1,GTV
+https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8
 #EXTINF:-1,VIP TV
 http://59.152.99.22:9999/live/channel1/index.m3u8
 #EXTINF:-1,Aljazeeranews
