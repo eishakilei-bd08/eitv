@@ -77,6 +77,8 @@ http://103.180.212.191:3500/live/698.m3u8
 http://103.161.153.165:8000/play/a056/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",VIP TV📺
 http://59.152.99.22:9999/live/channel1/index.m3u8
+#EXTINF:-1,group-title="PREMIUM", GTV📺
+https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",SRKTV📺
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1,group-title="PREMIUM",Deepto TV HD 📺
