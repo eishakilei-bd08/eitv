@@ -1,8 +1,8 @@
 #EXTM3U 
 #######PREMIUM########
 
-
-
+#EXTINF:-1,PSL
+https://pslurdu.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8
 
 #EXTINF:1 tvg-logo="http://103.175.242.10/assets/images/Tsports1735735587.png" group-title="PREMIUM",Tsports📺
 http://103.175.242.10:8080/tsports1/index.m3u8
