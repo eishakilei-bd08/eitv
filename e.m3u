@@ -51,7 +51,6 @@ http://203.18.159.115/MADANITVHD/tracks-v1a1/mono.m3u8
 https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",RANG
 https://mumt01.tangotv.in/RANG/index.m3u8
-
 #EXTINF:-1,group-title="E.I.🇧🇩",JAMUNA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",SOMOY TV
@@ -112,11 +111,11 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 group-title="E.I.🇧🇩",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:-1 tvg-name="Deshi TV (720p)" group-title="E.I.🇧🇩",Deshi TV (720p)
+#EXTINF:-1 tvg-name="Deshi TV (720p)" group-title="E.I.🇧🇩",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="E.I.🇧🇩" tvg-logo="https://i.ytimg.com/vi/GRCWbI5ZSFg/maxresdefault.jpg",ATN BANGLA UK
 https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Ekushey TV (480p)" group-title="E.I.🇧🇩",Ekushey TV (480p)
+#EXTINF:-1 tvg-name="Ekushey TV (480p)" group-title="E.I.🇧🇩",Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",NICK BANGLA
 http://103.180.212.191:3500/live/1341.m3u8
