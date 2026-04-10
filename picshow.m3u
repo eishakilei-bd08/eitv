@@ -231,19 +231,19 @@ http://180.94.28.28:8097/Somoy-TV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Gazi TV.png" group-title="Bangla",GAZI TV
 http://180.94.28.28:8097/GAZI-TV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Ekattur.png" group-title="Bangla",EKATTOR TV
-http://180.94.28.28:8097/EKATTOR-TV/index.fmp4.m3u8?token=fa279ff1114d473482f73cb339f38d4e1a32fd80-624981ee08a9937b28f81501bcbf7d6a-1775835987-1775832387
+http://180.94.28.28:8097/EKATTOR-TV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Channel i .png" group-title="Bangla",CHANNEL I
-http://180.94.28.28:8097/CHANNEL-i/index.fmp4.m3u8?token=de0009c270f6732df280aff7862a3e6d693af428-603d6ace0b39d49ea0c9ba0740bb2cfc-1775835988-1775832388
+http://180.94.28.28:8097/CHANNEL-i/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Channel 24 .png" group-title="Bangla",CHANNEL 24
-http://180.94.28.28:8097/CHANNEL-24/index.fmp4.m3u8?token=2a5598849d479d069e6e28385f9418f190435071-240065eb5747bb2ad316ce8b77d6023f-1775835989-1775832389
+http://180.94.28.28:8097/CHANNEL-24/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Channel 9 .png" group-title="Bangla",CHANNEL 9
-http://180.94.28.28:8097/CHANNEL-9/index.fmp4.m3u8?token=6f264d1eafaa57b4fabb91e0cf6900871facd41d-a4b155291ba386c8272d31028c0cdc14-1775835990-1775832390
+http://180.94.28.28:8097/CHANNEL-9/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Deepto  TV .png" group-title="Bangla",DEEPTO TV
-http://180.94.28.28:8097/DEEPTO-TV/index.fmp4.m3u8?token=9f45bb663765beb141017f58c16d3a2d1c5167f2-687549b55dcedb9e664cea556d704b79-1775835991-1775832391
+http://180.94.28.28:8097/DEEPTO-TV/index.fmp4.m3u8 
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/DBC News.png" group-title="Bangla",DBC NEWS
-http://180.94.28.28:8097/DBC-NEWS/index.fmp4.m3u8?token=115922a247ec1587d3aaededc8960ed6bb22bc58-7050faf7e8bac2273fa63707906a4732-1775835992-1775832392
+http://180.94.28.28:8097/DBC-NEWS/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Independent TV.png" group-title="Bangla",INDEPENDENT TV
-http://180.94.28.28:8097/Independent-TV/index.fmp4.m3u8?token=ae689a939c62f4d59f6f2ab3eb5e32bb4ca60e83-e6c0cf14562dea73f963e13d0fdc18a4-1775835993-1775832393
+http://180.94.28.28:8097/Independent-TV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Rtv .png" group-title="Bangla",RTV
 http://180.94.28.28:8097/RTV/index.fmp4.m3u8?token=67db38795ecdcd1ddb4535c96c164ffb17a57c31-022d174687b5ef93a875252fe1c724b0-1775835994-1775832394
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Zee Bangla.png" group-title="Bangla",ZEE BANGLA
