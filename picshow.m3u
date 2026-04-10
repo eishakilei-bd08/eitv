@@ -291,7 +291,7 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/BTV.png" group-title="Bangla",BTV
-http://180.94.28.28:8097/BTV/index.fmp4.m3u8?token=830e48099eea204cb0741ba6e74668be9fd885de-7409e1cd562560b24300fa309d2cdac5-1775835981-1775832381
+http://180.94.28.28:8097/BTV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Jamuna Tv.png" group-title="Bangla",JAMUNA TV
 http://180.94.28.28:8097/Jamuna-TV/index.fmp4.m3u8?token=8709fa6c93b36c4b07d4d2aedc61d9ee98767f01-32e39b05357efb9f84bdcdcada52e937-1775835982-1775832382
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/MAASRANGA TV HD.png" group-title="Bangla",MAASRANGA TV
