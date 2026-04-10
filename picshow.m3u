@@ -245,17 +245,17 @@ http://180.94.28.28:8097/DBC-NEWS/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Independent TV.png" group-title="Bangla",INDEPENDENT TV
 http://180.94.28.28:8097/Independent-TV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Rtv .png" group-title="Bangla",RTV
-http://180.94.28.28:8097/RTV/index.fmp4.m3u8?token=67db38795ecdcd1ddb4535c96c164ffb17a57c31-022d174687b5ef93a875252fe1c724b0-1775835994-1775832394
+http://180.94.28.28:8097/RTV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Zee Bangla.png" group-title="Bangla",ZEE BANGLA
-http://180.94.28.28:8097/ZEE-BANGLA/index.fmp4.m3u8?token=77194509a3fd75741901869c73634c48cda384e6-546fcce9a74f057d3454e0cbf6b3211f-1775835995-1775832395
+http://180.94.28.28:8097/ZEE-BANGLA/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Star Jalsha.png" group-title="Bangla",STAR JALSHA
-http://180.94.28.28:8097/STAR-JALSHA/index.fmp4.m3u8?token=db6071b5d1c6b9e4afa9b3defc47233b5292d307-25c777773412bca98d938f00bcdbbd70-1775835996-1775832396
+http://180.94.28.28:8097/STAR-JALSHA/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Jalsha Movies.png" group-title="Bangla",JALSHA MOVIES
-http://180.94.28.28:8097/JALSHA-MOVIES/index.fmp4.m3u8?token=c842fbd34d3b41fa99f2e76dd638cb68a8e63315-da278e939d3906c5a4235aa2d8eca963-1775835997-1775832397
+http://180.94.28.28:8097/JALSHA-MOVIES/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Enter 10 Bangla.png" group-title="Bangla",ENTER 10 BANGLA
-http://180.94.28.28:8097/ENTER-10-BANGLA/index.fmp4.m3u8?token=340467b4c43aceb3fb5264ae9430700279bb466f-f912aaa2f8c3acf4d595e7d6bfb869ac-1775835998-1775832398
+http://180.94.28.28:8097/ENTER-10-BANGLA/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sony Aath.png" group-title="Bangla",SONY AATH
-http://180.94.28.28:8097/SONY-AATH/index.fmp4.m3u8?token=4fbd0d9b6c4613a42db85bbcef6ac271fcb0312c-84e0b73132f578fb78e841835fa6634f-1775835999-1775832399
+http://180.94.28.28:8097/SONY-AATH/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Colors Bangla.png" group-title="Bangla",COLORS BANGLA
 http://180.94.28.28:8097/COLORS-BANGLA/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Color Bangla Cinema.png" group-title="Bangla",COLORS BANGLA CINEMA
