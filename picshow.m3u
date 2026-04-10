@@ -290,56 +290,6 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 
 
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/T Sports.png" group-title="Sports",T SPORTS
-http://180.94.28.28:8097/T-Sports/index.fmp4.m3u8?token=b228ac19dc0f279e4e5ce5c6effb428a9aa3a4c1-fa37885715d5bb131aae4024118ae663-1775835951-1775832351
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Bein Sports Xtra .png" group-title="Sports",BEIN SPORTS USA
-http://180.94.28.28:8097/BEIN-SPORTS-USA/index.fmp4.m3u8?token=7a491d2ee8cc42637daa444140dff97317513b53-858e24dfe2c31880490572cd50312715-1775835952-1775832352
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Star Sports 1 .png" group-title="Sports",STAR SPORTS 1
-http://180.94.28.28:8097/STAR-SPORTS-1/index.fmp4.m3u8?token=2e42993ed5a129572ed7b33fe358ad389eb0e3f6-73346193c2ea1993585f6c0aae65d8e8-1775835953-1775832353
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Star Sports 2 .png" group-title="Sports",STAR SPORTS 2
-http://180.94.28.28:8097/Star-Sports-2/index.fmp4.m3u8?token=ec69a7ea46ce85f39cfbd5a16b42576e34eeb681-85761b6776b1196ef13f486072f047a4-1775835954-1775832354
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/StarSports Select 1 .png" group-title="Sports",STAR SPORTS SELECT 1
-http://180.94.28.28:8097/Star-Sports-Select-1/index.fmp4.m3u8?token=94e69ed9b832640c61f63525621e0094dbfc134b-671830406805b0d51524fa96e0eb03d2-1775835956-1775832356
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Star Sports Select 2 .png" group-title="Sports",STAR SPORTS SELECT 2
-http://180.94.28.28:8097/star-Sports-Select-2/index.fmp4.m3u8?token=27c99b65f04b8422f555cf8b1cdc90ef7abff70e-e325b18a48b8b1c20effd9cef56527bf-1775835957-1775832357
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Star Sports 3 .png" group-title="Sports",STAR SPORTS 3
-http://180.94.28.28:8097/Star-Sports-3/index.fmp4.m3u8?token=729186d89773b12065af2e1513fcf836a00637d6-37ea4c2910f0c9f71624105956d344c2-1775835959-1775832359
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sony Ten 1 HD.png" group-title="Sports",SONY TEN 1
-http://180.94.28.28:8097/Sony-Ten-1/index.fmp4.m3u8?token=4fe691b64f026a4dceacda9163bfa49164279b59-5393e88688e39ede87e9fee17635392f-1775835961-1775832361
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sony Ten 2 HD.png" group-title="Sports",SONY TEN 2
-http://180.94.28.28:8097/Sony-Ten-2/index.fmp4.m3u8?token=cec3d3ee58ccc8808677a595bb169dadb23e1ea4-cf392e4b9b1e9658b7ea5044d5673320-1775835962-1775832362
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sony Ten 3 HD.png" group-title="Sports",SONY TEN 3
-http://180.94.28.28:8097/Sony-Ten-3/index.fmp4.m3u8?token=9c945f12ff8402f2f9df04e2ab3dd250169475d4-8e71448c44a0d7b9042335fb26e329be-1775835963-1775832363
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sony Ten 5 HD.png" group-title="Sports",SONY TEN 5
-http://180.94.28.28:8097/Sony-Ten-5/index.fmp4.m3u8?token=4a1ab94effb0cf9de94508ffcb109510478f53ca-6063d64275da72fe2fa376773d712af5-1775835964-1775832364
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/PTV Sports.png" group-title="Sports",PTV SPORTS
-http://180.94.28.28:8097/PTV-Sports/index.fmp4.m3u8?token=ac6e96bb48dd94ee46927659227df3bf6401ec38-3dc7b8920fdbb12f73f20fd6d088d2fa-1775835965-1775832365
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/A Sports.png" group-title="Sports",A SPORTS
-http://180.94.28.28:8097/A-Sports/index.fmp4.m3u8?token=73aac8e1a687211b79606b0929309b0b0231535b-5e586dee1a4277736f33f6100262f49d-1775835966-1775832366
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Ten Sports.png" group-title="Sports",TEN SPORTS
-http://180.94.28.28:8097/Ten-Sports/index.fmp4.m3u8?token=b61fe307846a0fc0216e08083b2b102dc84dff11-52297d889ee1dc8cf6307c0c453492ae-1775835967-1775832367
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/ten cricket.png" group-title="Sports",TEN CRICKET
-http://180.94.28.28:8097/Ten-Cricket/index.fmp4.m3u8?token=0c1f78284cd8d621add2247e837bfd37f4c21890-05d5d5e7fabd6253500399fa968d0553-1775835968-1775832368
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/SuperSportcricket.png" group-title="Sports",SUPERSPORT CRICKET
-http://180.94.28.28:8097/SUPERSPORT-CRICKET/index.fmp4.m3u8?token=c824f8653ba80df691fe1d43278d60556a3039d7-132cdfa51459ce16e1e77e1b68800b53-1775835969-1775832369
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/SKY-SPORTS-CRICKET.png" group-title="Sports",SKY SPORTS CRICKET
-http://180.94.28.28:8097/SKY-SPORTS-CRICKET/index.fmp4.m3u8?token=261dac739e7c4e24123d0f70dcf1f9eb8d345ff9-1392ad30b533d677159aff96e1d7c05a-1775835970-1775832370
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/WILLOW_SPORTS.png" group-title="Sports",WILLOW TV
-http://180.94.28.28:8097/WILLOW-TV/index.fmp4.m3u8?token=c6c61fdcfaed22e94c08c4100c25d0d06435111a-6a770aa425a3d4fb8fe5d6070f5c7af4-1775835971-1775832371
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/BEIN-SPORTS-ARABIC.png" group-title="Sports",BEIN SPORTS ARABIC
-http://180.94.28.28:8097/BEIN-SPORTS-ARABIC/index.fmp4.m3u8?token=0f12334c7e38818c0dacb93d5e48d2dbd150ab5f-c96ca36ae9d36d3581708457fc0c0f3c-1775835972-1775832372
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/BEIN-SPORTS-1-ENG.png" group-title="Sports",BEIN SPORTS 1 ENG
-http://180.94.28.28:8097/BEIN-SPORTS-1-ENG/index.fmp4.m3u8?token=59020471d5d673425edd4bb576d030607bf0c143-cee499763d6ee25202b3631c53bd502b-1775835973-1775832373
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/BEIN-SPORTS-1.png" group-title="Sports",BEIN SPORTS 1
-http://180.94.28.28:8097/BEIN-SPORTS-1/index.fmp4.m3u8?token=b578e40acaa0034b5720a02572facf68af4c2b1f-753749eca55bd6a1359875eb18345466-1775835974-1775832374
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/BEIN-SPORTS-2.png" group-title="Sports",BEIN SPORTS 2
-http://180.94.28.28:8097/BEIN-SPORTS-2/index.fmp4.m3u8?token=e9558fc77fe766c0aea99d123419e77d60eebcdf-ee8770d008b634f21d2a2090fa42e8db-1775835975-1775832375
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/BEIN-SPORTS-3.png" group-title="Sports",BEIN SPORTS 3
-http://180.94.28.28:8097/BEIN-SPORTS-3/index.fmp4.m3u8?token=21806ef68a7982a2eff0508055dc8f16802c386a-b94484c370c423ca249925171c86e0fd-1775835976-1775832376
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/GEO-SUPER.png" group-title="Sports",GEO SUPER
-http://180.94.28.28:8097/GEO-SUPER/index.fmp4.m3u8?token=47351de0dee8729e9c002800076a255e4c739e73-eb595205960dc8facd2a5cfaaaa8cb89-1775835977-1775832377
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/BTV.png" group-title="Bangla",BTV
 http://180.94.28.28:8097/BTV/index.fmp4.m3u8?token=830e48099eea204cb0741ba6e74668be9fd885de-7409e1cd562560b24300fa309d2cdac5-1775835981-1775832381
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Jamuna Tv.png" group-title="Bangla",JAMUNA TV
