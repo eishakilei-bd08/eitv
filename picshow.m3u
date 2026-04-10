@@ -116,7 +116,6 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 
 
 
-
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQEkzy6nAcsyag/company-logo_200_200/company-logo_200_200/0/1630662269264?e=2147483647&v=beta&t=Xyxc5WJFZRKGMmHUyjXuUmOmYGO9bgGLbkwV9uyduxo",T Sports 
 https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",BTV
@@ -290,8 +289,6 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 
 
-
-#EXTM3U
 #EXTINF:-1 group-title="-", BBC EARTH HD 
 http://202.70.146.135:8000/play/a067/index.m3u8
 #EXTINF:-1 group-title="-", TEN 2 HD 
@@ -308,7 +305,7 @@ http://202.70.146.135:8000/play/a06c/index.m3u8
 http://202.70.146.135:8000/play/a04a/index.m3u8
 #EXTINF:-1 group-title="-",Colors Cineplex - Rs 19.00
 http://202.70.146.135:8000/play/a01b/index.m3u8
-#EXTINF:-1 group-title="-",Colors Cineplex Bollywood - Rs 0.10
+#EXTINF:-1 group-title="-",Colors Cineplex Bollywood 
 http://202.70.146.135:8000/play/a058/index.m3u8
 #EXTINF:-1 group-title="-",Colors Cineplex HD - Rs 19.00
 http://202.70.146.135:8000/play/a01x/index.m3u8
@@ -328,7 +325,7 @@ http://202.70.146.135:8000/play/a060/index.m3u8
 http://202.70.146.135:8000/play/a050/index.m3u8
 #EXTINF:-1 group-title="-",Disney Channel - Rs 10.00
 http://202.70.146.135:8000/play/a01q/index.m3u8
-#EXTINF:-1 group-title="-",Disney International HD - Rs 19.00
+#EXTINF:-1 group-title="-",Disney International HD
 http://202.70.146.135:8000/play/a04p/index.m3u8
 #EXTINF:-1 group-title="-",Disney Junior - Rs 4.00
 http://202.70.146.135:8000/play/a004/index.m3u8
