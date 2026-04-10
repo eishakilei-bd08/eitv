@@ -221,15 +221,15 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/BTV.png" group-title="Bangla",BTV
 http://180.94.28.28:8097/BTV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Jamuna Tv.png" group-title="Bangla",JAMUNA TV
-http://180.94.28.28:8097/Jamuna-TV/index.fmp4.m3u8?token=8709fa6c93b36c4b07d4d2aedc61d9ee98767f01-32e39b05357efb9f84bdcdcada52e937-1775835982-1775832382
+http://180.94.28.28:8097/Jamuna-TV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/MAASRANGA TV HD.png" group-title="Bangla",MAASRANGA TV
-http://180.94.28.28:8097/Maasranga-tv/index.fmp4.m3u8?token=fd144064c34fd41f83ad82f6b762fadc1f9bfaab-867e5a86e8e0a4bc677e27a2d6fe56c2-1775835983-1775832383
+http://180.94.28.28:8097/Maasranga-tv/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Nagorik TV .png" group-title="Bangla",NAGORIK TV
-http://180.94.28.28:8097/Nagorik-TV/index.fmp4.m3u8?token=58d50452374ca9070e4f227da601be61436c0a41-6bfcc792ed351737ee57e0c9cb6b4b44-1775835984-1775832384
+http://180.94.28.28:8097/Nagorik-TV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Somoy TV.png" group-title="Bangla",SOMOY TV
-http://180.94.28.28:8097/Somoy-TV/index.fmp4.m3u8?token=de0b636d88c8320064c1a0ff6103fb49f44d07ab-976489f4f97ed7e5bbad6d0ef9fd1208-1775835985-1775832385
+http://180.94.28.28:8097/Somoy-TV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Gazi TV.png" group-title="Bangla",GAZI TV
-http://180.94.28.28:8097/GAZI-TV/index.fmp4.m3u8?token=a68e8b01a2c19fb45176c70fac57c3bb0c8cfda2-1a7347e5ab57d7ffb6a50c0537b53615-1775835986-1775832386
+http://180.94.28.28:8097/GAZI-TV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Ekattur.png" group-title="Bangla",EKATTOR TV
 http://180.94.28.28:8097/EKATTOR-TV/index.fmp4.m3u8?token=fa279ff1114d473482f73cb339f38d4e1a32fd80-624981ee08a9937b28f81501bcbf7d6a-1775835987-1775832387
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Channel i .png" group-title="Bangla",CHANNEL I
