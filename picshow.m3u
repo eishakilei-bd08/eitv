@@ -289,6 +289,126 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 
 
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/T Sports.png" group-title="Sports",T SPORTS
+http://180.94.28.28:8097/T-Sports/index.fmp4.m3u8?token=b228ac19dc0f279e4e5ce5c6effb428a9aa3a4c1-fa37885715d5bb131aae4024118ae663-1775835951-1775832351
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Bein Sports Xtra .png" group-title="Sports",BEIN SPORTS USA
+http://180.94.28.28:8097/BEIN-SPORTS-USA/index.fmp4.m3u8?token=7a491d2ee8cc42637daa444140dff97317513b53-858e24dfe2c31880490572cd50312715-1775835952-1775832352
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Star Sports 1 .png" group-title="Sports",STAR SPORTS 1
+http://180.94.28.28:8097/STAR-SPORTS-1/index.fmp4.m3u8?token=2e42993ed5a129572ed7b33fe358ad389eb0e3f6-73346193c2ea1993585f6c0aae65d8e8-1775835953-1775832353
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Star Sports 2 .png" group-title="Sports",STAR SPORTS 2
+http://180.94.28.28:8097/Star-Sports-2/index.fmp4.m3u8?token=ec69a7ea46ce85f39cfbd5a16b42576e34eeb681-85761b6776b1196ef13f486072f047a4-1775835954-1775832354
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/StarSports Select 1 .png" group-title="Sports",STAR SPORTS SELECT 1
+http://180.94.28.28:8097/Star-Sports-Select-1/index.fmp4.m3u8?token=94e69ed9b832640c61f63525621e0094dbfc134b-671830406805b0d51524fa96e0eb03d2-1775835956-1775832356
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Star Sports Select 2 .png" group-title="Sports",STAR SPORTS SELECT 2
+http://180.94.28.28:8097/star-Sports-Select-2/index.fmp4.m3u8?token=27c99b65f04b8422f555cf8b1cdc90ef7abff70e-e325b18a48b8b1c20effd9cef56527bf-1775835957-1775832357
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Star Sports 3 .png" group-title="Sports",STAR SPORTS 3
+http://180.94.28.28:8097/Star-Sports-3/index.fmp4.m3u8?token=729186d89773b12065af2e1513fcf836a00637d6-37ea4c2910f0c9f71624105956d344c2-1775835959-1775832359
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sony Ten 1 HD.png" group-title="Sports",SONY TEN 1
+http://180.94.28.28:8097/Sony-Ten-1/index.fmp4.m3u8?token=4fe691b64f026a4dceacda9163bfa49164279b59-5393e88688e39ede87e9fee17635392f-1775835961-1775832361
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sony Ten 2 HD.png" group-title="Sports",SONY TEN 2
+http://180.94.28.28:8097/Sony-Ten-2/index.fmp4.m3u8?token=cec3d3ee58ccc8808677a595bb169dadb23e1ea4-cf392e4b9b1e9658b7ea5044d5673320-1775835962-1775832362
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sony Ten 3 HD.png" group-title="Sports",SONY TEN 3
+http://180.94.28.28:8097/Sony-Ten-3/index.fmp4.m3u8?token=9c945f12ff8402f2f9df04e2ab3dd250169475d4-8e71448c44a0d7b9042335fb26e329be-1775835963-1775832363
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sony Ten 5 HD.png" group-title="Sports",SONY TEN 5
+http://180.94.28.28:8097/Sony-Ten-5/index.fmp4.m3u8?token=4a1ab94effb0cf9de94508ffcb109510478f53ca-6063d64275da72fe2fa376773d712af5-1775835964-1775832364
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/PTV Sports.png" group-title="Sports",PTV SPORTS
+http://180.94.28.28:8097/PTV-Sports/index.fmp4.m3u8?token=ac6e96bb48dd94ee46927659227df3bf6401ec38-3dc7b8920fdbb12f73f20fd6d088d2fa-1775835965-1775832365
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/A Sports.png" group-title="Sports",A SPORTS
+http://180.94.28.28:8097/A-Sports/index.fmp4.m3u8?token=73aac8e1a687211b79606b0929309b0b0231535b-5e586dee1a4277736f33f6100262f49d-1775835966-1775832366
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Ten Sports.png" group-title="Sports",TEN SPORTS
+http://180.94.28.28:8097/Ten-Sports/index.fmp4.m3u8?token=b61fe307846a0fc0216e08083b2b102dc84dff11-52297d889ee1dc8cf6307c0c453492ae-1775835967-1775832367
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/ten cricket.png" group-title="Sports",TEN CRICKET
+http://180.94.28.28:8097/Ten-Cricket/index.fmp4.m3u8?token=0c1f78284cd8d621add2247e837bfd37f4c21890-05d5d5e7fabd6253500399fa968d0553-1775835968-1775832368
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/SuperSportcricket.png" group-title="Sports",SUPERSPORT CRICKET
+http://180.94.28.28:8097/SUPERSPORT-CRICKET/index.fmp4.m3u8?token=c824f8653ba80df691fe1d43278d60556a3039d7-132cdfa51459ce16e1e77e1b68800b53-1775835969-1775832369
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/SKY-SPORTS-CRICKET.png" group-title="Sports",SKY SPORTS CRICKET
+http://180.94.28.28:8097/SKY-SPORTS-CRICKET/index.fmp4.m3u8?token=261dac739e7c4e24123d0f70dcf1f9eb8d345ff9-1392ad30b533d677159aff96e1d7c05a-1775835970-1775832370
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/WILLOW_SPORTS.png" group-title="Sports",WILLOW TV
+http://180.94.28.28:8097/WILLOW-TV/index.fmp4.m3u8?token=c6c61fdcfaed22e94c08c4100c25d0d06435111a-6a770aa425a3d4fb8fe5d6070f5c7af4-1775835971-1775832371
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/BEIN-SPORTS-ARABIC.png" group-title="Sports",BEIN SPORTS ARABIC
+http://180.94.28.28:8097/BEIN-SPORTS-ARABIC/index.fmp4.m3u8?token=0f12334c7e38818c0dacb93d5e48d2dbd150ab5f-c96ca36ae9d36d3581708457fc0c0f3c-1775835972-1775832372
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/BEIN-SPORTS-1-ENG.png" group-title="Sports",BEIN SPORTS 1 ENG
+http://180.94.28.28:8097/BEIN-SPORTS-1-ENG/index.fmp4.m3u8?token=59020471d5d673425edd4bb576d030607bf0c143-cee499763d6ee25202b3631c53bd502b-1775835973-1775832373
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/BEIN-SPORTS-1.png" group-title="Sports",BEIN SPORTS 1
+http://180.94.28.28:8097/BEIN-SPORTS-1/index.fmp4.m3u8?token=b578e40acaa0034b5720a02572facf68af4c2b1f-753749eca55bd6a1359875eb18345466-1775835974-1775832374
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/BEIN-SPORTS-2.png" group-title="Sports",BEIN SPORTS 2
+http://180.94.28.28:8097/BEIN-SPORTS-2/index.fmp4.m3u8?token=e9558fc77fe766c0aea99d123419e77d60eebcdf-ee8770d008b634f21d2a2090fa42e8db-1775835975-1775832375
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/BEIN-SPORTS-3.png" group-title="Sports",BEIN SPORTS 3
+http://180.94.28.28:8097/BEIN-SPORTS-3/index.fmp4.m3u8?token=21806ef68a7982a2eff0508055dc8f16802c386a-b94484c370c423ca249925171c86e0fd-1775835976-1775832376
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/GEO-SUPER.png" group-title="Sports",GEO SUPER
+http://180.94.28.28:8097/GEO-SUPER/index.fmp4.m3u8?token=47351de0dee8729e9c002800076a255e4c739e73-eb595205960dc8facd2a5cfaaaa8cb89-1775835977-1775832377
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/BTV.png" group-title="Bangla",BTV
+http://180.94.28.28:8097/BTV/index.fmp4.m3u8?token=830e48099eea204cb0741ba6e74668be9fd885de-7409e1cd562560b24300fa309d2cdac5-1775835981-1775832381
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Jamuna Tv.png" group-title="Bangla",JAMUNA TV
+http://180.94.28.28:8097/Jamuna-TV/index.fmp4.m3u8?token=8709fa6c93b36c4b07d4d2aedc61d9ee98767f01-32e39b05357efb9f84bdcdcada52e937-1775835982-1775832382
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/MAASRANGA TV HD.png" group-title="Bangla",MAASRANGA TV
+http://180.94.28.28:8097/Maasranga-tv/index.fmp4.m3u8?token=fd144064c34fd41f83ad82f6b762fadc1f9bfaab-867e5a86e8e0a4bc677e27a2d6fe56c2-1775835983-1775832383
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Nagorik TV .png" group-title="Bangla",NAGORIK TV
+http://180.94.28.28:8097/Nagorik-TV/index.fmp4.m3u8?token=58d50452374ca9070e4f227da601be61436c0a41-6bfcc792ed351737ee57e0c9cb6b4b44-1775835984-1775832384
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Somoy TV.png" group-title="Bangla",SOMOY TV
+http://180.94.28.28:8097/Somoy-TV/index.fmp4.m3u8?token=de0b636d88c8320064c1a0ff6103fb49f44d07ab-976489f4f97ed7e5bbad6d0ef9fd1208-1775835985-1775832385
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Gazi TV.png" group-title="Bangla",GAZI TV
+http://180.94.28.28:8097/GAZI-TV/index.fmp4.m3u8?token=a68e8b01a2c19fb45176c70fac57c3bb0c8cfda2-1a7347e5ab57d7ffb6a50c0537b53615-1775835986-1775832386
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Ekattur.png" group-title="Bangla",EKATTOR TV
+http://180.94.28.28:8097/EKATTOR-TV/index.fmp4.m3u8?token=fa279ff1114d473482f73cb339f38d4e1a32fd80-624981ee08a9937b28f81501bcbf7d6a-1775835987-1775832387
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Channel i .png" group-title="Bangla",CHANNEL I
+http://180.94.28.28:8097/CHANNEL-i/index.fmp4.m3u8?token=de0009c270f6732df280aff7862a3e6d693af428-603d6ace0b39d49ea0c9ba0740bb2cfc-1775835988-1775832388
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Channel 24 .png" group-title="Bangla",CHANNEL 24
+http://180.94.28.28:8097/CHANNEL-24/index.fmp4.m3u8?token=2a5598849d479d069e6e28385f9418f190435071-240065eb5747bb2ad316ce8b77d6023f-1775835989-1775832389
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Channel 9 .png" group-title="Bangla",CHANNEL 9
+http://180.94.28.28:8097/CHANNEL-9/index.fmp4.m3u8?token=6f264d1eafaa57b4fabb91e0cf6900871facd41d-a4b155291ba386c8272d31028c0cdc14-1775835990-1775832390
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Deepto  TV .png" group-title="Bangla",DEEPTO TV
+http://180.94.28.28:8097/DEEPTO-TV/index.fmp4.m3u8?token=9f45bb663765beb141017f58c16d3a2d1c5167f2-687549b55dcedb9e664cea556d704b79-1775835991-1775832391
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/DBC News.png" group-title="Bangla",DBC NEWS
+http://180.94.28.28:8097/DBC-NEWS/index.fmp4.m3u8?token=115922a247ec1587d3aaededc8960ed6bb22bc58-7050faf7e8bac2273fa63707906a4732-1775835992-1775832392
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Independent TV.png" group-title="Bangla",INDEPENDENT TV
+http://180.94.28.28:8097/Independent-TV/index.fmp4.m3u8?token=ae689a939c62f4d59f6f2ab3eb5e32bb4ca60e83-e6c0cf14562dea73f963e13d0fdc18a4-1775835993-1775832393
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Rtv .png" group-title="Bangla",RTV
+http://180.94.28.28:8097/RTV/index.fmp4.m3u8?token=67db38795ecdcd1ddb4535c96c164ffb17a57c31-022d174687b5ef93a875252fe1c724b0-1775835994-1775832394
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Zee Bangla.png" group-title="Bangla",ZEE BANGLA
+http://180.94.28.28:8097/ZEE-BANGLA/index.fmp4.m3u8?token=77194509a3fd75741901869c73634c48cda384e6-546fcce9a74f057d3454e0cbf6b3211f-1775835995-1775832395
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Star Jalsha.png" group-title="Bangla",STAR JALSHA
+http://180.94.28.28:8097/STAR-JALSHA/index.fmp4.m3u8?token=db6071b5d1c6b9e4afa9b3defc47233b5292d307-25c777773412bca98d938f00bcdbbd70-1775835996-1775832396
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Jalsha Movies.png" group-title="Bangla",JALSHA MOVIES
+http://180.94.28.28:8097/JALSHA-MOVIES/index.fmp4.m3u8?token=c842fbd34d3b41fa99f2e76dd638cb68a8e63315-da278e939d3906c5a4235aa2d8eca963-1775835997-1775832397
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Enter 10 Bangla.png" group-title="Bangla",ENTER 10 BANGLA
+http://180.94.28.28:8097/ENTER-10-BANGLA/index.fmp4.m3u8?token=340467b4c43aceb3fb5264ae9430700279bb466f-f912aaa2f8c3acf4d595e7d6bfb869ac-1775835998-1775832398
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sony Aath.png" group-title="Bangla",SONY AATH
+http://180.94.28.28:8097/SONY-AATH/index.fmp4.m3u8?token=4fbd0d9b6c4613a42db85bbcef6ac271fcb0312c-84e0b73132f578fb78e841835fa6634f-1775835999-1775832399
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Colors Bangla.png" group-title="Bangla",COLORS BANGLA
+http://180.94.28.28:8097/COLORS-BANGLA/index.fmp4.m3u8?token=59db7894dafc81c718d6df231c20564163610ce8-52d9f106fa05bc6a3f1c025af92f1ddd-1775836000-1775832400
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Color Bangla Cinema.png" group-title="Bangla",COLORS BANGLA CINEMA
+http://180.94.28.28:8097/COLORS-BANGLA-CINEMA/index.fmp4.m3u8?token=ecbcdd3cb78277f7616a33ce4b1731058cd07329-3f6a53e55ccdd2f10dafe2b12566373f-1775836002-1775832402
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sun Bangla.png" group-title="Bangla",SUN BANGLA
+http://180.94.28.28:8097/SUN-BANGLA/index.fmp4.m3u8?token=4f54deb41f267eb6372fa5c4ccb64a5259f385d2-a4a86cacd6db906ecb63770edefcb434-1775836003-1775832403
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sony max 2.png" group-title="Hindi",SONY MAX 2
+http://180.94.28.28:8097/SONY-MAX-2/index.fmp4.m3u8?token=0ea88d8e8fe21f5c998b6b8ab0cb7288d6cecdf8-060eafb0a9495dfd4d314e1a6a0bbcbd-1775836006-1775832406
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Zee Cinema HD .png" group-title="Hindi",ZEE CINEMA
+http://180.94.28.28:8097/ZEE-CINEMA/index.fmp4.m3u8?token=bb95f0a3e1103610c0636ebf958553b4adbc8afb-3b29600b0ef8516ef6ca6e5de4fe46ba-1775836009-1775832409
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/MOVIES-NOW.png" group-title="Hindi",MOVIES NOW
+http://180.94.28.28:8097/MOVIES-NOW/index.fmp4.m3u8?token=52f365c18dc137053b0446f4b9d5019020d349eb-67e1dedb6b63efaf491b02088e709729-1775836010-1775832410
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/CN.png" group-title="Kids",CARTOON NETWORK
+http://180.94.28.28:8097/CARTOON-NETWORK/index.fmp4.m3u8?token=d144c1d2c40d2f39e534e2542cb18411af32764a-d485ab28d2363d750dc79bd9d193678d-1775836011-1775832411
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/POGO1664977122.png" group-title="Kids",POGO
+http://180.94.28.28:8097/POGO/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Discovery_kids.png" group-title="Kids",DISCOVERY KIDS
+http://180.94.28.28:8097/DISCOVERY-KIDS/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Duronto-TV.png" group-title="Kids",DURONTO TV
+http://180.94.28.28:8097/Duronto-TV/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Discovery.png" group-title="Other",DISCOVERY BANGLA
+http://180.94.28.28:8097/DISCOVERY-BANGLA/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/National Geography.png" group-title="Other",NAT GEO BANGLA
+http://180.94.28.28:8097/NAT-GEO-BANGLA/index.fmp4.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="-", BBC EARTH HD 
 http://202.70.146.135:8000/play/a067/index.m3u8
 #EXTINF:-1 group-title="-", TEN 2 HD 
