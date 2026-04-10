@@ -329,19 +329,19 @@ http://180.94.28.28:8097/ENTER-10-BANGLA/index.fmp4.m3u8?token=340467b4c43aceb3f
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sony Aath.png" group-title="Bangla",SONY AATH
 http://180.94.28.28:8097/SONY-AATH/index.fmp4.m3u8?token=4fbd0d9b6c4613a42db85bbcef6ac271fcb0312c-84e0b73132f578fb78e841835fa6634f-1775835999-1775832399
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Colors Bangla.png" group-title="Bangla",COLORS BANGLA
-http://180.94.28.28:8097/COLORS-BANGLA/index.fmp4.m3u8?token=59db7894dafc81c718d6df231c20564163610ce8-52d9f106fa05bc6a3f1c025af92f1ddd-1775836000-1775832400
+http://180.94.28.28:8097/COLORS-BANGLA/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Color Bangla Cinema.png" group-title="Bangla",COLORS BANGLA CINEMA
-http://180.94.28.28:8097/COLORS-BANGLA-CINEMA/index.fmp4.m3u8?token=ecbcdd3cb78277f7616a33ce4b1731058cd07329-3f6a53e55ccdd2f10dafe2b12566373f-1775836002-1775832402
+http://180.94.28.28:8097/COLORS-BANGLA-CINEMA/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sun Bangla.png" group-title="Bangla",SUN BANGLA
-http://180.94.28.28:8097/SUN-BANGLA/index.fmp4.m3u8?token=4f54deb41f267eb6372fa5c4ccb64a5259f385d2-a4a86cacd6db906ecb63770edefcb434-1775836003-1775832403
+http://180.94.28.28:8097/SUN-BANGLA/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sony max 2.png" group-title="Hindi",SONY MAX 2
-http://180.94.28.28:8097/SONY-MAX-2/index.fmp4.m3u8?token=0ea88d8e8fe21f5c998b6b8ab0cb7288d6cecdf8-060eafb0a9495dfd4d314e1a6a0bbcbd-1775836006-1775832406
+http://180.94.28.28:8097/SONY-MAX-2/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Zee Cinema HD .png" group-title="Hindi",ZEE CINEMA
-http://180.94.28.28:8097/ZEE-CINEMA/index.fmp4.m3u8?token=bb95f0a3e1103610c0636ebf958553b4adbc8afb-3b29600b0ef8516ef6ca6e5de4fe46ba-1775836009-1775832409
+http://180.94.28.28:8097/ZEE-CINEMA/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/MOVIES-NOW.png" group-title="Hindi",MOVIES NOW
-http://180.94.28.28:8097/MOVIES-NOW/index.fmp4.m3u8?token=52f365c18dc137053b0446f4b9d5019020d349eb-67e1dedb6b63efaf491b02088e709729-1775836010-1775832410
+http://180.94.28.28:8097/MOVIES-NOW/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/CN.png" group-title="Kids",CARTOON NETWORK
-http://180.94.28.28:8097/CARTOON-NETWORK/index.fmp4.m3u8?token=d144c1d2c40d2f39e534e2542cb18411af32764a-d485ab28d2363d750dc79bd9d193678d-1775836011-1775832411
+http://180.94.28.28:8097/CARTOON-NETWORK/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/POGO1664977122.png" group-title="Kids",POGO
 http://180.94.28.28:8097/POGO/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Discovery_kids.png" group-title="Kids",DISCOVERY KIDS
