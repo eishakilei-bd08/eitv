@@ -86,7 +86,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="BANGLA",মুভি বাংলা🇧🇩
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-https://edge2.roarzone.info:8447/roarzone/edge3/movie-bangla/tracks-v1a1/mono.m3u8?token=9d83f14e8afc0c60b3a0e9e3a3783af326e0844b-388f33a80110c35bf29fe1f6e55d4345-1772118157-1772114557
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="BANGLA",Me-টিভি
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="BANGLA",দেশি টিভি
@@ -224,10 +223,6 @@ http://180.94.28.28:8097/BTV/index.fmp4.m3u8
 http://180.94.28.28:8097/Jamuna-TV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/MAASRANGA TV HD.png" group-title="Bangla",MAASRANGA TV
 http://180.94.28.28:8097/Maasranga-tv/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Nagorik TV .png" group-title="Bangla",NAGORIK TV
-http://180.94.28.28:8097/Nagorik-TV/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Somoy TV.png" group-title="Bangla",SOMOY TV
-http://180.94.28.28:8097/Somoy-TV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Gazi TV.png" group-title="Bangla",GAZI TV
 http://180.94.28.28:8097/GAZI-TV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Ekattur.png" group-title="Bangla",EKATTOR TV
