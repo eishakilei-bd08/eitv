@@ -213,6 +213,43 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 
 
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/DeeptoTV.png",Deepto TV
+http://103.229.254.25:7001/play/a05r/index.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/dtv.png",Desh TV
+http://103.229.254.25:7001/play/a05s/index.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/GlobalTV.png",Global TV
+http://103.229.254.25:7001/play/a05o/index.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/Ekhon.png",Ekhon TV
+http://103.229.254.25:7001/play/a09k/index.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/deshitv.png",Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/metv.png",Me TV
+https://iptvbd.live/metv1080/1080.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/bijoytv.png",Bijoy TV 
+http://103.229.254.25:7001/play/a066/index.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/banglatv.png",Bangla TV 
+http://116.204.149.16/banglatv/index.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/mohonatv.png",Mohona TV 
+http://103.229.254.25:7001/play/a05t/index.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/movieban.png",Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/mytv.png",My TV
+http://103.229.254.25:7001/play/a05z/index.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/nextv.png",Nexus TV
+http://103.229.254.25:7001/play/a05m/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/BTV.png" group-title="Bangla",BTV
 http://180.94.28.28:8097/BTV/index.fmp4.m3u8
