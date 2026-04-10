@@ -21,10 +21,6 @@ http://172.16.29.2:8090/hls/StarSports2HD.m3u8
 http://172.16.29.2:8090/hls/StarSportsSelect1HD.m3u8
 #EXTINF:-1 tvg-name="STAR SPORTS SELECT 2" tvg-logo="http://172.16.29.28/images/starsportsselect2hd.png" group-title="DentCure",STAR SPORTS SELECT 2📺
 http://172.16.29.2:8090/hls/StarSportsSelect2HD.m3u8
-#EXTINF:-1 tvg-name="WILLOW CRICKET 2" tvg-logo="http://172.16.29.28/images/willow.png" group-title="DentCure",WILLOW CRICKET 2📺
-http://172.16.29.2:8090/hls/willowcrickethd.m3u8
-#EXTINF:-1 tvg-name="XTREAM SPORTS" tvg-logo="http://172.16.29.28/images/ptvsports.png" group-title="DentCure",XTREAM SPORTS📺
-http://172.16.29.2:8090/hls/xtreamsports.m3u8
 #EXTINF:-1 tvg-name="STAR SPORTS " tvg-logo="http://172.16.29.28/images/ptvsports.png" group-title="DentCure",STAR SPORTS📺
 http://172.16.29.2:8090/hls/StarSportsHindi2HD.m3u8
 #EXTINF:-1 tvg-name="STAR SPORTS 1" tvg-logo="http://172.16.29.28/images/ptvsports.png" group-title="DentCure",STAR SPORTS 1📺
