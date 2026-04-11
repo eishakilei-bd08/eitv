@@ -41,8 +41,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:-1,Channel 9🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-
-
 #EXTINF:-1,G-Series🇧🇩
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Rajdhani TV🇧🇩
@@ -840,7 +838,6 @@ https://cdn-6.pishow.tv/live/10014/master.m3u8
 https://cdn-6.pishow.tv/live/10015/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Rang
 https://cdn-7.pishow.tv/live/10017/master.m3u8
-
 
 
 #EXTINF:-1 group-title="STAR" tvg-logo="https://i.imgur.com/G0ZfzZr.png",Star Gold 2 HD (1080p)
