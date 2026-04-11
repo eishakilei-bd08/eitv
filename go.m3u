@@ -2733,6 +2733,239 @@ http://103.213.31.109:90/ZeeAnmolCinema2/playlist.m3u8
 http://103.213.31.109:90/ZeeChitraMandir/playlist.m3u8
 
 
+
+
+#EXTM3U
+#EXTINF:-1 group-title="-",001-PTV-SPORTS-HD
+http://103.147.87.50:8001/play/a001/index.m3u8
+#EXTINF:-1 group-title="-",002-50-ARYMusik
+http://103.147.87.50:8001/play/a002/index.m3u8
+#EXTINF:-1 group-title="-",003-50-Public News
+http://103.147.87.50:8001/play/a003/index.m3u8
+#EXTINF:-1 group-title="-",004-50-ARYDigita Asia HD
+http://103.147.87.50:8001/play/a004/index.m3u8
+#EXTINF:-1 group-title="-",005-50-PAIGHAM TV
+http://103.147.87.50:8001/play/a005/index.m3u8
+#EXTINF:-1 group-title="-",006-50-MADANI TV
+http://103.147.87.50:8001/play/a006/index.m3u8
+#EXTINF:-1 group-title="-",007-50-ARY News Asia
+http://103.147.87.50:8001/play/a007/index.m3u8
+#EXTINF:-1 group-title="-",008-50-ARYQTV
+http://103.147.87.50:8001/play/a008/index.m3u8
+#EXTINF:-1 group-title="-",009-50-ARY Zindagi
+http://103.147.87.50:8001/play/a009/index.m3u8
+#EXTINF:-1 group-title="-",010-50-AAN TV - HD
+http://103.147.87.50:8001/play/a00a/index.m3u8
+#EXTINF:-1 group-title="-",011-50-Kay-2 HD
+http://103.147.87.50:8001/play/a00b/index.m3u8
+#EXTINF:-1 group-title="-",012-50-Avt khyber HD
+http://103.147.87.50:8001/play/a00c/index.m3u8
+#EXTINF:-1 group-title="-",013-50-Khyber News HD
+http://103.147.87.50:8001/play/a00d/index.m3u8
+#EXTINF:-1 group-title="-",014-50-Hidayat TV
+http://103.147.87.50:8001/play/a00e/index.m3u8
+#EXTINF:-1 group-title="-",015-50-Bethat TV
+http://103.147.87.50:8001/play/a00f/index.m3u8
+#EXTINF:-1 group-title="-",016-50-7 NEWS
+http://103.147.87.50:8001/play/a00g/index.m3u8
+#EXTINF:-1 group-title="-",017-50-QURAN TV
+http://103.147.87.50:8001/play/a00h/index.m3u8
+#EXTINF:-1 group-title="-",018-50-Al Ehsaan Tv
+http://103.147.87.50:8001/play/a00i/index.m3u8
+#EXTINF:-1 group-title="-",019-50-Al Zahra
+http://103.147.87.50:8001/play/a00j/index.m3u8
+#EXTINF:-1 group-title="-",020-50-MUNTAZIR TV
+http://103.147.87.50:8001/play/a00k/index.m3u8
+#EXTINF:-1 group-title="-",021-50-iFilm English
+http://103.147.87.50:8001/play/a00l/index.m3u8
+#EXTINF:-1 group-title="-",022-50-LotusTV
+http://103.147.87.50:8001/play/a00m/index.m3u8
+#EXTINF:-1 group-title="-",023-50-FASHIONTV HD
+http://103.147.87.50:8001/play/a00n/index.m3u8
+#EXTINF:-1 group-title="-",024-50-FASHION TV 
+http://103.147.87.50:8001/play/a00o/index.m3u8
+#EXTINF:-1 group-title="-",025-45-PTV-NEWS HD
+http://103.147.87.50:8001/play/a00p/index.m3u8
+#EXTINF:-1 group-title="-",026-45-PTV-Home HD
+http://103.147.87.50:8001/play/a00q/index.m3u8
+#EXTINF:-1 group-title="-",027-45-KTN ENT
+http://103.147.87.50:8001/play/a00s/index.m3u8
+#EXTINF:-1 group-title="-",028-45-KTN NEWS
+http://103.147.87.50:8001/play/a00t/index.m3u8
+#EXTINF:-1 group-title="-",029-45-PTV National
+http://103.147.87.50:8001/play/a00r/index.m3u8
+#EXTINF:-1 group-title="-",030-45-GreenEnt - HD
+http://103.147.87.50:8001/play/a00v/index.m3u8
+#EXTINF:-1 group-title="-",031-45-PTV-Global
+http://103.147.87.50:8001/play/a00w/index.m3u8
+#EXTINF:-1 group-title="-",032-45-TV5
+http://103.147.87.50:8001/play/a00u/index.m3u8
+#EXTINF:-1 group-title="-",033-45-PTV-World
+http://103.147.87.50:8001/play/a00x/index.m3u8
+#EXTINF:-1 group-title="-",034-45-Ahlebait TV
+http://103.147.87.50:8001/play/a00y/index.m3u8
+#EXTINF:-1 group-title="-",035-45-KASHISH
+http://103.147.87.50:8001/play/a00z/index.m3u8
+#EXTINF:-1 group-title="-",036-45-TV ONE
+http://103.147.87.50:8001/play/a010/index.m3u8
+#EXTINF:-1 group-title="-",037-45-WASEB TV
+http://103.147.87.50:8001/play/a011/index.m3u8
+#EXTINF:-1 group-title="-",038-45-NEWS ONE
+http://103.147.87.50:8001/play/a012/index.m3u8
+#EXTINF:-1 group-title="-",039-45-Venus Entertainment
+http://103.147.87.50:8001/play/a013/index.m3u8
+#EXTINF:-1 group-title="-",040-45-Pashto 1
+http://103.147.87.50:8001/play/a014/index.m3u8
+#EXTINF:-1 group-title="-",041-45-Sindh TV
+http://103.147.87.50:8001/play/a015/index.m3u8
+#EXTINF:-1 group-title="-",042-45-Sindh News
+http://103.147.87.50:8001/play/a016/index.m3u8
+#EXTINF:-1 group-title="-",043-45-VSH
+http://103.147.87.50:8001/play/a017/index.m3u8
+#EXTINF:-1 group-title="-",044-45-Hoora TV
+http://103.147.87.50:8001/play/a018/index.m3u8
+#EXTINF:-1 group-title="-",045-46-GNNHD
+http://103.147.87.50:8001/play/a01a/index.m3u8
+#EXTINF:-1 group-title="-",046-46-Lahore Rang HD
+http://103.147.87.50:8001/play/a01b/index.m3u8
+#EXTINF:-1 group-title="-",047-46-Dharti Tv
+http://103.147.87.50:8001/play/a01c/index.m3u8
+#EXTINF:-1 group-title="-",048-46-NOOR TV
+http://103.147.87.50:8001/play/a01d/index.m3u8
+#EXTINF:-1 group-title="-",049-46-SUCH TV HD
+http://103.147.87.50:8001/play/a01e/index.m3u8
+#EXTINF:-1 group-title="-",050-46-365 News HD
+http://103.147.87.50:8001/play/a01f/index.m3u8
+#EXTINF:-1 group-title="-",051-46-SAMAA
+http://103.147.87.50:8001/play/a01g/index.m3u8
+#EXTINF:-1 group-title="-",052-46-NEO NEWS HD
+http://103.147.87.50:8001/play/a01h/index.m3u8
+#EXTINF:-1 group-title="-",053-46-SAHAR URDU
+http://103.147.87.50:8001/play/a01i/index.m3u8
+#EXTINF:-1 group-title="-",054-46-PRESS TV
+http://103.147.87.50:8001/play/a01j/index.m3u8
+#EXTINF:-1 group-title="-",055-47-SUNO NEWS-HD
+http://103.147.87.50:8001/play/a01o/index.m3u8
+#EXTINF:-1 group-title="-",056-47-LTN FAMILY
+http://103.147.87.50:8001/play/a01q/index.m3u8
+#EXTINF:-1 group-title="-",057-47-FILMAZIA
+http://103.147.87.50:8001/play/a01r/index.m3u8
+#EXTINF:-1 group-title="-",058-47-ARUJ TV
+http://103.147.87.50:8001/play/a01s/index.m3u8
+#EXTINF:-1 group-title="-",059-47-FILMAZIA PUNJABI
+http://103.147.87.50:8001/play/a01t/index.m3u8
+#EXTINF:-1 group-title="-",060-47-FILMAX
+http://103.147.87.50:8001/play/a01u/index.m3u8
+#EXTINF:-1 group-title="-",061-47-HADI TV
+http://103.147.87.50:8001/play/a01v/index.m3u8
+#EXTINF:-1 group-title="-",062-47-ACTION CINEMA
+http://103.147.87.50:8001/play/a01w/index.m3u8
+#EXTINF:-1 group-title="-",063-47-ANMOL CINEMA 2
+http://103.147.87.50:8001/play/a01x/index.m3u8
+#EXTINF:-1 group-title="-",064-47-EPIC Music
+http://103.147.87.50:8001/play/a01y/index.m3u8
+#EXTINF:-1 group-title="-",065-47-B4U MUSIC
+http://103.147.87.50:8001/play/a01z/index.m3u8
+#EXTINF:-1 group-title="-",066-47-B4U Movies
+http://103.147.87.50:8001/play/a020/index.m3u8
+#EXTINF:-1 group-title="-",067-47-All Time Movies
+http://103.147.87.50:8001/play/a021/index.m3u8
+#EXTINF:-1 group-title="-",068-47-ANMOL TV
+http://103.147.87.50:8001/play/a022/index.m3u8
+#EXTINF:-1 group-title="-",069-48-CITY-42
+http://103.147.87.50:8001/play/a023/index.m3u8
+#EXTINF:-1 group-title="-",070-48-CITY-41
+http://103.147.87.50:8001/play/a024/index.m3u8
+#EXTINF:-1 group-title="-",071-48-ROHI TV
+http://103.147.87.50:8001/play/a025/index.m3u8
+#EXTINF:-1 group-title="-",072-48-Dunya News HD
+http://103.147.87.50:8001/play/a026/index.m3u8
+#EXTINF:-1 group-title="-",073-48-Lahore News
+http://103.147.87.50:8001/play/a027/index.m3u8
+#EXTINF:-1 group-title="-",074-48-CITY-21
+http://103.147.87.50:8001/play/a028/index.m3u8
+#EXTINF:-1 group-title="-",075-48-Play TV
+http://103.147.87.50:8001/play/a029/index.m3u8
+#EXTINF:-1 group-title="-",076-48-92 News HD
+http://103.147.87.50:8001/play/a02a/index.m3u8
+#EXTINF:-1 group-title="-",077-48-ABN News HD
+http://103.147.87.50:8001/play/a02b/index.m3u8
+#EXTINF:-1 group-title="-",078-48-24 News HD
+http://103.147.87.50:8001/play/a02c/index.m3u8
+#EXTINF:-1 group-title="-",079-48-Roze TV
+http://103.147.87.50:8001/play/a02d/index.m3u8
+#EXTINF:-1 group-title="-",080-48-AAJ News HD
+http://103.147.87.50:8001/play/a02e/index.m3u8
+#EXTINF:-1 group-title="-",081-48-Digital 1
+http://103.147.87.50:8001/play/a02f/index.m3u8
+#EXTINF:-1 group-title="-",082-48-Discover Pakistan
+http://103.147.87.50:8001/play/a02g/index.m3u8
+#EXTINF:-1 group-title="-",083-48-TV2DAY
+http://103.147.87.50:8001/play/a02h/index.m3u8
+#EXTINF:-1 group-title="-",084-48-AUR TV
+http://103.147.87.50:8001/play/a02i/index.m3u8
+#EXTINF:-1 group-title="-",085-48-SET Entertainment
+http://103.147.87.50:8001/play/a02j/index.m3u8
+#EXTINF:-1 group-title="-",086-48-Metro 1
+http://103.147.87.50:8001/play/a02k/index.m3u8
+#EXTINF:-1 group-title="-",087-48-Sab TV
+http://103.147.87.50:8001/play/a02l/index.m3u8
+#EXTINF:-1 group-title="-",088-48-Venus HD
+http://103.147.87.50:8001/play/a02m/index.m3u8
+#EXTINF:-1 group-title="-",089-48-APlus Pakistan
+http://103.147.87.50:8001/play/a02n/index.m3u8
+#EXTINF:-1 group-title="-",090-48-Channel5
+http://103.147.87.50:8001/play/a02o/index.m3u8
+#EXTINF:-1 group-title="-",091-48-Alief TV
+http://103.147.87.50:8001/play/a02p/index.m3u8
+#EXTINF:-1 group-title="-",092-48-Play TV
+http://103.147.87.50:8001/play/a02q/index.m3u8
+#EXTINF:-1 group-title="-",093-48-Special TV
+http://103.147.87.50:8001/play/a02r/index.m3u8
+#EXTINF:-1 group-title="-",094-48-AUR News
+http://103.147.87.50:8001/play/a02s/index.m3u8
+#EXTINF:-1 group-title="-",095-48-SNN News
+http://103.147.87.50:8001/play/a02t/index.m3u8
+#EXTINF:-1 group-title="-",096-49-Geo Ent HD
+http://103.147.87.50:8001/play/a02u/index.m3u8
+#EXTINF:-1 group-title="-",097-49-Geo Kahani HD
+http://103.147.87.50:8001/play/a02v/index.m3u8
+#EXTINF:-1 group-title="-",098-49-Geo Super
+http://103.147.87.50:8001/play/a02w/index.m3u8
+#EXTINF:-1 group-title="-",099-49-Geo Tez
+http://103.147.87.50:8001/play/a02x/index.m3u8
+#EXTINF:-1 group-title="-",100-49-MASALA TV
+http://103.147.87.50:8001/play/a02y/index.m3u8
+#EXTINF:-1 group-title="-",101-49-HUM HD
+http://103.147.87.50:8001/play/a02z/index.m3u8
+#EXTINF:-1 group-title="-",102-49-EXP NEWS HD
+http://103.147.87.50:8001/play/a030/index.m3u8
+#EXTINF:-1 group-title="-",103-49-EXP ENTERTAINMENT
+http://103.147.87.50:8001/play/a031/index.m3u8
+#EXTINF:-1 group-title="-",104-49-HUM NEWS HD
+http://103.147.87.50:8001/play/a032/index.m3u8
+#EXTINF:-1 group-title="-",105-49-Capital TV
+http://103.147.87.50:8001/play/a033/index.m3u8
+#EXTINF:-1 group-title="-",106-49-CHAUPAAL
+http://103.147.87.50:8001/play/a034/index.m3u8
+#EXTINF:-1 group-title="-",107-49-M-News
+http://103.147.87.50:8001/play/a035/index.m3u8
+#EXTINF:-1 group-title="-",108-49-Geo News HD
+http://103.147.87.50:8001/play/a036/index.m3u8
+#EXTINF:-1 group-title="-",109-49-EXPRESS 24/7
+http://103.147.87.50:8001/play/a038/index.m3u8
+#EXTINF:-1 group-title="-",201-Love Nature
+http://103.147.87.50:8001/play/a01k/index.m3u8
+#EXTINF:-1 group-title="-",202-DW English
+http://103.147.87.50:8001/play/a01l/index.m3u8
+#EXTINF:-1 group-title="-",203-bloomberg
+http://103.147.87.50:8001/play/a01m/index.m3u8
+#EXTINF:-1 group-title="-",204-BBC Lifestyle
+http://103.147.87.50:8001/play/a01n/index.m3u8
+#EXTINF:-1 group-title="-",205-Comedy Central
+http://103.147.87.50:8001/play/a01p/index.m3u8
+
+
 #EXTINF:-1 group-title="Pink",Pink
 http://amgsupport.space:80/amigos-skype-new/zMQu6uyVdQ/2855.ts
 #EXTINF:-1 group-title="Pink",Pink HD 
