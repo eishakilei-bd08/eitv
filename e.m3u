@@ -61,6 +61,10 @@ http://103.229.254.25:7001/play/a033/index.m3u8
 
 #EXTINF:-1 group-title="-",9X
 https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8
+#EXTINF:-1 group-title="-",YRF 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="-",VEVO
+https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 
 #EXTINF:-1,group-title="E.I.🇧🇩",Ekuse Tv
 https://ekusheyserver.com/etvlivesn.m3u8
