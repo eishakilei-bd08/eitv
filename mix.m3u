@@ -30,6 +30,12 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 #EXTINF:-1 group-title="-",9X
 https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8
+#EXTINF:-1 group-title="-",YRF 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="-",VEVO
+https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+
+
 
 #EXTINF:-1,RANG
 https://mumt01.tangotv.in/RANG/index.m3u8
