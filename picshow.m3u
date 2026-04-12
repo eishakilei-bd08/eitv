@@ -1,7 +1,8 @@
 #EXTM3U
 
 
-
+#EXTINF:-1,group-title="E.I.🇧🇩",Ekuse Tv
+https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1,SOMOY🇧🇩
 https://bozztv.com/rongo/rongo-somoy/index.m3u8
 #EXTINF:-1,Jamuna🇧🇩
