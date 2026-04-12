@@ -52,7 +52,8 @@ https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8
 #EXTINF:-1,VIP TV
 http://59.152.99.22:9999/live/channel1/index.m3u8
 
-
+#EXTINF:-1,group-title="E.I.🇧🇩",Canal +
+https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-dash/canalplusclair.mpd
 
 #EXTINF:-1,SONY YAY Bengali
 http://103.180.212.191:3500/live/3424.m3u8
