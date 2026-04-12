@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-
-
+#EXTINF:-1,SOMOY 
+https://bozztv.com/rongo/rongo-somoy/index.m3u8
 #EXTINF:-1 tvg-logo="https://porosh.com.bd/upload/tv/tv_1770821919_9282.png" group-title="Bangladesh",channel-16 tv
 https://iptv.porosh.com.bd/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 #EXTINF:-1 tvg-logo="https://porosh.com.bd/upload/tv/tv_1771144676_6801.jpg" group-title="Bangladesh",Akash
