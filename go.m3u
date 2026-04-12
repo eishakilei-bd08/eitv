@@ -128,6 +128,12 @@ http://172.16.29.2:8090/hls/WorldofFreeSports.m3u8
 
 #EXTINF:-1,group-title="E.I.🇧🇩",Canal +
 https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-dash/canalplusclair.mpd
+#EXTINF:-1 group-title="-",YRF 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="-",VEVO
+https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+
+
 
 #EXTINF:-1,DISCOVERY HD BANGLA
 http://103.180.212.191:3500/live/573.m3u8
