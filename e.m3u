@@ -1,6 +1,14 @@
 #EXTM3U
 #########E.I.🇧🇩###########
 
+
+
+
+
+#EXTINF:-1 ,Ekushay TV(BDIX)
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 ,Ekushey TV(BD2)
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",SOMOY
 https://bozztv.com/rongo/rongo-somoy/index.m3u8
 #EXTINF:-1,tvg-logo="https://channeleurope.tv/storage/settings/BNyRMyomifMQ7VlzvHKbNwCfzxM7kF4Vq7bj4zxZ.png",Channel Europe
