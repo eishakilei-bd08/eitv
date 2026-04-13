@@ -49,7 +49,6 @@ http://103.229.254.25:7001/play/a0db/index.m3u8
 https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="-",Chaina
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
-
 #EXTINF:-1,RANG
 https://mumt01.tangotv.in/RANG/index.m3u8
 #EXTINF:-1,Cinema
