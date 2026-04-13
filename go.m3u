@@ -2,7 +2,10 @@
 #######PREMIUM########
 
 
-
+#EXTINF:-1 ,Ekushay TV(BDIX)
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 ,Ekushey TV(BD2)
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1,group-title="Bangla",Somoy 
 https://bozztv.com/rongo/rongo-somoy/index.m3u8
