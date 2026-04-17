@@ -37,7 +37,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 http://103.229.254.25:7001/play/a0a0/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",T20
 https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
-
 #EXTINF:-1,group-title="E.I.🇧🇩",Canal +
 https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-dash/canalplusclair.mpd
 #EXTINF:-1 tvg-name="Star Sports-1 Hindi" group-title="E.I.🇧🇩",Star Sports-1 Hindi
@@ -83,13 +82,11 @@ http://103.157.248.140:8000/play/a01l/index.m3u8
 http://103.229.254.25:7001/play/a0ed/index.m3u8
 #EXTINF:-1 group-title="-",Sony Sab
 http://103.229.254.25:7001/play/a0db/index.m3u8
-
 #EXTINF:-1 group-title="-",Universal Action 
 https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="-",Chaina
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
 
-#EXTM3U
 #EXTINF:-1,STAR_JOLSHA
 http://172.20.3.1:3255/starjolsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ZEE_BANGLA
