@@ -5,9 +5,6 @@
 
 
 
-#EXTINF:-1 tvg-id="10596" tvg-chno="030" tvg-name="e24" tvg-id="abusaeeidx" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1715950932E24_TVW_720x960.webp" group-title="Entertainment", E24
-https://bagnetwork.digivive.com/hlslive/Admin/px09241091/live/E24LiveB/master_1.m3u8
-
 #EXTINF:-1 tvg-id="10932" tvg-chno="031" tvg-name="gangaur" tvg-id="abusaeeidx" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1615915601Gangaur_TV____720x960.webp" group-title="Entertainment", Gangaur
 https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
 
