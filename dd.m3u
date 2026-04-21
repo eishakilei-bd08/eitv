@@ -17,11 +17,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/in
 #EXTINF:-1 tvg-id="10555" tvg-chno="035" tvg-name="ptc-punjabi-gold" tvg-id="abusaeeidx" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1276523660PTCPUNJABIGOLD_TVSETS_TVW_720x960.webp" group-title="Entertainment", PTC PUNJABI GOLD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
 
-#EXTINF:-1 tvg-id="10545" tvg-chno="036" tvg-name="b4u-music" tvg-id="abusaeeidx" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1133093497B4U_Music_TVW_720x960.webp" group-title="Music", B4U Music
-https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
-
-#EXTINF:-1 tvg-id="10651" tvg-chno="037" tvg-name="masti" tvg-id="abusaeeidx" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1289247853MASTI_TV___mob___384x512.webp" group-title="Music", MASTI
-https://sablive-ddpb.akamaized.net/mastii/playlist.m3u8
 
 #EXTINF:-1 tvg-id="15037" tvg-chno="038" tvg-name="ptc-music" tvg-id="abusaeeidx" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1674728606PTC_MUSIC______720x960.webp" group-title="Music", PTC MUSIC
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
