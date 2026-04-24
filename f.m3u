@@ -291,19 +291,13 @@ http://103.229.254.25:7001/play/a0eg/index.m3u8
 http://103.229.254.25:7001/play/a0en/index.m3u8
 #EXTINF:-1 group-title="-",THE Q
 http://103.229.254.25:7001/play/a07j/index.m3u8
-#EXTINF:-1 group-title="-",Ten Cricket
-http://103.229.254.25:7001/play/a0ep/index.m3u8
-#EXTINF:-1 group-title="-",ThePapare 1
-http://103.229.254.25:7001/play/a0ew/index.m3u8
-#EXTINF:-1 group-title="-",ThePapare 2
-http://103.229.254.25:7001/play/a0ex/index.m3u8
 #EXTINF:-1 group-title="-",Travelxp HD - Rs 9.00
 http://103.229.254.25:7001/play/a0cy/index.m3u8
 #EXTINF:-1 group-title="-",ZEE BANGLA CINEMA
 http://103.229.254.25:7001/play/a070/index.m3u8
 #EXTINF:-1 group-title="-",ZEE CINEMA
 http://103.229.254.25:7001/play/a06s/index.m3u8
-#EXTINF:-1 group-title="-",Zee Anmol Cinema - Rs 0.10
+#EXTINF:-1 group-title="-",Zee Anmol Cinema 
 http://103.229.254.25:7001/play/a035/index.m3u8
 #EXTINF:-1 group-title="-",Zee Bangla HD - Rs 19.00
 http://103.229.254.25:7001/play/a0c3/index.m3u8
