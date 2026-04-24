@@ -100,8 +100,6 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/in
 #EXTINF:-1 tvg-id="14582" tvg-chno="021" tvg-name="zee-news" tvg-id="abusaeeidx" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/2121812114ZEE_NEWS__720x960.webp" group-title="News", Zee News
 https://dt3lrqnyx3dks.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-id="10648" tvg-chno="022" tvg-name="abzy-dhakad" tvg-id="abusaeeidx" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1200604348ABZY_DHAKAD_TV____720x960.webp" group-title="Entertainment", ABZY DHAKAD
-https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
 
 #EXTINF:-1 tvg-id="10647" tvg-chno="023" tvg-name="abzy-movies" tvg-id="abusaeeidx" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/434886526ABZY_Movies__TV____720x960.webp" group-title="Entertainment", ABZY Movies
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
