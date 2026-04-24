@@ -1,4 +1,14 @@
 #EXTM3U
+
+
+
+
+
+
+
+#EXTINF:-1,Sananda
+https://live.sanandatelevision.in/sananda/index.m3u8
+
 #EXTINF:-1 ,Star Bangla
 http://103.229.254.25:7001/play/a0eo/index.m3u8
 #EXTINF:-1 group-title="-",TEN 3 Hindi - Rs 19.00
