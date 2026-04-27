@@ -4723,29 +4723,6 @@ https://stream-140.zeno.fm/g372rxef798uv?zs=zMsr18fRTH-5eFy8qKIW-g
 #EXTINF: -1 tvg-logo="https://i.imgur.com/UScHwWO.jpg" group-title="FM REDIO", Radio Bolly FM
 https://stream-160.zeno.fm/zu59ykebs2zuv?zs=TJdihQC0Q8CabTsCGBWA4A
 
-#EXTM3U
-#EXTINF:-1,RCTI LIVE SPORTS (SD)
-http://103.66.62.83:8000/play/a00v/index.m3u8
-#EXTINF:-1,ANTV SPORTS
-http://103.66.62.83:8000/play/a00r/index.m3u8
-#EXTINF:-1,8000
-http://103.66.62.83:8000/play/a04l/index.m3u8
-#EXTINF:-1,MNCTV Sports
-http://103.66.62.83:8000/play/a00w/index.m3u8
-#EXTINF:-1,VTV (1080p)
-http://103.66.62.83:8000/play/a00c/index.m3u8
-#EXTINF:-1,SCTV SPORTS
-http://103.66.62.83:8000/play/a00z/index.m3u8
-#EXTINF:-1,Indosiar
-http://103.66.62.83:8000/play/a04h/index.m3u8
-#EXTINF:-1,PROLIGA 2026
-http://103.66.62.83:8000/play/a00i/index.m3u8
-#EXTINF:-1,LIGA BRI/PEGADAIAN
-http://103.66.62.83:8000/play/a00o/index.m3u8
-#EXTINF:-1,HBO Family 103
-http://103.66.62.83:8000/play/a02s/index.m3u8
-#EXTINF:-1,RCTI
-http://103.66.62.83:8000/play/a00v/index.m3u8
 
 
 
