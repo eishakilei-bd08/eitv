@@ -1,10 +1,6 @@
 #EXTM3U
 
 
-
-
-
-
 #EXTINF:-1 tvg-id="10932" tvg-chno="031" tvg-name="gangaur" tvg-id="abusaeeidx" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1615915601Gangaur_TV____720x960.webp" group-title="Entertainment", Gangaur
 https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
 
@@ -32,11 +28,6 @@ https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 
 #EXTINF:-1 tvg-id="10591" tvg-chno="042" tvg-name="9xm" tvg-id="abusaeeidx" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/11112553419xm___384x512.webp" group-title="Music", 9XM
 https://wiselp.wiseplayout.com/9XM/master.m3u8
-
-
-
-
-
 
 
 
@@ -113,8 +104,6 @@ https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
 #EXTINF:-1 tvg-id="10548" tvg-chno="026" tvg-name="b4u-movies" tvg-id="abusaeeidx" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1487466742B4UMOVIES_TVSETS_TVW_720x960.webp" group-title="Entertainment", B4U Movies
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
 
-#EXTINF:-1 tvg-id="10598" tvg-chno="027" tvg-name="dabanng" tvg-id="abusaeeidx" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1638698552dabangTV___mob___384x512.webp" group-title="Entertainment", DABANNG
-https://sablive-ddpb.akamaized.net/dabangg/playlist.m3u8
 
 #EXTINF:-1 tvg-id="10542" tvg-chno="028" tvg-name="dd-bharati" tvg-id="abusaeeidx" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/261265808DD_BHARTI_______720x960.webp" group-title="Entertainment", DD Bharati
 https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
