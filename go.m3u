@@ -3,7 +3,38 @@
 
 
 
-
+#EXTINF:1 tvg-logo="http://103.175.242.10/assets/images/Tsports1735735587.png" group-title="PREMIUM",Tsports📺
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Sports",PTV📺
+http://198.195.239.50:8095/PTV-kutta/video.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Sports",Nagorik📺 
+http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="T SPORTS" tvg-logo="http://172.16.29.28/images/TSports.jpg" group-title="DentCure",T SPORTS📺
+http://172.16.29.2:8090/hls/tsportshd.m3u8
+#EXTINF:-1 tvg-name="A SPORTS" tvg-logo="http://172.16.29.28/images/ptvsports.png" group-title="DentCure",A SPORTS📺
+http://172.16.29.2:8090/hls/ASportsHD.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS 2" tvg-logo="http://172.16.29.28/images/starsports2.png" group-title="DentCure",STAR SPORTS 2📺
+http://172.16.29.2:8090/hls/StarSports2HD.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS SELECT" tvg-logo="http://172.16.29.28/images/starsportsselect1.png" group-title="DentCure",STAR SPORTS SELECT📺
+http://172.16.29.2:8090/hls/StarSportsSelect1HD.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS SELECT 2" tvg-logo="http://172.16.29.28/images/starsportsselect2hd.png" group-title="DentCure",STAR SPORTS SELECT 2📺
+http://172.16.29.2:8090/hls/StarSportsSelect2HD.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS " tvg-logo="http://172.16.29.28/images/ptvsports.png" group-title="DentCure",STAR SPORTS📺
+http://172.16.29.2:8090/hls/StarSportsHindi2HD.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS 1" tvg-logo="http://172.16.29.28/images/ptvsports.png" group-title="DentCure",STAR SPORTS 1📺
+http://172.16.29.2:8090/hls/StarSports1HD.m3u8
+#EXTINF:-1 tvg-name="SONY TEN 5" tvg-logo="http://172.16.29.28/images/sonyten5.png" group-title="DentCure",SONY TEN 5📺
+http://172.16.29.2:8090/hls/SonyTen5HD.m3u8
+#EXTINF:-1 tvg-name="SONY TEN 2" tvg-logo="http://172.16.29.28/images/sony-ten-2.png" group-title="DentCure",SONY TEN 2📺
+http://172.16.29.2:8090/hls/SonyTen2hd.m3u8
+#EXTINF:-1 tvg-name="EUROSPORTS" tvg-logo="http://172.16.29.28/images/eurosport.png" group-title="DentCure",EUROSPORTS📺
+http://172.16.29.2:8090/hls/eurosportshd.m3u8
+#EXTINF:-1 tvg-name="SONY TEN 3" tvg-logo="http://172.16.29.28/images/sony-ten-3.png" group-title="DentCure",SONY TEN 3📺
+http://172.16.29.2:8090/hls/SonyTen3hd.m3u8
+#EXTINF:-1 tvg-name="DD SPORTS" tvg-logo="http://172.16.29.28/images/sony-ten-1.png" group-title="DentCure",DD SPORTS📺
+http://172.16.29.2:8090/hls/ddsports.m3u8
+#EXTINF:-1 tvg-name="WORLD FREE SPORTS" tvg-logo="http://172.16.29.28/images/sony-ten-1.png" group-title="DentCure",WORLD FREE SPORTS📺
+http://172.16.29.2:8090/hls/WorldofFreeSports.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png" group-title="Movies",Star Movies
 http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
@@ -40,38 +71,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id="231" tvg-name="Green Tv HD" tvg-logo="https://free.otapp.store/uploads/tv_image/sm/green-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Green Tv HD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 
-#EXTINF:1 tvg-logo="http://103.175.242.10/assets/images/Tsports1735735587.png" group-title="PREMIUM",Tsports📺
-http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Sports",PTV📺
-http://198.195.239.50:8095/PTV-kutta/video.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Sports",Nagorik📺 
-http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="T SPORTS" tvg-logo="http://172.16.29.28/images/TSports.jpg" group-title="DentCure",T SPORTS📺
-http://172.16.29.2:8090/hls/tsportshd.m3u8
-#EXTINF:-1 tvg-name="A SPORTS" tvg-logo="http://172.16.29.28/images/ptvsports.png" group-title="DentCure",A SPORTS📺
-http://172.16.29.2:8090/hls/ASportsHD.m3u8
-#EXTINF:-1 tvg-name="STAR SPORTS 2" tvg-logo="http://172.16.29.28/images/starsports2.png" group-title="DentCure",STAR SPORTS 2📺
-http://172.16.29.2:8090/hls/StarSports2HD.m3u8
-#EXTINF:-1 tvg-name="STAR SPORTS SELECT" tvg-logo="http://172.16.29.28/images/starsportsselect1.png" group-title="DentCure",STAR SPORTS SELECT📺
-http://172.16.29.2:8090/hls/StarSportsSelect1HD.m3u8
-#EXTINF:-1 tvg-name="STAR SPORTS SELECT 2" tvg-logo="http://172.16.29.28/images/starsportsselect2hd.png" group-title="DentCure",STAR SPORTS SELECT 2📺
-http://172.16.29.2:8090/hls/StarSportsSelect2HD.m3u8
-#EXTINF:-1 tvg-name="STAR SPORTS " tvg-logo="http://172.16.29.28/images/ptvsports.png" group-title="DentCure",STAR SPORTS📺
-http://172.16.29.2:8090/hls/StarSportsHindi2HD.m3u8
-#EXTINF:-1 tvg-name="STAR SPORTS 1" tvg-logo="http://172.16.29.28/images/ptvsports.png" group-title="DentCure",STAR SPORTS 1📺
-http://172.16.29.2:8090/hls/StarSports1HD.m3u8
-#EXTINF:-1 tvg-name="SONY TEN 5" tvg-logo="http://172.16.29.28/images/sonyten5.png" group-title="DentCure",SONY TEN 5📺
-http://172.16.29.2:8090/hls/SonyTen5HD.m3u8
-#EXTINF:-1 tvg-name="SONY TEN 2" tvg-logo="http://172.16.29.28/images/sony-ten-2.png" group-title="DentCure",SONY TEN 2📺
-http://172.16.29.2:8090/hls/SonyTen2hd.m3u8
-#EXTINF:-1 tvg-name="EUROSPORTS" tvg-logo="http://172.16.29.28/images/eurosport.png" group-title="DentCure",EUROSPORTS📺
-http://172.16.29.2:8090/hls/eurosportshd.m3u8
-#EXTINF:-1 tvg-name="SONY TEN 3" tvg-logo="http://172.16.29.28/images/sony-ten-3.png" group-title="DentCure",SONY TEN 3📺
-http://172.16.29.2:8090/hls/SonyTen3hd.m3u8
-#EXTINF:-1 tvg-name="DD SPORTS" tvg-logo="http://172.16.29.28/images/sony-ten-1.png" group-title="DentCure",DD SPORTS📺
-http://172.16.29.2:8090/hls/ddsports.m3u8
-#EXTINF:-1 tvg-name="WORLD FREE SPORTS" tvg-logo="http://172.16.29.28/images/sony-ten-1.png" group-title="DentCure",WORLD FREE SPORTS📺
-http://172.16.29.2:8090/hls/WorldofFreeSports.m3u8
 
 #EXTINF:-1 group-title="-",YRF 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
@@ -98,17 +97,11 @@ http://103.180.212.191:3500/live/3428.m3u8
 #EXTINF:-1,group-title="PREMIUM",Cine Bangla📺
 http://103.180.212.191:3500/live/3518.m3u8
 #EXTINF:-1,group-title="PREMIUM",SUN Bangla📺
-http://103.161.153.165:8000/play/a03k/index.m3u8
-#EXTINF:-1,group-title="PREMIUM",SUN Bangla📺
 http://103.180.212.191:3500/live/1669.m3u8
 #EXTINF:-1,group-title="PREMIUM",Colors Super📺
 http://103.180.212.191:3500/live/785.m3u8
 #EXTINF:-1,group-title="PREMIUM",Akash 8📺
 http://103.180.212.191:3500/live/698.m3u8 
-#EXTINF:-1,group-title="PREMIUM",Animal Planet📺
-http://103.161.153.165:8000/play/a056/index.m3u8
-#EXTINF:-1,group-title="PREMIUM",VIP TV📺
-http://59.152.99.22:9999/live/channel1/index.m3u8
 #EXTINF:-1,group-title="PREMIUM", GTV📺
 https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",SRKTV📺
@@ -141,16 +134,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",NEWS21📺
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
-#EXTINF:-1,group-title="PREMIUM",Sony Yay📺
-http://103.99.249.139/sonyyay/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="PREMIUM",Bangla Vision📺
-http://tvn2.chowdhury-shaheb.com/banglavision/index.m3u8
-#EXTINF:-1,group-title="PREMIUM",Somoy📺
-http://tvn2.chowdhury-shaheb.com/somoy/index.m3u8
-#EXTINF:-1,group-title="PREMIUM",GTV📺
-http://tvn2.chowdhury-shaheb.com/gazitv/index.m3u8
-#EXTINF:-1,group-title="PREMIUM",RTV📺
-http://tvn2.chowdhury-shaheb.com/rtv/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Massranga📺
 http://103.229.254.25:7001/play/a05q/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Btv📺
@@ -185,16 +168,12 @@ http://103.229.254.25:7001/play/a068/index.m3u8
 http://103.229.254.25:7001/play/a069/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",& Pictures📺
 http://103.229.254.25:7001/play/a033/index.m3u8
-#EXTINF:-1,group-title="PREMIUM",& Prive📺
-http://103.229.254.25:7001/play/a03f/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",& Flix📺
 http://103.229.254.25:7001/play/a02x/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",& Tv📺
 http://103.229.254.25:7001/play/a09v/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",& TvHD📺
 http://103.229.254.25:7001/play/a034/index.m3u8
-#EXTINF:-1,group-title="PREMIUM",Cenema📺
-http://103.229.254.25:7001/play/a035/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",SONY Aath Tv📺
@@ -223,8 +202,6 @@ https://tplay.live/out/bangladesh/mohona.index.m3u8
 https://tplay.live/out/bangladesh/rtv.index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Ekhon Tv📺
 https://tplay.live/out/bangladesh/ekhontv.index.m3u8
-#EXTINF:-1,group-title="PREMIUM",ZEE Bangla HD📺
-http://103.161.153.165:8000/play/zeebnhd/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",ETv📺
 https://ekusheyserver.com/etvlivesn.m3u8
 
