@@ -324,21 +324,8 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 http://103.175.73.12:8080/live/52/52_0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",Goldmines Movies📺
 https://cdn-2.pishow.tv/live/1461/master.m3u8
-#EXTINF:-1,group-title="PREMIUM",Colors Cineplex
-http://103.182.170.32:8888/play/a01o
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png" group-title="PREMIUM",Asian TV📺
 http://103.229.254.25:7001/play/a063/index.m3u8
-
-#EXTINF:1 tvg-name="Star Movies" tvg-logo="http://103.175.242.10/assets/images/Star%20Movies1731469513.png" group-title="PREMIUM",Star Movies📺
-http://103.175.242.10:8080/starmovies/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="English Movies",And Flix📺
-http://103.161.153.165:8000/play/a01z/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="English Movies",And Flix HD📺
-http://103.182.170.32:8888/play/a02a
-#EXTINF:-1 tvg-logo="" group-title="English Movies",And Prive📺
-http://202.70.146.135:8000/play/a05y/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="English Movies",And Prive HD📺
-http://103.229.254.25:7001/play/a03f/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg" group-title="English Movies",Action Hollywood Movies📺
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
