@@ -1443,46 +1443,6 @@ http://103.229.254.25:7001/play/a0cs/index.m3u8
 http://103.229.254.25:7001/play/a0dp/index.m3u8
 #EXTINF:-1 group-title="NEW SERVER ✔️",asiantvHD
 http://103.229.254.25:7001/play/a063/index.m3u8
-#EXTINF:-1 group-title="INDIAN ? 4K",IN | STAR GOLD 2 4K HD
-http://filex.me:8080//live/000003/000003/275050.ts
-#EXTINF:-1 ,EXTGRP:Спорт
-http://ott.watch/stream/D3FX33QMIH1/192.m3u8
-#EXTINF:-1 ,Матч1 HD
-http://ott.watch/stream/D3FX33QMIH1/130.m3u8
-#EXTINF:-1 ,Матч2 HD
-http://ott.watch/stream/D3FX33QMIH1/142.m3u8
-#EXTINF:-1 ,Матч3 HD
-http://ott.watch/stream/D3FX33QMIH1/185.m3u8
-#EXTINF:-1 ,МатчHD
-http://ott.watch/stream/D3FX33QMIH1/188.m3u8
-#EXTINF:-1 ,МатчСТРАНА HD
-http://ott.watch/stream/D3FX33QMIH1/143.m3u8
-#EXTINF:-1 ,Сп
-http://ott.watch/stream/D3FX33QMIH1/193.m3u8
-#EXTINF:-1 ,Setanta Sports 1 HD
-http://ott.watch/stream/D3FX33QMIH1/234.m3u8
-#EXTINF:-1 ,Setanta Sports 2 HD
-http://ott.watch/stream/D3FX33QMIH1/235.m3u8
-#EXTINF:-1 ,Setanta Sports HD UA
-http://ott.watch/stream/D3FX33QMIH1/313.m3u8
-#EXTINF:-1 ,Setanta Sports+ HD
-http://ott.watch/stream/D3FX33QMIH1/390.m3u8
-#EXTINF:-1 ,Sport 1 Baltic
-http://ott.watch/stream/D3FX33QMIH1/461.m3u8
-#EXTINF:-1 ,Sport 1
-http://ott.watch/stream/D3FX33QMIH1/391.m3u8
-#EXTINF:-1 ,Sport 2
-http://ott.watch/stream/D3FX33QMIH1/392.m3u8
-#EXTINF:-1 ,Sport 3 HD
-http://ott.watch/stream/D3FX33QMIH1/393.m3u8
-#EXTINF:-1 ,Sport 4
-http://ott.watch/stream/D3FX33QMIH1/394.m3u8
-#EXTINF:-1 ,Sport 5 HD
-http://ott.watch/stream/D3FX33QMIH1/212.m3u8
-#EXTINF:-1 ,#EXTINF:-un
-http://ott.watch/stream/D3FX33QMIH1/178.m3u8
-#EXTINF:-1 ,hg
-http://ott.watch/stream/D3FX33QMIH1/333.m3u8
 #EXTINF:-1 ,[MM] FortuneTv
 http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
 #EXTINF:-1 ,[MM] TVM
