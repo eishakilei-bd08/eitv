@@ -356,8 +356,6 @@ https://live.sanandatelevision.in/sananda/index.m3u8
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Soudi Quran📺
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
-#EXTINF:-1,group-title="PREMIUM",Desi Tv📺
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1,group-title="PREMIUM",Azan Tv📺
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Tara📺
@@ -472,8 +470,6 @@ https://server.zillarbarta.com/zillarbarta/index.m3u8
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Discovery pk
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
-#EXTINF:-1,group-title="PREMIUM",Joo music
-https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1,group-title="PREMIUM",King TV 
 https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8
 #EXTINF:-1,group-title="PREMIUM",Issac tv
