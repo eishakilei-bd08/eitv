@@ -2,7 +2,6 @@
 
 
 
-
 #EXTINF:-1,GTV
 https://tvsen1.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Willow
@@ -10,8 +9,6 @@ http://27.124.71.27/Willow_Extra/index.m3u8
 #EXTINF:-1,news21
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 
-
-sbanglaus/*!yuppTVCom_5_-1_a3f66cbf07094587_US_130.131.55.246/payload/yuppTVCom_5_-1_a3f66cbf07094587_US_130.131.55.246/*~hmac=cf5d4991d7199bc0a844c078c79a3b37a6f1d8beb15b2d23bd7278a89ac6966c&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=BEN&ads.content_genre=ENT&ads.channel=6887&ads.channel_name=ColorsBanglaUS&ads.network_name=yupptv&ads.user=0
 
 # YUPPTV NFAST
 #EXTINF:-1 tvg-id="19" tvg-chno="201" tvg-name="republic-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/usnsgu.png" group-title="News", Republic TV
