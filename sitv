@@ -32,8 +32,6 @@ http://103.229.254.25:7001/play/a09v/index.m3u8
 #EXTINF:-1 group-title="BDIX 1", &tv HD - Rs 19.00
 http://103.229.254.25:7001/play/a034/index.m3u8
 
-#EXTINF:-1 group-title="BDIX 1", 4K NATURE
-http://103.229.254.25:7001/play/a0eu/index.m3u8
 
 #EXTINF:-1 group-title="BDIX 1", 9X JALWA
 http://103.229.254.25:7001/play/a07r/index.m3u8
