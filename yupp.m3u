@@ -5,17 +5,13 @@
 
 #EXTINF:-1,GTV
 https://tvsen1.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1,Willow
 http://27.124.71.27/Willow_Extra/index.m3u8
-
 #EXTINF:-1,news21
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-id="colors-bangla" tvg-name="Colors Bangla" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Colors_Bangla_HD_TV_white.png" group-title="Premium",Colors Bangla
-https://catchup.yuppcdn.net/amazonv2/38/preview/colorsbanglaus/master/chunklist.m3u8?hdnts=st=1776423882~exp=1776424482~acl=!*/38/preview/colorsbanglaus/*!yuppTVCom_5_-1_a3f66cbf07094587_US_130.131.55.246/payload/yuppTVCom_5_-1_a3f66cbf07094587_US_130.131.55.246/*~hmac=cf5d4991d7199bc0a844c078c79a3b37a6f1d8beb15b2d23bd7278a89ac6966c&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=BEN&ads.content_genre=ENT&ads.channel=6887&ads.channel_name=ColorsBanglaUS&ads.network_name=yupptv&ads.user=0
+sbanglaus/*!yuppTVCom_5_-1_a3f66cbf07094587_US_130.131.55.246/payload/yuppTVCom_5_-1_a3f66cbf07094587_US_130.131.55.246/*~hmac=cf5d4991d7199bc0a844c078c79a3b37a6f1d8beb15b2d23bd7278a89ac6966c&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=BEN&ads.content_genre=ENT&ads.channel=6887&ads.channel_name=ColorsBanglaUS&ads.network_name=yupptv&ads.user=0
 
 # YUPPTV NFAST
 #EXTINF:-1 tvg-id="19" tvg-chno="201" tvg-name="republic-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/usnsgu.png" group-title="News", Republic TV
@@ -102,11 +98,6 @@ https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/da9d350e-ac56-4320-8609-0c501da4fb5b/master.m3u8?hdnts=st%3D1776423896~exp%3D1776445496~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fda9d350e-ac56-4320-8609-0c501da4fb5b%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_248_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_248_-1~hmac%3Dec7ce271ebeec1710a3469f36045706e1fa3a2c38337f085b01511795f3f71fb
 
-#EXTINF:-1 tvg-id="34" tvg-chno="4" tvg-name="tv9-bharatvarsh" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rhgutv.png" group-title="News", TV9 Bharatvarsh
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://vg-tv9yupp.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-234604/main.m3u8?hdnts=st%3D1776423896~exp%3D1776445496~acl%3D%21%2A%2Fptnr-yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fvglive-sk-234604%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_34_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_34_-1~hmac%3D6b31c15bec03f7096ed63adc1b7d1ab067eca34c2442246df26e8b42009971f4
 
 #EXTINF:-1 tvg-id="231" tvg-chno="5" tvg-name="india-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/india-tv.png" group-title="News", India TV
 #KODIPROP:inputstream=inputstream.adaptive
