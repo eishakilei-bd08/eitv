@@ -31,7 +31,10 @@ http://172.16.29.2:8090/hls/SonyTen3hd.m3u8
 http://172.16.29.2:8090/hls/ddsports.m3u8
 #EXTINF:-1 tvg-name="WORLD FREE SPORTS" tvg-logo="http://172.16.29.28/images/sony-ten-1.png" group-title="DentCure",WORLD FREE SPORTS📺
 http://172.16.29.2:8090/hls/WorldofFreeSports.m3u8
-
+#EXTINF:-1,group-title="PREMIUM",tsports hd📺
+http://172.16.29.3:8090/hls/tsportshd.m3u8
+#EXTINF:-1,group-title="PREMIUM",ptv sports📺
+http://172.16.29.3:8090/hls/ptvsportshd.m3u8
 
 #EXTINF:-1,group-title="PREMIUM",Zee Bangla SD 🔴
 http://103.180.212.191:3500/live/625.m3u8
@@ -213,20 +216,11 @@ https://ekusheyserver.com/etvlivesn.m3u8
 
 #EXTINF:-1,group-title="PREMIUM",SOMOY TV📺
 http://172.16.29.3:8090/hls/somoytv.m3u8
-#EXTINF:-1,group-title="PREMIUM",JAMUNA TV📺
-http://172.16.29.3:8090/hls/JamunaTV.m3u8
-#EXTINF:-1,group-title="PREMIUM",Atn News📺
+
+#EXTINF:-1,group-title="PREMIUM",MOHONA📺
 http://172.16.29.3:8090/hls/AtnNews.m3u8
-#EXTINF:-1,group-title="PREMIUM",channeli hd📺
-http://172.16.29.3:8090/hls/channelihd.m3u8
 #EXTINF:-1,group-title="PREMIUM",gazi tv📺
 http://172.16.29.3:8090/hls/gazitvhd.m3u8
-#EXTINF:-1,group-title="PREMIUM",BTV HD📺
-http://172.16.29.3:8090/hls/BTVNationalHD.m3u8
-#EXTINF:-1,group-title="PREMIUM",tsports hd📺
-http://172.16.29.3:8090/hls/tsportshd.m3u8
-#EXTINF:-1,group-title="PREMIUM",ptv sports📺
-http://172.16.29.3:8090/hls/ptvsportshd.m3u8
 #EXTINF:-1,group-title="PREMIUM",9xm📺
 http://172.16.29.3:8090/hls/9xm.m3u8
 #EXTINF:-1 ,group-title="PREMIUM",TSPORTS📺
