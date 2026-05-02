@@ -36,6 +36,16 @@ http://172.16.29.2:8090/hls/ddsports.m3u8
 #EXTINF:-1 tvg-name="WORLD FREE SPORTS" tvg-logo="http://172.16.29.28/images/sony-ten-1.png" group-title="DentCure",WORLD FREE SPORTS📺
 http://172.16.29.2:8090/hls/WorldofFreeSports.m3u8
 
+
+#EXTINF:-1,group-title="PREMIUM",Zee Bangla SD 🔴
+http://103.180.212.191:3500/live/625.m3u8
+#EXTINF:-1,group-title="PREMIUM",Star jalsa SD 🔴
+http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
+#EXTINF:-1,group-title="PREMIUM",Colors Bangla🔴
+http://103.180.212.191:3500/live/756.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png" group-title="Movies",Star Movies
 http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1,GTV
@@ -376,20 +386,7 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 http://103.182.170.32:8888/play/a01o
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png" group-title="PREMIUM",Asian TV📺
 http://103.229.254.25:7001/play/a063/index.m3u8
-#EXTINF:-1,group-title="PREMIUM",Zee Bangla SD 🔴
-http://103.180.212.191:3500/live/625.m3u8
-#EXTINF:-1,group-title="PREMIUM",Zee Bangla HD 🔴
-http://stvlive.net:8080/zeebangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="PREMIUM",Star jalsa SD 🔴
-http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
-#EXTINF:-1,group-title="PREMIUM",Star jalsa SD 🔴
-http://103.182.170.32:8888/play/a046
-#EXTINF:-1,group-title="PREMIUM",Star jalsa SD 🔴
-http://stvlive.net:8080/starjalsha/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg",Star Jalsha HD 🔴
-https://playztv-apps.pages.dev/star-jalsha/index.m3u8
-#EXTINF:-1,group-title="PREMIUM",Colors Bangla🔴
-http://103.180.212.191:3500/live/756.m3u8
+
 #EXTINF:1 tvg-name="Star Movies" tvg-logo="http://103.175.242.10/assets/images/Star%20Movies1731469513.png" group-title="PREMIUM",Star Movies📺
 http://103.175.242.10:8080/starmovies/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Flix📺
