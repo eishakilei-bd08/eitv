@@ -223,8 +223,6 @@ http://172.16.29.3:8090/hls/AtnNews.m3u8
 http://172.16.29.3:8090/hls/gazitvhd.m3u8
 #EXTINF:-1,group-title="PREMIUM",9xm📺
 http://172.16.29.3:8090/hls/9xm.m3u8
-#EXTINF:-1 ,group-title="PREMIUM",TSPORTS📺
-https://tvsen6.aynaott.com/tsportshd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,group-title="PREMIUM",GOLDMINES📺
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441441.m3u8
 #EXTINF:-1 ,group-title="PREMIUM",colors bangla📺
