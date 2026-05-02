@@ -1101,26 +1101,6 @@ http://115.187.41.216:8080/hls/sanandatv/index.m3u8
 http://181.78.4.250:8098/play/a067/index.m3u8
 #EXTINF:-1 ,Discovery Kids
 http://181.78.4.250:8098/play/a08h/index.m3u8
-#EXTINF:-1 ,Ani
-http://ott.watch/stream/D3FX33QMIH1/306.m3u8
-#EXTINF:-1 ,Gulli Gril
-http://ott.watch/stream/D3FX33QMIH1/305.m3u8
-#EXTINF:-1 ,Na!oc
-http://ott.watch/stream/D3FX33QMIH1/339.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://api.visionplustv.id/static/cnpzqb.webp",Dream Works
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://api.visionplustv.id/static/pyelcj.webp",Zoomoo
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000151/1024.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://api.visionplustv.id/static/crpnla.webp",Kids Tv
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://api.visionplustv.id/static/hassbk.webp",Cbeebies
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000006/1024.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://api.visionplustv.id/static/fnwwtk.webp",Nick
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000060/1024.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://api.visionplustv.id/static/xjuyad.webp",Nick jr
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://api.visionplustv.id/static/wukkms.webp",Animax
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
 #EXTINF:-1 ,Epic
 http://epiconvh.akamaized.net/live/epic/master.m3u8
 #EXTINF:-1 ,Movies Thriller
