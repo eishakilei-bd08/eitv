@@ -19,7 +19,6 @@ http://172.16.29.2:8090/hls/StarSportsSelect2HD.m3u8
 http://172.16.29.2:8090/hls/StarSportsHindi2HD.m3u8
 #EXTINF:-1 tvg-name="STAR SPORTS 1" tvg-logo="http://172.16.29.28/images/ptvsports.png" group-title="DentCure",STAR SPORTS 1📺
 http://172.16.29.2:8090/hls/StarSports1HD.m3u8
-
 #EXTINF:-1 tvg-name="STAR SPORTS 1" tvg-logo="http://172.16.29.28/images/starsports1.png" group-title="DentCure",STAR SPORTS 1📺
 http://172.16.29.2:8090/hls/SonyTen5HD.m3u8
 #EXTINF:-1 tvg-name="SONY TEN 2" tvg-logo="http://172.16.29.28/images/sony-ten-2.png" group-title="DentCure",SONY TEN 2📺
@@ -36,7 +35,8 @@ http://172.16.29.2:8090/hls/WorldofFreeSports.m3u8
 http://172.16.29.3:8090/hls/tsportshd.m3u8
 #EXTINF:-1,group-title="PREMIUM",ptv sports📺
 http://172.16.29.3:8090/hls/ptvsportshd.m3u8
-
+#EXTINF:-1,Willow
+http://27.124.71.27/Willow_Extra/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Zee Bangla SD 🔴
 http://103.180.212.191:3500/live/625.m3u8
 #EXTINF:-1,group-title="PREMIUM",Star jalsa SD 🔴
@@ -50,16 +50,10 @@ http://103.180.212.191:3500/live/756.m3u8
 http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1,GTV
 https://tvsen1.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1,Willow
-http://27.124.71.27/Willow_Extra/index.m3u8
-
 #EXTINF:-1,news21
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
-
 #EXTINF:-1,Sananda
 https://live.sanandatelevision.in/sananda/index.m3u8
-
 #EXTINF:-1,Fail Army😁😁😁😁
 https://jmp2.uk/plex-64305451fc3be5947773c339-5f170d62b898490041b4936e.m3u8
 #EXTINF:-1 ,Ekushey TV(BD2)
@@ -314,41 +308,6 @@ https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="h" group-title="KIDS",Tom & Jarry📺
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png" group-title="KIDS",Cartoon Network HD📺
-http://103.175.73.12:8080/live/127/127_0.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png" group-title="KIDS",Cartoon Network HD📺
-http://103.182.170.32:8888/play/a04o
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Kids.png" group-title="KIDS",Discovery Kids📺
-http://103.182.170.32:8888/play/a02o
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png" group-title="KIDS",Sony Yay📺
-http://103.182.170.32:8888/play/a04m
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png" group-title="KIDS",Nick Bangla📺
-http://103.182.170.32:8888/play/a04q
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png" group-title="KIDS",Nick HD Plus📺
-http://103.175.73.12:8080/live/322/322_0.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png" group-title="KIDS",Nick JR📺
-http://103.182.170.32:8888/play/a02q
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2434/logo/240x240/mobile_logo_464854001655891908.png" group-title="KIDS",Sonic Bangla📺
-http://103.182.170.32:8888/play/a02s
-#EXTINF:-1 tvg-logo="" group-title="Kids",Super Hungama TV📺
-http://103.175.73.12:8080/live/128/128_0.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids",Hungama TV📺
-http://103.182.170.32:8888/play/a04b
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg" group-title="KIDS",Pogo📺
-http://103.175.73.12:8080/live/323/323_0.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg" group-title="KIDS",Pogo📺
-http://103.182.170.32:8888/play/a02p
-
-#EXTINF:-1,group-title="KIDS",S KID📺
-http://163.61.227.29:8000/play/a03x/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Disney International📺
-http://103.182.170.32:8888/play/a01y
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Disney Channel📺
-http://103.175.73.12:8080/live/321/321_0.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Disney JR📺
-http://103.175.73.12:8080/live/129/129_0.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Disney JR📺
-http://103.182.170.32:8888/play/a04g
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg" group-title="KIDS",Zoo Moo📺
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png" group-title="PREMIUM",Star Movies HD📺
