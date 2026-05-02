@@ -208,10 +208,8 @@ https://tplay.live/out/bangladesh/rtv.index.m3u8
 https://tplay.live/out/bangladesh/ekhontv.index.m3u8
 #EXTINF:-1,group-title="PREMIUM",ETv📺
 https://ekusheyserver.com/etvlivesn.m3u8
-
 #EXTINF:-1,group-title="PREMIUM",SOMOY TV📺
 http://172.16.29.3:8090/hls/somoytv.m3u8
-
 #EXTINF:-1,group-title="PREMIUM",MOHONA📺
 http://172.16.29.3:8090/hls/AtnNews.m3u8
 #EXTINF:-1,group-title="PREMIUM",gazi tv📺
@@ -328,7 +326,6 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 http://103.229.254.25:7001/play/a063/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg" group-title="English Movies",Action Hollywood Movies📺
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Music",YRF Music HD📺
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Hindi Hits HD📺
@@ -337,7 +334,6 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 http://103.175.73.12:8080/live/155/155_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png" group-title="Music",E24📺
 http://103.175.73.12:8080/live/159/159_0.m3u8
-
 #EXTINF:-1,group-title="PREMIUM",Sangit Bangla📺
 http://103.180.212.191:3500/live/740.m3u8
 #EXTINF:-1,group-title="PREMIUM",Horror📺
@@ -356,7 +352,6 @@ https://livestream.sbtvus.com/hls/stream.m3u8
 http://174.138.87.116:8080/hls/studio1/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Sanonda📺 
 https://live.sanandatelevision.in/sananda/index.m3u8
-
 #EXTINF:-1,group-title="PREMIUM",Soudi Sunnah📺
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Soudi Quran📺
@@ -365,8 +360,6 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1,group-title="PREMIUM",Azan Tv📺
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
-#EXTINF:-1,group-title="PREMIUM",Rajdhani📺
-https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1,group-title="PREMIUM",Tara📺
 https://legitpro.co.in/taratv/taratv/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",MASRANGA HD📺
@@ -376,8 +369,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #http://cdn01.palki.tv/live/GreenTV-M/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Al Jazeera📺
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
-#EXTINF:-1,group-title="PREMIUM",T-series📺
-http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="PREMIUM",Disney Junior📺
 http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Amar Bangla📺
@@ -412,8 +403,6 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #EXTINF:-1,group-title="PREMIUM",MTV📺
 http://103.229.254.25:7001/play/a02s/index.m3u8
-#EXTINF:-1,group-title="PREMIUM",And Flix📺
-http://103.161.153.165:8000/play/a01z/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Peace TV English📺
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/tracks-v3a1/mono.m3u8
 #EXTINF:-1,group-title="PREMIUM",Peace TV Urdu📺
