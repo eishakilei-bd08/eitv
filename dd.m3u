@@ -74,9 +74,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/in
 https://n18syndication-prasar-bharati.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
 
 
-#EXTINF:-1 tvg-id="10645" tvg-chno="016" tvg-name="raj-tv" tvg-id="abusaeeidx" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/336749630RAJ_TV____720x960.webp" group-title="News", RAJ TV
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8
-
 #EXTINF:-1 tvg-id="10551" tvg-chno="017" tvg-name="r-republic" tvg-id="abusaeeidx" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/482795018R_REPUBLIC__mob___384x512.webp" group-title="News", R Republic
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
 
