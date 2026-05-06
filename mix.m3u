@@ -2382,38 +2382,6 @@ https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/02JnwwPq/IMG-2745.png",DW En
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 group-title="SPORT",POLSAT SPORT 1 HD
-http://4.team.ga:80/ch932/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW4xhEF1CwgGKWMpZCblIwmhAM6h6-3ixJg5_3vSCBKyd
-#EXTINF:-1 group-title="SPORT",POLSAT SPORT 2 HD
-http://4.team.ga:80/ch933/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW1TQKkbCgtPpfrfEko94M9NyGNc3jvTAO84USjuW5Ebv
-#EXTINF:-1 group-title="SPORT",POLSAT SPORT 3 HD
-http://4.team.ga:80/ch2489/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW7v4_aiEAwFZeHsH1M55vcg8nOwETVPlA-imsl2CznUR
-#EXTINF:-1 group-title="SPORT",POLSAT SPORT PREMIUM 1 HD
-http://4.team.ga:80/ch934/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW5txrU_myCNil4h9_yFKtB9PapkLbvZfD471iQPwmnDn
-#EXTINF:-1 group-title="SPORT",POLSAT SPORT PREMIUM 2 HD
-http://4.team.ga:80/ch935/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW26B8d839HsDT37bdAqmqlMKLAn7X-rXHbuSuCCXc0_Y
-#EXTINF:-1 group-title="SPORT",PL: EUROSPORT 1 HD
-http://4.team.ga:80/ch891/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW8GQ_-tWUEe-jbPsumnYwIMRhd4_dFKttC2kMr3bEdf2
-#EXTINF:-1 group-title="SPORT",PL: EUROSPORT 2 HD
-http://4.team.ga:80/ch892/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW6C7eF4zOsEgl9KMoUjsM9d1OJJCz94hcSgp88Tek6aE
-#EXTINF:-1 group-title="SPORT",ELEVEN SPORTS 1 HD
-http://4.team.ga:80/ch887/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW3a_oOsWkXKPwQFI5ErNDlfR0lrUMbbmNPBozEKPTqDY
-#EXTINF:-1 group-title="SPORT",ELEVEN SPORTS 2 HD
-http://4.team.ga:80/ch888/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW34rz2GrrN_K1KEG34ABV5R-PcVVKqqZtAvTnr-zqVbu
-#EXTINF:-1 group-title="SPORT",ELEVEN SPORTS 3 HD
-http://4.team.ga:80/ch889/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW87Q3fZgCAzemk3-iVvhGjq3hcEhJU5JDW9qDifrTk2T
-#EXTINF:-1 group-title="SPORT",ELEVEN SPORTS 4 HD
-http://4.team.ga:80/ch890/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWy5lJVIHLnKMdS9Fz48RuWKOPw19TK8IlQe9ZvEm3vEx
-#EXTINF:-1 group-title="SPORT",CANAL+ SPORT HD
-http://4.team.ga:80/ch872/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW1c_8xKnTDTHgz6sv2rbuuUyI8JNso3gL5717WvxaXxQ
-#EXTINF:-1 group-title="SPORT",CANAL+ SPORT 2 HD
-http://4.team.ga:80/ch873/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW8qYxI2csEPa5HFLY4QhhWf_KtvTxmHNIsuNlkCmQDjL
-#EXTINF:-1 group-title="SPORT",CANAL+ SPORT 3 HD
-http://4.team.ga:80/ch874/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW3qekIwTZwTKcuvt_LUPOTOdouB3RXgPGkwfxPwunmd8
-#EXTINF:-1 group-title="SPORT",CANAL+ SPORT 4 HD
-http://4.team.ga:80/ch875/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW_zZvUbjumWRreBKJKpu5mNakublYz_hP04xJE8PQH1l
-#EXTINF:-1 group-title="SPORT",CANAL+ SPORT 5 HD
-http://4.team.ga:80/ch920/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW8VaiSXRKYLcfOulYbjOmuAABU4_D4VruyWbY2jIB1Q_
 #EXTINF:-1 ,CANAL+ Sport
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
 #EXTINF:-1 ,GOLF+
@@ -4639,14 +4607,6 @@ http://190.151.80.242:9990/play/a0op/index.m3u8
 
 
 
-
-
-
-
-
-
-
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="news" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="news",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
@@ -5032,14 +4992,8 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/2494.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/05/11/20250511042549408522_81.png", Cricbuzz 2 MPD LINK
-
-
-
-
 #EXTINF:-1, EPL LIVE
 https://raw.githubusercontent.com/tummeng21/m3u8/refs/heads/main/max2.m3u8
-
 
 
 
@@ -6631,14 +6585,6 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 #EXTINF:-1, ZEE CAFE HD
 http://202.70.146.135:8000/play/a04n/index.m3u8
 #http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvemVlLWNhZmU=&e=.m3u8
-
-
-
-#EXTINF:-1,&EXPLOR HD
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla",TARA BANGLA CINEMA
-
 
 
 #EXTINF:-1 tvg-logo="https://wallpapers.com/images/high/colors-tv-logo-7meur4bah5m7mm8i.webp" group-title="AynaOTT - Indian ENT",Colors HD
@@ -9057,131 +9003,6 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
-
-
-########################## Sports NZ  ##########################
-
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Sky sports 1
-https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Sky sports 2
-https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Sky sports 3
-https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-3/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Sky sports 4
-https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-4/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Sky sports 5
-https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-5/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Sky sports 6
-https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-6/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Sky sports 7
-https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-7/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Sky sports Premire League
-https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-Premire_League/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Sky sports 9
-https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-9/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Star sports 1 English
-https://tigerhub-bd.vercel.app/StarSports/1-English/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Star sports 1 hindy
-https://tigerhub-bd.vercel.app/StarSports/1-Hindy/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Star sports 2
-https://tigerhub-bd.vercel.app/StarSports/2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Star sports 3
-https://tigerhub-bd.vercel.app/StarSports/3/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Star sports tamil
-https://tigerhub-bd.vercel.app/StarSports/Tamil/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Star sports select 1
-https://tigerhub-bd.vercel.app/StarSports/Select-1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Star sports select 2
-https://tigerhub-bd.vercel.app/StarSports/Select-2/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Ten Sports
-https://tigerhub-bd.vercel.app/Sports-zone/TenSports/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",PTV Sports
-https://tigerhub-bd.vercel.app/Sports-zone/PTV-Sports/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Geo Super
-https://tigerhub-bd.vercel.app/Sports-zone/Geo-Super/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Fox Cricket
-https://tigerhub-bd.vercel.app/Sports-zone/FoxCricket-501/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",TNT Sports 1
-https://tigerhub-bd.vercel.app/Sports-zone/TNT-Sports-1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",TNT Sports 2
-https://tigerhub-bd.vercel.app/Sports-zone/TNT-Sports-2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",TNT Sports 3
-https://tigerhub-bd.vercel.app/Sports-zone/TNT-Sports-3/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",TNT Sports 4
-https://tigerhub-bd.vercel.app/Sports-zone/TNT-Sports-4/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Willow
-https://tigerhub-bd.vercel.app/Sports-zone/Willow-Sports/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Willow Extra
-https://tigerhub-bd.vercel.app/Sports-zone/Willow-Sports-Extra/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",ESPN
-https://tigerhub-bd.vercel.app/Sports-zone/Espn/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",ESPN 2
-https://tigerhub-bd.vercel.app/Sports-zone/Espn-2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Skysports premire league
-https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Premire-League/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Skysports Football
-https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Football/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Skysports  Mix
-https://tigerhub-bd.vercel.app/Sports-zone/Skysports-mix/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Skysports F1
-https://tigerhub-bd.vercel.app/Sports-zone/Skysports-F1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Skysports Raceing
-https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Raceing/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Skysports Golf
-https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Golf/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Skysports Cricket
-https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Cricket/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Liverpool Football Club TV
-https://tigerhub-bd.vercel.app/Sports-zone/Lfc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",MU Tv
-https://tigerhub-bd.vercel.app/Sports-zone/MU-tv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Real Madrid Tv
-https://tigerhub-bd.vercel.app/Sports-zone/RM-tv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Premire Sports 1
-https://tigerhub-bd.vercel.app/Sports-zone/Premire-Sports-1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Premire sports 2
-https://tigerhub-bd.vercel.app/Sports-zone/Premire-Sports-2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Bein sports 1
-https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Bein sports 2
-https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Bein sports 3
-https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-3/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Bein sports 4
-https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-4/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Bein sports 5
-https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-5/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Bein sports 6
-https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-6/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Bein sports 8
-https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-8/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Bein sports 9
-https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-9/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Bein sports Extra
-https://tigerhub-bd.vercel.app/Sports-zone/BeinSports-Extra/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Al Kas 1
-https://tigerhub-bd.vercel.app/Sports-zone/AlKas-1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Al Kas 2
-https://tigerhub-bd.vercel.app/Sports-zone/AlKas-2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Al Kas 3
-https://tigerhub-bd.vercel.app/Sports-zone/AlKas-3/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Al Kas 4
-https://tigerhub-bd.vercel.app/Sports-zone/AlKas-4/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Eurosports 1
-https://tigerhub-bd.vercel.app/Sports-zone/Eurosports-1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Eurosports 2
-https://tigerhub-bd.vercel.app/Sports-zone/Eurosportss-2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",M+ Laliga
-https://tigerhub-bd.vercel.app/Sports-zone/M+Laliga/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",DAZN Laliga
-https://tigerhub-bd.vercel.app/Sports-zone/DAZN-Laliga/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Laliga Tv
-https://tigerhub-bd.vercel.app/Sports-zone/Laliga-tv/tracks-v1a1/mono.ts.m3u8
-
-
 
 
 #EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Radio FM 📻", Radio Foorti
