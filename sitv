@@ -10,25 +10,6 @@ http://27.124.71.27/Willow_Extra/index.m3u8
 #EXTINF:-1,news21
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 
-
-#EXTINF:-1 group-title="BDIX 1", TEN 3 Hindi - Rs 19.00
-http://103.229.254.25:7001/play/a09q/index.m3u8
-
-#EXTINF:-1 group-title="BDIX 1", & PICTURE HD
-http://103.229.254.25:7001/play/a073/index.m3u8
-
-#EXTINF:-1 group-title="BDIX 1", &Prive HD - Rs 6.00
-http://103.229.254.25:7001/play/a03f/index.m3u8
-
-#EXTINF:-1 group-title="BDIX 1", &flix HD - Rs 19.00
-http://103.229.254.25:7001/play/a02x/index.m3u8
-
-#EXTINF:-1 group-title="BDIX 1", &pictures HD - Rs 19.00
-http://103.229.254.25:7001/play/a033/index.m3u8
-
-#EXTINF:-1 group-title="BDIX 1", &tv - Rs 10.00
-http://103.229.254.25:7001/play/a09v/index.m3u8
-
 #EXTINF:-1 group-title="BDIX 1", &tv HD - Rs 19.00
 http://103.229.254.25:7001/play/a034/index.m3u8
 
@@ -386,27 +367,6 @@ http://103.229.254.25:7001/play/a0db/index.m3u8
 
 #EXTINF:-1 group-title="BDIX 1", SONY SET
 http://103.229.254.25:7001/play/a074/index.m3u8
-
-#EXTINF:-1 group-title="BDIX 1", SONY SPORTS TEN 5 - Rs 19.00
-http://103.229.254.25:7001/play/a0e4/index.m3u8
-
-#EXTINF:-1 group-title="BDIX 1", SONY SPORTS TEN 5 HD - Rs 25.00
-http://103.229.254.25:7001/play/a0dw/index.m3u8
-
-#EXTINF:-1 group-title="BDIX 1", SONY TEN 2
-http://103.229.254.25:7001/play/a06m/index.m3u8
-
-#EXTINF:-1 group-title="BDIX 1", SONY TEN 5
-http://103.229.254.25:7001/play/a072/index.m3u8
-
-#EXTINF:-1 group-title="BDIX 1", SONY YAY! - Rs 4.00
-http://103.229.254.25:7001/play/a0cl/index.m3u8
-
-#EXTINF:-1 group-title="BDIX 1", STAR GOLD HD - Rs 19.00
-http://103.229.254.25:7001/play/a0dd/index.m3u8
-
-#EXTINF:-1 group-title="BDIX 1", STAR JALSHA
-http://103.229.254.25:7001/play/a075/index.m3u8
 
 #EXTINF:-1 group-title="BDIX 1", STAR Maa HD - Rs 25.00
 http://103.229.254.25:7001/play/a0bw/index.m3u8
