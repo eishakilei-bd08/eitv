@@ -35,6 +35,7 @@ http://172.16.29.2:8090/hls/WorldofFreeSports.m3u8
 http://172.16.29.3:8090/hls/tsportshd.m3u8
 #EXTINF:-1,group-title="PREMIUM",ptv sports📺
 http://172.16.29.3:8090/hls/ptvsportshd.m3u8
+
 #EXTINF:-1,Willow
 http://27.124.71.27/Willow_Extra/index.m3u8
 #EXTINF:-1,group-title="PREMIUM",Zee Bangla SD 🔴
@@ -51,6 +52,9 @@ http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
 https://tvsen1.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,news21
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
+
+#EXTINF:-1, CHANNEL ONE NEWS
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sananda
 https://live.sanandatelevision.in/sananda/index.m3u8
 #EXTINF:-1,Fail Army😁😁😁😁
