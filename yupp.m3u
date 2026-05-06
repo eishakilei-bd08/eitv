@@ -1620,29 +1620,18 @@ https://streams2.sofast.tv/ptnr-yupptv/title-Hunt_Fish_TV/v1/master/611d79b11b77
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://streams2.sofast.tv/ptnr-yupptv/title-Nautical_TV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f2e7e4ed-1b9c-4404-9fc6-41d0d13880b7/index.m3u8?hdnts=st%3D1776423999~exp%3D1776445599~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-Nautical_TV%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Ff2e7e4ed-1b9c-4404-9fc6-41d0d13880b7%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_295_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_295_-1~hmac%3Df01e5f3c3014a3c4775f82c4dff6d5c0dbf39c5b518699ecba13d8b58268c72a
 
-#EXTINF:-1 tvg-id="298" tvg-chno="269" tvg-name="absinthe-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/badjix.png" group-title="Sports", Absinthe TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/ptnr-yupptv/title-absinthetv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/254b2fef-a3dd-4a6d-af18-38711e02e31c/manifest.m3u8?hdnts=st%3D1776424000~exp%3D1776445600~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-absinthetv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F254b2fef-a3dd-4a6d-af18-38711e02e31c%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_298_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_298_-1~hmac%3D79f59c174e1afa85195aa1b8ef7f83867573a3f91ad278c6616d82b3dcbf1da1
 
-#EXTINF:-1 tvg-id="296" tvg-chno="262" tvg-name="yachting-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yachting-tv.png" group-title="Sports", Yachting TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/ptnr-yupptv/title-yachtingtv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9c7be81a-7dd6-481e-a010-d306ed060db7/manifest.m3u8?hdnts=st%3D1776424000~exp%3D1776445600~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-yachtingtv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F9c7be81a-7dd6-481e-a010-d306ed060db7%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_296_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_296_-1~hmac%3Da4879cb423c286cd84a1e4926bb20d87ae6c6fe0acc71624bf65dd19629d62d8
 
-#EXTINF:-1 tvg-id="302" tvg-chno="201" tvg-name="up-pro-volleyball-league-2025" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/up-pro-volleyball-league-2025.png" group-title="Sports", UP Pro Volleyball League 2025
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yupptvsportdevice.akamaized.net/v1/019880247d1b1ea557840457d426/0198802d36581567ee930253d677/main.m3u8?hdnts=st%3D1776424000~exp%3D1776445600~acl%3D%21%2A%2Fv1%2F019880247d1b1ea557840457d426%2F0198802d36581567ee930253d677%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_302_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_302_-1~hmac%3Dd5cc8068ad070943bd8e9f1c44a7475206a9fe7c184a2cbd94f16d5469712cac
 
-#EXTINF:-1 tvg-id="325" tvg-chno="" tvg-name="pickleball-now" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/pickleball-now.png" group-title="Sports", PickleBall Now
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://distro-timesgroup.vgcdn.net/vglive-sk-843549/playlist.m3u8?hdnts=st%3D1776424001~exp%3D1776445601~acl%3D%21%2A%2Fvglive-sk-843549%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_325_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_325_-1~hmac%3De9c4023ed3b8b38453832c7bcb89795e3c08c6b0993d5a4e229005aa2427dc3a
+
+
+
+
+
+
+
+
+
 
 
 
