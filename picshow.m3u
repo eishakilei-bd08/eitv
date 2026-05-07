@@ -351,14 +351,6 @@ http://172.16.29.3:8090/hls/ptvsportshd.m3u8
 http://172.16.29.3:8090/hls/StarSports1HD.m3u8
 #EXTINF:-1,STAR_SPORTS_2
 http://172.16.29.3:8090/hls/StarSports2HD.m3u8
-#EXTINF:-1,SONY_TEN_1
-http://172.20.3.1:3255/SonyTenSports1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SONY_TEN_2
-http://172.20.3.1:3255/SonyTenSports2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SONY_TEN_3
-http://172.20.3.1:3255/SONY-SPORTS3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SONY_TEN_4
-http://172.20.3.1:3255/SONY-SPORTS4/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SONY_TEN_5
 http://172.16.29.3:8090/hls/SonyTen3hd.m3u8
 #EXTINF:-1,WORLD_OF_FREE_SPORTS
@@ -1531,13 +1523,6 @@ http://23.88.66.93/HAYAT/index.m3u8
 http://23.88.66.93/Face/index.m3u8
 #EXTINF:-1 ,VOX HD
 http://23.88.66.93/VOX/index.m3u8
-
-
-
-
-
-#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-#Generated on 2026-03-27 12:57:06
 
 #EXTINF:-1 tvg-id="abps1" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/10_tv.png",10 TV
 https://ms4.alliancebroadband.in/media_10_tv.m3u8
