@@ -309,16 +309,6 @@ https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
 
 
-
-#EXTM3U
-#EXTINF:-1,STAR_JOLSHA
-http://172.20.3.1:3255/starjolsha/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ZEE_BANGLA
-http://172.20.3.1:3255/ZeeBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1,COLORS_BANGLA
-http://172.16.29.3:8090/hls/ColorsBanglaHD.m3u8
-#EXTINF:-1,SUN_BANGLA
-http://172.20.3.1:3255/SUN-BANGLA-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ENTERTRAIN_BANGLA
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1,SONY_AAT
@@ -357,17 +347,12 @@ http://172.16.29.3:8090/hls/SonyTen3hd.m3u8
 http://172.16.29.3:8090/hls/WorldofFreeSports.m3u8
 #EXTINF:-1,A_SPORTS
 http://172.16.29.3:8090/hls/eurosportshd.m3u8
-#EXTINF:-1,TNT_SPORTS_2
+#EXTINF:-1,TNT_SPORTS_
 http://172.16.29.3:8090/hls/tntsports2hd.m3u8
 #EXTINF:-1,TNT_SPORTS_3
 http://172.16.29.3:8090/hls/tntsports3hd.m3u8
 #EXTINF:-1,BEIN_SPORTS_1
 http://172.16.29.3:8090/hls/BeinSports1ENG.m3u8
-#EXTINF:-1,BEIN_SPORTS_2
-http://172.20.3.1:3255/willow1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TEN_CRICKET
-http://172.20.3.1:3255/SonyTenCricket/tracks-v1a1/mono.m3u8
-
 
 
 #EXTINF:-1,tt
