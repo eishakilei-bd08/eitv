@@ -1,6 +1,32 @@
 #EXTM3U
 
 
+
+
+#EXTINF:-1,Bengali Beats
+https://tplay.live/originals/bengali-beats/index.m3u8
+#EXTINF:-1,Ilm TV
+https://tplay.live/originals/ilm-tv/index.m3u8
+#EXTINF:-1,24/7 Motu Patlu 
+https://tplay.live/playlist/kids/motu-patlu/index.m3u8
+#EXTINF:-1,24/7 Doraemon
+https://tplay.live/playlist/kids/doraemon/index.m3u8
+#EXTINF:-1,24/7 Oggy and the Cockroaches
+https://tplay.live/playlist/kids/oggy-and-the-cockroaches/index.m3u8
+#EXTINF:-1,24/7 Gopal Bhar
+https://tplay.live/playlist/kids/gopal-bhar/index.m3u8
+#EXTINF:-1,24/7 Bantul The Great 
+https://tplay.live/playlist/kids/bantul-the-great/index.m3u8
+#EXTINF:-1,24/7 Bangla Movies
+https://tplay.live/playlist/movies/bangla-movies/index.m3u8
+#EXTINF:-1,24/7 Bollywood Movies
+https://tplay.live/playlist/movies/bollywood-movies/index.m3u8
+#EXTINF:-1,24/7 Dubbed Movies
+https://tplay.live/playlist/movies/dubbed-movies/index.m3u8
+#EXTINF:-1,24/7 T Play Special
+https://tplay.live/playlist/music/tplay-special/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kvF6A7MpJigDiu63q8L3ZADpsqenR6S0zGG1Wj6gbA&s" group-title="PRO",Madupur News 24
 http://103.121.61.218/tmp_hls/4a47d2983c8bd392b120b627e0e1cab4/index.m3u8
 
@@ -10,8 +36,6 @@ http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1,GTV
 https://tvsen1.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1,Willow
-http://27.124.71.27/Willow_Extra/index.m3u8
 
 #EXTINF:-1,news21
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
