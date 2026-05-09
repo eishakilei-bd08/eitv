@@ -311,7 +311,6 @@ https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c2492
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English News" tvg-logo="",NHK World
 http://103.175.73.12:8080/live/417/417_0.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="Bangladeshi" group-title="",ZEE CINEMA HD
 http://smart.bengaldigital.live/ZeeCinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary",Travel xp
@@ -1954,7 +1953,6 @@ https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5.svg" group-title="Kids",Солнце
 http://tv.mediacdn.ru/live/solntse/playlist.m3u8
-
 #====================Pishow OTT===================
 #EXTINF:-1 group-title="PiShow", 6. 9X Jhakaas
 https://cdn-3.pishow.tv/live/6/master.m3u8
@@ -2008,7 +2006,6 @@ https://cdn-4.pishow.tv/live/33/master.m3u8
 https://cdn-1.pishow.tv/live/34/master.m3u8
 #EXTINF:-1 group-title="PiShow", 35. DD Bihar
 https://cdn-4.pishow.tv/live/35/master.m3u8
-
 #EXTINF:-1 group-title="PiShow", 10007. Maha Movies
 https://cdn-6.pishow.tv/live/10007/master.m3u8
 
