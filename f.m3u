@@ -38,7 +38,6 @@ https://tplay.live/playlist/movies/dubbed-movies/index.m3u8
 #EXTINF:-1,24/7 T Play Special
 https://tplay.live/playlist/music/tplay-special/index.m3u8
 
-
 #EXTINF:-1 tvg-id="122" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/BTV.jpg?raw=true" group-title="PRO",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:1 tvg-name="BTV News" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/BTV_News.jpg?raw=true" group-title="PRO",BTV News
