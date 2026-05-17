@@ -13,8 +13,6 @@ http://163.227.239.233/MOHON-TV-movies/index.m3u8
 #EXTINF:-1,Bengali Beats
 https://tplay.live/originals/bengali-beats/index.m3u8
 
-
-
 #EXTINF:-1,0
 http://iptv.prosto.tv:7000/ch314/video.m3u8
 #EXTINF:-1 group-title="🏝RELAX" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Relax
