@@ -49,14 +49,10 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991302/hls/playlist.m3u8?ads.xumo_c
 https://live-content.xumo.com/247/content/XM07QKPP83P7NQ/28951882/master.m3u8
 #EXTINF:-1 tvg-id="99991638" tvg-name="DOCUMENTARY+" tvg-logo="https://image.xumo.com/v1/channels/channel/99991638/168x168.png?type=color_onBlack" group-title="Movies",DOCUMENTARY+
 https://live-content.xumo.com/2715/content/XM0Q7QJFU0U40P/28845988/master.m3u8
-#EXTINF:-1 tvg-id="99991399" tvg-name="Magnolia Selects" tvg-logo="https://image.xumo.com/v1/channels/channel/99991399/168x168.png?type=color_onBlack" group-title="Movies",Magnolia Selects
-https://magnolia-xumo-us.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-xumo/CDN/master.m3u8?is_lat=0&us_privacy=
 #EXTINF:-1 tvg-id="99991300" tvg-name="Stash TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991300/168x168.png?type=color_onBlack" group-title="Movies",Stash TV
 https://live-content.xumo.com/2492/content/XM0MJWD4HYPUV2/26095123/master.m3u8
 #EXTINF:-1 tvg-id="99991745" tvg-name="The Wu Tang Collection TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991745/168x168.png?type=color_onBlack" group-title="Action & Drama",The Wu Tang Collection TV
 https://live-content.xumo.com/2185/content/XM0XJAS75GKOFI/25902841/master.m3u8
-#EXTINF:-1 tvg-id="99951293" tvg-name="Ebony TV by Lionsgate" tvg-logo="https://image.xumo.com/v1/channels/channel/99951293/168x168.png?type=color_onBlack" group-title="Movies",Ebony TV by Lionsgate
-https://dbrb49pjoymg4.cloudfront.net/10001/99951293/hls/playlist.m3u8?ads.xumo_channelId=99951293&ads._fw_ifa_type=&ads._fw_did=bf2b2fde-24cd-459d-9f52-eb173d190aee&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=LionsgateEbonyTV&ads.csid=xumo_web_LionsgateEbonyTV_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Movie,Movies,FF,Entertainment,GV,Drama,GD&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Movie,Movies,FF,Entertainment,GV,Drama,GD&ads._fw_content_rating=&ads.xumo_contentId=4014&ads.xumo_contentName=LionsgateEbonyTV&ads.xumo_providerId=4014&ads.xumo_providerName=LionsgateEbonyTV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951293&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-id="99991337" tvg-name="FilmRise" tvg-logo="https://image.xumo.com/v1/channels/channel/99991337/168x168.png?type=color_onBlack" group-title="Movies",FilmRise
 https://live-content.xumo.com/260/content/XM00B89EYOHWPA/25313703/master.m3u8
 #EXTINF:-1 tvg-id="99991336" tvg-name="Maverick Black Cinema" tvg-logo="https://image.xumo.com/v1/channels/channel/99991336/168x168.png?type=color_onBlack" group-title="Movies",Maverick Black Cinema
