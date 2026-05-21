@@ -2,10 +2,6 @@
 
 
 
-
-
-
-
 #########E.I.🇧🇩###########
 
 
@@ -23,8 +19,7 @@ https://padmaonline.duckdns.org:8088/StarPlusHD/tracks-v1a1/mono.m3u8
 https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=472
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjScJWuaVmmR61d6_nj09ks_bH6ZtLJh2yUSLCaDlg5cvDSfcZm6aHoBFMbagRf0e3VeHuFNm_Y_E8Alpb-XII9Nm21-x7kj7INw1u_CbOolqhCBW8PltXPfoTIePgqzphhrX42zAjqwzIg_vuzBzyZ80RK5dmCHdd02NiA-HUuZATdMrrEUJ2RSv3XVA/s1080/1000015509.png" group-title="Drama", Zee TV
 https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=167
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLCSvEmAvqf0bXOPUrlifqT-jejbZcRnqHlfPvhBTvYGxMy1mbIr527uZz5qKJyMcDt8RyH8z_3zrNNcS80bs_IDGl2SvsxQfaKVjk7L55blRjuI5z-koVFxYccyYpU1ZnHDH9dmAASP227AADBF9RrnzXyL1C83gOmExVccG-xBnqIzaOwokZTuKGhw/s1080/1000021570.png" group-title="Drama", Enter10 Bangla
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRkjY14tIkYWVUxVMkluzbYHW8a_cADNbR8Bu47g1v1FkLMEdC9fgD-_OGt103qHdQFtVzxKFkYv814m1yxoxcVkQ2XCJ2Cekd1ntRnk6BEd5u3ykv5CvVWlS66COW_NBUgx0yfDJFz7B881VigR4QJVAjGDDxuHlbHwGgwkt_UAKzGkuvY_gvDFi8Hw/s600/Nur_20251222_155837_0000.png" group-title="Drama", Green TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
@@ -3040,7 +3035,8 @@ http://15.235.185.236/hls/bhi.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLCSvEmAvqf0bXOPUrlifqT-jejbZcRnqHlfPvhBTvYGxMy1mbIr527uZz5qKJyMcDt8RyH8z_3zrNNcS80bs_IDGl2SvsxQfaKVjk7L55blRjuI5z-koVFxYccyYpU1ZnHDH9dmAASP227AADBF9RrnzXyL1C83gOmExVccG-xBnqIzaOwokZTuKGhw/s1080/1000021570.png" group-title="Drama", Enter10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 
 
