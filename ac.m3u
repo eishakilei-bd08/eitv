@@ -1916,9 +1916,7 @@ https://cdn-4.pishow.tv/live/32/master.m3u8
 https://cdn-4.pishow.tv/live/33/master.m3u8
 #EXTINF:-1 group-title="PiShow", 34
 https://cdn-1.pishow.tv/live/34/master.m3u8
-#EXTINF:-1 group-title="PiShow", 35. DD Bihar
-https://cdn-4.pishow.tv/live/35/master.m3u8
-#EXTINF:-1 group-title="PiShow", 10007. Maha Movies
+#EXTINF:-1 group-title="PiShow",Maha Movies
 https://cdn-6.pishow.tv/live/10007/master.m3u8
 
 #===============News=======================
