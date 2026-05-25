@@ -12,6 +12,35 @@
 
 #EXTINF:-1,TNX EITV Users
 https://res.cloudinary.com/dc0pw6vgy/video/upload/merged_video_yhscpe.mp4
+
+
+#EXTINF:-1 tvg-name="Boishakhi" tvg-id="local_out/boishakhi" group-title="BANGLA" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/87695160791.png",Boishakhi
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1 xui-id="389" tvg-id="JALSHA" tvg-name="STAR JALSHA HD" tvg-logo="http://172.16.29.34:80/images/dfb21b1c3676fd868fb19fd3a5be5b6d.png" group-title="INDIAN-BANGLA",STAR JALSHA HD (Cloudfront)
+http://103.99.249.139/starjalsha/index.m3u8
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" tvg-name="IN: SONY SAB (4K)." group-title="HINDI",SONY SAB.
+http://103.99.249.139/sonysab/index.m3u8
+
+#EXTINF:-1,Star gold
+http://103.99.249.139/stargold/index.m3u8 
+#EXTINF:-1,Star gold
+http://tvn2.chowdhury-shaheb.com/stargold/index.m3u8
+#EXTINF:-1,Star plus
+http://103.99.249.139/stargold/index.m3u8 
+#EXTINF:-1,Star JALSHA
+http://103.99.249.139/starjalsha/index.m3u8 
+ #EXTINF:-1,A n d pictures
+http://103.99.249.139/andpictures/index.m3u8 
+#EXTINF:-1,S o n y max
+http://103.99.249.139/sonymax/index.m3u8 
+#EXTINF:-1,S o n y sab
+http://103.99.249.139/sonysab/index.m3u8 
+#EXTINF:-1,Z e e tv
+http://103.99.249.139/zeetv/index.m3u8
+#EXTINF:-1,Z e e cinema
+http://103.99.249.139/zeecinema/index.m3u8
+#EXTINF:-1,Omtv tamil
+http://198.144.158.33:8888/TAMIL-TV_OMTV_LIVE_Transcoder/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPZdDXbsGeDOGhPC-Og7bXRrJxsbaFnZ1IEVB7-bPsJtpvNE9IhcMv0Q5OnUq5GCK9UqE7mzMCZinQaN1NSjk2wqKQFs_dreX5yGnDiXNju5yYT_9BDLC3dThhXRIfKk5XQGNc4oi6qWO3fvw5-9dqydLf6pvyHsq5cske3F1FKKih75cCUk20OKVymg/s600/Nur_20251216_222101_0000.png" group-title="Drama", Star Jalsha
 https://tvsen3.aynaott.com/n64PH4YL/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilwqskBGe2fTWJKVAbyTt7UXMUV2lLdSX4cbAP6hD9_KX46uuPgicQN1znONcMYtgPkyxtVNRm9uHaeElMZIGOvV7TkkOiPWcGurTVu803W3V0BlQQIMtRiabDBevG1rWJW5ihSkLBkXZef75BZd956AUzFnzTQaVHW_bktBjCPv1rcjknsfIAjJGa_A/s600/Nur_20251219_134111_0000.png" group-title="Drama", Star Plus
