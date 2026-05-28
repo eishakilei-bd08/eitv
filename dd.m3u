@@ -11,8 +11,6 @@
 
 
 
-
-
 #EXTINF:-1,Bengali Beats
 https://tplay.live/originals/bengali-beats/index.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="Party Universe" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378215384.png" tvg-chno="41" group-title="Music",Party Universe
@@ -349,8 +347,15 @@ https://v.tom-dzherri.net/video/s/97.mp4
 https://v.tom-dzherri.net/video/s/98.mp4
 #EXTINF:-1 group-title="🎡МультЗал |  🎥 Том и Джерри  🍿" tvg-logo="https://lh3.googleusercontent.com/_sUlY4ieqnzL68wLiaqD2zKGye7NV155QKrMt907LOeumEwSm51n06zXaj0Oak-6lcA" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Том и Джерри 99
 https://v.tom-dzherri.net/video/s/99.mp4
+
+
+
 #EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="http://stb.da-tv.vip//images/posters/stlkr/screenshots/204/20311.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Том и Джерри: Бравые ковбои! (США 2022)
 http://ost.da-tv.vip/lcnJpX0JyYXZpZV9rb3Zib2lfSERfMjAyMi9Ub20uQW5kLkplcnJ5LkNvd2JveS5VcC4yMDIyLkRVQi5XRUItREwueDI2NC43MjBwLm1rdj90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJiZGRmN2Y4MiIsInAiOiJiZGRmN2Y4MmEwNWVlNWExIiwiYyI6IjQ5NTUxIiwidCI6Ijg2NjIwNmZmYmI5M2I3MzNmZmU3NThlNzQwOTVmZDE1IiwiZCI6IjIwMDc1IiwiciI6IjIwMDc1IiwibSI6InZvZCIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL3N0MS1mcmFuY2UuNTY0YWEuY286OTk4MS9ndmYvVG9tX2lfRGd
+
+
+
+
 #EXTINF:-1 group-title="🎡МультЗал |  🎥 Том и Джерри  🍿" tvg-logo="https://images.vfl.ru/ii/1620880961/bbf38358/34431133.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Том и Джерри: Быстрый и бешеный (2005)
 https://v.tom-dzherri.net/video/film/480/Tom-i-Dzherri-Bystryj-i-beshenyj-480.mp4
 #EXTINF:-1 group-title="🎡МультЗал |  🎥 Том и Джерри  🍿" tvg-logo="https://images.vfl.ru/ii/1620880961/bbf38358/34431133.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Том и Джерри: Вилли Вонка и шоколадная фабрика (2017)
@@ -382,6 +387,12 @@ https://v.tom-dzherri.net/video/film/480/Tom-i-Dzherri-Shpion-Kvest-480.mp4
 #EXTINF:-1 group-title="🎡МультЗал |  🎥 Том и Джерри  🍿" tvg-logo="https://images.vfl.ru/ii/1620880961/bbf38358/34431133.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",Том и Джерри:Волшебник из страны Оз (2011)
 https://v.tom-dzherri.net/video/film/480/Tom-i-Dzherri-i-Volshebnik-iz-strany-Oz-480.mp4                                                                                                                                                                                                                                                                                                                                                                                   #EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Алим и его ослик"
 https://mults.info/mp4/alim_i_ego_oslik.mp4
+
+
+
+
+
+
 #EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Василиса Микулишна"
 https://mults.info/mp4/vasilisa_mikulishna.mp4
 #EXTINF:-1 group-title="📺 КиноМультЗал | SIMPLEFILMIX 🎞🎥🍿" tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka","Верните Рекса"
@@ -480,6 +491,9 @@ https://mults.info/mp4/eto_chto_za_ptitsa.mp4
 https://kinoleha.net/load/-ne-idealqnyj-muzhchina?original
 #EXTINF:-1 group-title="↕️ 🔺PLAYLIST INFORMATION🔺INFO 🔴🔺↕️" tvg-logo="https://suzukantv.at.ua/LOGO/suzustv-icon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="mediateka",+✓Обновление:🔺INFO 🔴🔺↕️
 https://v2.catcast.tv/videos/ch38963/110220220628_125335/video.mp4
+
+
+
 
 
 #EXTINF:-1 group-title="3-Stoges" tvg-logo="https://powerpop.blog/wp-content/uploads/2020/11/three-stooges.jpg?w=1200",2
