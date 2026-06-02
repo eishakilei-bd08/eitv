@@ -2082,3 +2082,10 @@ http://103.76.111.180:7780/play/a07o
 #EXTINF:-1 group-title="Pakistan", waqt news
 http://103.76.111.180:7780/play/a08x
 
+
+#EXTINF:-1,Sooriyan tv 
+https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
+#EXTINF:-1   Sooriyan tv cinema 
+http://162.212.179.32/giatv/giatv-Sooriyantv/Sooriyantv/playlist.m3u8
+#EXTINF:-1,vedio
+https://cdn.jwplayer.com/videos/LNdcgulf-o4j6Jv34.m3u8
