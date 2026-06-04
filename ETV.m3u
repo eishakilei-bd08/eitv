@@ -2296,21 +2296,11 @@ https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Movie",ABN
 https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movie",Persiana Korea
-https://korhls.persiana.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Religious",RTV Islam
-https://protokolldns.xyz/rtvislamweb554/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Religious",Peace TV Urdu HD
-https://tvsen6.aynaott.com/PeaceTVUrduHD/index.m3u8?e=1780042626&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6a98d0cc02515be10d1e54b3df7ec252
 #EXTINF:0 tvg-id="ext" group-title="Religious",Channel Win
 https://cdn-4.pishow.tv/live/229/master.m3u8
 #EXTINF:0 tvg-id="DeenTV.uk" group-title="Religious",Deen TV
 https://tvsen7.aynaott.com/deen/index.m3u8?e=1780042626&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=239e3ae076db2f0087d3206eb18753ab
-#EXTINF:0 tvg-id="EmanChannel.uk" group-title="Religious",Eman Channel
-https://tvsen6.aynaott.com/eman/index.m3u8?e=1780042626&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=febf3e0ebe03b9160f4d09ed97288e3e
-#EXTINF:0 tvg-id="ext" group-title="Religious",TAQBEER
-https://tvsen7.aynaott.com/takbeer/index.m3u8?e=1780042626&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=eeccdf73b6c1cc0ac79693267e0e0e87
 #EXTINF:0 tvg-id="ext" group-title="Religious",MADANI TV
 https://tvsen7.aynaott.com/MadaniTV/index.m3u8?e=1780042626&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c6d0413130c1f9e9a30c3121d0f61fd8
 
