@@ -999,18 +999,6 @@ https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1780236743&u=78be6644-0a65-48
 
 
 
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/04a56bc13c4c486ad4a4d82a1e00fd73" group-title="Sports",Bein Sports
-
-http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/0b6e5ad3267e5a5897abbe8f3be7b78a" group-title="Sports",BT Sports 2
-
-https://tvsen6.aynaott.com/btSport2/index.m3u8?e=1780236743&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=49017a618db5d5df811d7b95b691da94
-
-
-
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b46df1959322aa48d270a6b163234c76" group-title="Sports",Espn
 
 https://tvsen5.aynaott.com/espn/index.m3u8?e=1780236743&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b98ae813ae3214d6474ed743887e7f82
@@ -1050,12 +1038,6 @@ https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8?e=1780236743&u=78be66
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/1aa37e387ed56a1260b285558eec7c46" group-title="Sports",Sports Grid
 
 https://tvsen6.aynaott.com/SportsGrid/index.m3u8?e=1780236743&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9c8b8db81ed8897367774fae81e3c1d3
-
-
-
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/e1749cf3040f11c63e722c941f213927" group-title="Sports",Xtrem Sports
-
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
 
 
 
