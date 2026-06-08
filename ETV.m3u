@@ -1591,42 +1591,6 @@ https://tvsen5.aynaott.com/nickjr/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Thikana" tvg-logo="https://s3.aynaott.com/storage/6d1aaa03b84a69992940873fc11af8fc" group-title="Bangla",Thikana
 https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="EUROSPORT HD" tvg-logo="https://tvassets.roarzone.net/images/euro_sports_hd.png" group-title="Sports",EUROSPORT HD
-https://edge2.roarzone.net:8447/roarzone/edge3/euro_sports_hd/index.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="SONY MAX" tvg-logo="https://i.postimg.cc/NMgSxc0P/1000113679.png" group-title="Movies",SONY MAX
-https://edge2.roarzone.net:8447/roarzone/edge3/sony_max/index.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="SONY MAX HD" tvg-logo="https://tvassets.roarzone.net/images/sonymaxhd.png" group-title="Movies",SONY MAX HD
-https://edge2.roarzone.net:8447/roarzone/edge3/sony_max_hd/index.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="SONY MAX 2" tvg-logo="https://tvassets.roarzone.net/images/sonymax2.png" group-title="Movies",SONY MAX 2
-https://edge2.roarzone.net:8447/roarzone/edge3/sonymax_2/index.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="SONY PIX HD" tvg-logo="https://tvassets.roarzone.net/images/sonypix_hd.png" group-title="Movies",SONY PIX HD
-https://edge2.roarzone.net:8447/roarzone/edge3/sonypix_hd/index.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="B4U MOVIES APAC" tvg-logo="https://tvassets.roarzone.net/images/b4u_movies.png" group-title="Movies",B4U MOVIES APAC
-https://edge2.roarzone.net:8447/roarzone/edge3/b4u_movies/index.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="ZEE CINEMA HD" tvg-logo="https://tvassets.roarzone.net/images/zee_cinema_hd.png" group-title="Movies",ZEE CINEMA HD
-https://edge2.roarzone.net:8447/roarzone/edge3/zee_cinema_hd/index.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="& PICTURES HD" tvg-logo="https://tvassets.roarzone.net/images/andpicture_hd.png" group-title="Movies",& PICTURES HD
-https://edge2.roarzone.net:8447/roarzone/edge3/andpicture_hd/index.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="TOFFEE MOVIES" tvg-logo="https://tvassets.roarzone.net/images/toffee_movie.png" group-title="Movies",TOFFEE MOVIES
-https://edge2.roarzone.net:8447/roarzone/edge3/toffee_movie/index.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="GOLDMINES BOLLYWOOD" tvg-logo="https://tvassets.roarzone.net/images/goldmines-bollywood.png" group-title="Movies",GOLDMINES BOLLYWOOD
-https://edge2.roarzone.net:8447/roarzone/edge5/goldmines-bollywood/index.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="9X TASHAN" tvg-logo="https://tvassets.roarzone.net/images/9x-tashan.png" group-title="Music",9X TASHAN
-https://edge2.roarzone.net:8447/roarzone/edge5/9x-tashan/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Axn" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/AXN.png" group-title="Hindi Movie",Axn
-http://172.31.235.10:8080/hls/54-axn/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ZEE CINEMA" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png" group-title="Hindi Movie",ZEE CINEMA
-http://103.99.249.139/zeecinema/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Zee Action" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png" group-title="Hindi Movie",Zee Action
 http://103.175.73.12:8080/live/270/270_0.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Star Gold" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png" group-title="Hindi Movie",Star Gold
