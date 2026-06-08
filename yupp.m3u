@@ -44,24 +44,11 @@ https://vg-ndtvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd8
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://vg-timesgroup.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/73455029-b0f3-4c11-b54d-010c52f42ee9/main.m3u8?hdnts=st%3D1776423889~exp%3D1776445489~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F73455029-b0f3-4c11-b54d-010c52f42ee9%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_213_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_213_-1~hmac%3Deb37823e632ec89ee397f87ca27cb3d255fc7d34551273dd426414af20d90456
 
-#EXTINF:-1 tvg-id="188" tvg-chno="209" tvg-name="news9live" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kcaslr.png" group-title="News", News9Live
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://vg-tv9live.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/59d1f22f-8f3f-4458-bb05-204baca5a6ba/main.m3u8?hdnts=st%3D1776423891~exp%3D1776445491~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F59d1f22f-8f3f-4458-bb05-204baca5a6ba%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_188_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_188_-1~hmac%3Daf9445e8726b04d074480afa1dfb42abda3c6e4c79be7fb6deee412f9d2db0a3
-
 #EXTINF:-1 tvg-id="171" tvg-chno="210" tvg-name="hornbill-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hornbill-tv.png" group-title="News", Hornbill TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://d1msejlow1t3l4.cloudfront.net/fta/hornbilltv/playlist.m3u8?hdnts=st%3D1776423892~exp%3D1776445492~acl%3D%21%2A%2Ffta%2Fhornbilltv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_171_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_171_-1~hmac%3D541726a640a2299c30f7d38a5e073404f0f5ad19bd873fe7c6ba52374ed7b7ee
-
-#EXTINF:-1 tvg-id="3" tvg-chno="226" tvg-name="ndtv-profit" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ddsklc.png" group-title="News", NDTV Profit
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppparoriglin.akamaized.net/181224/smil:ndtvprofit.smil/playlist.m3u8?hdnts=st%3D1776423893~exp%3D1776445493~acl%3D%21%2A%2F181224%2Fsmil%3Andtvprofit.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_3_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_130.131.55.246_yuppfast_2_channel_3_-1~hmac%3D5464caf1d8789df15091538a577ed447e890c5c27a15dfd7448a15e98b3c9381
-
 #EXTINF:-1 tvg-id="275" tvg-chno="322" tvg-name="oan-plus" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rohnbg.png" group-title="News", OAN PLUS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
