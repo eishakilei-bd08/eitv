@@ -78,8 +78,6 @@ http://151.80.18.177:86/National_Geo_HD/index.m3u8
 http://103.175.242.10:8080/starsports2/index.m3u8
 #EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="E.I.🇧🇩", SOMOY TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 tvg-name="StarSports 1 HD" group-title="E.I.🇧🇩",StarSports 1 HD
-http://103.229.254.25:7001/play/a0a0/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",T20
 https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
 #EXTINF:-1,group-title="E.I.🇧🇩",Canal +
@@ -88,10 +86,6 @@ https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-dash/canalpluscl
 https://starsportshindiii.pages.dev/360p.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",Star sport hindi
 http://103.175.73.12:8080/live/151/151_0.m3u8
-#EXTINF:-1 tvg-name="Star Gold 2 HD" group-title="E.I.🇧🇩",Star Gold 2 HD
-http://103.229.254.25:7001/play/a0d0/index.m3u8
-#EXTINF:-1 tvg-name="Star Gold HD" group-title="E.I.🇧🇩",Star Gold HD
-http://103.229.254.25:7001/play/a0dd/index.m3u8
 #EXTINF:-1 group-title="E.I.🇧🇩" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/1730401547178-fotor-bg-remover-202411011613.png",Me Tv
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-id="248" tvg-name="SRK TV HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/srk-tv.jpg" group-title="BD Channel-(বাংলা চ্যানেল)",SRK TV HD
@@ -117,16 +111,6 @@ https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="-",VEVO
 https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="-",Sonic
-http://103.229.254.25:7001/play/a0dl/index.m3u8
-#EXTINF:-1 group-title="-",Sonic Heghok
-https://dtwdcugadwtnw.cloudfront.net/master.m3u8
-#EXTINF:-1 group-title="-",Sony Max
-http://103.157.248.140:8000/play/a01l/index.m3u8
-#EXTINF:-1 group-title="-",Sony Pix
-http://103.229.254.25:7001/play/a0ed/index.m3u8
-#EXTINF:-1 group-title="-",Sony Sab
-http://103.229.254.25:7001/play/a0db/index.m3u8
 #EXTINF:-1 group-title="-",Universal Action 
 https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="-",Chaina
@@ -376,24 +360,6 @@ https://live-hls-web-aje-fa.thehlive.com/AJE/01.m3u8
 http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="E.I.🇧🇩", ZB Kartun
 https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="E.I.🇧🇩",Star Gold
-http://103.99.249.139/stargold/index.m3u8
-#EXTINF:-1 group-title="E.I.🇧🇩",Star Plus
-http://103.99.249.139/starplus/index.m3u8
-#EXTINF:-1 group-title="E.I.🇧🇩",Star Jalsha
-http://103.99.249.139/starjalsha/index.m3u8
-#EXTINF:-1 group-title="E.I.🇧🇩",Jalsha Movies
-http://103.99.249.139/jalshamovies/index.m3u8
-#EXTINF:-1 group-title="E.I.🇧🇩",And Pictures
-http://103.99.249.139/andpictures/index.m3u8
-#EXTINF:-1 group-title="E.I.🇧🇩",Sony Max
-http://103.99.249.139/sonymax/index.m3u8
-#EXTINF:-1 group-title="E.I.🇧🇩",Sony Sab
-http://103.99.249.139/sonysab/index.m3u8
-#EXTINF:-1 group-title="E.I.🇧🇩",Zee TV
-http://103.99.249.139/zeetv/index.m3u8
-#EXTINF:-1 group-title="E.I.🇧🇩",Zee Cinema
-http://103.99.249.139/zeecinema/index.m3u8
 EXTINF:-1 tvg-logo=" " group-title="E.I.🇧🇩",Arabica TV
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="E.I.🇧🇩",DBC টিভি
@@ -452,9 +418,6 @@ http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2762.t
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="30AMusic" group-title="E.I.🇧🇩",30AMusic
 https://30a-tv.com/music.m3u8
-#EXTINF:-1 tvg-name="pcv" group-title="E.I.🇧🇩",PCV
-https://padmaonline.duckdns.org:8088/pcv/index.m3u8
-
 
 #EXTINF:-1 tvg-name="Makka TV" group-title="E.I.🇧🇩",Makka TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
