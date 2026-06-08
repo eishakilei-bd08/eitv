@@ -1686,17 +1686,9 @@ https://vods2.aynascope.net/gseriesDrama/index.m3u8
 https://tvsen6.aynaott.com/btv_world/index.m3u8?e=1780042620&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5cbab35d1a575b19824b64689bf5feaa
 #EXTINF:0 tvg-id="ext" group-title="Bangla",BTV CTG
 https://tvsen6.aynaott.com/btvctg/index.m3u8?e=1780042620&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=36f68e1d4f9b05b8c41b6a6ad6fc02b8
-#EXTINF:0 tvg-id="ext" group-title="Bangla",Peace TV Bangla HD
-https://tvsen7.aynaott.com/PeaceTvBanglaHD/index.m3u8?e=1780042620&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9c7acdabf4323ce67e5c0345bdeb66ae
-#EXTINF:0 tvg-id="ext" group-title="Bangla",TIME TV USA
-https://tvsen7.aynaott.com/timetv/index.m3u8?e=1780042620&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=436390abe27e351dc6a9cfe92dc87409
 #EXTINF:0 tvg-id="ext" group-title="Bangla",Thikana
 https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="News",ABC 7 Bay
-https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8
-#EXTINF:0 tvg-id="WABCNewYorkABCEast.us" group-title="News",ABC News
-https://tvsen6.aynaott.com/AbcNews/index.m3u8?e=1780042620&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f0f4241e2e8e119e258dad249af47936
 #EXTINF:0 tvg-id="ext" group-title="News",BTV News
 https://tvsen6.aynaott.com/BTVNews/index.m3u8?e=1780042620&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=599c14c93bfd3bfcc7a2e38df511bc59
 #EXTINF:0 tvg-id="ext" group-title="News",BEK TV News
