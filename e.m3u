@@ -102,9 +102,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/movieplus.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="231" tvg-name="Green Tv HD" tvg-logo="https://free.otapp.store/uploads/tv_image/sm/green-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Green Tv HD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF:-1 group-title="-",&pictures HD
-http://103.229.254.25:7001/play/a033/index.m3u8
-
 #EXTINF:-1 group-title="-",9X
 https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8
 #EXTINF:-1 group-title="-",YRF 
@@ -2482,110 +2479,6 @@ https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/in
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 tvg-logo="none" group-title="None",START AIR 
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",NEWS18 INDIA
-http://103.140.254.2:3500/live/530.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",TRT 1
-https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",TRT 2 HD
-https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",ATV HD
-http://89.187.191.41/ATV-HD-TR/video.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",TRT TURK
-https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",A2
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",ARY Zindagi
-http://163.61.227.29:8000/play/a03o/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",BIG MAGIC
-http://163.61.227.29:8000/play/a04f/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",ARY DIGITAL
-http://163.61.227.29:8000/play/a03p/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",Play HD
-http://163.61.227.29:8000/play/a03c/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",Aur Life HD
-http://163.61.227.29:8000/play/a03e/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",VENUS ENTERTAINMENT
-http://163.61.227.29:8000/play/a02y/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",Dangal
-https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",Dangal 2
-http://163.61.227.29:8000/play/a04b/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",Hi Dost!
-https://mumt03.tangotv.in/HIDOST/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",Express HD 
-http://163.61.227.29:8000/play/a05i/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",ZEE ANMOL
-http://163.61.227.29:8000/play/a04a/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",A plus
-http://163.61.227.29:8000/play/a03l/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",Discover Pakistan
-http://163.61.227.29:8000/play/a03b/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",DISCOVERY
-http://163.61.227.29:8000/play/a01i/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",DISCOVERY TURBO
-http://163.61.227.29:8000/play/a01w/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",DISCOVERY SCIENCE
-http://103.140.254.2:3500/live/568.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",National Geographic
-http://151.80.18.177:86/National_Geo_HD/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",National Geographic
-http://163.61.227.29:8000/play/a01d/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",Animal Planet
-http://103.140.254.2:3500/live/567.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",Ndtv Good Times
-http://103.140.254.2:3500/live/560.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",5 NEWS HD
-http://163.61.227.29:8000/play/a03m/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",Zee 24 Ghanta
-https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",Green Entertainment
-http://163.61.227.29:8000/play/a02v/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",AAKASH AATH
-https://mumt03.tangotv.in/AAKASHAATH/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",Tara Cinema Bangla
-http://103.145.48.150:90/laosat24/taratv/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",Padma Tv
-https://padmaonline.duckdns.org:8088/pcv/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",ENTER10 BANGLA
-https://cdn-4.pishow.tv/live/241/master.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",PTV HOME
-http://163.61.227.29:8000/play/a05k/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",Hum Masala
-http://163.61.227.29:8000/play/a02g/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",The Q Kahaniyan
-http://163.61.227.29:8000/play/a04v/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",BBC NEWS
-http://45.148.145.57/IN_BN/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",FOX NEWS
-https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None", SANGEET BANGLA
-https://cdn-4.pishow.tv/live/1143/master.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",Dhoom Music
-https://mumt03.tangotv.in/DHOOM/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None", SHOWBOX
-http://163.61.227.29:8000/play/a045/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",SANGEET BANGLA
-https://mumt05.tangotv.in/SANGEETBANGLA/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None", MANORANJAN MOVIES
-https://cdn-2.pishow.tv/live/228/master.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",Food Food
-https://mumt03.tangotv.in/FOODFOOD/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None", FASHION TV
-http://163.61.227.29:8000/play/a03v/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None", PLANET FUN
-http://163.61.227.29:8000/play/a03w/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",GUBBARE
-https://epiconvh.akamaized.net/live/gubbare/master.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None", KIDS ZONE
-http://163.61.227.29:8000/play/a03x/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",Cartoon Network Hindi 
-http://163.61.227.29:8000/play/a064/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary",Travel xp
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="None",Histoire HD
-http://151.80.18.177:86/Histoire/index.m3u8
-
 #EXTINF:-1 tvg-name="FASHION ONE" group-title="Entertainment",FASHION ONE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
 #EXTINF:-1 tvg-name="FASHION ONE" group-title="Entertainment",FASHION ONE
