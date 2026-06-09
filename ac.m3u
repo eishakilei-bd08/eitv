@@ -2149,20 +2149,6 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #EXTINF:-1 tvg-id="182" tvg-chno="606" tvg-name="janam-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/janam-tv.png" group-title="News", Janam TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="153" tvg-chno="781" tvg-name="argus-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ayrbqa.png" group-title="News", Argus News
-https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9704839a-ec23-4344-ae68-b92e42d79cbd/index.m3u8
-#EXTINF:-1 xui-id="389" tvg-id="JALSHA" tvg-name="STAR JALSHA HD" tvg-logo="http://172.16.29.34:80/images/dfb21b1c3676fd868fb19fd3a5be5b6d.png" group-title="INDIAN-BANGLA",STAR JALSHA HD (Cloudfront)
-http://103.99.249.139/starjalsha/index.m3u8
-#EXTINF:-1 tvg-id="sonysabhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" tvg-name="IN: SONY SAB (4K)." group-title="HINDI",SONY SAB.
-http://103.99.249.139/sonysab/index.m3u8
-#EXTINF:-1,Star gold
-http://103.99.249.139/stargold/index.m3u8 
-#EXTINF:-1,Star gold
-http://tvn2.chowdhury-shaheb.com/stargold/index.m3u8 
-#EXTINF:-1,S o n y max
-http://103.99.249.139/sonymax/index.m3u8 
-#EXTINF:-1,Z e e cinema
-http://103.99.249.139/zeecinema/index.m3u8
 
 
 
