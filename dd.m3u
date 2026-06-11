@@ -21,7 +21,8 @@ https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ri
 http://93.84.115.174:10181/detskimir
-
+#EXTINF:-1,DSTV
+http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1,T
 http://46.32.64.39:10008
 #EXTINF:-1,Y
