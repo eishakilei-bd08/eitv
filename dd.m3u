@@ -14,7 +14,26 @@
 https://tplay.live/originals/bengali-beats/index.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="Party Universe" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378215384.png" tvg-chno="41" group-title="Music",Party Universe
 https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
+#EXTINF:-1,Hollywood
+https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,Bol
+https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ri
+http://93.84.115.174:10181/detskimir
+
+#EXTINF:-1,T
+http://46.32.64.39:10008
+#EXTINF:-1,Y
+http://158.160.149.81:8080/269/index.m3u8
+#EXTINF:-1,U
+https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
+#EXTINF:-1,R
+https://stream8.cinerama.uz/1271/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CN R
+http://176.118.197.101/Cartoon_Network/index.m3u8
+#EXTINF:-1,CN
+http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 
 #EXTINF:-1,group-title"4K",Tom & jerry
 https://server2.ftpbd.net/FTP-2/English%20Movies/English-Movies-4K/%282021%29/Tom-and-Jerry-%282021%29-4k/Tom.and.Jerry.2021.2160p.HMAX.WEB-DL.x265.10bit.HDR.DDP5.1.Atmos-SWTYBLZ_reencoded.mp4
