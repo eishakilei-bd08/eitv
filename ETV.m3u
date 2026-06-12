@@ -1769,28 +1769,6 @@ https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",Oman Sports TV
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",R Plus
-https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",R Plus Gold
-https://tvsen6.aynaott.com/RplusGold/index.m3u8?e=1780042623&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f23bb68163dcca97ffd87c9bebbff0eb
-#EXTINF:0 tvg-id="SangeetBangla.in" group-title="Channels",Sangeet Bangla
-https://cdn-4.pishow.tv/live/1143/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",News Time Bangla
-https://tvsen6.aynaott.com/NewsTime/index.m3u8?e=1780042623&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6384c927c2af9f02866acfec02367c12
-#EXTINF:0 tvg-id="ext" group-title="Channels",Republic Bangla
-https://tvsen5.aynaott.com/R_Bangla/index.m3u8?e=1780042622&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=caed74b7b0411309a9071755e35abfd2
-#EXTINF:0 tvg-id="Zee24Ghanta.in" group-title="Channels",Zee 24 Ghanta
-https://tvsen6.aynaott.com/zee24/index.m3u8?e=1780042622&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cd0464597d5657d0936b8b084084192a
-#EXTINF:0 tvg-id="KolkataTV.in" group-title="Channels",kolkata TV
-https://tvsen6.aynaott.com/kolkatatv/index.m3u8?e=1780042623&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=696a7fd1af3cc7ffc8b3394fbd8e79e3
-#EXTINF:0 tvg-id="ext" group-title="Channels",Goal TV
-https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",pix 11
-https://tvsen6.aynaott.com/pix11/index.m3u8?e=1780042623&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f587450267b3ae13af26d4c75c879943
-#EXTINF:0 tvg-id="ext" group-title="Channels",AMC TV
-https://tvsen6.aynaott.com/amc/index.m3u8?e=1780042623&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ed9f76960c01aa1f90064ca61a161550
-#EXTINF:0 tvg-id="ext" group-title="Channels",AXS
-https://tvsen6.aynaott.com/axs/index.m3u8?e=1780042623&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b05c4fe09b024ded50413de96205455c
 #EXTINF:0 tvg-id="24dok" group-title="Channels",TBS
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",4k Travel
@@ -1816,66 +1794,7 @@ https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_
 #EXTINF:0 tvg-id="avi" group-title="Channels",CMAC TV
 https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="English",Islam TV
-https://tvsen6.aynaott.com/islam/index.m3u8?e=1780042623&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e2f04cbcd75f15bf9e3ea309d9e5eb43
-#EXTINF:0 tvg-id="ext" group-title="English",RDS Social TV
-https://tvsen6.aynaott.com/RDSSocialTV/index.m3u8?e=1780042623&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7d647165cb8d1df27148cc3aa2b0de6c
-#EXTINF:0 tvg-id="HBOHD.mx" group-title="English",HBO
-https://tvsen5.aynaott.com/hbo/index.m3u8?e=1780042623&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=88e9366ff5482394bb0dd02f7503c926
-#EXTINF:0 tvg-id="ext" group-title="English",CGTN Docu
-https://tvsen6.aynaott.com/cgtnDocumentary/index.m3u8?e=1780042623&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b145a57a81e9aea16802adbff22251f7
-#EXTINF:0 tvg-id="FoxBusinessNetwork.us" group-title="English",Fox business
-https://tvsen6.aynaott.com/foxbusiness/index.m3u8?e=1780042623&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=df8e2b8bd4a6a6faa0fea3a50061caf8
-#EXTINF:0 tvg-id="ext" group-title="English",Fox 5
-https://tvsen6.aynaott.com/fox5/index.m3u8?e=1780042623&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e8e78da1c5f29fc7baf57920cf8b044d
-#EXTINF:0 tvg-id="DiscoveryFamily.fr" group-title="English",Discovery Family
-https://tvsen5.aynaott.com/discoveryfamily/index.m3u8?e=1780042623&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=28683ee619d464d0a1c97c5239bf4588
-#EXTINF:0 tvg-id="animal-hd" group-title="English",Animal Planet HD
-https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
-#EXTINF:0 tvg-id="Bravo.nz" group-title="English",BRAVO
-https://tvsen7.aynaott.com/bravo/index.m3u8?e=1780042623&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=67881da72957aadf95b7e022080a5e3a
-#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="English",COMEDY CENTRAL
-https://tvsen7.aynaott.com/comedycentral/index.m3u8?e=1780042624&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c5bd24e67b050d52e25d3d3732e3e36c
-#EXTINF:0 tvg-id="ext" group-title="English",COOKING TV
-https://tvsen7.aynaott.com/cooking/index.m3u8?e=1780042624&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1673f6d90ec2051db32afaa9d8124f83
-#EXTINF:0 tvg-id="ext" group-title="English",EPIX TV
-https://tvsen7.aynaott.com/epix/index.m3u8?e=1780042624&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1d6543dfcc98ae123160b223dff83319
-#EXTINF:0 tvg-id="FX.tr" group-title="English",FX TV
-https://tvsen7.aynaott.com/fx/index.m3u8?e=1780042624&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=382def75ebc6dc0a58fcef6ae518061a
-#EXTINF:0 tvg-id="food-network-rus" group-title="English",Food Network
-https://tvsen6.aynaott.com/foodnetwork/index.m3u8?e=1780042624&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5d0116523ea4a76ce90d525289ea0b73
-#EXTINF:0 tvg-id="HBO2.pe" group-title="English",HBO 2
-https://tvsen7.aynaott.com/hbo2/index.m3u8?e=1780042624&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1f5f983e3ca7d07a08761a8ddf6dbbb2
-#EXTINF:0 tvg-id="hgtv" group-title="English",HGTV
-https://tvsen7.aynaott.com/hgtv/index.m3u8?e=1780042624&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=05232b113d4a2da5c783efd0e33ef241
-#EXTINF:0 tvg-id="ext" group-title="English",LAFF TV
-https://tvsen7.aynaott.com/laff/index.m3u8?e=1780042624&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=47b9945c938441710e9160638a36b44d
-#EXTINF:0 tvg-id="Lifetime.us" group-title="English",LIFE TIME
-https://tvsen7.aynaott.com/lifetime/index.m3u8?e=1780042624&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3db021f4cbeae52f681f14457d2698fb
-#EXTINF:0 tvg-id="ext" group-title="English",Nat Geo TV
-https://tvsen6.aynaott.com/natgeo/index.m3u8?e=1780042624&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0765caa3e9f8d85eb546e46f7dab6a5a
-#EXTINF:0 tvg-id="SCIFI.uk" group-title="English",SYFY TV
-https://tvsen7.aynaott.com/syfy/index.m3u8?e=1780042624&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1f86370e7317e8af28e4cdddcfb5a1f3
-#EXTINF:0 tvg-id="tlc-russia" group-title="English",TLC HD
-https://tvsen6.aynaott.com/tlc_hd/index.m3u8?e=1780042624&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1318fe08370a549edcc5bde5f5980b88
-#EXTINF:0 tvg-id="travel" group-title="English",Travel Channel
-https://tvsen6.aynaott.com/travelxp/index.m3u8?e=1780042624&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=54bfbf7d629f5ae52dea724cd6b9582b
-#EXTINF:0 tvg-id="ext" group-title="English",IBTV USA
-https://tvsen7.aynaott.com/ibtvusa/index.m3u8?e=1780042624&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8fbbdb8f667eeaff37439084d3efc9ce
-#EXTINF:0 tvg-id="ext" group-title="English",WEATHER CHANNEL
-https://tvsen6.aynaott.com/TheWeatherChannel/index.m3u8?e=1780042624&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fe2c5ce29b086e475d81124406823b6c
-#EXTINF:0 tvg-id="ext" group-title="English",CNBC TV
-https://tvsen6.aynaott.com/cnbc/index.m3u8?e=1780042624&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=961a06d95d962f486e9c8d09cc6b7559
-#EXTINF:0 tvg-id="ext" group-title="English",CBS TV
-https://tvsen7.aynaott.com/cbs/index.m3u8?e=1780042624&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=933dd69eeeaac9a946c7e966f88fe325
-#EXTINF:0 tvg-id="CablePulse24.ca" group-title="English",CP 24
-https://tvsen6.aynaott.com/cp24/index.m3u8?e=1780042624&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8044c70c43cae05c942c90e25df1382c
-#EXTINF:0 tvg-id="mtv-rus" group-title="English",MTV
-https://tvsen6.aynaott.com/mtv/index.m3u8?e=1780042624&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c839acc86062d02003214eeef263fc8f
-#EXTINF:0 tvg-id="ext" group-title="English",\t USA TV
-https://tvsen6.aynaott.com/usa/index.m3u8?e=1780042624&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=db64129d68625903a63bc075024742d7
-#EXTINF:0 tvg-id="ext" group-title="English",MSNBC News
-https://tvsen6.aynaott.com/msnbc/index.m3u8?e=1780042624&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2fa6632e5f0934a3c8b72df417c30b9f
+
 #EXTINF:0 tvg-id="ext" group-title="English",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
@@ -1919,36 +1838,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/in
 #EXTINF:0 tvg-id="ext" group-title="Indian Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:0 tvg-id="cartoon" group-title="Kids",Cartoon Network
-https://tvsen5.aynaott.com/cartoonnetwork/index.m3u8?e=1780042625&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f93fc5554f6cdc34c3e0595d99fcbaca
-#EXTINF:0 tvg-id="ext" group-title="Kids",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Kids",Disney JR
-https://tvsen7.aynaott.com/disneyjr/index.m3u8?e=1780042625&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4ca6bd83887edeffb49067cc61687119
-#EXTINF:0 tvg-id="Nicktoons.uk" group-title="Kids",Nicktoons
-https://tvsen5.aynaott.com/nicktoons/index.m3u8?e=1780042625&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7d3c9308847fa11f2ff988690d61ff03
-#EXTINF:0 tvg-id="nick-jr" group-title="Kids",Nickjr
-https://tvsen5.aynaott.com/nickjr/index.m3u8?e=1780042625&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7940d0267ee5dc558a3215679655676d
-#EXTINF:0 tvg-id="ext" group-title="Kids",3ABN Kids
-https://tvsen6.aynaott.com/3abnkids/index.m3u8?e=1780042625&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9d76377cbeb71667e660ab56a1fb2b13
-#EXTINF:0 tvg-id="ext" group-title="Kids",Dios Te Ve Kids
-https://s.emisoras.tv:8081/diostevekids/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",Kids Pang TV
-https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",Moonbug Kids
-https://tvsen6.aynaott.com/MoonbugKids/index.m3u8?e=1780042625&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=59c77914f83425f4309b6c436fa05036
-#EXTINF:0 tvg-id="disney" group-title="Kids",Disney Channel
-https://tvsen7.aynaott.com/disney/index.m3u8?e=1780042626&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=acb09588da9d27496bb880016e4fd817
-#EXTINF:0 tvg-id="disney-xd-blt" group-title="Kids",Disney XD
-https://tvsen5.aynaott.com/disneyxd/index.m3u8?e=1780042626&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=eda0b46a31759f6ef404a039f80ae6b7
-#EXTINF:0 tvg-id="FamilyJrSD.ca" group-title="Kids",Family JR
-https://tvsen5.aynaott.com/familyjr/index.m3u8?e=1780042626&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3f662c24acdf18f0afbe1ec4019dcd2e
-#EXTINF:0 tvg-id="nickelod" group-title="Kids",Nickelodeon
-https://tvsen7.aynaott.com/nicklodean/index.m3u8?e=1780042626&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1aeedef3983065c2b69ae1cd69496ff2
-#EXTINF:0 tvg-id="TeenNick.us" group-title="Kids",Teen Nick
-https://tvsen7.aynaott.com/teennick/index.m3u8?e=1780042626&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2014b479d11df4e28c3d79252106abe4
-#EXTINF:0 tvg-id="YTV.ca" group-title="Kids",YTV
-https://tvsen6.aynaott.com/ytv/index.m3u8?e=1780042626&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=10753ef84b52926028dad4acbe3c3f72
 #EXTINF:0 tvg-id="ext" group-title="Kids",TVCARiB Kids & Teens
 https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
 
