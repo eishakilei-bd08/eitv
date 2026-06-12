@@ -26,22 +26,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 https://tplay.live/originals/bengali-beats/index.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="news" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Entertainment",ATN Bangla
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-#EXTINF:-1 tvg-id="247-hindi-movies" tvg-name="24/7 Hindi Movies" tvg-logo="https://iptv-org.github.io/iptv/logos/star_gold.png" group-title="24/7 - Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Bollywood_pataka_high_res_logo.jpg?20160319184711" group-title="24/7 - Entertainment",24/7 Hindi Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
-#EXTINF:-1 tvg-id="247-bangla-movies" tvg-name="24/7 Bangla Movies" tvg-logo="https://iptv-org.github.io/iptv/logos/zee_bangla_cinema.png" group-title="24/7 - Entertainment" tvg-logo="https://cdn.dribbble.com/userupload/40514087/file/original-87cf6c9d57c9fad2027a1726f99aeb1a.png?resize=752x564&vertical=center" group-title="24/7 - Entertainment",24/7 Bangla Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
-#EXTINF:-1 tvg-id="247-dubbed-movies" tvg-name="24/7 Dubbed Movies" tvg-logo="https://iptv-org.github.io/iptv/logos/goldmines.png" group-title="24/7 - Entertainment" tvg-logo="https://www.thehandbook.com/cdn-cgi/image/width=600,height=600,fit=cover,q=80,format=webp/https://files.thehandbook.com/uploads/2021/02/aauvwngqodwiyvmmmril7mpe8ucpcqvogc98pyikxgpfs800-c-k-c0x00ffffff-no-rj.jpg" group-title="24/7 - Entertainment",24/7 Dubbed Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
-#EXTINF:-1 tvg-id="247-bangla-waz" tvg-name="24/7 Bangla Waz" tvg-logo="https://iptv-org.github.io/iptv/logos/peace_tv_bangla.png" group-title="24/7 - Entertainment" tvg-logo="https://shorifart.com/wp-content/uploads/2022/11/Waz-Mahfil-Logo-Design-02-01-600x552.png" group-title="24/7 - Entertainment",24/7 Bangla Waz
-https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
-#EXTINF:-1 tvg-id="247-gopal-bhar" tvg-name="24/7 Gopal Bhar" tvg-logo="https://iptv-org.github.io/iptv/logos/sony_aath.png" group-title="24/7 - Entertainment" tvg-logo="https://image.tmdb.org/t/p/original/h6lsUfpvqITz6FdjHhB16s3Bt3I.jpg" group-title="24/7 - Entertainment",24/7 Gopal Bhar
-https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
-#EXTINF:-1 tvg-id="247-motu-patlu" tvg-name="24/7 Motu Patlu" tvg-logo="https://iptv-org.github.io/iptv/logos/nick_india.png" group-title="24/7 - Entertainment" tvg-logo="https://image.tmdb.org/t/p/original/cXdGXzpCpOqQNqgWQam13DL8rCy.jpg" group-title="24/7 - Entertainment",24/7 Motu Patlu
-https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
-#EXTINF:-1 tvg-id="247-hindi-songs" tvg-name="24/7 Hindi Songs" tvg-logo="https://iptv-org.github.io/iptv/logos/9xm.png" group-title="24/7 - Entertainment" tvg-logo="https://pnglove.com/data/img/34_gXdJ.jpg" group-title="24/7 - Entertainment",24/7 Hindi Songs
-https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
-#EXTINF:-1 tvg-id="247-bangla-songs" tvg-name="24/7 Bangla Songs" tvg-logo="https://iptv-org.github.io/iptv/logos/sangeet_bangla.png" group-title="24/7 - Entertainment" tvg-logo="https://pnglove.com/data/img/34_gXdJ.jpg" group-title="24/7 - Entertainment",24/7 Bangla Songs
-https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/330px-BBC_News_2022_%28Alt%29.svg.png" group-title="News",BBC News
 https://tplay.live/out/news/bbc-news/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Goldmines_logo.png/1920px-Goldmines_logo.png?20250711062922" group-title="Entertainment",GoldMines
