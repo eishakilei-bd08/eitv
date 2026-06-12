@@ -1056,11 +1056,7 @@ http://172.31.235.10:8080/hls/38-channel-s/index.m3u8
 https://tvsen6.aynaott.com/globaltvhd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekhon TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Ekhon%20TV.png" group-title="IPTV",Ekhon TV
 http://172.31.235.10:8080/hls/37-ekhon/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Bijoy%20TV.png" group-title="IPTV",Bijoy TV
-https://tvsen6.aynaott.com/bijoytv/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Desh%20TV.png" group-title="IPTV",Desh TV
-https://tvsen6.aynaott.com/deshtv/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jago News 24" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/e/ed/%E0%A6%9C%E0%A6%BE%E0%A6%97%E0%A7%8B_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C.png" group-title="BD NEWS",Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
@@ -1072,22 +1068,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Sangeet Bangla" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sangeet-bangla-in.png" group-title="Music",Sangeet Bangla
 http://172.31.235.10:8080/hls/60-sangeetbangla/index.m3u8
-#EXTM3U
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Asian TV" tvg-logo="https://s3.aynaott.com/storage/5282cec3a2e9349b750540d658cf1b6c" group-title="Bangla",Asian TV
-https://tvsen6.aynaott.com/asiantv/index.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Bangla TV" tvg-logo="https://s3.aynaott.com/storage/e42ecfa90e3d6b15bdb7fea5ef673864" group-title="Bangla",Bangla TV
-https://tvsen6.aynaott.com/banglatv/index.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Mohona TV" tvg-logo="https://s3.aynaott.com/storage/73082846fdc15d9f0e7268b104c55d92" group-title="Bangla",Mohona TV
-https://tvsen6.aynaott.com/mohonatv/index.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="T Sports HD" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
-https://tvsen7.aynaott.com/tsports-hd/index.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="PTV Sports" tvg-logo="https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014" group-title="Sports",PTV Sports
-https://tvsen5.aynaott.com/PtvSports/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Khushboo" tvg-logo="https://s3.aynaott.com/storage/d90eb718a6674494d2dac28e1d96bf44" group-title="Music",Khushboo
 https://cdn-4.pishow.tv/live/1473/master.m3u8
@@ -1101,20 +1082,7 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Shemaroo TV" tvg-logo="https://s3.aynaott.com/storage/c63628e7301ba1eded68c0f75ab8d903" group-title="Entertainment",Shemaroo TV
 https://cdn-3.pishow.tv/live/230/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Goldmines Bollywood" tvg-logo="https://s3.aynaott.com/storage/e92e9e2fb70909f3dd30a8d89e644119" group-title="Movies",Goldmines Bollywood
-https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Nat Geo TV" tvg-logo="https://s3.aynaott.com/storage/2dce8297266bbc9c235c27119f914e1b" group-title="Documentary",Nat Geo TV
-https://tvsen6.aynaott.com/natgeo/index.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Disney JR" tvg-logo="https://s3.aynaott.com/storage/31a070024b6516e3738baec70168f0b6" group-title="Kids",Disney JR
-https://tvsen7.aynaott.com/disneyjr/index.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Nicktoons" tvg-logo="https://s3.aynaott.com/storage/a130687320f6b07db4bc3729b9d5e96e" group-title="Kids",Nicktoons
-https://tvsen5.aynaott.com/nicktoons/index.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Nickjr" tvg-logo="https://s3.aynaott.com/storage/921409bfe77e2e3d32492116bc22fa3e" group-title="Kids",Nickjr
-https://tvsen5.aynaott.com/nickjr/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Thikana" tvg-logo="https://s3.aynaott.com/storage/6d1aaa03b84a69992940873fc11af8fc" group-title="Bangla",Thikana
 https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/playlist.m3u8
@@ -1158,115 +1126,10 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id="ext" tvg-name="Deepto TV" tvg-logo="https://imglink.cc/cdn/2ODX-FAGY4.png" group-title="",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
-
-#EXTM3U
-#EXTINF:0 tvg-id="Channeli.uk" group-title="Bangla",Channel I
-https://tvsen6.aynaott.com/channeli/index.m3u8?e=1780042619&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=82cbbcad84e889ee67eeaeef80af0889
-#EXTINF:0 tvg-id="ChannelS.uk" group-title="Bangla",Channel S
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ntv" group-title="Bangla",NTV
-https://tvsen5.aynaott.com/ntvbd/index.m3u8?e=1780042619&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=34c371a0f09c60afdb06588e5159a872
-#EXTINF:0 tvg-id="ext" group-title="Bangla",Bangla Vision
-https://tvsen5.aynaott.com/banglavision/index.m3u8?e=1780042619&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4fd465cfa31abe50a79c3bdf63dffb25
-#EXTINF:0 tvg-id="rtvint" group-title="Bangla",RTV
-https://tvsen5.aynaott.com/RtvHD/index.m3u8?e=1780042619&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7df5baddef637af8424500c13bfbc296
-#EXTINF:0 tvg-id="ATNBanglaUK.uk" group-title="Bangla",ATN Bangla
-https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1780042619&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=941fd7f066c4bb9e8c2b42d77ac793bc
-#EXTINF:0 tvg-id="ETV.ee" group-title="Bangla",ETV
-https://tvsen6.aynaott.com/etv/index.m3u8?e=1780042619&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=aea8b06ef03d5e90cc42cc52938f810b
-#EXTINF:0 tvg-id="ext" group-title="Bangla",Maasranga TV
-https://tvsen5.aynaott.com/maasrangatv/index.m3u8?e=1780042619&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a2d34912fe17598bd501b23987c1a7b4
-#EXTINF:0 tvg-id="ext" group-title="Bangla",Deepto TV
-https://tvsen5.aynaott.com/DeeptoTVHD/index.m3u8?e=1780042619&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d40483ac352d73a9d0137b3a8f93c7f8
-#EXTINF:0 tvg-id="ext" group-title="Bangla",Gazi TV
-https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1780042619&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=887717847f43e2ebd6d0ca10d6b2787e
-#EXTINF:0 tvg-id="ext" group-title="Bangla",Desh TV
-https://tvsen6.aynaott.com/deshtv/index.m3u8?e=1780042619&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cf1f9a106429250d64236df29f3791ce
-#EXTINF:0 tvg-id="ext" group-title="Bangla",Boishakhi TV
-https://tvsen6.aynaott.com/boishakhitv/index.m3u8?e=1780042619&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bc90fef5fa92bb9d5c04ceb21646c559
-#EXTINF:0 tvg-id="Channel9.gr" group-title="Bangla",Channel 9
-https://tvsen6.aynaott.com/channel9/index.m3u8?e=1780042619&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f7b84cb308159b00537f440761b9d9b2
-#EXTINF:0 tvg-id="ext" group-title="Bangla",Asian TV
-https://tvsen6.aynaott.com/asiantv/index.m3u8?e=1780042619&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c1f37c82724a1fb1ea3579bb54dfe02b
-#EXTINF:0 tvg-id="ext" group-title="Bangla",SA TV
-https://tvsen6.aynaott.com/satv/index.m3u8?e=1780042619&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2937e61a71acbcec03812ec55016188f
-#EXTINF:0 tvg-id="ext" group-title="Bangla",Duronto TV
-https://tvsen6.aynaott.com/durontotv-live/index.m3u8?e=1780042619&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e73869c11333330ae616ee764dbaa161
-#EXTINF:0 tvg-id="BanglaTV.uk" group-title="Bangla",Bangla TV
-https://tvsen6.aynaott.com/banglatv/index.m3u8?e=1780042619&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6920b17789010537db5f2cacd2511c04
-#EXTINF:0 tvg-id="ext" group-title="Bangla",BTV NATIONAL HD
-https://tvsen6.aynaott.com/btvhd/index.m3u8?e=1780042619&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=41ac3680bd774d2334f003744ce65498
-#EXTINF:0 tvg-id="ext" group-title="Bangla",Ananda TV
-https://tvsen6.aynaott.com/anandatv/index.m3u8?e=1780042619&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ea09b290096fde4e9d6ba8f5c4967c3f
-#EXTINF:0 tvg-id="MYTV.in" group-title="Bangla",My TV
-https://tvsen6.aynaott.com/mytv/index.m3u8?e=1780042619&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=60b7149137ace51ddd20604e088d7874
-#EXTINF:0 tvg-id="GlobalTV.pe" group-title="Bangla",Global TV
-https://tvsen6.aynaott.com/globaltvhd/index.m3u8?e=1780042620&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0768448de699daf13e4ba2cb0ce12264
-#EXTINF:0 tvg-id="ext" group-title="Bangla",Bijoy TV
-https://tvsen6.aynaott.com/bijoytv/index.m3u8?e=1780042620&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9839fd74c493993a1c720d4a846d8350
-#EXTINF:0 tvg-id="ext" group-title="Bangla",NEXUS TV
-https://tvsen6.aynaott.com/nexustv/index.m3u8?e=1780042620&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=939de01914bf056b7cf17f4ba4bb422c
-#EXTINF:0 tvg-id="ext" group-title="Bangla",Mohona TV
-https://tvsen6.aynaott.com/mohonatv/index.m3u8?e=1780042620&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6f094e867fd40feb10a60bd907d94766
-#EXTINF:0 tvg-id="ext" group-title="Bangla",Drama 24
-https://vods2.aynascope.net/gseriesDrama/index.m3u8
-#EXTINF:0 tvg-id="ZeeBollywood.us" group-title="Bangla",BTV World
-https://tvsen6.aynaott.com/btv_world/index.m3u8?e=1780042620&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5cbab35d1a575b19824b64689bf5feaa
-#EXTINF:0 tvg-id="ext" group-title="Bangla",BTV CTG
-https://tvsen6.aynaott.com/btvctg/index.m3u8?e=1780042620&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=36f68e1d4f9b05b8c41b6a6ad6fc02b8
 #EXTINF:0 tvg-id="ext" group-title="Bangla",Thikana
 https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="News",BTV News
-https://tvsen6.aynaott.com/BTVNews/index.m3u8?e=1780042620&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=599c14c93bfd3bfcc7a2e38df511bc59
-#EXTINF:0 tvg-id="ext" group-title="News",BEK TV News
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Somoy News TV
-https://tvsen6.aynaott.com/somoytv/index.m3u8?e=1780042620&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b8f08cd9eb5e3c7c3ba3fb7df040532c
-#EXTINF:0 tvg-id="ext" group-title="News",Channel 24
-https://tvsen6.aynaott.com/channel24/index.m3u8?e=1780042620&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9703f16c126d8ae9def522e27b71de96
-#EXTINF:0 tvg-id="ext" group-title="News",ATN News
-https://tvsen6.aynaott.com/atnnews/index.m3u8?e=1780042620&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fea6fc45f83ed9f548c89db3e9be8bcc
-#EXTINF:0 tvg-id="ext" group-title="News",Independent TV
-https://tvsen6.aynaott.com/independenttv/index.m3u8?e=1780042620&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=726b926d696659594830650d99d41d38
-#EXTINF:0 tvg-id="ext" group-title="News",DBC News
-https://tvsen6.aynaott.com/dbcnews/index.m3u8?e=1780042620&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=307bda6d8f3eb9c63721207b90a34382
-#EXTINF:0 tvg-id="bbc-world" group-title="News",BBC News
-https://tvsen6.aynaott.com/bbcnews/index.m3u8?e=1780042620&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e8a6a2715dcd9ea8d05bcc6a7b5a89f7
-#EXTINF:0 tvg-id="ext" group-title="News",Ekhon TV
-https://tvsen6.aynaott.com/ekhontv/index.m3u8?e=1780042620&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d49a0701706f09c55efbd686534deae3
-#EXTINF:0 tvg-id="ext" group-title="News",News 24 BD
-https://tvsen6.aynaott.com/news24/index.m3u8?e=1780042621&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8ea86ed67e430fb6dcfb5f3d6bb3b488
-#EXTINF:0 tvg-id="ext" group-title="News",Ekattor TV
-https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8?e=1780042621&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fba3b71e0fe65a934ed9f52de20c7989
-#EXTINF:0 tvg-id="ext" group-title="News",Jamuna TV
-https://tvsen6.aynaott.com/jamunatv/index.m3u8?e=1780042621&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=397edebd8e6f17b79e18a08ce7f931e6
-#EXTINF:0 tvg-id="cnn" group-title="News",CNN
-https://tvsen6.aynaott.com/cnn/index.m3u8?e=1780042621&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3ca2eb29592139d41678586238149fe2
-#EXTINF:0 tvg-id="AlJazeera.nws" group-title="News",AlJazeera
-https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:0 tvg-id="DeutscheWelle.de" group-title="News",DW News
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-#EXTINF:0 tvg-id="nhk-world" group-title="News",NHK World
-https://tvsen6.aynaott.com/nhkworld/index.m3u8?e=1780042621&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=557e6b7736438e4488003b1e4751a62d
-#EXTINF:0 tvg-id="ext" group-title="News",Wion
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",ANB News
-https://tvsen6.aynaott.com/ANB_News/index.m3u8?e=1780042621&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=02f7449252aa745a88931edc3862b845
-#EXTINF:0 tvg-id="ext" group-title="News",News 1 India
-https://tvsen6.aynaott.com/News1India/index.m3u8?e=1780042621&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5af5a180db008c2c5298d72c21283145
-#EXTINF:0 tvg-id="ext" group-title="News",Sadhna Prime News
-https://tvsen6.aynaott.com/SadhnaPrimeNews/index.m3u8?e=1780042621&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=84b27f41d3ea2337435e2cea04d48cf5
-#EXTINF:0 tvg-id="ext" group-title="News",TV9 Bangla
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-#EXTINF:0 tvg-id="TRTWorld.uk" group-title="News",TRT World
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Star News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
-#EXTINF:0 tvg-id="SkyNews.uk" group-title="News",Sky News
-https://tvsen5.aynaott.com/skynews/index.m3u8?e=1780042621&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4e905ef0a0336375725ffcde3ac4b9f5
-#EXTINF:0 tvg-id="ext" group-title="News",Hindi Khabar
-https://tvsen7.aynaott.com/HindiKhabar/index.m3u8?e=1780042621&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=277996691b8814557efc7a181b3cbf9b
+#
 #EXTINF:0 tvg-id="ext" group-title="News",News Nation
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",India Today
