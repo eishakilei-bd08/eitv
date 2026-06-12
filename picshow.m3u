@@ -1177,7 +1177,6 @@ http://23.88.66.93/HAYAT/index.m3u8
 http://23.88.66.93/Face/index.m3u8
 #EXTINF:-1 ,VOX HD
 http://23.88.66.93/VOX/index.m3u8
-
 #EXTINF:-1 tvg-id="abps1" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/10_tv.png",10 TV
 https://ms4.alliancebroadband.in/media_10_tv.m3u8
 
