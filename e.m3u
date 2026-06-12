@@ -681,11 +681,6 @@ http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Pinkfong_Baby_Shark.svg" group-title="KIDS😺",0. Baby Shark TV
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/68/Bantul_the_Great_logo.png" group-title="KIDS😺",0. Bantul The Great
-https://cloudfrontnet.vercel.app/tplay/playout/209869/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png" group-title="KIDS😺",0. DISNEY JR
-http://fl61.moveonjoy.com:80/DISNEY_JR/index.m3u8
-
 
 #EXTINF:-1 group-title="KIDS😺" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
 https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
