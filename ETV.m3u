@@ -1259,17 +1259,12 @@ https://tvsen6.aynaott.com/Network10/index.m3u8?e=1780042625&u=78be6644-0a65-48e
 https://tvsen6.aynaott.com/RepublicTVBharat/index.m3u8?e=1780042625&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e82e50c8d11a4ee0aea6ad6c005785c6
 #EXTINF:0 tvg-id="ext" group-title="Hindi",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Green TV HD
-https://tvsen6.aynaott.com/GreenTvHD/index.m3u8?e=1780042625&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=eb25e10776f37b5421319ad8c2d6a1ca
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Sony ATTH
-https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 #EXTINF:0 tvg-id="avi" group-title="Hindi",Hindi Movie Classic 24
 https://vods2.aynaott.com/hindimovies/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Indian Bangla",DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Indian Bangla",Enter 10 Bangla
-https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+
 
 #EXTINF:0 tvg-id="ext" group-title="Kids",TVCARiB Kids & Teens
 https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
