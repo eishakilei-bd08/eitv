@@ -2,15 +2,6 @@
 
 
 
-#########E.I.🇧🇩###########
-
-
-
-
-
-
-#EXTINF:-1,TNX EITV Users
-https://res.cloudinary.com/dc0pw6vgy/video/upload/merged_video_yhscpe.mp4
 #EXTINF:-1 tvg-name="Boishakhi" tvg-id="local_out/boishakhi" group-title="BANGLA" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/87695160791.png",Boishakhi
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRkjY14tIkYWVUxVMkluzbYHW8a_cADNbR8Bu47g1v1FkLMEdC9fgD-_OGt103qHdQFtVzxKFkYv814m1yxoxcVkQ2XCJ2Cekd1ntRnk6BEd5u3ykv5CvVWlS66COW_NBUgx0yfDJFz7B881VigR4QJVAjGDDxuHlbHwGgwkt_UAKzGkuvY_gvDFi8Hw/s600/Nur_20251222_155837_0000.png" group-title="Drama", Green TV
@@ -49,37 +40,17 @@ https://tplay.live/playlist/movies/dubbed-movies/index.m3u8
 https://tplay.live/playlist/music/tplay-special/index.m3u8
 #EXTINF:-1,Fail Army
 https://jmp2.uk/plex-64305451fc3be5947773c339-5f170d62b898490041b4936e.m3u8
-#EXTINF:-1,GTV
-https://tvsen1.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1,Sananda
 https://live.sanandatelevision.in/sananda/index.m3u8
 #EXTINF:-1 ,Ekushey TV(BD2)
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",SOMOY
-https://bozztv.com/rongo/rongo-somoy/index.m3u8
 #EXTINF:-1,tvg-logo="https://channeleurope.tv/storage/settings/BNyRMyomifMQ7VlzvHKbNwCfzxM7kF4Vq7bj4zxZ.png",Channel Europe
 https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w572284654.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",SONG
-http://103.180.212.191:3500/live/740.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",T sports 
-http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",Nagorik 
-http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",Discovery 
-http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",Sports 
-http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩", Nat Geo HD
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",Star sport 2
-http://103.175.242.10:8080/starsports2/index.m3u8
 #EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="E.I.🇧🇩", SOMOY TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",T20
-https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
-#EXTINF:-1,group-title="E.I.🇧🇩",Canal +
-https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-dash/canalplusclair.mpd
 #EXTINF:-1 tvg-name="Star Sports-1 Hindi" group-title="E.I.🇧🇩",Star Sports-1 Hindi
 https://starsportshindiii.pages.dev/360p.m3u8
 #EXTINF:-1,group-title="E.I.🇧🇩",Star sport hindi
