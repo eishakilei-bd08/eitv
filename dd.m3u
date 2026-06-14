@@ -18,19 +18,17 @@ https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
 https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Action Hollywood 
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1,Bol
+#EXTINF:-1,Kids
 https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Ri
-http://93.84.115.174:10181/detskimir
 #EXTINF:-1,DSTV
 http://46.249.95.140:8081/hls/data.m3u8
-#EXTINF:-1,T
+#EXTINF:-1,KapC
 http://46.32.64.39:10008
-#EXTINF:-1,Y
+#EXTINF:-1,JimJam
 http://158.160.149.81:8080/269/index.m3u8
-#EXTINF:-1,U
+#EXTINF:-1,Kidsa
 https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
-#EXTINF:-1,R
+#EXTINF:-1,Duck
 https://stream8.cinerama.uz/1271/tracks-v1a1/mono.m3u8
 #EXTINF:-1,CN R
 http://176.118.197.101/Cartoon_Network/index.m3u8
