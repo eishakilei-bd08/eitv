@@ -1248,51 +1248,28 @@ https://tvsen6.aynaott.com/Dangal/index.m3u8?e=1780042625&u=78be6644-0a65-48ec-8
 https://cdn-3.pishow.tv/live/230/master.m3u8
 #EXTINF:0 tvg-id="MusicIndia.uk" group-title="Hindi",Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
-#EXTINF:0 tvg-id="9XJalwa.in" group-title="Hindi",9x Jalwa
-https://tvsen6.aynaott.com/9xjalwa/index.m3u8?e=1780042625&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f674a4d7ec8df57650376c8c09832ad1
-#EXTINF:0 tvg-id="9XTashan.in" group-title="Hindi",9X Tashan
-https://tvsen6.aynaott.com/9X_Tashan/index.m3u8?e=1780042625&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=511c681a8cf9a44dd1d298e3cc19617c
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Dhinchaak
-https://tvsen6.aynaott.com/Dhinchaak/index.m3u8?e=1780042625&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3781c2f008c4723bd08f10821c16ead4
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Khushboo
-https://cdn-4.pishow.tv/live/1473/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Manoranjan TV
-https://tvsen6.aynaott.com/ManoranjanTV/index.m3u8?e=1780042625&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8f0275fbf52c4a1f024e75f94367b4b1
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Network 10
-https://tvsen6.aynaott.com/Network10/index.m3u8?e=1780042625&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a3cbacaf8c81341e79a2822c12305985
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Republic TV Bharat
-https://tvsen6.aynaott.com/RepublicTVBharat/index.m3u8?e=1780042625&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e82e50c8d11a4ee0aea6ad6c005785c6
 #EXTINF:0 tvg-id="ext" group-title="Hindi",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 #EXTINF:0 tvg-id="avi" group-title="Hindi",Hindi Movie Classic 24
 https://vods2.aynaott.com/hindimovies/index.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Indian Bangla",DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
-
-
 #EXTINF:0 tvg-id="ext" group-title="Kids",TVCARiB Kids & Teens
 https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
 
+
+
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="Movie",ABN
 https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Religious",Channel Win
 https://cdn-4.pishow.tv/live/229/master.m3u8
-#EXTINF:0 tvg-id="DeenTV.uk" group-title="Religious",Deen TV
-https://tvsen7.aynaott.com/deen/index.m3u8?e=1780042626&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=239e3ae076db2f0087d3206eb18753ab
-#EXTINF:0 tvg-id="ext" group-title="Religious",MADANI TV
-https://tvsen7.aynaott.com/MadaniTV/index.m3u8?e=1780042626&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c6d0413130c1f9e9a30c3121d0f61fd8
-
 #EXTINF:0 tvg-id="ext" group-title="Urdhu",Geo ENT
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Weather",AccuWeather
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Weather",Fox Weather
-https://247wlive.foxweather.com/stream/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Weather",Sky News Weather
-https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Weather",Weather SPY
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Weather",Discover Pikstan
