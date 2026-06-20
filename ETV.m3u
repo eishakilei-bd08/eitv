@@ -267,13 +267,6 @@ http://41.205.93.154/WWE/index.m3u8
 #EXTINF:-1 ,BLOOMBERG
 http://41.205.93.154/BLOOMBERG/index.m3u8
 
-
-#EXTINF:-1 ,Euro Sport 2 HD
-http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
-
-#EXTINF:-1 ,Rai Sport HD
-http://79.127.207.193:80/RaiSport/playlist.m3u8
-
 #EXTINF:-1 ,Nick
 http://202.70.146.135:8000/play/a04c/index.m3u8
 
