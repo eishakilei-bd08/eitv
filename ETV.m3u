@@ -1229,27 +1229,10 @@ https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/
 https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Cowboy Movie Channel
 https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Channels",CMAC TV
-https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8
 
 
 #EXTINF:0 tvg-id="ext" group-title="English",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Goldmines Bollywood
-https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Assam Talks
-https://tvsen7.aynaott.com/AssamTalks/index.m3u8?e=1780042625&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2fb0fdb21291693767265a2ea1bf33dc
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Taaza TV
-https://tvsen7.aynaott.com/TaazaTV/index.m3u8?e=1780042625&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3768f40768d98ee3fd5de3b99f542efb
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Dangal
-https://tvsen6.aynaott.com/Dangal/index.m3u8?e=1780042625&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4375493cad7cfa605f02b3a798254481
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Shemaroo TV
-https://cdn-3.pishow.tv/live/230/master.m3u8
-#EXTINF:0 tvg-id="MusicIndia.uk" group-title="Hindi",Music India
-https://cdn-2.pishow.tv/live/226/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Rongeen TV
-https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 #EXTINF:0 tvg-id="avi" group-title="Hindi",Hindi Movie Classic 24
 https://vods2.aynaott.com/hindimovies/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Indian Bangla",DD Bangla
