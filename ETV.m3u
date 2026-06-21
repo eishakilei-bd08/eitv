@@ -1146,67 +1146,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo
 #EXTINF:0 tvg-id="ext" group-title="Latest",Awaaz India
 http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Sports",T Sports HD
-https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1780042621&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=aaa4806c54826ffebe3bd3397195ff7a
-#EXTINF:0 tvg-id="ext" group-title="Sports",PTV Sports
-https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1780042621&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=efd34f95fd2c3fec71f01923d1c839c2
-#EXTINF:0 tvg-id="ext" group-title="Sports",A sports
-https://tvsen6.aynaott.com/asports/index.m3u8?e=1780042621&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f25aa55921f02fc9d6a231e14073cf3d
-#EXTINF:0 tvg-id="ext" group-title="Sports",Cricket Gold
-https://tvsen6.aynaott.com/CricketGold/index.m3u8?e=1780042621&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=47b5fd53f213e0f96eeae11a55d7c555
-#EXTINF:0 tvg-id="GolfChannel.fr" group-title="Sports",Golf Channel
-https://tvsen6.aynaott.com/golfchannel/index.m3u8?e=1780042622&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=93d3d6f1ba8efe95dcf2231fd2ee05dc
-#EXTINF:0 tvg-id="ext" group-title="Sports",Bleav Football
-https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
-#EXTINF:0 tvg-id="FOXSports2.us" group-title="Sports",Fox Sports 2
-https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1780042622&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=aef0cf5656fb5cb551e45dd584bcc71d
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="Sports",Bein Sports
-http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:0 tvg-id="TNTSport2.uk" group-title="Sports",BT Sports 2
-https://tvsen6.aynaott.com/btSport2/index.m3u8?e=1780042622&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8dd49f843683877e649fb6eb8575bdfa
-#EXTINF:0 tvg-id="ESPN.uk" group-title="Sports",Espn
-https://tvsen5.aynaott.com/espn/index.m3u8?e=1780042622&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=dd77f7563f46b00539f3074564d36d28
-#EXTINF:0 tvg-id="TSN2.ca" group-title="Sports",TSN 2
-https://tvsen7.aynaott.com/tsn2/index.m3u8?e=1780042622&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b7f0e3eb9bf0f0f91289add36a35ec80
-#EXTINF:0 tvg-id="ext" group-title="Sports",Talk Sport
-https://tvsen6.aynaott.com/talkSPORT/index.m3u8?e=1780042622&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b4c40d10353b011a44a9db3a41c8ced8
-#EXTINF:0 tvg-id="ext" group-title="Sports",KTV Sport Plus
-https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sports First TV
-https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Marquee Sports Network
-https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8?e=1780042622&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9fe20094a483f154bb710a24c97b24e3
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sports Grid
-https://tvsen6.aynaott.com/SportsGrid/index.m3u8?e=1780042622&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=12d49c4ab970d425bc89c09bfe7eb5d8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Xtrem Sports
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
-#EXTINF:0 tvg-id="bloomberg" group-title="Sports",Bloomberg TV
-https://tvsen6.aynaott.com/bloombergtv/index.m3u8?e=1780042622&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e13caddd5254c295bb3ab7a0cd5a3727
-#EXTINF:0 tvg-id="ext" group-title="Sports",Bahrain Sports 1
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Willow TV
-https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1780042622&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f56441a387f085b1fe545874731f4030
-#EXTINF:0 tvg-id="NFLNetwork.mx" group-title="Sports",NFL Network
-https://tvsen6.aynaott.com/nfl/index.m3u8?e=1780042622&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1714a291c47d8db4756005f37f882d42
-#EXTINF:0 tvg-id="TNTSport1.uk" group-title="Sports",TNT Sport 1
-https://tvsen6.aynaott.com/btSport1/index.m3u8?e=1780042622&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ada5da1e13557a28ccbbb310dc09ca19
-#EXTINF:0 tvg-id="TSN1.ca" group-title="Sports",TSN 1
-https://tvsen7.aynaott.com/tsn1/index.m3u8?e=1780042622&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f1530d6e1f98e843c744f9c91df71320
-#EXTINF:0 tvg-id="TSN3.ca" group-title="Sports",TSN 3
-https://tvsen7.aynaott.com/tsn3/index.m3u8?e=1780042622&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7ff4da1c86e70afe649c95de065b8236
-#EXTINF:0 tvg-id="DDSports.in" group-title="Sports",DD Sports
-https://cdn-6.pishow.tv/live/13/master.m3u8
-#EXTINF:0 tvg-id="NBCSportsNetwork.us" group-title="Sports",NBC Sports
-https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",WOF 1
-https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",speed sports 1
-https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",More Then Sports TV
-https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Oman Sports TV
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-
 
 
 
