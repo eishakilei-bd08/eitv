@@ -23,43 +23,7 @@ http://starhub.pro/live/Anthony2/Anthony123/98882.ts
 http://starhub.pro/live/Anthony2/Anthony123/198.ts
 
 
-#EXTINF:-1 tvg-id="SonyMax4K" tvg-name="Sony Max 4K" tvg-logo="" group-title="Movies",Sony Max 4K
-http://starhub.pro/live/Anthony2/Anthony123/98857.ts
 
-#EXTINF:-1 tvg-id="AndPictures4K" tvg-name="& Pictures 4K" tvg-logo="" group-title="Movies",& Pictures 4K
-http://starhub.pro/live/Anthony2/Anthony123/98856.ts
-
-#EXTINF:-1 tvg-id="StarGold4K" tvg-name="Star Gold 4K" tvg-logo="" group-title="Movies",Star Gold 4K
-http://starhub.pro/live/Anthony2/Anthony123/98858.ts
-
-#EXTINF:-1 tvg-id="StarGoldSelect4K" tvg-name="Star Gold Select 4K" tvg-logo="" group-title="Movies",Star Gold Select 4K
-http://starhub.pro/live/Anthony2/Anthony123/98859.ts
-
-#EXTINF:-1 tvg-id="ZeeCinema4K" tvg-name="Zee Cinema 4K" tvg-logo="" group-title="Movies",Zee Cinema 4K
-http://starhub.pro/live/Anthony2/Anthony123/98860.ts
-
-#EXTINF:-1 tvg-id="ColorsCineplex4K" tvg-name="Colors Cineplex 4K" tvg-logo="" group-title="Movies",Colors Cineplex 4K
-http://starhub.pro/live/Anthony2/Anthony123/9378.ts
-
-#EXTINF:-1 tvg-id="AnimalPlanet4K" tvg-name="Animal Planet 4K" tvg-logo="" group-title="Documentary",Animal Planet 4K
-http://starhub.pro/live/Anthony2/Anthony123/9391.ts
-
-#EXTINF:-1 tvg-id="HistoryTV184K" tvg-name="History TV18 4K" tvg-logo="" group-title="Documentary",History TV18 4K
-http://starhub.pro/live/Anthony2/Anthony123/98877.ts
-
-#EXTINF:-1 tvg-id="Discovery4K" tvg-name="Discovery 4K" tvg-logo="" group-title="Documentary",Discovery 4K
-http://starhub.pro/live/Anthony2/Anthony123/98872.ts
-
-#EXTINF:-1 tvg-id="NationalGeo4K" tvg-name="National Geographic 4K" tvg-logo="" group-title="Documentary",National Geographic 4K
-http://starhub.pro/live/Anthony2/Anthony123/98874.ts
-
-#EXTINF:-1 tvg-id="SonyBBCEarth4K" tvg-name="Sony BBC Earth 4K" tvg-logo="" group-title="Documentary",Sony BBC Earth 4K
-http://starhub.pro/live/Anthony2/Anthony123/98871.ts
-
-#EXTINF:-1 tvg-id="TravelXP4K" tvg-name="Travel XP 4K" tvg-logo="" group-title="Documentary",Travel XP 4K
-http://starhub.pro/live/Anthony2/Anthony123/1623.ts
-
-# Kids
 #EXTINF:-1 tvg-id="Nick4K" tvg-name="Nick 4K" tvg-logo="" group-title="Kids",Nick 4K
 http://starhub.pro/live/Anthony2/Anthony123/7438.ts
 
