@@ -891,15 +891,8 @@ https://banijay-wipeoutxtra-lg-us.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-banijay-
 https://tmbijukin.global.transmit.live/hls/68dc4a172aa9a163d81820f5/v1/jukin_weatherspy_4/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC_Earth" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/BBCE5/resized_88dd4e3192ef99ad0c591f92a5e97bcd21b3ed904652b081d140f6167d013ab3_bbcswildjapanbid5057keyartbrandlangenglishj4f26joh30jpg_400_225.png" group-title="Nature",BBC Earth
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="WildEarth" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/WILDEARTHUS/resized_a8794be286a87e8bdf8e81fd6672924cfd45925e0929b6b76e78598069f3dda7_safarilivesunsetrepeatjpg_400_225.png" group-title="Nature",WildEarth
-https://wildearth-lg-us.amagi.tv/hls/amagi_hls_data_wildearth-wildearth-lg-us/CDN/master.m3u8
 #EXTINF:-1 tvg-id="Love_Nature" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/BAMLOVEENG/resized_2769b45a8b524526d3f15ace2c3575b730b7661f36736533e070cadee18e1d7a_hfa01052710jpg_400_225.png" group-title="Nature",Love Nature
 https://bamus-lovenature-lg.amagi.tv/hls/amagi_hls_data_bamusaAAA-bamus-lovenature-lg/CDN/master.m3u8
-#EXTINF:-1 tvg-id="NatureVision" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0MW45IFYWAG7/400x225.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992106%2F400x225.jpg%3Ftype%3DchannelTile" group-title="Nature",NatureVision
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
-
-#EXTINF:-1 tvg-id="Barney_And_Friends" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0HDXT3BBYQNG/400x225.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993100%2F400x225.jpg%3Ftype%3DchannelTile" group-title="Kids",Barney And Friends
-https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8
 #EXTINF:-1 tvg-id="Stingray_Today's_Latin_Pop" tvg-logo="https://epg.sam.stingray.com/IMAGE/190ADS/lg-direct/Assets_Channel-Tile_400x225.jpg" group-title="Music",Stingray Today's Latin Pop
 https://lotus.stingray.com/ads/ose-190ads-montreal/lgchannels/master.m3u8
 #EXTINF:-1 tvg-id="Stingray_Soul_Storm" tvg-logo="https://epg.sam.stingray.com/IMAGE/134ADS/lg-direct/Assets_Channel-Tile_400x225.jpg" group-title="Music",Stingray Soul Storm
