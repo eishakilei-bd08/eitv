@@ -1436,12 +1436,13 @@ https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
 
 
 
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="Movie",ABN
 https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Religious",Channel Win
 https://cdn-4.pishow.tv/live/229/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Urdhu",Geo ENT
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Weather",AccuWeather
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Weather",Weather SPY
