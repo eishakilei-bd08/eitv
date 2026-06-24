@@ -1370,13 +1370,9 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Shemaroo TV" tvg-logo="https://s3.aynaott.com/storage/c63628e7301ba1eded68c0f75ab8d903" group-title="Entertainment",Shemaroo TV
 https://cdn-3.pishow.tv/live/230/master.m3u8
 
-
-
 #EXTINF:-1 tvg-id="ext" tvg-name="Thikana" tvg-logo="https://s3.aynaott.com/storage/6d1aaa03b84a69992940873fc11af8fc" group-title="Bangla",Thikana
 https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Zee Action" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png" group-title="Hindi Movie",Zee Action
-http://103.175.73.12:8080/live/270/270_0.m3u8
 
 
 
@@ -1384,9 +1380,6 @@ http://103.175.73.12:8080/live/270/270_0.m3u8
 http://103.175.73.12:8080/live/53/master.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="096. Goldmines Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540" group-title="",096. Goldmines Movies
 http://103.175.73.12:8080/live/51/master.m3u8
-
-
-
 #EXTINF:-1 tvg-id="ext" tvg-name="Sony ATTH" tvg-logo="https://s3.aynaott.com/storage/f7bfca4f0a3860067bf2eac37f41214c" group-title="",Sony ATTH
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Enter 10 Bangla" tvg-logo="https://s3.aynaott.com/storage/2b00567c538d392c8050124f0064c4a1" group-title="",Enter 10 Bangla
@@ -1395,8 +1388,6 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Channel 1 TV" tvg-logo="https://i.ibb.co.com/N6HbH5rH/Channel-One-TV.png" group-title="",Channel 1 TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bangla",Thikana
-https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 #EXTINF:0 tvg-id="CourtTV.uk" group-title="Latest",Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Latest",Awaaz India
