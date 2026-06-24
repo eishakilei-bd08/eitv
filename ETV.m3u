@@ -1320,56 +1320,14 @@ https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Ente10 Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Enter%2010%20Bangla.jpeg" group-title="Indian Bangla",Ente10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Duronto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="IPTV",Duronto TV
-http://172.31.235.10:8080/hls/31-duronto/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ananda TV" tvg-logo="https://raw.githubusercontent.com/shamimpipon/ROAR/refs/heads/main/Logo_of_Ananda_TV.svg.png" group-title="IPTV",Ananda TV
-https://tvsen6.aynaott.com/anandatv/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MY TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/My%20TV.svg.png" group-title="BD NEWS",MY TV
-http://172.31.235.10:8080/hls/13-mytv/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="R tv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/RTV.png" group-title="BD NEWS",R tv
-http://172.31.235.10:8080/hls/9-rtv/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekushey ETV" tvg-logo="https://raw.githubusercontent.com/shamimpipon/ROAR/refs/heads/main/Ekushey-Television-Logo-svg.png" group-title="IPTV",Ekushey ETV
-http://172.31.235.10:8080/hls/7-ekushy/index.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boishakhi TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0uWrO_3qX3hj7I2kpPiVhKpuASKJ_u5PxDTq5VoRAuQ&s" group-title="IPTV",Boishakhi TV
-https://tvsen6.aynaott.com/boishakhitv/index.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nexus TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="IPTV",Nexus TV
-https://tvsen6.aynaott.com/nexustv/index.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel S" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Channel_S_Official_LOGO.png" group-title="IPTV",Channel S
-http://172.31.235.10:8080/hls/38-channel-s/index.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="global TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Global%20Television%20Bangladesh.png" group-title="IPTV",global TV
-https://tvsen6.aynaott.com/globaltvhd/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekhon TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Ekhon%20TV.png" group-title="IPTV",Ekhon TV
-http://172.31.235.10:8080/hls/37-ekhon/index.m3u8
-
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jago News 24" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/e/ed/%E0%A6%9C%E0%A6%BE%E0%A6%97%E0%A7%8B_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C.png" group-title="BD NEWS",Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="ext" tvg-name="Khushboo" tvg-logo="https://s3.aynaott.com/storage/d90eb718a6674494d2dac28e1d96bf44" group-title="Music",Khushboo
 https://cdn-4.pishow.tv/live/1473/master.m3u8
-
-
 #EXTINF:-1 tvg-id="ext" tvg-name="Music India" tvg-logo="https://s3.aynaott.com/storage/20c3a2638df99ece9eb12aabfc03a8c3" group-title="Music",Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="Shemaroo TV" tvg-logo="https://s3.aynaott.com/storage/c63628e7301ba1eded68c0f75ab8d903" group-title="Entertainment",Shemaroo TV
 https://cdn-3.pishow.tv/live/230/master.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="Thikana" tvg-logo="https://s3.aynaott.com/storage/6d1aaa03b84a69992940873fc11af8fc" group-title="Bangla",Thikana
 https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/playlist.m3u8
 
