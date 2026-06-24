@@ -1401,16 +1401,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Bangla",Thikana
 https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="News",News Nation
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",India Today
-https://feeds.intoday.in/hltapps/api/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",OAN
-https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Latest",Iran Press
-https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:0 tvg-id="CourtTV.uk" group-title="Latest",Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Latest",Awaaz India
@@ -1424,21 +1414,10 @@ http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="English",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Hindi",Hindi Movie Classic 24
-https://vods2.aynaott.com/hindimovies/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Indian Bangla",DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",TVCARiB Kids & Teens
 https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
-
-
-
-
-
-
-
-
-
 #EXTINF:0 tvg-id="ext" group-title="Movie",ABN
 https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Religious",Channel Win
