@@ -1237,46 +1237,6 @@ https://tvsen5.aynaott.com/PtvSports/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Euro TV" tvg-logo="https://i.postimg.cc/NMgSxc0P/1000113679.png" group-title="",Euro TV
 https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Willow Sports" tvg-logo="https://raw.githubusercontent.com/shamimpipon/ROAR/refs/heads/main/Willow.jpg" group-title="Sports",Willow Sports
-http://27.124.71.27/Willow_Extra/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Willow" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Willow%20TV.jpeg" group-title="Sports",Willow 
-https://tvsen5.aynaott.com/willowhd/index.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="STAR SPORTS 1" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-sports-1-hd-in.png" group-title="Sports",STAR SPORTS 1
-https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="STAR SPORTS 2" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-sports-2-hd-in.png" group-title="Sports",STAR SPORTS 2
-https://flussonic.deltainfonet.com/08_STAR-SPORTS_2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="STAR SPORTS 3" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-sports-3-hd-in.png" group-title="Sports",STAR SPORTS 3
-https://flussonic.deltainfonet.com/09_STAR-SPORTS_3/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 1 HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-1-hd-in.png" group-title="Sports",SONY SPORTS 1HD
-http://103.253.18.58:8000/play/a00m
-#EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 2 HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-2-hd-in.png" group-title="Sports",SONY SPORTS 2 HD
-http://198.195.239.50:8095/SonyTenSports2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 3 HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-3-hd-in.png" group-title="Sports",SONY SPORTS 3 HD
-http://maxotts.maxdigitaltv.com/x-media/C73/master.m3u8
-
-#EXTINF:-1 tvg-id="StarSportsSelectHD1.in" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-sports-select-1-hd-in.png" group-title="Sports",STAR SPORTS SELECT 1 HD
-http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="StarSportsSelectHD2.in" tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-sports-select-2-hd-in.png" group-title="Sports",STAR SPORTS SELECT 2 HD
-http://198.195.239.50:8095/StarSportsSelect2/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-id="ext" tvg-name="BEIN SPORTS 1" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Bein%20Sports%201.jpeg" group-title="Sports",BEIN SPORTS 
-http://27.124.71.27/beIN_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="BEIN SPORTS 2" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Bein%20Sports%202.jpeg" group-title="Sports",BEIN SPORTS 2
-http://27.124.71.27/beIN_Sports_2/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="BEIN SPORTS 3" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Bein%20Sports%203.jpeg" group-title="Sports",BEIN SPORTS 3
-http://27.124.71.27/beIN_Sports_3/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="BEIN SPORTS 4" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Bein%20Sports%204.jpeg" group-title="Sports",BEIN SPORTS 4
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="TNT SPORTS 1" tvg-logo="https://raw.githubusercontent.com/shamimpipon/ROAR/refs/heads/main/TNT_Sports_1.png" group-title="Sports",TNT SPORTS 1
-http://27.124.71.27/TNT_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TNT SPORTS 2" tvg-logo="https://raw.githubusercontent.com/shamimpipon/ROAR/refs/heads/main/TNT_Sports%20_2.png" group-title="Sports",TNT SPORTS 2
-http://27.124.71.27/TNT_Sports_2/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TNT SPORTS 3" tvg-logo="https://raw.githubusercontent.com/shamimpipon/ROAR/refs/heads/main/TNT_Sports%20_3.png" group-title="Sports",TNT SPORTS 3
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
