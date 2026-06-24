@@ -865,86 +865,14 @@ http://38.7.101.90:8000/play/a1zj/index.m3u8
 
 http://45.171.64.30:2000/play/a08j/index.m3u8
 
+
+
+
 #EXTINF:-1 ,SR. CINE ROBOTS HD
-
 http://200.115.120.1:8000/play/ca072/index.m3u8
-
-#EXTINF:-1 ,Hogar TV
-
-http://38.44.109.41:8003/play/a02k/index.m3u8
-
-#EXTINF:-1 ,TyC Sports
-UNO
-
-http://38.44.109.41:8003/play/a033/index.m3u8
-
-#EXTINF:-1 ,Gol TV
-
-http://38.44.109.41:8003/play/a02h/index.m3u8
-
-#EXTINF:-1 ,AZTECA uno
-
-http://45.189.62.33:8002/play/a0cc/index.m3u8
-
-#EXTINF:-1 ,Azteca 7
-
-https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
-
-#EXTINF:-1 ,Azteca 7a
-
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 ,ESPN IXP
-
-http://200.229.147.142:8000/play/a013/index.m3u8
-
-#EXTINF:-1 ,WIN
-
-http://190.60.32.178:8178/play/a0fk/index.m3u8
-
-#EXTINF:-1 ,NTN24
-
-http://190.60.32.178:8178/play/a0h8/index.m3u8
-
 #EXTINF:-1 ,BabyTv
-
 http://190.11.225.124:5000/live/baby_tv/playlist.m3u8
 
-#EXTINF:-1 ,ESPN PREMIUM HD
-
-http://205.235.6.29:8000/play/a0pz/index.m3u8
-
-#EXTINF:-1 ,ESPN  4 HD
-
-http://181.78.49.113:9999/play/a07e/index.m3u8
-
-#EXTINF:-1 ,ESPN 5  HD
-
-http://181.78.49.113:9999/play/a07f/index.m3u8
-
-#EXTINF:-1 ,la liga
-
-http://45.5.119.43:4000/play/a05r/index.m3u8
-
-#EXTINF:-1 ,tudn
-
-http://45.5.119.43:4000/play/a05q/index.m3u8
-
-#EXTINF:-1 ,DAZN
-
-http://matrivagoweb.xyz:8080/mauri000/03031993/67369
-
-#EXTINF:-1 ,TIGO  Sports
-
-http://45.5.119.43:4000/play/a05t/index.m3u8
-
-#EXTINF:-1 ,azteca 7
-
-http://45.5.119.43:4000/play/a026/index.m3u8
-
-#EXTINF:-1 ,5
-
-http://45.5.119.43:4000/play/a05o/index.m3u8
 
 
 
