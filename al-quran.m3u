@@ -11,6 +11,14 @@
 
 
 
+
+
+
+
+
+
+
+
 #EXTINF:-1  group-title="Abdul-Mun'im Abdul-Mubdi'",سورة الفاتحة
 https://download.quranicaudio.com/quran/abdulmun3im_abdulmubdi2/001.mp3
 #EXTINF:-1 group-title="Abdul-Mun'im Abdul-Mubdi'",سورة البقرة
@@ -391,9 +399,9 @@ https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/075.mp3
 https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/076.mp3
 #EXTINF:-1 group-title="AbdulAzeez al-Ahmad",سورة المرسلات
 https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/077.mp3
-#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="AbdulAzeez al-Ahmad",سورة النبأ
+#EXTINF:-1 group-title="AbdulAzeez al-Ahmad",سورة النبأ
 https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/078.mp3
-#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="AbdulAzeez al-Ahmad",سورة النازعات
+#EXTINF:-1 group-title="AbdulAzeez al-Ahmad",سورة النازعات
 https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/079.mp3
 #EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="AbdulAzeez al-Ahmad",سورة عبس
 https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/080.mp3
