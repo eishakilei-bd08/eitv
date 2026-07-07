@@ -12,33 +12,33 @@
 http://103.175.73.12:8080/live/375/375_0.m3u8
 #EXTINF:-1,tv-logo="https://raw.githubusercontent.com/IPTVtuner/TV-Logos/master/Channels/NHKWorld.jp.png" group-title="EKTV🇮🇳",NHK
 http://103.175.73.12:8080/live/417/417_0.m3u8
-#EXTINF:-1 ,TRT
+#EXTINF:-1 , group-title="EKTV🇮🇳",TRT
 http://103.175.73.12:8080/live/416/416_0.m3u8
-#EXTINF:-1 ,EPIC Music 
+#EXTINF:-1 ,  group-title="EKTV🇮🇳",EPIC Music 
 http://103.175.73.12:8080/live/469/469_0.m3u8
-#EXTINF:-1 ,Channel 471
+#EXTINF:-1 ,group-title="EKTV🇮🇳",Epic Hindi 
 http://103.175.73.12:8080/live/471/471_0.m3u8
-#EXTINF:-1 ,Channel 584
+#EXTINF:-1 ,group-title="EKTV🇮🇳",Goldmine Action
 http://103.175.73.12:8080/live/584/584_0.m3u8
-#EXTINF:-1 ,Channel 648
+#EXTINF:-1 ,group-title="EKTV🇮🇳",Islamic Win
 http://103.175.73.12:8080/live/648/648_0.m3u8
-#EXTINF:-1 ,Channel 673
+#EXTINF:-1 ,group-title="EKTV🇮🇳",
 http://103.175.73.12:8080/live/673/673_0.m3u8
-#EXTINF:-1 ,Channel 64
+#EXTINF:-1 ,group-title="EKTV🇮🇳",
 http://103.175.73.12:8080/live/64/64_0.m3u8
-#EXTINF:-1 ,Rongeen TV
+#EXTINF:-1 ,group-title="EKTV🇮🇳",
 http://103.175.73.12:8080/live/202/202_0.m3u8
-#EXTINF:-1 ,Star Sports
+#EXTINF:-1 , group-title="EKTV🇮🇳",Star Sports
 http://103.175.73.12:8080/live/151/151_0.m3u8
-#EXTINF:-1 ,Amar Bangla*
+#EXTINF:-1, group-title="EKTV🇮🇳",Amar Bangla*
 http://115.187.41.216:8080/hls/amarbangla/index.m3u8
-#EXTINF:-1 ,Amar Digital*
+#EXTINF:-1 ,group-title="EKTV🇮🇳",Amar Digital*
 http://115.187.41.216:8080/hls/amardigital/index.m3u8
-#EXTINF:-1 ,Mon Tv Bangla*
+#EXTINF:-1 ,group-title="EKTV🇮🇳",Mon Tv Bangla*
 http://115.187.41.216:8080/hls/montvbangla/index.m3u8
-#EXTINF:-1 ,Bhakti Bangla*
+#EXTINF:-1 ,group-title="EKTV🇮🇳", Bhakti Bangla*
 http://115.187.41.216:8080/hls/bhaktibangla/index.m3u8
-#EXTINF:-1 ,DISCOVERY KIDS
+#EXTINF:-1 ,group-title="EKTV🇮🇳",DISCOVERY KIDS
 http://110.39.27.47:8001/play/a00i/index.m3u8
 #EXTINF:-1 ,Cartoonito
 http://181.78.4.250:8098/play/a067/index.m3u8
