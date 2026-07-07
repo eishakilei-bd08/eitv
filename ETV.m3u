@@ -12,9 +12,9 @@
 http://103.175.73.12:8080/live/375/375_0.m3u8
 #EXTINF:-1,tv-logo="https://raw.githubusercontent.com/IPTVtuner/TV-Logos/master/Channels/NHKWorld.jp.png" group-title="EKTV🇮🇳",NHK
 http://103.175.73.12:8080/live/417/417_0.m3u8
-#EXTINF:-1 ,Channel 416
+#EXTINF:-1 ,TRT
 http://103.175.73.12:8080/live/416/416_0.m3u8
-#EXTINF:-1 ,Channel 469
+#EXTINF:-1 ,EPIC Music 
 http://103.175.73.12:8080/live/469/469_0.m3u8
 #EXTINF:-1 ,Channel 471
 http://103.175.73.12:8080/live/471/471_0.m3u8
