@@ -2,6 +2,60 @@
 
 
 
+#EXTINF:-1 ,Channel 375
+http://103.175.73.12:8080/live/375/375_0.m3u8
+#EXTINF:-1 ,Channel 417
+http://103.175.73.12:8080/live/417/417_0.m3u8
+#EXTINF:-1 ,Channel 416
+http://103.175.73.12:8080/live/416/416_0.m3u8
+#EXTINF:-1 ,Channel 469
+http://103.175.73.12:8080/live/469/469_0.m3u8
+#EXTINF:-1 ,Channel 471
+http://103.175.73.12:8080/live/471/471_0.m3u8
+#EXTINF:-1 ,Channel 584
+http://103.175.73.12:8080/live/584/584_0.m3u8
+#EXTINF:-1 ,Channel 648
+http://103.175.73.12:8080/live/648/648_0.m3u8
+#EXTINF:-1 ,Channel 673
+http://103.175.73.12:8080/live/673/673_0.m3u8
+#EXTINF:-1 ,Channel 64
+http://103.175.73.12:8080/live/64/64_0.m3u8
+#EXTINF:-1 ,Rongeen TV
+http://103.175.73.12:8080/live/202/202_0.m3u8
+#EXTINF:-1 ,Star Sports
+http://103.175.73.12:8080/live/151/151_0.m3u8
+#EXTINF:-1 ,Amar Bangla*
+http://115.187.41.216:8080/hls/amarbangla/index.m3u8
+#EXTINF:-1 ,Amar Digital*
+http://115.187.41.216:8080/hls/amardigital/index.m3u8
+#EXTINF:-1 ,Mon Tv Bangla*
+http://115.187.41.216:8080/hls/montvbangla/index.m3u8
+#EXTINF:-1 ,Bhakti Bangla*
+http://115.187.41.216:8080/hls/bhaktibangla/index.m3u8
+#EXTINF:-1 ,DISCOVERY KIDS
+http://110.39.27.47:8001/play/a00i/index.m3u8
+#EXTINF:-1 ,Cartoonito
+http://181.78.4.250:8098/play/a067/index.m3u8
+#EXTINF:-1 ,Discovery Kids
+http://181.78.4.250:8098/play/a08h/index.m3u8
+#EXTINF:-1 ,Ani
+http://ott.watch/stream/D3FX33QMIH1/306.m3u8
+#EXTINF:-1 ,Gulli Gril
+http://ott.watch/stream/D3FX33QMIH1/305.m3u8
+#EXTINF:-1 ,Na!oc
+http://ott.watch/stream/D3FX33QMIH1/339.m3u8
+#EXTINF:-1 ,ATV HD
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+#EXTINF:-1 ,Hi Dost!
+https://mumt03.tangotv.in/HIDOST/index.m3u8
+#EXTINF:-1 ,Zee 24 Ghanta
+https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
+#EXTINF:-1 ,AAKASH AATH
+https://mumt03.tangotv.in/AAKASHAATH/index.m3u8
+#EXTINF:-1 ,BBC NEWS
+http://45.148.145.57/IN_BN/index.m3u8
+#EXTINF:-1 ,Probashi TV News
+http://158.69.24.53:8080/probashi_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg" group-title="Live Tv",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Live Tv",Channel 1
