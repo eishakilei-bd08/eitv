@@ -177,30 +177,7 @@ http://103.175.73.12:8080/live/19/19_0.m3u8
 http://103.175.73.12:8080/live/23/23_0.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Channel 25
 http://103.175.73.12:8080/live/25/25_0.m3u8
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Channel 29
-http://103.175.73.12:8080/live/29/29_0.m3u8
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Channel 270
-http://103.175.73.12:8080/live/270/270_0.m3u8
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Channel 271
-http://103.175.73.12:8080/live/271/271_0.m3u8
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Channel 43
-http://103.175.73.12:8080/live/43/43_0.m3u8
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Channel 44
-http://103.175.73.12:8080/live/44/44_0.m3u8
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Channel 46
-http://103.175.73.12:8080/live/46/46_0.m3u8
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Channel 47
-http://103.175.73.12:8080/live/47/47_0.m3u8
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Channel 155
-http://103.175.73.12:8080/live/155/155_0.m3u8
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Channel 157
-http://103.175.73.12:8080/live/157/157_0.m3u8
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Channel 158
-http://103.175.73.12:8080/live/158/158_0.m3u8
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Channel 159
-http://103.175.73.12:8080/live/159/159_0.m3u8
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Channel 161
-http://103.175.73.12:8080/live/161/161_0.m3u8
+
 
 
 
