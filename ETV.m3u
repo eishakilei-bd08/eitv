@@ -56,11 +56,11 @@ http://103.175.73.12:8080/live/15/15_0.m3u8
 http://103.175.73.12:8080/live/17/17_0.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="EKTV🇮🇳",Dangal 2
 http://103.175.73.12:8080/live/18/18_0.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="EKTV🇮🇳",Monoranjan Grand                       
-http://103.175.73.12:8080/live/19/19_0.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="EKTV🇮🇳",Sheemaroo
 http://103.175.73.12:8080/live/21/21_0.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="EKTV🇮🇳",Monoranjan Tv
+#EXTINF:-1 tvg-id="" tvg-name="IN: Manoranjan TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/48333081d77a1ad518fe6534678f6d4e.png" group-title="EKTV🇮🇳",Manoranjan Grand
+http://103.175.73.12:8080/live/19/19_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Manoranjan TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/3adc09632057276277142fd9eace65dd.png" group-title="EKTV🇮🇳",Manoranjan TV                           
 http://103.175.73.12:8080/live/23/23_0.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="EKTV🇮🇳",Colors Infinity 
 http://103.175.73.12:8080/live/29/29_0.m3u8
@@ -78,8 +78,7 @@ http://103.175.73.12:8080/live/46/46_0.m3u8
 http://103.175.73.12:8080/live/47/47_0.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="EKTV🇮🇳",OxM
 http://103.175.73.12:8080/live/155/155_0.m3u8
-
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="ELTV🇮🇳",B4U Music 
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Music" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/74204965261c6f9140a244bcc2710e80.png" group-title="EKTV🇮🇳",IN: B4U Music
 http://103.175.73.12:8080/live/157/157_0.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="EKTV🇮🇳",Music India
 http://103.175.73.12:8080/live/158/158_0.m3u8
