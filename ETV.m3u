@@ -145,18 +145,7 @@ http://103.175.73.12:8080/live/53/53_0.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Channel 52
 http://103.175.73.12:8080/live/52/52_0.m3u8
 
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Channel 189
-http://103.175.73.12:8080/live/189/189_0.m3u8
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Channel 188
-http://103.175.73.12:8080/live/188/188_0.m3u8
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Channel 256
-http://103.175.73.12:8080/live/256/256_0.m3u8
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Channel 257
-http://103.175.73.12:8080/live/257/257_0.m3u8
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Channel 274
-http://103.175.73.12:8080/live/274/274_0.m3u8
-#EXTINF:-1 ,Channel 258
-http://103.175.73.12:8080/live/258/258_0.m3u8
+
 #EXTINF:-1 ,Channel 280
 http://103.175.73.12:8080/live/280/280_0.m3u8
 #EXTINF:-1 ,Channel 180
