@@ -137,12 +137,7 @@ http://103.175.73.12:8080/live/695/695_0.m3u8
 
 
 
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Channel 155
-http://103.175.73.12:8080/live/155/155_0.m3u8
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Channel 157
-http://103.175.73.12:8080/live/157/157_0.m3u8
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Channel 158
-http://103.175.73.12:8080/live/158/158_0.m3u8
+
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Channel 159
 http://103.175.73.12:8080/live/159/159_0.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Channel 161
