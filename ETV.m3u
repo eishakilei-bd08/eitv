@@ -134,23 +134,14 @@ http://103.175.73.12:8080/live/688/688_0.m3u8
 http://103.175.73.12:8080/live/684/684_0.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Live Tv",Pear Tv
 http://103.175.73.12:8080/live/695/695_0.m3u8
-
-
-
-
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",E24
 http://103.175.73.12:8080/live/159/159_0.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",GOLDMINE 
 http://103.175.73.12:8080/live/53/53_0.m3u8
 
-#EXTINF:-1 ,Channel 280
-http://103.175.73.12:8080/live/280/280_0.m3u8
-#EXTINF:-1 ,Channel 180
-http://103.175.73.12:8080/live/180/180_0.m3u8
 #EXTINF:-1 ,Channel 345
 http://103.175.73.12:8080/live/345/345_0.m3u8
-#EXTINF:-1 ,Channel 349
-http://103.175.73.12:8080/live/349/349_0.m3u8
+
 #EXTINF:-1 ,Channel 352
 http://103.175.73.12:8080/live/352/352_0.m3u8
 #EXTINF:-1 ,Channel 354
