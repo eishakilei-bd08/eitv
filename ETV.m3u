@@ -144,11 +144,10 @@ http://103.175.73.12:8080/live/345/345_0.m3u8
 
 #EXTINF:-1 ,Channel 352
 http://103.175.73.12:8080/live/352/352_0.m3u8
-#EXTINF:-1 ,Channel 354
+#EXTINF:-1 ,Balle Balle
 http://103.175.73.12:8080/live/354/354_0.m3u8
 
-#EXTINF:-1 ,Channel 379
-http://103.175.73.12:8080/live/379/379_0.m3u8
+
 
 
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Channel 25
