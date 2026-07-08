@@ -9,7 +9,8 @@
 
 
 
-
+#EXTINF:-1 tvg-name="YRF Music HD" group-title="Unknown",YRF Music HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="EKTV🇮🇳",OxM
 http://103.175.73.12:8080/live/155/155_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: B4U Music" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/74204965261c6f9140a244bcc2710e80.png" group-title="EKTV🇮🇳",IN: B4U Music
