@@ -126,35 +126,15 @@ http://103.175.73.12:8080/live/332/332_0.m3u8
 http://103.175.73.12:8080/live/349/349_0.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Live Tv",Pitaara
 http://103.175.73.12:8080/live/352/352_0.m3u8
-
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Live Tv",Channel 584
-http://103.175.73.12:8080/live/584/584_0.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Live Tv",Channel 637
-http://103.175.73.12:8080/live/637/637_0.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Live Tv",Channel 640
-http://103.175.73.12:8080/live/640/640_0.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Live Tv",Channel 648
-http://103.175.73.12:8080/live/648/648_0.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Live Tv",Channel 658
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Live Tv",Enter 10
 http://103.175.73.12:8080/live/658/658_0.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Live Tv",Channel 673
-http://103.175.73.12:8080/live/673/673_0.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Live Tv",Channel 688
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Live Tv",Unique Tv
 http://103.175.73.12:8080/live/688/688_0.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Live Tv",Channel 684
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Live Tv",Maha Max
 http://103.175.73.12:8080/live/684/684_0.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Live Tv",Channel 695
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Live Tv",Pear Tv
 http://103.175.73.12:8080/live/695/695_0.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Live Tv",Channel 64
-http://103.175.73.12:8080/live/64/64_0.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Live Tv",Channel 471
-http://103.175.73.12:8080/live/471/471_0.m3u8
-#EXTINF:-1 ,Channel 198
-http://103.175.73.12:8080/live/198/198_0.m3u8
-#EXTINF:-1 ,Channel 379
-http://103.175.73.12:8080/live/379/379_0.m3u8
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Channel 15
-http://103.175.73.12:8080/live/15/15_0.m3u8
+
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Channel 13
 http://103.175.73.12:8080/live/13/13_0.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Channel 17
