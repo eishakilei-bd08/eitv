@@ -280,42 +280,37 @@ http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&strea
 #EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
 http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858758&extension=ts&play_token=4frokH4rmX
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/nicjr.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ NICK.JR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/nicjr.png" group-title="KIDS💓",NICK.JR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
 http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858761&extension=ts&play_token=MtlmqXBqSh
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/nicjr.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ NICK.JR. HD [WEST]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
-#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
-http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858760&extension=ts&play_token=AJul8G0gKr
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/nictoons.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ NICK TOONS HD [EAST]
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/nictoons.png" group-title="KIDS💓",NICK T
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
 http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858757&extension=ts&play_token=BEdBBZ0vd3
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/nictoons.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ NICK TOONS HD [WEST]
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/nictoons.png" group-title="KIDS💓",NICK TOONS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
 http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858756&extension=ts&play_token=XGYh7llFv0
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Teennick.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ TEEN NICK HD [EAST]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Teennick.png" group-title="KIDS💓",TEEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.
 #EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
 http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858755&extension=ts&play_token=EGNgHAho9W
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Teennick.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ TEEN NICK HD [WEST]
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Teennick.png" group-title="KIDS💓",TEEN NICK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
 http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858754&extension=ts&play_token=WyXq9tZ5Tf
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/KIDS BABY/cartoon network.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ CARTOON NETWORK HD [EAST]
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/KIDS BABY/cartoon network.png" group-title="KIDS💓",CARTOON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
 http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858769&extension=ts&play_token=WkH92nzM53
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/KIDS BABY/cartoon network.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ CARTOON NETWORK HD [WEST]
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/KIDS BABY/cartoon network.png" group-title="KIDS💓",CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
