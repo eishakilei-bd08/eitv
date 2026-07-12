@@ -183,11 +183,6 @@ http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=2
 #EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
 http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=225782&extension=ts&play_token=P8d5TKnFF4
 
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225774.png" group-title="BAN| BANGLADESH",BAN|  SOMOY NEWS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
-#EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
-http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=225774&extension=ts&play_token=dXk41k3Ppi
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225772.png" group-title="BAN| BANGLADESH",BAN| BOISHAKHI TV PLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
