@@ -250,47 +250,37 @@ http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=2
 http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=225716&extension=ts&play_token=vePhVzFmcF
 
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/DisnepXD.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ DISNEY XD HD [EAST]
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/DisnepXD.png" group-title="KIDS💓",DISNEY XD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
 http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858763&extension=ts&play_token=TyAycJc0RS
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/DisnepXD.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ DINSEY XD HD [WEST]
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/DisnepXD.png" group-title="KIDS💓",DINSEY XD2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
 http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858762&extension=ts&play_token=wSjGqDLSK3
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/KIDS BABY/disnep.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ DISNEY CHANNEL HD [EAST]
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/KIDS BABY/disnep.png" group-title="KIDS💓",DISNEY CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
 http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858767&extension=ts&play_token=CaCPrO5pqr
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/KIDS BABY/disnep.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ DISNEY CHANNEL HD [WEST]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
-#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
-http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858766&extension=ts&play_token=PuvuVgRfw5
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/DisnepJunior.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ DISNEY JUNIOR HD [EAST]
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/DisnepJunior.png" group-title="KIDS💓",DISNEY JUNIOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
 http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858765&extension=ts&play_token=rdfQHxQp01
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/DisnepJunior.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ DISNEY JUNIOR HD [WEST]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
-#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
-http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858764&extension=ts&play_token=3SDWFDE7F8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/nickelodeon1.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ NICKELODEON HD [EAST]
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/nickelodeon1.png" group-title="KIDS💓",NICK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
 http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858759&extension=ts&play_token=Gz3ZOfpBLJ
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/nickelodeon1.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ NICKELODEON HD [WEST]
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/nickelodeon1.png" group-title="KIDS💓",NICKELODEON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
 http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858758&extension=ts&play_token=4frokH4rmX
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/nicjr.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ NICK.JR HD [EAST]
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/nicjr.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ NICK.JR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
