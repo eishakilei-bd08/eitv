@@ -23,7 +23,7 @@ http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=9
 #EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
 http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=97109&extension=ts&play_token=dUEGZ9XYpX
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/282667.png" group-title="BAN| BANGLADESH",BAN| TRAVEL XP
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/282667.png" group-title="ETV🌸",TRAVEL XP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
