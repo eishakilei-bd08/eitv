@@ -25,7 +25,12 @@ http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/1458372
 #EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
 http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=225796&extension=ts&play_token=fOg7alVMeE
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ZEE-BANGLA-CINEMA.png" group-title="BAN| BANGLADESH",BAN|  ZEE BANGLA CINEMA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/COLORS-BANGLA-HD.jpeg" group-title="ETV🌸",COLORS BANGLA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
+http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=225712&extension=ts&play_token=ylXCkXpOYz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ZEE-BANGLA-CINEMA.png" group-title="ETV🌸",ZEE BANGLA CINEMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
@@ -243,21 +248,8 @@ http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=2
 #EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
 http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=225716&extension=ts&play_token=vePhVzFmcF
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225714.png" group-title="BAN| BANGLADESH",BAN|  JALSHA MOVIES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
-#EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
-http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=225714&extension=ts&play_token=ase25eidzx
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ZEE-24-GHANTA.png" group-title="BAN| BANGLADESH",BAN|  ZEE 24 GHANTA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
-#EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
-http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=225713&extension=ts&play_token=SfVk5ny4sq
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/COLORS-BANGLA-HD.jpeg" group-title="BAN| BANGLADESH",BAN|  COLORS BANGLA HD-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
-#EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
-http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=225712&extension=ts&play_token=ylXCkXpOYz
+
+
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/DisnepXD.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ DISNEY XD HD [EAST]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
