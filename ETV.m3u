@@ -43,37 +43,32 @@ http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=2
 #EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
 http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=165525&extension=ts&play_token=zSjn8HG5Xu
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/165526.png" group-title="BAN| BANGLADESH",BAN| ATN BANGLA HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/165526.png" group-titl"ETV🌸",ATN BANGLA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
 http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=165526&extension=ts&play_token=umniic11CJ
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1169994.png" group-title="BAN| BANGLADESH",BAN| TBN 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
-#EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
-http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=1169994&extension=ts&play_token=UWANyc50JD
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/165528.png" group-title="BAN| BANGLADESH",BAN| ASIAN TV FHD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/165528.png" group-title="ETV🌸",ASIAN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
 http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=165528&extension=ts&play_token=XXpN3mOnGK
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/165527.png" group-title="BAN| BANGLADESH",BAN| ATN NEWS
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/165527.png" group-title="ETV🌸",NEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
 http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=165527&extension=ts&play_token=CVqLZzQQqf
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/165531.png" group-title="BAN| BANGLADESH",BAN| BOISAKSHI TV HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/165531.png" group-title="ETV🌸",BOISAKSHI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
 http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=165531&extension=ts&play_token=S6NGL7opoL
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/165514.png" group-title="BAN| BANGLADESH",BAN| CHANNEL 9 HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/165514.png" group-title="ETV🌸",9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
 http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=165514&extension=ts&play_token=GtasQ05PvM
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/165512.png" group-title="BAN| BANGLADESH",BAN| CHANNEL S HD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/165512.png" group-title="ETV🌸",ISLAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
