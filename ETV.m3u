@@ -32,12 +32,27 @@ http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=2
 http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=225781&extension=ts&play_token=mm8sShPnBL
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/jhonmobhumitv.png" group-title="ETV🌸",JonmoBhumi TV
 https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225777.png" group-title="ETV🌸",STAR JALSHA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
+http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=225777&extension=ts&play_token=syYGa3Ghu7
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225776.png" group-title="ETV🌸",JALSHA MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
+http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=225776&extension=ts&play_token=e94L4oUS34
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225775.png" group-title="ETV🌸",SONY AATH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
+http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=225775&extension=ts&play_token=GONUIs8cIx
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/42462.png" group-title="ETV🌸",NTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
 http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=42462&extension=ts&play_token=UjYiutNasX
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225786.png" group-title="BAN| BANGLADESH",BAN|  ZEE BANGLA
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225786.png" group-title="ETV🌸",ZEE BANGLA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
@@ -167,21 +182,7 @@ http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=2
 #EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
 http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=225782&extension=ts&play_token=P8d5TKnFF4
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225777.png" group-title="BAN| BANGLADESH",BAN|  STAR JALSHA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
-#EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
-http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=225777&extension=ts&play_token=syYGa3Ghu7
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225776.png" group-title="BAN| BANGLADESH",BAN|  STAR JALSHA MOVIES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
-#EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
-http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=225776&extension=ts&play_token=e94L4oUS34
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225775.png" group-title="BAN| BANGLADESH",BAN|  SONY AATH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
-#EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
-http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=225775&extension=ts&play_token=GONUIs8cIx
+
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225774.png" group-title="BAN| BANGLADESH",BAN|  SOMOY NEWS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
