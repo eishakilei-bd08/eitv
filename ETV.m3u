@@ -63,11 +63,6 @@ http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=1
 #EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
 http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=165531&extension=ts&play_token=S6NGL7opoL
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/165514.png" group-title="ETV🌸",9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
-#EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
-http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=165514&extension=ts&play_token=GtasQ05PvM
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/165512.png" group-title="ETV🌸",ISLAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
@@ -88,22 +83,12 @@ http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=1
 #EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
 http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=165541&extension=ts&play_token=1GXAAfc5h4
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/165521.png" group-title="BAN| BANGLADESH",BAN| SOMOY NEWS HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
-#EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
-http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=165521&extension=ts&play_token=dmhCoN1BA9
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225838.png" group-title="BAN| BANGLADESH",BAN| ANANDA BARTA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
-#EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
-http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=225838&extension=ts&play_token=Y4aEC84Jg7
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225836.png" group-title="BAN| BANGLADESH",BAN|  iTV UK
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225836.png" group-title="ETV🌸",iTV UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
 http://line.umetop.pro:80/play/live.php?mac=00%3A1A%3A79%3A8F%3ABA%3A8A&stream=225836&extension=ts&play_token=7Y4hhxGvdj
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225834.png" group-title="BAN| BANGLADESH",BAN| TV 9 BANGLA
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225834.png" group-title="ETV🌸",TV 9 BANGLA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://line.umetop.pro:80/c/c/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:8F:BA:8A; stb_lang=en; timezone=GMT
