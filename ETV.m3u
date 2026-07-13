@@ -11,36 +11,36 @@
 
 
 
-#EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="http://172.19.17.28/images/star-movies-hd.jpg",STAR MOVIES HD
+#EXTINF:-1 tvg-id="" group-title="ETV🌸" tvg-logo="http://172.19.17.28/images/star-movies-hd.jpg",STAR MOVIES HD
 http://172.19.17.3:8090/hls/StarMoviesHD.m3u8
-#EXTINF:-1 tvg-id="" group-title="inbangla" tvg-logo="http://172.19.17.28/images/zeebangla.png",ZEE BANGLA
+#EXTINF:-1 tvg-id="" group-title="ETV🌸" tvg-logo="http://172.19.17.28/images/zeebangla.png",ZEE BANGLA
 http://172.19.17.3:8090/hls/ZeeBanglaHD.m3u8
-#EXTINF:-1 tvg-id="" group-title="inbangla" tvg-logo="http://172.19.17.28/images/starjalsha.png",STAR JALSHA
+#EXTINF:-1 tvg-id="" group-title="ETV🌸" tvg-logo="http://172.19.17.28/images/starjalsha.png",STAR JALSHA
 http://172.19.17.3:8090/hls/StarJalshaHD.m3u8
-#EXTINF:-1 tvg-id="" group-title="inbangla" tvg-logo="http://172.19.17.28/images/sonyaath.png",SONY AATH
+#EXTINF:-1 tvg-id="" group-title="ETV🌸" tvg-logo="http://172.19.17.28/images/sonyaath.png",SONY AATH
 http://172.19.17.3:8090/hls/SonyAtth.m3u8
-#EXTINF:-1 tvg-id="" group-title="inbangla" tvg-logo="http://172.19.17.28/images/jalshamovies.png",JALSHA MOVIES
+#EXTINF:-1 tvg-id="" group-title="ETV🌸" tvg-logo="http://172.19.17.28/images/jalshamovies.png",JALSHA MOVIES
 http://172.19.17.3:8090/hls/JalshaMoviesHD.m3u8
-#EXTINF:-1 tvg-id="" group-title="inbangla" tvg-logo="http://172.19.17.28/images/zeebanglacinema.png",ZEE BANGLA CINEMA
+#EXTINF:-1 tvg-id="" group-title="ETV🌸" tvg-logo="http://172.19.17.28/images/zeebanglacinema.png",ZEE BANGLA CINEMA
 http://172.19.17.3:8090/hls/ZeeBanglaCinemaHD.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Hindi" tvg-logo="http://172.19.17.28/images/starplus.png",STAR PLUS
+#EXTINF:-1 tvg-id="" group-title="ETV🌸" tvg-logo="http://172.19.17.28/images/starplus.png",STAR PLUS
 http://172.19.17.3:8090/hls/StarPlusHD.m3u8
-#EXTINF:-1 tvg-id="" group-title="Hindi" tvg-logo="http://172.19.17.28/images/sony.png",SONY HD
+#EXTINF:-1 tvg-id="" group-title="ETV🌸" tvg-logo="http://172.19.17.28/images/sony.png",SONY HD
 http://172.19.17.3:8090/hls/SonyHD.m3u8
-#EXTINF:-1 tvg-id="" group-title="Hindi" tvg-logo="http://172.19.17.28/images/colors.png",COLORS HD
+#EXTINF:-1 tvg-id="" group-title="ETV🌸" tvg-logo="http://172.19.17.28/images/colors.png",COLORS HD
 http://172.19.17.3:8090/hls/ColorsHD.m3u8
-#EXTINF:-1 tvg-id="" group-title="Hindi" tvg-logo="http://172.19.17.28/images/sonymax.png",SONY MAX
+#EXTINF:-1 tvg-id="" group-title="ETV🌸" tvg-logo="http://172.19.17.28/images/sonymax.png",SONY MAX
 http://172.19.17.3:8090/hls/sonymaxhd.m3u8
-#EXTINF:-1 tvg-id="" group-title="Hindi" tvg-logo="http://172.19.17.28/images/andpic.png",AND PICTURE
+#EXTINF:-1 tvg-id="" group-title="ETV🌸" tvg-logo="http://172.19.17.28/images/andpic.png",AND PICTURE
 http://172.19.17.3:8090/hls/AndPictureHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movie",Sony Pix
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="ETV🌸",Sony Pix
 https://stream.ottplus.bd/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8
-#EXTINF:-110 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi",SONY MAX HD
+#EXTINF:-110 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="ETV🌸",SONY MAX HD
 https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi",SONY MAX SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="ETV🌸",SONY MAX SD
 https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
 
 EXTINF:-80 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="MUSIC", ATN Music
@@ -51,7 +51,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imgpile.com/images/58YDwk.jpg", Music Bangla
 
-#EXTINF:-81 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Sangeet_Bangla.jpg/revision/latest?cb=20200804091515" group-title="MUSIC",Sangeet Bangla
+#EXTINF:-81 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Sangeet_Bangla.jpg/revision/latest?cb=20200804091515" group-title="ETV🌸",Sangeet Bangla
 #https://cdn-4.pishow.tv/live/1143/1143_2.m3u8
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 
