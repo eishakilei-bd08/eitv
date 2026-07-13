@@ -8,7 +8,16 @@
 
 
 
-
+#EXTINF:-1 tvg-id="" group-title="inbangla" tvg-logo="http://172.19.17.28/images/zeebangla.png",ZEE BANGLA
+http://172.19.17.3:8090/hls/ZeeBanglaHD.m3u8
+#EXTINF:-1 tvg-id="" group-title="inbangla" tvg-logo="http://172.19.17.28/images/starjalsha.png",STAR JALSHA
+http://172.19.17.3:8090/hls/StarJalshaHD.m3u8
+#EXTINF:-1 tvg-id="" group-title="inbangla" tvg-logo="http://172.19.17.28/images/sonyaath.png",SONY AATH
+http://172.19.17.3:8090/hls/SonyAtth.m3u8
+#EXTINF:-1 tvg-id="" group-title="inbangla" tvg-logo="http://172.19.17.28/images/jalshamovies.png",JALSHA MOVIES
+http://172.19.17.3:8090/hls/JalshaMoviesHD.m3u8
+#EXTINF:-1 tvg-id="" group-title="inbangla" tvg-logo="http://172.19.17.28/images/zeebanglacinema.png",ZEE BANGLA CINEMA
+http://172.19.17.3:8090/hls/ZeeBanglaCinemaHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movie",Sony Pix
 https://stream.ottplus.bd/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8
