@@ -15,14 +15,15 @@
 
 
 
-
+#EXTINF:-1 tvg-id="172" tvg-name="SRK TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1779607122445.png" group-title="PREMIUM🍭",SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="97" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="PREMIUM🍭",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 tvg-id="185" tvg-name="DBC News HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="PREMIUM🍭",DBC News HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:-1 tvg-id="229" tvg-name="Maasranga TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png" group-title="PREMIUM🍭",Maasranga TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-#EXTINF:-1 tvg-id="102" tvg-name="Ekattor HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" group-title="News",Ekattor HD
+#EXTINF:-1 tvg-id="102" tvg-name="Ekattor HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" group-title="",Ekattor HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-id="94" tvg-name="Channel 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-title="News",Channel 24 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
@@ -76,36 +77,40 @@ https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8
 https://nomawnoijl.gpcdn.net/akash/luckyfamily/playlist.m3u8
 #EXTINF:-1 tvg-id="222" tvg-name="Kids Stars" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381398090.png" group-title="Kids",Kids Stars
 https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8
-#EXTINF:-1 tvg-id="172" tvg-name="SRK TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1779607122445.png" group-title="Entertainment",SRK TV
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="239" tvg-name="Sports Legends" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1779609962271.png" group-title="Sports",Sports Legends
+#EXTINF:-1 tvg-id="239" tvg-name="Sports Legends" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1779609962271.png" group-title="PREMIUM🍭",Sports Legends
 https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8
-#EXTINF:-1 tvg-id="169" tvg-name="Al Jazeera" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1777454219313.png" group-title="News",Al Jazeera
+#EXTINF:-1 tvg-id="169" tvg-name="Al Jazeera" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1777454219313.png" group-title="PREMIUM🍭",Al Jazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
-#EXTINF:-1 tvg-id="240" tvg-name="BTV Shangshad" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781166550297.png" group-title="News",BTV Shangshad
+#EXTINF:-1 tvg-id="240" tvg-name="BTV Shangshad" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781166550297.png" group-title="PREMIUM🍭",BTV Shangshad
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF:-1 tvg-id="241" tvg-name="Party Universe" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778083145889.png" group-title="Music",Party Universe
+#EXTINF:-1 tvg-id="241" tvg-name="Party Universe" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778083145889.png" group-title="PREMIUM🍭",Party Universe
 https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
-#EXTINF:-1 tvg-id="245" tvg-name="Al Quran" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086065071.png" group-title="Infotainment",Al Quran
+#EXTINF:-1 tvg-id="245" tvg-name="Al Quran" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086065071.png" group-title="PREMIUM🍭",Al Quran
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
-#EXTINF:-1 tvg-id="247" tvg-name="Independent TV " tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png" group-title="News",Independent TV 
+#EXTINF:-1 tvg-id="247" tvg-name="Independent TV " tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png" group-title="PREMIUM🍭",Independent TV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 tvg-id="242" tvg-name="Nikki" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778083459294.png" group-title="Kids",Nikki
+#EXTINF:-1 tvg-id="242" tvg-name="Nikki" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778083459294.png" group-title="PREMIUM🍭",Nikki
 https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
-#EXTINF:-1 tvg-id="243" tvg-name="Originals" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085327477.png" group-title="Movies",Originals
+#EXTINF:-1 tvg-id="243" tvg-name="Originals" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085327477.png" group-title="PREMIUM🍭",Originals
 https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8
-#EXTINF:-1 tvg-id="244" tvg-name="Crazy Ex" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085745609.png" group-title="Sports",Crazy Ex
+#EXTINF:-1 tvg-id="244" tvg-name="Crazy Ex" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085745609.png" group-title="PREMIUM🍭",Crazy Ex
 https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
-#EXTINF:-1 tvg-id="246" tvg-name="Delicious" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086478755.png" group-title="Infotainment",Delicious
+#EXTINF:-1 tvg-id="246" tvg-name="Delicious" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086478755.png" group-title="PREMIUM🍭",Delicious
 https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8
-#EXTINF:-1 tvg-id="248" tvg-name="Program Promo" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087459461.png" group-title="Infotainment",Program Promo
+#EXTINF:-1 tvg-id="248" tvg-name="Program Promo" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087459461.png" group-title="PREMIUM🍭",Program Promo
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
-#EXTINF:-1 tvg-id="267" tvg-name="Sports Range" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1779610478709.png" group-title="Sports",Sports Range
+#EXTINF:-1 tvg-id="267" tvg-name="Sports Range" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1779610478709.png" group-title="PREMIUM🍭",Sports Range
 https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
-#EXTINF:-1 tvg-id="250" tvg-name="AKASH GO Sports 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1780554094519.png" group-title="Sports",AKASH GO Sports 1
+#EXTINF:-1 tvg-id="250" tvg-name="AKASH GO Sports 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1780554094519.png" group-title="PREMIUM🍭",AKASH GO Sports 1
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
-#EXTINF:-1 tvg-id="299" tvg-name="Channel 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="News",Channel 1
+#EXTINF:-1 tvg-id="299" tvg-name="Channel 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="PREMIUM🍭",Channel 1
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
+
+
+
+
+
 
 
 #EXTINF:-1, Channel S TV
