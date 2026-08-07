@@ -133,6 +133,44 @@ http://94.136.188.21:8000/live/raibangla/index.m3u8
 http://94.136.188.21:8000/live/rctvsankirtan/index.m3u8
 #EXTINF:-1,Sklive News
 https://server.playontv.in/sklivenews/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
+#EXTINF:-1,Amar Bangla
+http://115.187.41.216:8080/hls/amarbangla/index.m3u8
+#EXTINF:-1,Amar Digital
+http://115.187.41.216:8080/hls/amardigital/index.m3u8
+#EXTINF:-1,MON TV BANGLA
+http://115.187.41.216:8080/hls/montvbangla/index.m3u8
+#EXTINF:-1,Sananda Tv
+http://115.187.41.216:8080/hls/sanandatv/index.m3u8
+#EXTINF:-1,Salam Bangla
+http://115.187.41.216:8080/hls/salambangla/index.m3u8
+#EXTINF:-1,Bhakti Bangla
+http://115.187.41.216:8080/hls/bhaktibangla/index.m3u8
+#EXTINF:-1,JTV BHAKTIGITI
+http://103.67.97.44:82/0.ts
+#EXTINF:-1,Baktitv Bangla
+http://185.193.19.32:8082/baktitv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Gram Bangla
+http://live.dataplayer.in:8080/live/grambangla.m3u8
+#EXTINF:-1,News 18 Bangla
+https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
+#EXTINF:-1,Tara TV
+https://legitpro.co.in/taratv/taratv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sananda TV
+http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
+#EXTINF:-1,Neb harat 24
+https://ott.livelegitpro.in:9899/nebharat24/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RENGONI
+https://cdn-7.pishow.tv/live/10018/master.m3u8
+#EXTINF:-1,Spondon
+https://cdn-7.pishow.tv/live/10019/master.m3u8
+#EXTINF:-1,Rang
+https://cdn-7.pishow.tv/live/10017/master.m3u8
+#EXTINF:-1,RB TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
+#EXTINF:-1,Flix Srk Tv
+
 #EXTINF:-1,Ekushey TV 
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1,Azan TV
@@ -168,7 +206,8 @@ https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1,Only Music
 https://livestream.unlimitedcdn.com/onlymusic/index.m3u8
 
-
+#EXTINF:-1,Vision Beast
+http://a-edge.bliscdn.com/Visionbeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1,30AMusic
 https://30a-tv.com/music.m3u8
 #EXTINF:-1,Action Hollywood Movies
@@ -378,18 +417,13 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/in
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/index_3.m3u8
 #EXTINF:-1,Zillarbarta TV
 https://server.zillarbarta.com/zillarbarta/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Vision Beast
-http://a-edge.bliscdn.com/Visionbeats/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,Zillarbarta TV
 https://server.zillarbarta.com/zillarbarta/index.m3u8
-#EXTINF:-1,Sananda TV
-http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
+
 #EXTINF:-1,News 18 Assam
 https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/master.m3u8
-#EXTINF:-1,News 18 Bangla
-https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
-#EXTINF:-1,Tara TV
-https://legitpro.co.in/taratv/taratv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,Ekhon Kolkata
 https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8
 #EXTINF:-1,Friends TV
@@ -408,41 +442,12 @@ https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8
 https://server.thelegitpro.in/pratidintime/pratidintime/index.fmp4.m3u8
 #EXTINF:-1,Pratham Khabar 24x7
 https://legitpro.co.in/hls2/newstime/index.m3u8
-#EXTINF:-1,Enter 10 Bangla
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
-#EXTINF:-1,Amar Bangla
-http://115.187.41.216:8080/hls/amarbangla/index.m3u8
-#EXTINF:-1,Amar Digital
-http://115.187.41.216:8080/hls/amardigital/index.m3u8
-#EXTINF:-1,MON TV BANGLA
-http://115.187.41.216:8080/hls/montvbangla/index.m3u8
-#EXTINF:-1,Sananda Tv
-http://115.187.41.216:8080/hls/sanandatv/index.m3u8
-#EXTINF:-1,Salam Bangla
-http://115.187.41.216:8080/hls/salambangla/index.m3u8
-#EXTINF:-1,Bhakti Bangla
-http://115.187.41.216:8080/hls/bhaktibangla/index.m3u8
-#EXTINF:-1,JTV BHAKTIGITI
-http://103.67.97.44:82/0.ts
-#EXTINF:-1,Baktitv Bangla
-http://185.193.19.32:8082/baktitv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Gram Bangla
-http://live.dataplayer.in:8080/live/grambangla.m3u8
+
 #EXTINF:-1,Home Tv
 https://server.playontv.in/hometv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Raatdin Tripura
 https://server.playontv.in/raatdintripura/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Neb harat 24
-https://ott.livelegitpro.in:9899/nebharat24/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RENGONI
-https://cdn-7.pishow.tv/live/10018/master.m3u8
-#EXTINF:-1,Spondon
-https://cdn-7.pishow.tv/live/10019/master.m3u8
-#EXTINF:-1,Rang
-https://cdn-7.pishow.tv/live/10017/master.m3u8
-#EXTINF:-1,RB TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
-#EXTINF:-1,Flix Srk Tv
+
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/flixsrktv.stream/playlist.m3u8
 #EXTINF:-1,ANANDA TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
