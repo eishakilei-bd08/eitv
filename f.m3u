@@ -65,6 +65,28 @@ http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1,Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1,Cartoon Network
+https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
+#EXTINF:-1,Jhankar Tv
+https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
+#EXTINF:-1,GREEN TV HD
+https://app.ncare.live/streams/greentv.stream/playlist.m3u8
+#EXTINF:-1,CTV Usa
+https://cdn.streamcast.xyz/ctvusa/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1,CTV Usa
+https://cdn.streamcast.xyz/ctvusa/index.fmp4.m3u8
+#EXTINF:-1,News21
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
+#EXTINF:-1,News21
+http://103.190.133.68:1935/news21live/live/chunklist_w870394000.m3u8
+#EXTINF:-1,Zee 24 Ghanta
+https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
+#EXTINF:-1,DTV USA
+https://cdn.dtvusa.com/dtv/index.m3u8
+#EXTINF:-1,DTV USA
+https://cdn.dtvusa.com/dtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Atv Usa
+http://cdn.live247stream.com/atvusa/tv/playlist.m3u8
 #EXTINF:-1,Ekushey TV 
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1,Azan TV
@@ -79,7 +101,6 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
 #EXTINF:-1,BANGLA JAGO
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
-
 #EXTINF:-1,[BD] Radio Din Raat
 https://mtv.sunplex.live/Radio-dinraat/index.m3u8
 #EXTINF:-1,R Plus News
@@ -292,50 +313,8 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 
 
 
-#EXTINF:-1,Nick Bangla
-http://103.180.212.191:3500/live/1341.m3u8
-#EXTINF:-1,Sonic Bangla
-http://103.180.212.191:3500/live/1345.m3u8
-#EXTINF:-1,Discovery Kids
-http://198.195.239.50:8095/DiscoveryKids/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Cartoon Network
-https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
-#EXTINF:-1,ToonOvation
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/M43FCP9IGELUIOH4IAVQ/hls3/now,-1m/m.m3u8
-#EXTINF:-1,Nick Bangla  (Kids)
-http://filex.me/live/MAS101A/MAS101AABB/519972.m3u
-#EXTINF:-1,Sonic Bangla  (Kids)
-http://filex.me/live/MAS101A/MAS101AABB/519973.m3u8
-#EXTINF:-1,RONGEEN TV
-http://202.78.232.181:8090/playontv/playon@admin/95
-#EXTINF:-1,DTV USA
-https://cdn.dtvusa.com/dtv/index.m3u8
-#EXTINF:-1,DTV USA
-https://cdn.dtvusa.com/dtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Atv Usa
-http://cdn.live247stream.com/atvusa/tv/playlist.m3u8
-#EXTINF:-1,Star News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
-#EXTINF:-1,Colors Bangla Cinema
-http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Zee Bangla Sonara
-http://198.195.239.50:8095/ZeeBanglaCinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SONY MAX HD
-http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Jhankar Tv
-https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
-#EXTINF:-1,GREEN TV HD
-https://app.ncare.live/streams/greentv.stream/playlist.m3u8
-#EXTINF:-1,CTV Usa
-https://cdn.streamcast.xyz/ctvusa/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1,CTV Usa
-https://cdn.streamcast.xyz/ctvusa/index.fmp4.m3u8
-#EXTINF:-1,News21
-http://103.190.133.68:1935/news21live/live/playlist.m3u8
-#EXTINF:-1,News21
-http://103.190.133.68:1935/news21live/live/chunklist_w870394000.m3u8
-#EXTINF:-1,Zee 24 Ghanta
-https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
+
+
 #EXTINF:-1,Discovery Channel Bengali
 https://mini.allinonereborn.fun/jiotv-www/app/ts_live_573.m3u8
 #EXTINF:-1,Vision Punjab
