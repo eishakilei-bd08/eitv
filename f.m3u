@@ -87,6 +87,29 @@ https://cdn.dtvusa.com/dtv/index.m3u8
 https://cdn.dtvusa.com/dtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Atv Usa
 http://cdn.live247stream.com/atvusa/tv/playlist.m3u8
+
+#EXTINF:-1,Vision Punjab
+http://a-edge.bliscdn.com/VisionPunjabHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Histoire Tv
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+#EXTINF:-1,Raatdin Bangla
+https://server.playontv.in/raatdinbangla/index.m3u8
+#EXTINF:-1,Nd24
+https://legitpro.co.in/ndlive/nd24/tracks-v1a1/mono.m3u8
+#EXTINF:-1,JTV CLASSIC
+http://103.67.97.46/0.ts
+#EXTINF:-1,JTV BANGLA
+http://103.67.97.45:81/0.ts
+#EXTINF:-1,AMAR BANGLA
+http://103.172.152.218:8086/0.ts
+#EXTINF:-1,EKHON KOLKATA
+http://live.dataplayer.in:8080/live/ekhonkolkata.m3u8
+#EXTINF:-1,AMAR BANGLA
+http://live.dataplayer.in:8080/live/amarbangla.m3u8
+#EXTINF:-1,MISSION TV
+http://live.dataplayer.in:8080/live/missiontv.m3u8
+#EXTINF:-1,Positive
+http://hksk.dataplayer.in:8080/channel1.m3u8
 #EXTINF:-1,Ekushey TV 
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1,Azan TV
@@ -314,31 +337,6 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 
 
 
-
-#EXTINF:-1,Discovery Channel Bengali
-https://mini.allinonereborn.fun/jiotv-www/app/ts_live_573.m3u8
-#EXTINF:-1,Vision Punjab
-http://a-edge.bliscdn.com/VisionPunjabHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Histoire Tv
-http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-#EXTINF:-1,Raatdin Bangla
-https://server.playontv.in/raatdinbangla/index.m3u8
-#EXTINF:-1,Nd24
-https://legitpro.co.in/ndlive/nd24/tracks-v1a1/mono.m3u8
-#EXTINF:-1,JTV CLASSIC
-http://103.67.97.46/0.ts
-#EXTINF:-1,JTV BANGLA
-http://103.67.97.45:81/0.ts
-#EXTINF:-1,AMAR BANGLA
-http://103.172.152.218:8086/0.ts
-#EXTINF:-1,EKHON KOLKATA
-http://live.dataplayer.in:8080/live/ekhonkolkata.m3u8
-#EXTINF:-1,AMAR BANGLA
-http://live.dataplayer.in:8080/live/amarbangla.m3u8
-#EXTINF:-1,MISSION TV
-http://live.dataplayer.in:8080/live/missiontv.m3u8
-#EXTINF:-1,Positive
-http://hksk.dataplayer.in:8080/channel1.m3u8
 #EXTINF:-1,Sunsky TV 1
 http://live.dataplayer.in:8080/live/sunskytv1.m3u8
 #EXTINF:-1,Sunsky TV 2
