@@ -66,21 +66,15 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1,Azan TV
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
-#EXTINF:-1,Radio Bater BD
-http://as31.digitalsynapsebd.com:8446/;stream.mp3
 #EXTINF:-1,Arabica TV
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:-1,GTV
-https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8
-#EXTINF:-1,Bein Sports 1
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 #EXTINF:-1,AL SUNNAH TV
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1,QURAN
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1,Sunnah Tv
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
-#EXTINF:-1,
+#EXTINF:-1,suadi sunnah
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 #EXTINF:-1,Saudia Arabia
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
@@ -88,8 +82,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,AL EKHBARIA
 https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8
-#EXTINF:-1,ZB Cartoon
-https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1,AL EKHBARIA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
 #EXTINF:-1,Sochi 24 HD
@@ -98,12 +90,8 @@ http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 https://streamer3.premio.link/alqamar/playlist.m3u8
 #EXTINF:-1,DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
-#EXTINF:-1,Insight
-https://insighttv-samsung-us.amagi.tv/playlist.m3u8
 #EXTINF:-1,DW NEWS
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
-#EXTINF:-1,DW English _
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1,News Max 2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1,NDTV NEWS
