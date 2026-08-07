@@ -87,7 +87,6 @@ https://cdn.dtvusa.com/dtv/index.m3u8
 https://cdn.dtvusa.com/dtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Atv Usa
 http://cdn.live247stream.com/atvusa/tv/playlist.m3u8
-
 #EXTINF:-1,Vision Punjab
 http://a-edge.bliscdn.com/VisionPunjabHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Histoire Tv
@@ -110,6 +109,30 @@ http://live.dataplayer.in:8080/live/amarbangla.m3u8
 http://live.dataplayer.in:8080/live/missiontv.m3u8
 #EXTINF:-1,Positive
 http://hksk.dataplayer.in:8080/channel1.m3u8
+#EXTINF:-1,Sunsky TV 2
+http://live.dataplayer.in:8080/live/sunskytv2.m3u8
+#EXTINF:-1,Balurghat TV
+http://94.136.188.21:8000/live/rctvdemo/index.m3u8
+#EXTINF:-1,SDTV PRIME
+http://15.235.187.72/hls/sdtv.m3u8
+#EXTINF:-1,Jaan Bangla
+http://live.dataplayer.in:8080/live/3mjaanbangla.m3u8
+#EXTINF:-1,SNB Cinema
+http://103.182.83.246/hls/snbcinema.m3u8
+#EXTINF:-1,KHABOR BANGLA
+http://103.252.165.39:8086/0.ts
+#EXTINF:-1,DRISHTI
+http://202.78.232.181:8090/playontv/playon@admin/41
+#EXTINF:-1,Sk Live News
+https://server.playontv.in/sklivenews/tracks-v1/mono.m3u8
+#EXTINF:-1,RCTV Sangbad
+http://94.136.188.21:8000/live/rctvsangbad/index.m3u8
+#EXTINF:-1,RCTV Rai Bangla
+http://94.136.188.21:8000/live/raibangla/index.m3u8
+#EXTINF:-1,RCTV Sannkirtan
+http://94.136.188.21:8000/live/rctvsankirtan/index.m3u8
+#EXTINF:-1,Sklive News
+https://server.playontv.in/sklivenews/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ekushey TV 
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1,Azan TV
@@ -337,36 +360,6 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 
 
 
-#EXTINF:-1,Sunsky TV 1
-http://live.dataplayer.in:8080/live/sunskytv1.m3u8
-#EXTINF:-1,Sunsky TV 2
-http://live.dataplayer.in:8080/live/sunskytv2.m3u8
-#EXTINF:-1,Sunsky TV 3
-http://live.dataplayer.in:8080/live/sunskytv3.m3u8
-#EXTINF:-1,Sunsky TV 4
-http://live.dataplayer.in:8080/live/sunskytv4.m3u8
-#EXTINF:-1,Balurghat TV
-http://94.136.188.21:8000/live/rctvdemo/index.m3u8
-#EXTINF:-1,SDTV PRIME
-http://15.235.187.72/hls/sdtv.m3u8
-#EXTINF:-1,Jaan Bangla
-http://live.dataplayer.in:8080/live/3mjaanbangla.m3u8
-#EXTINF:-1,SNB Cinema
-http://103.182.83.246/hls/snbcinema.m3u8
-#EXTINF:-1,KHABOR BANGLA
-http://103.252.165.39:8086/0.ts
-#EXTINF:-1,DRISHTI
-http://202.78.232.181:8090/playontv/playon@admin/41
-#EXTINF:-1,Sk Live News
-https://server.playontv.in/sklivenews/tracks-v1/mono.m3u8
-#EXTINF:-1,RCTV Sangbad
-http://94.136.188.21:8000/live/rctvsangbad/index.m3u8
-#EXTINF:-1,RCTV Rai Bangla
-http://94.136.188.21:8000/live/raibangla/index.m3u8
-#EXTINF:-1,RCTV Sannkirtan
-http://94.136.188.21:8000/live/rctvsankirtan/index.m3u8
-#EXTINF:-1,Sklive News
-https://server.playontv.in/sklivenews/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee 24 Gonta
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
 #EXTINF:-1,Abp Ananda
