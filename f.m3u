@@ -57,7 +57,10 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
 #EXTINF:-1,Dangal
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-
+#EXTINF:-1,Vision TV
+http://82.212.74.98:8000/live/hls/7823.m3u8
+#EXTINF:-1,TBN 24
+http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 #EXTINF:-1,CHANNEL S BD
 https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1,Enter 10 Bangla
@@ -148,7 +151,20 @@ http://93.184.10.248/MBCBollywood/index.m3u8
 
 
 
-
+#EXTINF:-1,Tribe TV (720p)
+https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
+#EXTINF:-1,IBN TV
+http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8
+#EXTINF:-1,IBN TV Africa
+http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8
+#EXTINF:-1,Noor TV (720p)
+https://sscsott.com/srt/noortvuk/index.m3u8
+#EXTINF:-1,MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+#EXTINF:-1,tv9 Nusantara
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+#EXTINF:-1,SALAM BANGLA
+http://115.187.41.216:8080/salambangla.ts
 #EXTINF:-1,Al Resalah HD
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1030
 #EXTINF:-1,Al Quran Al Kareem
@@ -273,56 +289,9 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
 
-#EXTINF:-1,Vision TV
-http://82.212.74.98:8000/live/hls/7823.m3u8
-#EXTINF:-1,TBN 24
-http://cdn01.palki.tv/live/TBN24-M/index.m3u8
-#EXTINF:-1,Ntv
-https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
-#EXTINF:-1,Nexus Tv
-https://ythls.armelin.one/channel/UC200cnk8CCEkNAIubWtDsLw.m3u8
-#EXTINF:-1,Rtv Music
-https://ythls.armelin.one/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
-#EXTINF:-1,Independent
-https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
-#EXTINF:-1,Channel 24
-https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
-#EXTINF:-1,Kidsland
-https://ythls.armelin.one/channel/UCZMKZS3L9GfhcFkMyBRoVFg.m3u8
-#EXTINF:-1,Deepto Tv
-https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-#EXTINF:-1,Desh TV
-https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
-#EXTINF:-1,Ekhon Tv
-https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
-#EXTINF:-1,Tata Sky Bangla
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63329
-#EXTINF:-1,TV9 Bangla
-https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
-#EXTINF:-1,Eagle Drama Series
-https://ythls.armelin.one/channel/UC_YEeUix2bvVOuLxEUw2SnQ.m3u8
-#EXTINF:-1,Tribe TV (720p)
-https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
-#EXTINF:-1,IBN TV
-http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8
-#EXTINF:-1,IBN TV Africa
-http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8
-#EXTINF:-1,Noor TV (720p)
-https://sscsott.com/srt/noortvuk/index.m3u8
-#EXTINF:-1,MQTV
-https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
-#EXTINF:-1,tv9 Nusantara
-https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
-#EXTINF:-1,Quran Tv
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000067/1024.m3u8
-#EXTINF:-1,TvMu
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000024/1024.m3u8
-#EXTINF:-1,Muslim Tv
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000021/1024.m3u8
-#EXTINF:-1,SALAM BANGLA
-http://202.78.232.181:8090/playontv/playon@admin/57
-#EXTINF:-1,SALAM BANGLA
-http://115.187.41.216:8080/salambangla.ts
+
+
+
 #EXTINF:-1,Nick Bangla
 http://103.180.212.191:3500/live/1341.m3u8
 #EXTINF:-1,Sonic Bangla
