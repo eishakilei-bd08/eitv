@@ -21,6 +21,9 @@ http://103.185.24.134:3001/TSportsHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png"group-title="🤍PREMIUM🤍",T Sports
 http://public.sm-monirul.top/T-SPORTS-HD/index.m3u8?token=563af145a1466b55c7744f70e5db43de9cea8d04-71e685a3ffa98073d9a3540ca62679ca-1782336175-1782325375
+#EXTINF:-1 group-title="Bangla" tvg-id="amarbangla.bd" tvg-logo="https://amarbanglatv.in/wp-content/uploads/2024/08/cropped-Amar-Bangla.png",Amar Bangla
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="asiantv.bd" tvg-logo="https://yt3.googleusercontent.com/AKdtkYcJ5cbC1NNkbELbIarJgjbCxsyQ08rW-LAbtZ0F8KdDGutcTKLmRpdFf5hxtC_UrFpO=s160-c-k-c0x00ffffff-no-rj",ASIAN TV
 
 
 #EXTINF:-1,Atn
@@ -897,26 +900,9 @@ https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/
 https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="国际",Rakuten Drama
 https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
-#EXTINF:-1 group-title="国际",Sky Sports F1
-https://7pal.short.gy/ssportsf1
-#EXTINF:-1 group-title="国际",Sky Sports Tennis
-https://7pal.short.gy/ssportstn
-#EXTINF:-1 group-title="国际",Sky Sports News
-https://7pal.short.gy/ssportsnw
-#EXTINF:-1 group-title="国际",EuroSport 
-https://7pal.short.gy/eusport4k
-#EXTINF:-1 group-title="国际",MLB Network
-https://7pal.short.gy/mlbnw
-#EXTINF:-1 group-title="国际",NHL Network
-https://7pal.short.gy/nhlnw
 
-#EXTM3U
-#EXTINF:-1 group-title="Bangla" tvg-id="akashaat.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/34/Aakash_Aath_logo_%282013%29.png",Akash Aath
-https://mumt03.tangotv.in/AAKASHAATH/index.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-id="amarbangla.bd" tvg-logo="https://amarbanglatv.in/wp-content/uploads/2024/08/cropped-Amar-Bangla.png",Amar Bangla
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-id="asiantv.bd" tvg-logo="https://yt3.googleusercontent.com/AKdtkYcJ5cbC1NNkbELbIarJgjbCxsyQ08rW-LAbtZ0F8KdDGutcTKLmRpdFf5hxtC_UrFpO=s160-c-k-c0x00ffffff-no-rj",ASIAN TV
-http://103.229.254.25:7001/play/a063/index.m3u8
+
+
 #EXTINF:-1 group-title="Bangla" tvg-id="atnbangla.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/ATN_Bangla.svg",ATN BANGLA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-id="ATN Bangla UK" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png",ATN Bangla UK
