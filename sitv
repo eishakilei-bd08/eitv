@@ -121,54 +121,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 #EXTINF:-1 ,Saudi Quran
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
-#EXTINF:-1 ,Screem
-https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
-#EXTINF:-1 ,Sports Legends
-https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8
-#EXTINF:-1 ,Flash Guys HD
-https://nomawnoijl.gpcdn.net/akash/flashguys/playlist.m3u8
-#EXTINF:-1 ,BuddyStar HD
-https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8
-#EXTINF:-1 ,Luxel HD
-https://nomawnoijl.gpcdn.net/akash/luxell/playlist.m3u8
-#EXTINF:-1 ,Joy
-https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8
-#EXTINF:-1 ,Funny Junior HD
-https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8
-#EXTINF:-1 ,Crimes
-https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8
-#EXTINF:-1 ,True Stories
-https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8
-#EXTINF:-1 ,Intelligence
-https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8
-#EXTINF:-1 ,Sports Range
-https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
-#EXTINF:-1 ,Thunder Er
-https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8
-#EXTINF:-1 ,Fighters
-https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8
-#EXTINF:-1 ,Smarty
-https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8
-#EXTINF:-1 ,Lucky Family
-https://nomawnoijl.gpcdn.net/akash/luckyfamily/playlist.m3u8
-#EXTINF:-1 ,Kids Stars
-https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8
-#EXTINF:-1 ,Al Jazeera
-https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
-#EXTINF:-1 ,Party Universe
-https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
-#EXTINF:-1 ,Al Quran
-https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
-#EXTINF:-1 ,Nikki
-https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
-#EXTINF:-1 ,Originals
-https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8
-#EXTINF:-1 ,Crazy Ex
-https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
-#EXTINF:-1 ,Delicious
-https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8
-#EXTINF:-1 ,Program Promo
-https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
+
 #EXTINF:-1 ,Enter10 Bangla HD
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 #EXTINF:-1 ,MOV | ZB Cinema
