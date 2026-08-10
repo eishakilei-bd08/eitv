@@ -146,66 +146,7 @@ http://103.161.153.165:8000/play/a02z/index.m3u8
 http://103.161.153.165:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Set%20Max%202.jpeg" group-title="PREMIUM",Sony Max 2📺
 http://103.182.170.32:8888/play/a02l
-#EXTINF:-1 tvg-name="GTV" tvg-logo="http://172.16.29.28/images/gtv.png" group-title="DentCure",GTV📺
-http://172.16.29.2:8090/hls/gazitvhd.m3u8
-#EXTINF:-1 tvg-name="JAMUNA TV" tvg-logo="http://172.16.29.28/images/jamunatv.jpg" group-title="DentCure",JAMUNA TV📺
-http://172.16.29.2:8090/hls/JamunaTV.m3u8
-#EXTINF:-1 tvg-name="SOMOY TV" tvg-logo="http://172.16.29.28/images/somoytv.jpg" group-title="DentCure",SOMOY TV📺
-http://172.16.29.2:8090/hls/somoytv.m3u8
-#EXTINF:-1 tvg-name="CHANNEL I" tvg-logo="http://172.16.29.28/images/channelihd.jpg" group-title="DentCure",CHANNEL I📺
-http://172.16.29.2:8090/hls/channelihd.m3u8
-#EXTINF:-1 tvg-name="ATN NEWS" tvg-logo="http://172.16.29.28/images/atnnews.jpg" group-title="DentCure",ATN NEWS📺
-http://172.16.29.2:8090/hls/AtnNews.m3u8
-#EXTINF:-1 tvg-name="ZEE BANGLA" tvg-logo="http://172.16.29.28/images/zeebangla.png" group-title="DentCure",ZEE BANGLA📺
-http://172.16.29.2:8090/hls/ZeeBanglaHD.m3u8
-#EXTINF:-1 tvg-name="ENTER10 BANGLA" tvg-logo="http://172.16.29.28/images/enterbangla.png" group-title="DentCure",ENTER10 BANGLA📺
-http://172.16.29.2:8090/hls/Enter10Bangla.m3u8
-#EXTINF:-1 tvg-name="ZEE BANGLA CINEMA" tvg-logo="http://172.16.29.28/images/zeebanglacinema.png" group-title="DentCure",ZEE BANGLA CINEMA📺
-http://172.16.29.2:8090/hls/ZeeBanglaCinemaHD.m3u8
-#EXTINF:-1 tvg-name="JALSHA MOVIES" tvg-logo="http://172.16.29.28/images/jalshamovies.png" group-title="DentCure",JALSHA MOVIES
-http://172.16.29.2:8090/hls/JalshaMoviesHD.m3u8
-#EXTINF:-1 tvg-name="COLORS BANGLA" tvg-logo="http://172.16.29.28/images/colorsbangla.png" group-title="DentCure",COLORS BANGLA
-http://172.16.29.2:8090/hls/ColorsBanglaHD.m3u8
-#EXTINF:-1 tvg-name="STAR JALSHA" tvg-logo="http://172.16.29.28/images/starjalsha.png" group-title="DentCure",STAR JALSHA📺
-http://172.16.29.2:8090/hls/StarJalshaHD.m3u8
-#EXTINF:-1 tvg-name="ZEE CINEMA" tvg-logo="http://172.16.29.28/images/zeecinema.png" group-title="DentCure",ZEE CINEMA📺
-http://172.16.29.2:8090/hls/ZeeCinemaHD.m3u8
-#EXTINF:-1 tvg-name="SONY HD" tvg-logo="http://172.16.29.28/images/sony.png" group-title="DentCure",SONY HD📺
-http://172.16.29.2:8090/hls/SonyHD.m3u8
-#EXTINF:-1 tvg-name="ZEE TV HD" tvg-logo="http://172.16.29.28/images/zeetv.png" group-title="DentCure",ZEE TV HD📺
-http://172.16.29.2:8090/hls/ZeeTVHD.m3u8
-#EXTINF:-1 tvg-name="STAR GOLD" tvg-logo="http://172.16.29.28/images/stargoldhd.png" group-title="DentCure",STAR GOLD📺
-http://172.16.29.2:8090/hls/StarGoldHD.m3u8
-#EXTINF:-1 tvg-name="COLORS HD" tvg-logo="http://172.16.29.28/images/colors.png" group-title="DentCure",COLORS HD📺
-http://172.16.29.2:8090/hls/ColorsHD.m3u8
-#EXTINF:-1 tvg-name="SONY AATH" tvg-logo="http://172.16.29.28/images/sonyaath.png" group-title="DentCure",SONY AATH📺
-http://172.16.29.2:8090/hls/SonyAtth.m3u8
-#EXTINF:-1 tvg-name="SONY MAX" tvg-logo="http://172.16.29.28/images/sonymax.png" group-title="DentCure",SONY MAX📺
-http://172.16.29.2:8090/hls/sonymaxhd.m3u8
-#EXTINF:-1 tvg-name="STAR MOVIES" tvg-logo="http://172.16.29.28/images/star-movies-hd.jpg" group-title="DentCure",STAR MOVIES📺
-http://172.16.29.2:8090/hls/StarMoviesHD.m3u8
-#EXTINF:-1 tvg-name="STAR PLUS" tvg-logo="http://172.16.29.28/images/starplus.png" group-title="DentCure",STAR PLUS📺
-http://172.16.29.2:8090/hls/StarPlusHD.m3u8
-#EXTINF:-1 tvg-name="ALJAZEERA NEWS" tvg-logo="http://172.16.29.28/images/aljazeranews.png" group-title="Dentcure",ALJAZEERA NEWS📺
-http://172.16.29.2:8090/hls/ALjazeeraNews.m3u8
-#EXTINF:-1 tvg-name="BBC WORLD" tvg-logo="http://172.16.29.28/images/bbcworldnews.png" group-title="DentCure",BBC WORLD📺
-http://172.16.29.2:8090/hls/bbc_world.m3u8
-#EXTINF:-1 tvg-name="BBC EARTH" tvg-logo="http://172.16.29.28/images/bbcworldnews.png" group-title="DentCure",BBC EARTH📺
-http://172.16.29.2:8090/hls/bbcearthhd.m3u8
-#EXTINF:-1 tvg-name="SANGEET BANGLA" tvg-logo="http://172.16.29.28/images/sangeetbangla.png" group-title="DentCure",SANGEET BANGLA📺
-http://172.16.29.2:8090/hls/SangeetBangla.m3u8
-#EXTINF:-1 tvg-name="DISCOVERY KIDS" tvg-logo="http://172.16.29.28/images/discoveryhd.png" group-title="DentCure",DISCOVERY KIDS📺
-http://172.16.29.2:8090/hls/DiscoveryKids.m3u8
-#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="http://172.16.29.28/images/cnhd.png" group-title="DentCure",CARTOON NETWORK📺
-http://172.16.29.2:8090/hls/CartoonNetworkHD.m3u8
-#EXTINF:-1 tvg-name="COLORS CINEPLEX" tvg-logo="http://172.16.29.28/images/colorscineplex.png" group-title="DentCure",COLORS CINEPLEX📺
-http://172.16.29.2:8090/hls/ColorsCineplexHD.m3u8
-#EXTINF:-1 tvg-name="NAT GEO WILD" tvg-logo="http://172.16.29.28/images/natgeo.png" group-title="DentCure",NAT GEO WILD📺
-http://172.16.29.2:8090/hls/NatGeoWild.m3u8
-#EXTINF:-1 tvg-name="DISCOVERY" tvg-logo="http://172.16.29.28/images/discoveryhd.png" group-title="DentCure",DISCOVERY📺
-http://172.16.29.2:8090/hls/DiscoveryHD.m3u8
-#EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="http://172.16.29.28/images/discoveryhd.png" group-title="DentCure",ANIMAL PLANET📺
-http://172.16.29.2:8090/hls/AnimalPlanetHD.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",Wild Hd📺
 http://103.182.170.32:8888/play/a01r
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",Food Food📺
