@@ -44,16 +44,18 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://proxyserver2.nurmd2006-official.workers.dev/?url=http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRVFdWp9xwlb_aBt92V8P8V52hyphenhyphen0Kn2Qz8ge4cbaijlKQdH86RXexTJrvskKsSVMrLbDaLsRwFSK7VdFzdYd9u2FhdHs6o3erPlx9NehopiqcH2tK9ApMNlavhZYLVx2WhpUhpm0efu4OxgVDTYTIZeBi59t5bK9kJHEKtfgoSzC2lNVABB2TMvbiB1w/s600/Nur_20251219_134007_0000.png" group-title="Drama", G-Series
 https://vods2.aynaott.com/gseriesDrama/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/news21.jpg" group-title="PRO✅",NEWS 21 BANGLA
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kvF6A7MpJigDiu63q8L3ZADpsqenR6S0zGG1Wj6gbA&s" group-title="PRO",Madupur News 24
-http://103.121.61.218/tmp_hls/4a47d2983c8bd392b120b627e0e1cab4/index.m3u8
 
 
-#EXTINF:-1, CHANNEL ONE NEWS
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1,Sananda
 https://live.sanandatelevision.in/sananda/index.m3u8
 #EXTINF:-1,Fail Army😁😁😁😁
@@ -4921,7 +4923,8 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kvF6A7MpJigDiu63q8L3ZADpsqenR6S0zGG1Wj6gbA&s" group-title="PRO",Madupur News 24
+http://103.121.61.218/tmp_hls/4a47d2983c8bd392b120b627e0e1cab4/index.m3u8
 
 #EXTINF:-1 ,Sunnah tv
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
