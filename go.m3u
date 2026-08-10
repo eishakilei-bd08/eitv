@@ -14,12 +14,12 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png"group-title="𝐒𝐩𝐨𝐫𝐭𝐬",T Sports
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png"group-title="💙PREMIUM💙",T Sports
 http://103.185.24.134:3001/TSportsHD/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png"group-title="𝐒𝐩𝐨𝐫𝐭𝐬",T Sports
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png"group-title="💙PREMIUM💙",T Sports
 http://public.sm-monirul.top/T-SPORTS-HD/index.m3u8?token=563af145a1466b55c7744f70e5db43de9cea8d04-71e685a3ffa98073d9a3540ca62679ca-1782336175-1782325375
 
 
@@ -36,7 +36,7 @@ http://public.sm-monirul.top/STAR.JALSHA.HD/index.m3u8?token=9f627ae6e8f1bb00022
 
 
 
-#EXTINF:-1 tvg-id="172" tvg-name="SRK TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1779607122445.png" group-title="PREMIUM🍭",SRK TV
+#EXTINF:-1 tvg-id="172" tvg-name="SRK TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1779607122445.png" group-title="💙PREMIUM💙",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/L6MvsdFm/20240822-231309.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢", Channel S
 https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chunks.m3u8
@@ -94,18 +94,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="-",VEVO
 https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="-",Sonic
-http://103.229.254.25:7001/play/a0dl/index.m3u8
 #EXTINF:-1 group-title="-",Sonic Heghok
 https://dtwdcugadwtnw.cloudfront.net/master.m3u8
-#EXTINF:-1 group-title="-",Sony Max
-http://103.157.248.140:8000/play/a01l/index.m3u8
-#EXTINF:-1 group-title="-",Sony Sab
-http://103.229.254.25:7001/play/a0db/index.m3u8
-#EXTINF:-1 group-title="-",Universal Action 
-https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 group-title="-",Chaina
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
 #EXTINF:-1,DISCOVERY HD BANGLA
 http://103.180.212.191:3500/live/573.m3u8
 #EXTINF:-1, tvg-logo="https://channeleurope.tv/storage/settings/BNyRMyomifMQ7VlzvHKbNwCfzxM7kF4Vq7bj4zxZ.png",Channel Europe
