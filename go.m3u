@@ -1065,12 +1065,6 @@ https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ShemarooTV.in@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Shemaroo_TV.svg",ENT | Shemaroo TV
 https://cdn-3.pishow.tv/live/230/master.m3u8
-#EXTINF:-1 group-title="India" tvg-id="SonyEntertainmentHD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png",ENT | Sony Entertainment HD
-http://198.195.239.50:8095/SonyTv/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="StarPlus.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Plus_HD.png",ENT | Star Plus HD
-http://198.195.239.50:8095/StarPlus/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZEETVhd.tv" tvg-logo="https://1000logos.net/wp-content/uploads/2025/05/Zee-TV-Logo-768x432.png",ENT | ZEE TV HD
-http://198.195.239.50:8095/ZeeTV/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="Hindi Movies",MO | Hindi Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="India" tvg-id="b4u-bhojpuri" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1075363785B4UBHOJPURI_TVSETS_TVW_720x960.webp",MOV | B4U Bhojpuri
