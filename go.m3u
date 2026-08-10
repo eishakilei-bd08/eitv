@@ -100,11 +100,11 @@ https://dtwdcugadwtnw.cloudfront.net/master.m3u8
 http://103.180.212.191:3500/live/573.m3u8
 #EXTINF:-1, tvg-logo="https://channeleurope.tv/storage/settings/BNyRMyomifMQ7VlzvHKbNwCfzxM7kF4Vq7bj4zxZ.png",Channel Europe
 https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w572284654.m3u8
-#EXTINF:-1,group-title="PREMIUM",Descovery Bangla📺
+#EXTINF:-1,group-title="🤍PREMIUM🤍",Descovery Bangla📺
 http://103.180.212.191:3500/live/3428.m3u8
-#EXTINF:-1,group-title="PREMIUM",Cine Bangla📺
+#EXTINF:-1,group-title="🤍PREMIUM🤍",Cine Bangla📺
 http://103.180.212.191:3500/live/3518.m3u8
-#EXTINF:-1,group-title="PREMIUM",SUN Bangla📺
+#EXTINF:-1,group-title="🤍PREMIUM🤍",SUN Bangla📺
 http://103.180.212.191:3500/live/1669.m3u8
 #EXTINF:-1,group-title="PREMIUM",Colors Super📺
 http://103.180.212.191:3500/live/785.m3u8
