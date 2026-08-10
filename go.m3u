@@ -14,6 +14,27 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png"group-title="𝐒𝐩𝐨𝐫𝐭𝐬",T Sports
+http://103.185.24.134:3001/TSportsHD/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png"group-title="𝐒𝐩𝐨𝐫𝐭𝐬",T Sports
+http://public.sm-monirul.top/T-SPORTS-HD/index.m3u8?token=563af145a1466b55c7744f70e5db43de9cea8d04-71e685a3ffa98073d9a3540ca62679ca-1782336175-1782325375
+
+
+#EXTINF:-1,Atn
+http://public.sm-monirul.top/ATN.BANGLA.HD/index.m3u8?token=fcd689769d768ff30e08eb4495cde47ab7d876e8-885070fc853a1910bf6c344abc7c09f5-1782339297-1782328497
+#EXTINF:-1,Colors 
+http://public.sm-monirul.top/COLORS.CINEPLEX.HD/index.m3u8?token=1284c950709236846c31d7145b797646a07cb2b0-5bd712c0452fe2291274dc7ca500bd69-1782338153-1782327353
+
+#EXTINF:-1,Jungama
+http://public.sm-monirul.top/HUNGAMA/index.m3u8?token=b7eacef43319907302df759ab9bb4130a3b3bd1e-379ecfa447eb879d9c3be7e7a0e61272-1782337871-1782327071
+#EXTINF:-1,Star Jalsha
+http://public.sm-monirul.top/STAR.JALSHA.HD/index.m3u8?token=9f627ae6e8f1bb000221e77e298f83021442d1d7-f0d5bd86002c565a402aa4b59ca9d94f-1782337589-1782326789
+
+
+
 
 #EXTINF:-1 tvg-id="172" tvg-name="SRK TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1779607122445.png" group-title="PREMIUM🍭",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
