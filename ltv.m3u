@@ -1,11 +1,6 @@
-
-#EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TW3yQD9/Picsart-23-06-07-11-27-32-538.png" group-title="BANGLADESHI CHANNELS",SOMOY TV
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://cache.devm3u.top/live/playlist.m3u8?channel=somoy
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w457MWk/Picsart-23-06-07-11-22-28-998.png" group-title="BANGLADESHI CHANNELS",BOISHAKHI TV
-#EXTVLCOPT:http-user-agent=DevM3U-Player
 #EXTM3U
+
+
 
 
 
