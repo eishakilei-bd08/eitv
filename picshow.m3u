@@ -853,20 +853,11 @@ http://151.80.18.177:86/ARTE_HD/index.m3u8
 http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
 #EXTINF:-1 ,AB1 HD
 http://151.80.18.177:86/AB1/index.m3u8
-#EXTINF:-1 ,Teva HD
-http://151.80.18.177:86/Teva_HD/index.m3u8
-#EXTINF:-1 ,#EXTINF:-0.RMC DECOUVERDE
-http://151.80.18.177:86/RMC_Decouverte_HD/index.m3u8
-#EXTINF:-1 ,M6 HD
-http://151.80.18.177:86/M6_HD/index.m3u8
 #EXTINF:-1 ,W9 HD
 http://151.80.18.177:86/W9_HD/index.m3u8
 #EXTINF:-1 ,TRACE URBAN
 http://151.80.18.177:86/Trace_Urban_HD/index.m3u8
-#EXTINF:-1 ,D17 CSTAR HD
-http://151.80.18.177:86/D17_HD/index.m3u8
-#EXTINF:-1 ,Disney HD
-http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+
 #EXTINF:-1 ,Tiji HD
 http://151.80.18.177:86/Tiji_HD/index.m3u8
 
