@@ -1800,50 +1800,6 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeeupuk/v1/master/611d79b11b77
 #EXTINF:-1 tvg-id="26" tvg-chno="22" tvg-name="zee-rajasthan-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kvtdmj.png" group-title="News", Zee Rajasthan News
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8
 
-#EXTINF:-1 tvg-id="155" tvg-chno="23" tvg-name="inh-24x7" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gbrcig.png" group-title="News", INH 24X7
-https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8
-
-#EXTINF:-1 tvg-id="128" tvg-chno="24" tvg-name="total-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/total-tv.png" group-title="News", Total TV
-https://d1msejlow1t3l4.cloudfront.net/fta/totaltv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="129" tvg-chno="25" tvg-name="news-1-india" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/eyfyem.png" group-title="News", News 1 India
-https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8
-
-#EXTINF:-1 tvg-id="158" tvg-chno="26" tvg-name="khabrain-abhi-tak" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/qfurxt.png" group-title="News", Khabrain Abhi Tak
-https://d1msejlow1t3l4.cloudfront.net/fta/khabreinabhitak/playlist.m3u8
-
-#EXTINF:-1 tvg-id="159" tvg-chno="27" tvg-name="bharat-samachar" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/edjdac.png" group-title="News", Bharat Samachar
-https://d1msejlow1t3l4.cloudfront.net/fta/bharatsamachar/playlist.m3u8
-
-#EXTINF:-1 tvg-id="151" tvg-chno="28" tvg-name="swaraj-express-smbc" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rwtjzv.png" group-title="News", Swaraj Express SMBC
-https://d1msejlow1t3l4.cloudfront.net/fta/swarajexpresssmbc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="134" tvg-chno="29" tvg-name="india-voice" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/erinhf.png" group-title="News", India Voice
-https://d1msejlow1t3l4.cloudfront.net/fta/indiavoice/playlist.m3u8
-
-#EXTINF:-1 tvg-id="127" tvg-chno="30" tvg-name="jantantra-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xdmemv.png" group-title="News", Jantantra TV
-https://d1msejlow1t3l4.cloudfront.net/fta/jantantratv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="120" tvg-chno="31" tvg-name="jan-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yjsmtt.png" group-title="News", Jan TV
-https://d1msejlow1t3l4.cloudfront.net/fta/jantv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="152" tvg-chno="32" tvg-name="apn-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/chfztu.png" group-title="News", APN News
-https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8
-
-#EXTINF:-1 tvg-id="135" tvg-chno="33" tvg-name="bansal-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bansal-news.png" group-title="News", Bansal News
-https://d1msejlow1t3l4.cloudfront.net/fta/bansalnews/playlist.m3u8
-
-#EXTINF:-1 tvg-id="164" tvg-chno="34" tvg-name="kashish-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kashish-news.png" group-title="News", Kashish News
-https://d1msejlow1t3l4.cloudfront.net/fta/kashishnews/playlist.m3u8
-
-#EXTINF:-1 tvg-id="118" tvg-chno="36" tvg-name="a1-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/a1-tv.png" group-title="News", A1 TV
-https://yuppftalive.akamaized.net/080823/a1tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="157" tvg-chno="35" tvg-name="network-10" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/network-10.png" group-title="News", Network 10
-https://d1msejlow1t3l4.cloudfront.net/fta/network10/playlist.m3u8
-
-#EXTINF:-1 tvg-id="5" tvg-chno="51" tvg-name="zee-business" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gmdzdx.png" group-title="News", Zee Business
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee_business/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/af1b3fa3-f56d-4741-9c63-78409a798988/main.m3u8
 
 #EXTINF:-1 tvg-id="316" tvg-chno="" tvg-name="bharat-24" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bharat-24.png" group-title="News", Bharat 24
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b0039890-a9a4-43ac-8561-ca90871c14fc/index.m3u8
