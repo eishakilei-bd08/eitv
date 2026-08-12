@@ -838,28 +838,7 @@ http://203.81.84.130/hls/mwd_family/index.m3u8
 http://203.81.84.130/hls/mwd_document/index.m3u8
 #EXTINF:-1 group-title="English Movie",KIX
 http://93.184.10.248/MBCBollywood/index.m3u8
-#EXTINF:-1 ,cinemax HD
-http://185.98.211.8:81/cinemax/index.m3u8?token=test
-#EXTINF:-1 ,fightbox
-http://185.98.211.8:81/fightbox/index.m3u8?token=test
-#EXTINF:-1 ,film_plus
-http://185.98.211.8:81/film_plus/index.m3u8?token=test
-#EXTINF:-1 ,history HD
-http://185.98.211.8:81/history/index.m3u8?token=test
-#EXTINF:-1 ,sport2
-http://185.98.211.8:81/sport2/index.m3u8?token=test
-#EXTINF:-1 ,viasat_history HD
-http://185.98.211.8:81/viasat_history/index.m3u8?token=test
-#EXTINF:-1 ,viasat_nature HD
-http://185.98.211.8:81/viasat_nature/index.m3u8?token=test
-#EXTINF:-1 ,hbo2 HD
-http://185.98.211.8:81/hbo2/index.m3u8?token=test
-#EXTINF:-1 ,viasat_explore
-http://185.98.211.8:81/viasat_explore/index.m3u8?token=test
-#EXTINF:-1 ,hbo3 HD
-http://185.98.211.8:81/hbo3/index.m3u8?token=test
-#EXTINF:-1 ,spektrum HD
-http://185.98.211.8:81/spektrum/index.m3u8?token=test
+
 #EXTINF:-1 ,France 5 HD
 http://151.80.18.177:86/France_5_HD/index.m3u8
 #EXTINF:-1 ,Canal+ HD
@@ -890,64 +869,7 @@ http://151.80.18.177:86/D17_HD/index.m3u8
 http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
 #EXTINF:-1 ,Tiji HD
 http://151.80.18.177:86/Tiji_HD/index.m3u8
-#EXTINF:-1 ,HRT 1
-http://23.88.66.93/HRT_1/index.m3u8
-#EXTINF:-1 ,HRT 2
-http://23.88.66.93/HRT_2/index.m3u8
-#EXTINF:-1 ,HRT 3
-http://23.88.66.93/HRT_3/index.m3u8
-#EXTINF:-1 ,HRT 4
-http://23.88.66.93/HRT_4/index.m3u8
-#EXTINF:-1 ,PTPC
-http://23.88.66.93//RTRS/index.m3u8
-#EXTINF:-1 ,PTC 1
-http://23.88.66.93/RTS_1/index.m3u8
-#EXTINF:-1 ,PTC
-http://23.88.66.93/RTS_2/index.m3u8
-#EXTINF:-1 ,PTC 3
-http://23.88.66.93/RTS_3/index.m3u8
-#EXTINF:-1 ,OBN
-http://23.88.66.93/OBN/index.m3u8
-#EXTINF:-1 ,RTL 2
-http://23.88.66.93/RTL_2/index.m3u8
-#EXTINF:-1 ,RTK 1
-http://23.88.66.93/RTK_1/index.m3u8
-#EXTINF:-1 ,HBO
-http://23.88.66.93/HBO/index.m3u8
-#EXTINF:-1 ,HBO 2
-http://23.88.66.93/HBO_2/index.m3u8
-#EXTINF:-1 ,HBO 3
-http://23.88.66.93/HBO_3/index.m3u8
-#EXTINF:-1 ,Cinemax
-http://23.88.66.93/Cinemax/index.m3u8
-#EXTINF:-1 ,Cinemax 2
-http://23.88.66.93/Cinemax_2/index.m3u8
-#EXTINF:-1 ,Pink Film
-http://23.88.66.93/Pink_Film/index.m3u8
-#EXTINF:-1 ,Pink Serije
-http://23.88.66.93/Pink_Serije/index.m3u8
-#EXTINF:-1 ,Discovery HD
-http://23.88.66.93/Discovery/index.m3u8
-#EXTINF:-1 ,Minimax
-http://23.88.66.93/Minimax/index.m3u8
-#EXTINF:-1 ,Star Crime
-http://23.88.66.93/Fox_Crime/index.m3u8
-#EXTINF:-1 ,Fox_Life HD
-http://23.88.66.93/Fox_Life/index.m3u8
-#EXTINF:-1 ,Fox HD
-http://23.88.66.93/Fox/index.m3u8
-#EXTINF:-1 ,Cinemania HD
-http://23.88.66.93/Cinemania/index.m3u8
-#EXTINF:-1 ,ARD HD
-http://23.88.66.93/ARD/index.m3u8
-#EXTINF:-1 ,ZDF HD
-http://23.88.66.93/ZDF/index.m3u8
-#EXTINF:-1 ,HAYAT HD
-http://23.88.66.93/HAYAT/index.m3u8
-#EXTINF:-1 ,Face HD
-http://23.88.66.93/Face/index.m3u8
-#EXTINF:-1 ,VOX HD
-http://23.88.66.93/VOX/index.m3u8
+
 #EXTINF:-1 tvg-id="abps1" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/10_tv.png",10 TV
 https://ms4.alliancebroadband.in/media_10_tv.m3u8
 
