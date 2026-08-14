@@ -46,18 +46,16 @@ http://116.204.149.16/globaltv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sangeet-bangla.png" group-title="ETV🍁",Sangeet Bangla
 http://103.175.73.12:8080/live/379/379_0.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="DangalTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LOGO_HD/image.png" group-title="India",Dangal TV                      
+#EXTINF:-1 tvg-id="DangalTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LOGO_HD/image.png" group-title="ETV🍁",Dangal TV                      
 http://103.175.73.12:8080/live/17/17_0.m3u8
-
-
+#EXTINF:-1 tvg-id="Dangal2.in@SD" tvg-logo="https://i.imgur.com/BEr1r7L.png" group-title="ETV🍁",Dangal 2
 http://103.175.73.12:8080/live/18/18_0.m3u8
-#EXTINF:-1 tvg-id="DDAssam.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142777_ld_h15_aa.png?lock=720x540" group-title="India",DD Assam
+#EXTINF:-1 tvg-id="DDAssam.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142777_ld_h15_aa.png?lock=720x540" group-title="ETV🍁",DD Assam
 http://103.175.73.12:8080/live/15/15_0.m3u8
+
+
+
+
 
 
 
