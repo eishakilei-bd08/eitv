@@ -24,7 +24,6 @@ http://116.204.149.16/globaltv/index.m3u8
 
 
 
-EXTM3U
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 379
 http://103.175.73.12:8080/live/379/379_0.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 15
