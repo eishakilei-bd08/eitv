@@ -70,7 +70,7 @@ http://103.175.73.12:8080/live/47/47_0.m3u8
 http://103.175.73.12:8080/live/270/270_0.m3u8
 
 
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 43
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13nLvxQx /20250630_050504.png" group-title="ETV🍁",B4U Movie
 http://103.175.73.12:8080/live/43/43_0.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 44
 http://103.175.73.12:8080/live/44/44_0.m3u8
