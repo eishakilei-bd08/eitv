@@ -51,16 +51,19 @@ http://103.175.73.12:8080/live/379/379_0.m3u8
 
 
 
-
-
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 15
-http://103.175.73.12:8080/live/15/15_0.m3u8
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 17
+#EXTINF:-1 tvg-id="DangalTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LOGO_HD/image.png" group-title="India",Dangal TV                      
 http://103.175.73.12:8080/live/17/17_0.m3u8
+
+
+http://103.175.73.12:8080/live/18/18_0.m3u8
+#EXTINF:-1 tvg-id="DDAssam.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142777_ld_h15_aa.png?lock=720x540" group-title="India",DD Assam
+http://103.175.73.12:8080/live/15/15_0.m3u8
+
+
+
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 19
 http://103.175.73.12:8080/live/19/19_0.m3u8
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 18
-http://103.175.73.12:8080/live/18/18_0.m3u8
+
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 13
 http://103.175.73.12:8080/live/13/13_0.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 25
