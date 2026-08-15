@@ -60,7 +60,8 @@ http://103.175.73.12:8080/live/19/19_0.m3u8
 http://103.175.73.12:8080/live/47/47_0.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="ETV🍁",Goldmines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="ETV🍁",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13nLvxQx /20250630_050504.png" group-title="ETV🍁",B4U Movie
