@@ -76,6 +76,8 @@ http://103.175.73.12:8080/live/44/44_0.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="ETV🍁",Music India
+http://103.175.73.12:8080/live/158/158_0.m3u8
 
 
 
@@ -135,8 +137,7 @@ http://103.175.73.12:8080/live/181/181_0.m3u8
 http://103.175.73.12:8080/live/176/176_0.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 257
 http://103.175.73.12:8080/live/257/257_0.m3u8
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 258
-http://103.175.73.12:8080/live/258/258_0.m3u8
+
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 256
 http://103.175.73.12:8080/live/256/256_0.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 180
