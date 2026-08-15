@@ -149,10 +149,13 @@ https://cdn-1.pishow.tv/live/1011/master.m3u8
 
 
 
+#EXTINF:-1 tvg-id="TheQIndia.us@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144002_ld_h15_aa.png?lock=720x540" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="ETV🍁",The Q India     
+http://103.175.73.12:8080/live/25/25_0.m3u8
+
+
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 13
 http://103.175.73.12:8080/live/13/13_0.m3u8
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 25
-http://103.175.73.12:8080/live/25/25_0.m3u8
+
 
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 29
 http://103.175.73.12:8080/live/29/29_0.m3u8
