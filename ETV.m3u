@@ -37,7 +37,8 @@ http://116.204.149.16/globaltv/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="UltimateTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/utvtamil.png" group-title="ETV🍁",Ultimate TV 
+https://stream.ottlive.co.in/utvtamil/index.m3u8
 
 #EXTINF:-1 tvg-id="DangalTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LOGO_HD/image.png" group-title="ETV🍁",Dangal TV                      
 http://103.175.73.12:8080/live/17/17_0.m3u8
