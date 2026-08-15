@@ -83,7 +83,8 @@ http://103.175.73.12:8080/live/44/44_0.m3u8
 http://103.175.73.12:8080/live/174/174_0.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/b4u-music.png" group-title="PRO✅",B4U Music🌀
+http://103.175.73.12:8080/live/157/157_0.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9xm.png" group-title="ETV🍁",9XM🌀
 https://wiselp.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9x-tashan.png" group-title="ETV🍁",9X Tashan🌀
@@ -120,8 +121,8 @@ http://103.175.73.12:8080/live/239/master.m3u8
 https://cdn-3.pishow.tv/live/441/master.m3u8
 #EXTINF:-1 tvg-id="PunjabiHits.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143691_ld_h15_aa.png?lock=720x540" group-title="ETV🍁",Punjabi Hits
 https://stream.ottlive.co.in/punjabihits/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/b4u-music.png" group-title="ETV🍁",B4U Music🌀
+https://cdn-2.pishow.tv/live/415/master.m3u8
 
 
 
@@ -181,12 +182,6 @@ http://103.175.73.12:8080/live/29/29_0.m3u8
 
 
 
-
-
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 158
-http://103.175.73.12:8080/live/158/158_0.m3u8
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 157
-http://103.175.73.12:8080/live/157/157_0.m3u8
 
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 143
 http://103.175.73.12:8080/live/143/143_0.m3u8
