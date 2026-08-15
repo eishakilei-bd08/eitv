@@ -160,7 +160,10 @@ http://103.175.73.12:8080/live/469/469_0.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zoom.png" group-title="ETV🍁",ZOOM🌀
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 
-
+#EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 352
+http://103.175.73.12:8080/live/352/352_0.m3u8
+#EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 349
+http://103.175.73.12:8080/live/349/349_0.m3u8
 
 #EXTINF:-1 tvg-id="RupasiBangla.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143733_ld_h15_aa.png?lock=720x540" group-title="ETV🍁",Rupasi Bangla
 https://cdn-4.pishow.tv/live/1039/master.m3u8
@@ -253,14 +256,10 @@ http://103.175.73.12:8080/live/280/280_0.m3u8
 
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 332
 http://103.175.73.12:8080/live/332/332_0.m3u8
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 352
-http://103.175.73.12:8080/live/352/352_0.m3u8
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 349
-http://103.175.73.12:8080/live/349/349_0.m3u8
+
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 331
 http://103.175.73.12:8080/live/331/331_0.m3u8
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 354
-http://103.175.73.12:8080/live/354/354_0.m3u8
+
 
 
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 416
