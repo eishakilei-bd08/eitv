@@ -72,6 +72,9 @@ http://103.175.73.12:8080/live/54/54_0.m3u8
 http://103.175.73.12:8080/live/51/51_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="ETV🍁",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="ShemarooTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_TV/images/LOGO_HD/image.png" group-title="ETV🍁",Shemaroo TV
+https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13nLvxQx /20250630_050504.png" group-title="ETV🍁",B4U Movie
 http://103.175.73.12:8080/live/43/43_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13nLvxQx /20250630_050504.png" group-title="ETV🍁",B4U Music 
