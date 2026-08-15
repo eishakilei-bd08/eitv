@@ -288,6 +288,8 @@ http://103.175.73.12:8080/live/695/695_0.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 673
 http://103.175.73.12:8080/live/673/673_0.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 471
+
+#EXTINF:-1 group-title="ETV🍁" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LOGO_HD/image.png",Epic
 http://103.175.73.12:8080/live/471/471_0.m3u8
 
 
