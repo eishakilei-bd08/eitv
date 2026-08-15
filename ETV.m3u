@@ -220,8 +220,6 @@ https://cdn-1.pishow.tv/live/1011/master.m3u8
 http://103.175.73.12:8080/live/25/25_0.m3u8
 
 
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 13
-http://103.175.73.12:8080/live/13/13_0.m3u8
 
 
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 29
@@ -264,8 +262,7 @@ http://103.175.73.12:8080/live/349/349_0.m3u8
 http://103.175.73.12:8080/live/331/331_0.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 354
 http://103.175.73.12:8080/live/354/354_0.m3u8
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 378
-http://103.175.73.12:8080/live/378/378_0.m3u8
+
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 375
 http://103.175.73.12:8080/live/375/375_0.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel 416
