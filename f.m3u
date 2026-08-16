@@ -24,19 +24,9 @@ https://s1.itcnbd.live/T-Sports-HD/index.m3u8
 
 #EXTINF:-1 tvg-name="PTV Sports" tvg-logo="https://itcnbd.live/images/6a4fca753fa36.png" group-title="💢Fast💢",PTV Sports
 https://s1.itcnbd.live/PTV-Sports/index.m3u8
-#EXTINF:-1 tvg-name="Nick" tvg-logo="https://itcnbd.live/images/029be469bbb6e177e8038ddc3aa5b3f9.png" group-title="Cartoon",Nick
-https://s1.itcnbd.live/nick/index.m3u8
-#EXTINF:-1 tvg-name="Disney D" tvg-logo="https://itcnbd.live/images/6a550c13896f2.png" group-title="Cartoon",Disney D
-https://s1.itcnbd.live/Disney-D/index.m3u8
-#EXTINF:-1 tvg-name="BAL BHARAT" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvQkFMJTIwQkhBUkFUMTc0NTA0MTU3Ni5wbmc" group-title="Cartoon",BAL BHARAT
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NTA.m3u8
-#EXTINF:-1 tvg-name="BuddyStar HD" tvg-logo="https://s2.itcnbd.live/server-1/image/aHR0cHM6Ly90c3RhdGljLmFrYXNoLWdvLmNvbS9jbXMtdWkvaW1hZ2VzL2N1c3RvbS1jb250ZW50LzE3NzAzNzkwMzg1MzAucG5n" group-title="Cartoon",BuddyStar HD
-https://s2.itcnbd.live/server-1/stream/buddystar.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://images.toffeelive.com/images/program/27232/logo/240x240/mobile_logo_320294001679201065.png" group-title="Cartoon",Cartoon Network
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://images.toffeelive.com/images/program/27232/logo/240x240/mobile_logo_320294001679201065.png" group-title="💢Fast💢",Cartoon Network
 https://s2.itcnbd.live/server-2/stream/cartoon_network_sd.m3u8
-#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvQ0FSVE9PTiUyME5FVFdPUksxNzQ1MDMzNDE0LnBuZw" group-title="Cartoon",CARTOON NETWORK
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09OA.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network HD" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png" group-title="Cartoon",Cartoon Network HD
+#EXTINF:-1 tvg-name="Cartoon Network HD" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png" group-title="💢Fast💢",Cartoon Network HD
 https://s2.itcnbd.live/server-2/stream/cartoon_network_hd.m3u8
 #EXTINF:-1 tvg-name="Discovery Kids" tvg-logo="https://images.toffeelive.com/images/program/611/logo/240x240/mobile_logo_430542001673177743.png" group-title="Cartoon",Discovery Kids
 https://s2.itcnbd.live/server-2/stream/discovery_kids.m3u8
