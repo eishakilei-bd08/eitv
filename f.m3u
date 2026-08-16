@@ -163,24 +163,7 @@ https://s2.itcnbd.live/server-2/stream/discovery_turbo.m3u8
 
 #EXTINF:-1 tvg-name="Investigation Discovery HD" tvg-logo="https://images.toffeelive.com/images/program/18094/logo/240x240/mobile_logo_154805001673178308.png" group-title="English",Investigation Discovery HD
 https://s2.itcnbd.live/server-2/stream/discovary_investigation_hd.m3u8
-#EXTINF:-1 tvg-name="LOTUS TV" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvTE9UVVMlMjBUVjE3NDUwNDQ5NjAucG5n" group-title="English",LOTUS TV
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09OTE.m3u8
-#EXTINF:-1 tvg-name="LOVE NATURE" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvTE9WRSUyME5BVFVSRTE3NDUwNDMzNzAucG5n" group-title="English",LOVE NATURE
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Njc.m3u8
-#EXTINF:-1 tvg-name="Luxel HD" tvg-logo="https://s2.itcnbd.live/server-1/image/aHR0cHM6Ly90c3RhdGljLmFrYXNoLWdvLmNvbS9jbXMtdWkvaW1hZ2VzL2N1c3RvbS1jb250ZW50LzE3NzAzNzg1NjA3NzIucG5n" group-title="English",Luxel HD
-https://s2.itcnbd.live/server-1/stream/luxell.m3u8
-#EXTINF:-1 tvg-name="MN PLUS" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvTU4lMjBQTFVTMTc0NTA0MDA1Ny5wbmc" group-title="English",MN PLUS
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MzY.m3u8
-#EXTINF:-1 tvg-name="MNX HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvTU5YJTIwSEQxNzQ1MDM5OTU1LnBuZw" group-title="English",MNX HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MzM.m3u8
-#EXTINF:-1 tvg-name="MOVIES NOW HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvTU9WSUVTJTIwTk9XJTIwSEQxNzQ1MDQwMzY4LnBuZw" group-title="English",MOVIES NOW HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Mzk.m3u8
-#EXTINF:-1 tvg-name="NATGEO HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvTkFUR0VPJTIwSEQxNzQ1MDM4NjM0LnBuZw" group-title="English",NATGEO HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MjU.m3u8
-#EXTINF:-1 tvg-name="NATGEO WILD HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvTkFUR0VPJTIwV0lMRCUyMEhEMTc0NTAzODU0Mi5wbmc" group-title="English",NATGEO WILD HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MjM.m3u8
-#EXTINF:-1 tvg-name="ROMEDY NOW" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvUk9NRURZJTIwTk9XMTc0NTAzOTk4OC5wbmc" group-title="English",ROMEDY NOW
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MzQ.m3u8
+
 #EXTINF:-1 tvg-name="SONY BBC EARTH HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvU09OWSUyMEJCQyUyMEVBUlRIJTIwSEQxNzQ1MDMxNTIyLnBuZw" group-title="English",SONY BBC EARTH HD
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Ng.m3u8
 #EXTINF:-1 tvg-name="SONY BBC EARTH HD VIP" tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_892290001738663264.png" group-title="English",SONY BBC EARTH HD VIP
