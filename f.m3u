@@ -160,12 +160,7 @@ https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MjI.m3u8
 https://s2.itcnbd.live/server-2/stream/discovery_science.m3u8
 #EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png" group-title="English",Discovery Turbo
 https://s2.itcnbd.live/server-2/stream/discovery_turbo.m3u8
-#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvSEJPJTIwSEQxNzQ1MDQ1MjAyLnBuZw" group-title="English",HBO HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09OTg.m3u8
-#EXTINF:-1 tvg-name="HISTORY TV HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvSElTVE9SWSUyMFRWJTIwSEQxNzQ1MDMzNjc5LnBuZw" group-title="English",HISTORY TV HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTU.m3u8
-#EXTINF:-1 tvg-name="HITZ MUSIC" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvSElUWiUyME1VU0lDMTc0NTA0MzQ3OC5wbmc" group-title="English",HITZ MUSIC
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NzA.m3u8
+
 #EXTINF:-1 tvg-name="Investigation Discovery HD" tvg-logo="https://images.toffeelive.com/images/program/18094/logo/240x240/mobile_logo_154805001673178308.png" group-title="English",Investigation Discovery HD
 https://s2.itcnbd.live/server-2/stream/discovary_investigation_hd.m3u8
 #EXTINF:-1 tvg-name="LOTUS TV" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvTE9UVVMlMjBUVjE3NDUwNDQ5NjAucG5n" group-title="English",LOTUS TV
