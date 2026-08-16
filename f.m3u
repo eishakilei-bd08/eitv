@@ -32,8 +32,6 @@ https://s2.itcnbd.live/server-2/stream/cartoon_network_hd.m3u8
 https://s2.itcnbd.live/server-2/stream/discovery_kids.m3u8
 #EXTINF:-1 tvg-name="Pogo" tvg-logo="https://images.toffeelive.com/images/program/27159/logo/240x240/mobile_logo_740957001679201029.png" group-title="💢Fast💢",Pogo
 https://s2.itcnbd.live/server-2/stream/pogo_sd.m3u8
-#EXTINF:-1 tvg-name="POGO" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvUE9HTzE3NDUwNDE1MTUucG5n" group-title="💢Fast💢",POGO
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDg.m3u8
 #EXTINF:-1 tvg-name="SONY YAY VIP" tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" group-title="💢Fast💢",SONY YAY
 https://s2.itcnbd.live/server-2/stream/sonyyay.m3u8
 
