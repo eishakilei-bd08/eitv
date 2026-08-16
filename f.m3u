@@ -28,29 +28,11 @@ https://s1.itcnbd.live/PTV-Sports/index.m3u8
 https://s2.itcnbd.live/server-2/stream/cartoon_network_sd.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network HD" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png" group-title="💢Fast💢",Cartoon Network HD
 https://s2.itcnbd.live/server-2/stream/cartoon_network_hd.m3u8
-#EXTINF:-1 tvg-name="Discovery Kids" tvg-logo="https://images.toffeelive.com/images/program/611/logo/240x240/mobile_logo_430542001673177743.png" group-title="Cartoon",Discovery Kids
+#EXTINF:-1 tvg-name="Discovery Kids" tvg-logo="https://images.toffeelive.com/images/program/611/logo/240x240/mobile_logo_430542001673177743.png" group-title="💢Fast💢",Discovery Kids
 https://s2.itcnbd.live/server-2/stream/discovery_kids.m3u8
-#EXTINF:-1 tvg-name="DURANTA TV" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvRFVSQU5UQSUyMFRWMTc0NTA0MzQwMC5wbmc" group-title="Cartoon",DURANTA TV
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Njg.m3u8
-#EXTINF:-1 tvg-name="Funny Junior HD" tvg-logo="https://s2.itcnbd.live/server-1/image/aHR0cHM6Ly90c3RhdGljLmFrYXNoLWdvLmNvbS9jbXMtdWkvaW1hZ2VzL2N1c3RvbS1jb250ZW50LzE3NzAzNzk1NzMzMjkucG5n" group-title="Cartoon",Funny Junior HD
-https://s2.itcnbd.live/server-1/stream/funnyjunior.m3u8
-#EXTINF:-1 tvg-name="HUNGAMA" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvSFVOR0FNQTE3NDUwNDE1NTEucG5n" group-title="Cartoon",HUNGAMA
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDk.m3u8
-#EXTINF:-1 tvg-name="Joy" tvg-logo="https://s2.itcnbd.live/server-1/image/aHR0cHM6Ly90c3RhdGljLmFrYXNoLWdvLmNvbS9jbXMtdWkvaW1hZ2VzL2N1c3RvbS1jb250ZW50LzE3NzAzNzg4NzQ3MTcucG5n" group-title="Cartoon",Joy
-https://s2.itcnbd.live/server-1/stream/joy.m3u8
-#EXTINF:-1 tvg-name="Kids Stars" tvg-logo="https://s2.itcnbd.live/server-1/image/aHR0cHM6Ly90c3RhdGljLmFrYXNoLWdvLmNvbS9jbXMtdWkvaW1hZ2VzL2N1c3RvbS1jb250ZW50LzE3NzAzODEzOTgwOTAucG5n" group-title="Cartoon",Kids Stars
-https://s2.itcnbd.live/server-1/stream/kidsstars.m3u8
-#EXTINF:-1 tvg-name="Lucky Family" tvg-logo="https://s2.itcnbd.live/server-1/image/aHR0cHM6Ly90c3RhdGljLmFrYXNoLWdvLmNvbS9jbXMtdWkvaW1hZ2VzL2N1c3RvbS1jb250ZW50LzE3NzAzODEyNDg1MzEucG5n" group-title="Cartoon",Lucky Family
-https://s2.itcnbd.live/server-1/stream/luckyfamily.m3u8
-#EXTINF:-1 tvg-name="NICK" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvTklDSzE3NDUwNDE0NTEucG5n" group-title="Cartoon",NICK
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDY.m3u8
-#EXTINF:-1 tvg-name="NICK JR" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvTklDSyUyMEpSMTc0NTA0MjM5Ny5wbmc" group-title="Cartoon",NICK JR
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NTE.m3u8
-#EXTINF:-1 tvg-name="Nikki" tvg-logo="https://s2.itcnbd.live/server-1/image/aHR0cHM6Ly90c3RhdGljLmFrYXNoLWdvLmNvbS9jbXMtdWkvaW1hZ2VzL2N1c3RvbS1jb250ZW50LzE3NzAzNzg3MDQ5MjMucG5n" group-title="Cartoon",Nikki
-https://s2.itcnbd.live/server-1/stream/nikky.m3u8
-#EXTINF:-1 tvg-name="Pogo" tvg-logo="https://images.toffeelive.com/images/program/27159/logo/240x240/mobile_logo_740957001679201029.png" group-title="Cartoon",Pogo
+#EXTINF:-1 tvg-name="Pogo" tvg-logo="https://images.toffeelive.com/images/program/27159/logo/240x240/mobile_logo_740957001679201029.png" group-title="💢Fast💢",Pogo
 https://s2.itcnbd.live/server-2/stream/pogo_sd.m3u8
-#EXTINF:-1 tvg-name="POGO" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvUE9HTzE3NDUwNDE1MTUucG5n" group-title="Cartoon",POGO
+#EXTINF:-1 tvg-name="POGO" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvUE9HTzE3NDUwNDE1MTUucG5n" group-title="💢Fast💢",POGO
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDg.m3u8
 #EXTINF:-1 tvg-name="Smarty" tvg-logo="https://s2.itcnbd.live/server-1/image/aHR0cHM6Ly90c3RhdGljLmFrYXNoLWdvLmNvbS9jbXMtdWkvaW1hZ2VzL2N1c3RvbS1jb250ZW50LzE3NzAzODExMDc5MjQucG5n" group-title="Cartoon",Smarty
 https://s2.itcnbd.live/server-1/stream/smarty.m3u8
