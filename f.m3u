@@ -188,42 +188,6 @@ https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Mzc.m3u8
 https://s2.itcnbd.live/server-2/stream/toffee_drama.m3u8
 #EXTINF:-1 tvg-name="TOFFEE Movies VIP" tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png" group-title="Live",TOFFEE Movies VIP
 https://s2.itcnbd.live/server-2/stream/toffee_movie.m3u8
-#EXTINF:-1 tvg-name="TOFFEE Sports VIP" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png" group-title="Live",TOFFEE Sports VIP
-https://s2.itcnbd.live/server-2/stream/sports_highlights.m3u8
-#EXTINF:-1 tvg-name="AND PICTURS HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvQU5EJTIwUElDVFVSUyUyMEhEMTc0NTAzMTQ0MC5wbmc" group-title="Hindi",AND PICTURS HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NQ.m3u8
-#EXTINF:-1 tvg-name="COLORS CINEPLEX HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvQ09MT1JTJTIwQ0lORVBMRVglMjBIRDE3NDUwMzM1MTkucG5n" group-title="Hindi",COLORS CINEPLEX HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTA.m3u8
-#EXTINF:-1 tvg-name="COLORS HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvQ09MT1JTJTIwSEQxNzQ1MDMxNDA0LnBuZw" group-title="Hindi",COLORS HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NA.m3u8
-#EXTINF:-1 tvg-name="GEO NEWS HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvR0VPJTIwTkVXUyUyMEhEMTc0NTA0NDg5Mi5wbmc" group-title="Hindi",GEO NEWS HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09OTA.m3u8
-#EXTINF:-1 tvg-name="HUM TV" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvSFVNJTIwVFYxNzQ1MDQ0ODM3LnBuZw" group-title="Hindi",HUM TV
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09ODk.m3u8
-#EXTINF:-1 tvg-name="SONY ENT HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvU09OWSUyMEVOVCUyMEhEMTc0NTAzMzU1My5wbmc" group-title="Hindi",SONY ENT HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTE.m3u8
-#EXTINF:-1 tvg-name="SONY MAX HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvU09OWSUyME1BWCUyMEhEMTc0NTAzNDA2OS5wbmc" group-title="Hindi",SONY MAX HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MjE.m3u8
-#EXTINF:-1 tvg-name="STAR BHARAT HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvU1RBUiUyMEJIQVJBVCUyMEhEMTc0NTA0NTI1NS5wbmc" group-title="Hindi",STAR BHARAT HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTAw.m3u8
-#EXTINF:-1 tvg-name="STAR GOLD 2 HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvU1RBUiUyMEdPTEQlMjAyJTIwSEQxNzQ1MDQzNDQxLnBuZw" group-title="Hindi",STAR GOLD 2 HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Njk.m3u8
-#EXTINF:-1 tvg-name="STAR GOLD HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvU1RBUiUyMEdPTEQlMjBIRDE3NDUwMzQwMzcucG5n" group-title="Hindi",STAR GOLD HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MjA.m3u8
-#EXTINF:-1 tvg-name="STAR GOLD SELECT HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvU1RBUiUyMEdPTEQlMjBTRUxFQ1QlMjBIRDE3NDUwNDM1MDgucG5n" group-title="Hindi",STAR GOLD SELECT HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NzE.m3u8
-#EXTINF:-1 tvg-name="STAR PLUS HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvU1RBUiUyMFBMVVMlMjBIRDE3NDUwMzg1NzcucG5n" group-title="Hindi",STAR PLUS HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MjQ.m3u8
-#EXTINF:-1 tvg-name="ZEE CINEMA HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvWkVFJTIwQ0lORU1BJTIwSEQxNzQ1MDMzNjAyLnBuZw" group-title="Hindi",ZEE CINEMA HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTM.m3u8
-#EXTINF:-1 tvg-name="ZEE TV HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvWkVFJTIwVFYlMjBIRDE3NDUwMzMzODMucG5n" group-title="Hindi",ZEE TV HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Nw.m3u8
-#EXTINF:-1 tvg-name="ZING" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvWklORzE3NDUwNDI3MTgucG5n" group-title="Hindi",ZING
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NTM.m3u8
-#EXTINF:-1 tvg-name="ZOOM" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvWk9PTTE3NDUwNDA5NjEucG5n" group-title="Hindi",ZOOM
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDI.m3u8
-
-
 
 
 #EXTINF:-1,G-Serise
