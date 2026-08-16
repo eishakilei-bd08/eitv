@@ -66,13 +66,9 @@ https://s2.itcnbd.live/server-2/stream/mohona_tv.m3u8
 https://s2.itcnbd.live/server-2/stream/movie_bangla.m3u8
 #EXTINF:-1 tvg-name="Nexus TV" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/FHz5PJwBcqxnFHJBdAqW/posters/419869ac-8ddf-4909-86c1-b69f0a3adf13.png" group-title="💢Fast💢",Nexus TV
 https://s2.itcnbd.live/server-2/stream/nexus_tv.m3u8
-#EXTINF:-1 tvg-name="Rajdhani TV" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/KECGB54BuUSiBsg_dHyj/posters/d032f456-c7e8-4fd4-928b-ea5359960ed7.png" group-title="Bangla",Rajdhani TV
+#EXTINF:-1 tvg-name="Rajdhani TV" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/KECGB54BuUSiBsg_dHyj/posters/d032f456-c7e8-4fd4-928b-ea5359960ed7.png" group-title="💢Fast💢",Rajdhani TV
 https://s2.itcnbd.live/server-2/stream/rajdhani_tv.m3u8
-#EXTINF:-1 tvg-name="SOMOY TV" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvU09NT1klMjBUVjE3NDUwNDQxNDkucG5n" group-title="Bangla",SOMOY TV
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Nzk.m3u8
-#EXTINF:-1 tvg-name="SONY AAT" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvU09OWSUyMEFBVDE3NDUwNDExMjQucG5n" group-title="Bangla",SONY AAT
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDQ.m3u8
-#EXTINF:-1 tvg-name="SRK TV" tvg-logo="https://s2.itcnbd.live/server-1/image/aHR0cHM6Ly90c3RhdGljLmFrYXNoLWdvLmNvbS9jbXMtdWkvaW1hZ2VzL2N1c3RvbS1jb250ZW50LzE3NDYwMDU5NDAxNTUucG5n" group-title="Bangla",SRK TV
+#EXTINF:-1 tvg-name="SRK TV" tvg-logo="https://s2.itcnbd.live/server-1/image/aHR0cHM6Ly90c3RhdGljLmFrYXNoLWdvLmNvbS9jbXMtdWkvaW1hZ2VzL2N1c3RvbS1jb250ZW50LzE3NDYwMDU5NDAxNTUucG5n" group-title="💢Fast💢",SRK TV
 https://s2.itcnbd.live/server-1/stream/srktv.stream.m3u8
 #EXTINF:-1 tvg-name="STAR JALSHA HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvU1RBUiUyMEpBTFNIQSUyMEhEMTc0NTAzMzgxOS5wbmc" group-title="Bangla",STAR JALSHA HD
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTg.m3u8
