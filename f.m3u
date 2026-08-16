@@ -36,42 +36,27 @@ https://s2.itcnbd.live/server-2/stream/pogo_sd.m3u8
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDg.m3u8
 #EXTINF:-1 tvg-name="SONY YAY VIP" tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" group-title="💢Fast💢",SONY YAY
 https://s2.itcnbd.live/server-2/stream/sonyyay.m3u8
-#EXTINF:-1 tvg-name="SUPER HUNGAMA" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvU1VQRVIlMjBIVU5HQU1BMTc0NTA0NDAyMi5wbmc" group-title="Cartoon",SUPER HUNGAMA
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NzU.m3u8
-#EXTINF:-1 tvg-name="Fon Music" tvg-logo="https://itcnbd.live/images/6a4ff53728846.jpg" group-title="Music",Fon Music
+
+#EXTINF:-1 tvg-name="Fon Music" tvg-logo="https://itcnbd.live/images/6a4ff53728846.jpg" group-title="💢Fast💢",Fon Music
 https://s1.itcnbd.live/fon-music/index.m3u8
-#EXTINF:-1 tvg-name="SangeetBangla" tvg-logo="https://itcnbd.live/images/6a54cded11ead.jpg" group-title="Music",SangeetBangla
+#EXTINF:-1 tvg-name="SangeetBangla" tvg-logo="https://itcnbd.live/images/6a54cded11ead.jpg" group-title="💢Fast💢",SangeetBangla
 https://s1.itcnbd.live/SangeetBangla/index.m3u8
-#EXTINF:-1 tvg-name="Party Universe" tvg-logo="https://s2.itcnbd.live/server-1/image/aHR0cHM6Ly90c3RhdGljLmFrYXNoLWdvLmNvbS9jbXMtdWkvaW1hZ2VzL2N1c3RvbS1jb250ZW50LzE3NzAzNzgyMTUzODQucG5n" group-title="Music",Party Universe
-https://s2.itcnbd.live/server-1/stream/partyuniverse.m3u8
-#EXTINF:-1 tvg-name="IRIB Quran" tvg-logo="https://itcnbd.live/images/6a551e277ab08.jpeg" group-title="Islamic",IRIB Quran
-https://s1.itcnbd.live/IRIB-Quran/index.m3u8
-#EXTINF:-1 tvg-name="MADANI TV HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvTUFEQU5JJTIwVFYlMjBIRDE3NDUwNDQzMDMucG5n" group-title="Islamic",MADANI TV HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09ODM.m3u8
-#EXTINF:-1 tvg-name="PEACE TV BANGLA" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvUEVBQ0UlMjBUViUyMEJBTkdMQTE3NDUwNDQ0ODAucG5n" group-title="Islamic",PEACE TV BANGLA
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09ODY.m3u8
-#EXTINF:-1 tvg-name="Ananda TV" tvg-logo="https://assets-prod.services.toffeelive.com//wCM3l5sBEef-9-uVXFvD/posters/d80f7aee-5bd7-4edc-97eb-ead0e3ebbe09.png" group-title="Bangla",Ananda TV
+
+#EXTINF:-1 tvg-name="Ananda TV" tvg-logo="https://assets-prod.services.toffeelive.com//wCM3l5sBEef-9-uVXFvD/posters/d80f7aee-5bd7-4edc-97eb-ead0e3ebbe09.png" group-title="💢Fast💢",Ananda TV
 https://s2.itcnbd.live/server-2/stream/anandatv.m3u8
-#EXTINF:-1 tvg-name="Asian TV" tvg-logo="https://assets-prod.services.toffeelive.com//MyK__poBEef-9-uVmf5l/posters/1eadef5b-28e7-4dc2-b42f-c67a3357c9a0.png" group-title="Bangla",Asian TV
+#EXTINF:-1 tvg-name="Asian TV" tvg-logo="https://assets-prod.services.toffeelive.com//MyK__poBEef-9-uVmf5l/posters/1eadef5b-28e7-4dc2-b42f-c67a3357c9a0.png" group-title="💢Fast💢",Asian TV
 https://s2.itcnbd.live/server-2/stream/asian_tv.m3u8
 #EXTINF:-1 tvg-name="ATN Bangla" tvg-logo="https://s2.itcnbd.live/server-1/image/aHR0cHM6Ly90c3RhdGljLmFrYXNoLWdvLmNvbS9jbXMtdWkvaW1hZ2VzL2N1c3RvbS1jb250ZW50LzE3NDA1NTM3NDA2NjUucG5n" group-title="Bangla",ATN Bangla
 https://s2.itcnbd.live/server-1/stream/output.m3u8
 #EXTINF:-1 tvg-name="ATN Bangla" tvg-logo="https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/MCLv35oBEef-9-uVH-D2/posters/0d1e571c-ebb2-4277-9814-760a4f1603a6.png" group-title="Bangla",ATN Bangla
 https://s2.itcnbd.live/server-2/stream/atn_bangla.m3u8
-#EXTINF:-1 tvg-name="ATN BANGLA" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvQVROJTIwQkFOR0xBMTc0NTA0NDE4My5wbmc" group-title="Bangla",ATN BANGLA
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09ODA.m3u8
-#EXTINF:-1 tvg-name="ATN NEWS" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvQVROJTIwTkVXUzE3NDUwNDUxMTMucG5n" group-title="Bangla",ATN NEWS
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09OTU.m3u8
-#EXTINF:-1 tvg-name="Bangla TV" tvg-logo="https://assets-prod.services.toffeelive.com//JiK-_poBEef-9-uVZv6L/posters/757a328e-70d6-45de-b093-0a843c69ade7.png" group-title="Bangla",Bangla TV
+#EXTINF:-1 tvg-name="Bangla TV" tvg-logo="https://assets-prod.services.toffeelive.com//JiK-_poBEef-9-uVZv6L/posters/757a328e-70d6-45de-b093-0a843c69ade7.png" group-title="💢Fast💢",Bangla TV
 https://s2.itcnbd.live/server-2/stream/bangla_tv.m3u8
-#EXTINF:-1 tvg-name="Bijoy TV" tvg-logo="https://assets-prod.services.toffeelive.com//bns4l5sBcqxnFHJBVZ32/posters/feaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.png" group-title="Bangla",Bijoy TV
+#EXTINF:-1 tvg-name="Bijoy TV" tvg-logo="https://assets-prod.services.toffeelive.com//bns4l5sBcqxnFHJBVZ32/posters/feaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.png" group-title="💢Fast💢",Bijoy TV
 https://s2.itcnbd.live/server-2/stream/bijoytv.m3u8
-#EXTINF:-1 tvg-name="CHANNEL 24" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvQ0hBTk5FTCUyMDI0MTc0NTA0NDI2My5wbmc" group-title="Bangla",CHANNEL 24
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09ODI.m3u8
-#EXTINF:-1 tvg-name="Channel i" tvg-logo="https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/qnv835oBcqxnFHJBuQcB/posters/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png" group-title="Bangla",Channel i
+
+#EXTINF:-1 tvg-name="Channel i" tvg-logo="https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/qnv835oBcqxnFHJBuQcB/posters/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png" group-title="💢Fast💢",Channel i
 https://s2.itcnbd.live/server-2/stream/channel_i.m3u8
-#EXTINF:-1 tvg-name="CHANNEL I" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvQ0hBTk5FTCUyMEkxNzQ1MDQ0MjM3LnBuZw" group-title="Bangla",CHANNEL I
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09ODE.m3u8
 #EXTINF:-1 tvg-name="Channel S" tvg-logo="https://assets-prod.services.toffeelive.com//WyPuDJsBEef-9-uVUA_z/posters/ea20055c-a824-443c-8083-ce8e2da8b922.png" group-title="Bangla",Channel S
 https://s2.itcnbd.live/server-2/stream/channel_s.m3u8
 #EXTINF:-1 tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvQ09MT1JTJTIwQkFOR0xBJTIwQ0lORU1BMTc0NTA0MTQ4Ni5wbmc" group-title="Bangla",COLORS BANGLA CINEMA
