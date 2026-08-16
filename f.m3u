@@ -79,32 +79,7 @@ https://s2.itcnbd.live/server-2/stream/sony_sports_2_hd.m3u8
 https://s2.itcnbd.live/server-2/stream/sony_sports_5_hd.m3u8
 #EXTINF:-1 tvg-name="SONY TEN Cricket" tvg-logo="https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png" group-title="💢Fast💢",SONY TEN Cricket
 https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
-#EXTINF:-1 tvg-name="Sports Legends" tvg-logo="https://s2.itcnbd.live/server-1/image/aHR0cHM6Ly90c3RhdGljLmFrYXNoLWdvLmNvbS9jbXMtdWkvaW1hZ2VzL2N1c3RvbS1jb250ZW50LzE3NzAzNzc5MDAxMzkucG5n" group-title="Sports",Sports Legends
-https://s2.itcnbd.live/server-1/stream/sportslegends.m3u8
-#EXTINF:-1 tvg-name="Sports Range" tvg-logo="https://s2.itcnbd.live/server-1/image/aHR0cHM6Ly90c3RhdGljLmFrYXNoLWdvLmNvbS9jbXMtdWkvaW1hZ2VzL2N1c3RvbS1jb250ZW50LzE3NzAzODA2MDE5NTgucG5n" group-title="Sports",Sports Range
-https://s2.itcnbd.live/server-1/stream/sportrange.m3u8
-#EXTINF:-1 tvg-name="SSC SPORTS" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvc3NjJTIwMSUyMGhkLnBuZw" group-title="Sports",SSC SPORTS
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09OTY.m3u8
-#EXTINF:-1 tvg-name="SSC SPORTS 5 HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvc3NjJTIwNSUyMGhkLnBuZw" group-title="Sports",SSC SPORTS 5 HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTAz.m3u8
-#EXTINF:-1 tvg-name="STAR SELECT 1 HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvU1RBUiUyMFNFTEVDVCUyMDElMjBIRDE3NDUwMzg3NzcucG5n" group-title="Sports",STAR SELECT 1 HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Mjg.m3u8
-#EXTINF:-1 tvg-name="STAR SPORTS 1 HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvU1RBUiUyMFNQT1JUUyUyMDElMjBIRDE3NDQ5OTE3NzgucG5n" group-title="Sports",STAR SPORTS 1 HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Mg.m3u8
-#EXTINF:-1 tvg-name="STAR SPORTS 2 HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvU1RBUiUyMFNQT1JUUyUyMDIlMjBIRDE3NDQ5OTE4NDIucG5n" group-title="Sports",STAR SPORTS 2 HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Mw.m3u8
-#EXTINF:-1 tvg-name="STAR SPORTS 3" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvU1RBUiUyMFNQT1JUUyUyMDMxNzQ1MDM5ODkzLnBuZw" group-title="Sports",STAR SPORTS 3
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MzE.m3u8
-#EXTINF:-1 tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvU1RBUiUyMFNQT1JUUyUyMFNFTEVDVCUyMDIlMjBIRDE3NDUwMzM3MjIucG5n" group-title="Sports",STAR SPORTS SELECT 2 HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTY.m3u8
-#EXTINF:-1 tvg-name="T SPORTS" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvVCUyMFNQT1JUUzE3NDQ5NzI2MzAucG5n" group-title="Sports",T SPORTS
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MQ.m3u8
-#EXTINF:-1 tvg-name="T SPORTS BACKUP" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvVCUyMFNQT1JUUyUyMEJBQ0tVUDE3ODM3NDU4MDkucG5n" group-title="Sports",T SPORTS BACKUP
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTA2.m3u8
-#EXTINF:-1 tvg-name="Thunder Er" tvg-logo="https://s2.itcnbd.live/server-1/image/aHR0cHM6Ly90c3RhdGljLmFrYXNoLWdvLmNvbS9jbXMtdWkvaW1hZ2VzL2N1c3RvbS1jb250ZW50LzE3NzAzODA3OTEzMDMucG5n" group-title="Sports",Thunder Er
-https://s2.itcnbd.live/server-1/stream/thunder.m3u8
-#EXTINF:-1 tvg-name="ATN News" tvg-logo="https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/NCLx35oBEef-9-uVh-Dg/posters/af9773c7-7971-41a2-9b78-121fcb240c48.png" group-title="News",ATN News
-https://s2.itcnbd.live/server-2/stream/atn_news.m3u8
+
 #EXTINF:-1 tvg-name="CNN VIP" tvg-logo="https://images.toffeelive.com/images/program/333/logo/240x240/mobile_logo_146607001735536058.png" group-title="News",CNN VIP
 https://s2.itcnbd.live/server-2/stream/cnn.m3u8
 #EXTINF:-1 tvg-name="Desh TV" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/6Hz1PJwBcqxnFHJBhgkV/posters/845f1e3f-987a-47cc-a48d-ee12d8f4d419.png" group-title="News",Desh TV
