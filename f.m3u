@@ -133,12 +133,7 @@ https://s2.itcnbd.live/server-2/stream/sony_max_hd.m3u8
 https://s2.itcnbd.live/server-2/stream/sony_max.m3u8
 #EXTINF:-1 tvg-name="SONY PIX HD VIP" tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="💢Fast💢",SONY PIX
 https://s2.itcnbd.live/server-2/stream/sonypix_hd.m3u8
-#EXTINF:-1 tvg-name="Superrix HD" tvg-logo="https://s2.itcnbd.live/server-1/image/aHR0cHM6Ly90c3RhdGljLmFrYXNoLWdvLmNvbS9jbXMtdWkvaW1hZ2VzL2N1c3RvbS1jb250ZW50LzE3NzAzNDgzODg5MjUucG5n" group-title="Movies",Superrix HD
-https://s2.itcnbd.live/server-1/stream/superrix.m3u8
-#EXTINF:-1 tvg-name="True Stories" tvg-logo="https://s2.itcnbd.live/server-1/image/aHR0cHM6Ly90c3RhdGljLmFrYXNoLWdvLmNvbS9jbXMtdWkvaW1hZ2VzL2N1c3RvbS1jb250ZW50LzE3NzAzODAzMDY4MDYucG5n" group-title="Movies",True Stories
-https://s2.itcnbd.live/server-1/stream/truestories.m3u8
-#EXTINF:-1 tvg-name="Uniques HD" tvg-logo="https://s2.itcnbd.live/server-1/image/aHR0cHM6Ly90c3RhdGljLmFrYXNoLWdvLmNvbS9jbXMtdWkvaW1hZ2VzL2N1c3RvbS1jb250ZW50LzE3NzAzNDczMjc2NTgucG5n" group-title="Movies",Uniques HD
-https://s2.itcnbd.live/server-1/stream/uniques.m3u8
+
 #EXTINF:-1 tvg-name="Zee Action" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/Pc3RD5YBtpl-Sbt7doxr/posters/d0f337ab-a7e6-4eed-bc7b-7d51fdc70a0f.png" group-title="Movies",Zee Action
 https://s2.itcnbd.live/server-2/stream/zee_action.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla Cinema" tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/-C7MX5UBv9knK3AHdKOi/posters/b0f0bfe0-f1f3-48b3-83ce-203cd44cafe2.png" group-title="Movies",Zee Bangla Cinema
