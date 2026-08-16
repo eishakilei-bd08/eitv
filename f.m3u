@@ -54,26 +54,11 @@ https://s2.itcnbd.live/server-2/stream/atn_bangla.m3u8
 https://s2.itcnbd.live/server-2/stream/bangla_tv.m3u8
 #EXTINF:-1 tvg-name="Bijoy TV" tvg-logo="https://assets-prod.services.toffeelive.com//bns4l5sBcqxnFHJBVZ32/posters/feaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.png" group-title="💢Fast💢",Bijoy TV
 https://s2.itcnbd.live/server-2/stream/bijoytv.m3u8
-
 #EXTINF:-1 tvg-name="Channel i" tvg-logo="https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/qnv835oBcqxnFHJBuQcB/posters/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png" group-title="💢Fast💢",Channel i
 https://s2.itcnbd.live/server-2/stream/channel_i.m3u8
-#EXTINF:-1 tvg-name="Channel S" tvg-logo="https://assets-prod.services.toffeelive.com//WyPuDJsBEef-9-uVUA_z/posters/ea20055c-a824-443c-8083-ce8e2da8b922.png" group-title="Bangla",Channel S
-https://s2.itcnbd.live/server-2/stream/channel_s.m3u8
-#EXTINF:-1 tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvQ09MT1JTJTIwQkFOR0xBJTIwQ0lORU1BMTc0NTA0MTQ4Ni5wbmc" group-title="Bangla",COLORS BANGLA CINEMA
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDc.m3u8
-#EXTINF:-1 tvg-name="COLORS BANGLA HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvQ09MT1JTJTIwQkFOR0xBJTIwSEQxNzQ1MDMzNTc2LnBuZw" group-title="Bangla",COLORS BANGLA HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTI.m3u8
-#EXTINF:-1 tvg-name="Ekhon TV" tvg-logo="https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/o3v235oBcqxnFHJBkAdC/posters/159af631-796d-4342-a2a7-c272f32bcd32.png" group-title="Bangla",Ekhon TV
+#EXTINF:-1 tvg-name="Ekhon TV" tvg-logo="https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/o3v235oBcqxnFHJBkAdC/posters/159af631-796d-4342-a2a7-c272f32bcd32.png" group-title="💢Fast💢",Ekhon TV
 https://s2.itcnbd.live/server-2/stream/ekhon_tv.m3u8
-#EXTINF:-1 tvg-name="ENTERR 10" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvRU5URVJSJTIwMTAxNzQ1MDQ0MzMwLnBuZw" group-title="Bangla",ENTERR 10
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09ODQ.m3u8
-#EXTINF:-1 tvg-name="Global TV" tvg-logo="https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png" group-title="Bangla",Global TV
-https://s2.itcnbd.live/server-2/stream/global_tv.m3u8
-#EXTINF:-1 tvg-name="GTV" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvR1RWMTc0NTA0Mjg1My5wbmc" group-title="Bangla",GTV
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NTY.m3u8
-#EXTINF:-1 tvg-name="INDEPENDENT TV" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvSU5ERVBFTkRFTlQlMjBUVjE3NDUwNDQwNzcucG5n" group-title="Bangla",INDEPENDENT TV
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Nzc.m3u8
-#EXTINF:-1 tvg-name="Islamic TV" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/jehEA54BIxFjn23xAmdw/posters/f20b1b2e-3662-4da5-a71b-3f769d2a9a4e.png" group-title="Bangla",Islamic TV
+#EXTINF:-1 tvg-name="Islamic TV" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/jehEA54BIxFjn23xAmdw/posters/f20b1b2e-3662-4da5-a71b-3f769d2a9a4e.png" group-title="💢Fast💢",Islamic TV
 https://s2.itcnbd.live/server-2/stream/islamic_tv.m3u8
 #EXTINF:-1 tvg-name="JALSHA MOVIES HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvSkFMU0hBJTIwTU9WSUVTJTIwSEQxNzQ1MDM0MDA1LnBuZw" group-title="Bangla",JALSHA MOVIES HD
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTk.m3u8
