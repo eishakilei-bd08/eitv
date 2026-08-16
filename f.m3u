@@ -144,14 +144,7 @@ https://s2.itcnbd.live/server-2/stream/zee_bollywood.m3u8
 https://s2.itcnbd.live/server-2/stream/zee_cafe_hd.m3u8
 #EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Movies",Zee Cinema HD
 https://s2.itcnbd.live/server-2/stream/zee_cinema_hd.m3u8
-#EXTINF:-1 tvg-name="ALJAZEETA HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvQUxKQVpFRVRBJTIwSEQxNzQ1MDQ0MzU4LnBuZw" group-title="English",ALJAZEETA HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09ODU.m3u8
-#EXTINF:-1 tvg-name="AND FLIX HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvQU5EJTIwRkxJWCUyMEhEMTc0NTA0MDAxOC5wbmc" group-title="English",AND FLIX HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MzU.m3u8
-#EXTINF:-1 tvg-name="AND PRIVE HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvQU5EJTIwUFJJVkUlMjBIRDE3NDUwNDA0NTEucG5n" group-title="English",AND PRIVE HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDE.m3u8
-#EXTINF:-1 tvg-name="AND XPLORE" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvQU5EJTIwWFBMT1JFMTc0NTA0MzA4MC5wbmc" group-title="English",AND XPLORE
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NjE.m3u8
+
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://images.toffeelive.com/images/program/359/logo/240x240/mobile_logo_835681001673175607.png" group-title="English",Animal Planet
 https://s2.itcnbd.live/server-2/stream/animal_planet_sd.m3u8
 #EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png" group-title="English",Animal Planet HD
