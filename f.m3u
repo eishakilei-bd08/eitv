@@ -108,39 +108,30 @@ https://s2.itcnbd.live/server-2/stream/hum_sitaray.m3u8
 https://s2.itcnbd.live/server-2/stream/hum_tv.m3u8
 #EXTINF:-1 tvg-name="Sony Aat VIP" tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="💢Fast💢",Sony Aat
 https://s2.itcnbd.live/server-2/stream/sonyaath.m3u8
-#EXTINF:-1 tvg-name="SONY ENTERTAINMENT TELEVISION" tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="Indian Bangla",SONY ENTERTAINMENT TELEVISION
+#EXTINF:-1 tvg-name="SONY ENTERTAINMENT TELEVISION" tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="💢Fast💢",SONY ENTERTAINMENT T
 https://s2.itcnbd.live/server-2/stream/sony_entertainment.m3u8
-#EXTINF:-1 tvg-name="SONY ENTERTAINMENT TELEVISION HD VIP" tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="Indian Bangla",SONY ENTERTAINMENT TELEVISION HD VIP
+#EXTINF:-1 tvg-name="SONY ENTERTAINMENT TELEVISION HD VIP" tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="💢Fast💢",SONY ENTERTAINMENT
 https://s2.itcnbd.live/server-2/stream/sonyentertainmnt_hd.m3u8
-#EXTINF:-1 tvg-name="SONY SAB HD VIP" tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="Indian Bangla",SONY SAB HD VIP
+#EXTINF:-1 tvg-name="SONY SAB HD VIP" tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="💢Fast💢",SONY SAB
 https://s2.itcnbd.live/server-2/stream/sonysab_hd.m3u8
-#EXTINF:-1 tvg-name="Zee Anmol" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/7x0Jd5YBEef-9-uVv_Gy/posters/f630a176-73cc-48d7-94cf-69ba0d201b36.png" group-title="Indian Bangla",Zee Anmol
+#EXTINF:-1 tvg-name="Zee Anmol" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/7x0Jd5YBEef-9-uVv_Gy/posters/f630a176-73cc-48d7-94cf-69ba0d201b36.png" group-title="💢Fast💢",Zee Anmol
 https://s2.itcnbd.live/server-2/stream/zee_anmol.m3u8
-#EXTINF:-1 tvg-name="Zee Bangla VIP" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="Indian Bangla",Zee Bangla VIP
+#EXTINF:-1 tvg-name="Zee Bangla VIP" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="💢Fast💢",Zee Bangla VIP
 https://s2.itcnbd.live/server-2/stream/zee_bangla.m3u8
-#EXTINF:-1 tvg-name="Zee TV HD" tvg-logo="https://images.toffeelive.com/images/program/644/logo/240x240/mobile_logo_649814001655891557.png" group-title="Indian Bangla",Zee TV HD
+#EXTINF:-1 tvg-name="Zee TV HD" tvg-logo="https://images.toffeelive.com/images/program/644/logo/240x240/mobile_logo_649814001655891557.png" group-title="💢Fast💢",Zee TV HD
 https://s2.itcnbd.live/server-2/stream/zee_tv_hd.m3u8
-#EXTINF:-1 tvg-name="Zing" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/DK8dd5YBrjBfS2_Ru22e/posters/a89a1e2e-677c-4a8a-9a66-dff5e0b921c8.png" group-title="Indian Bangla",Zing
+#EXTINF:-1 tvg-name="Zing" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/DK8dd5YBrjBfS2_Ru22e/posters/a89a1e2e-677c-4a8a-9a66-dff5e0b921c8.png" group-title="💢Fast💢",Zing
 https://s2.itcnbd.live/server-2/stream/zing_sd.m3u8
-#EXTINF:-1 tvg-name="B4U Movies VIP" tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="Movies",B4U Movies VIP
+#EXTINF:-1 tvg-name="B4U Movies VIP" tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="💢Fast💢",B4U Movies VIP
 https://s2.itcnbd.live/server-2/stream/b4u_movies.m3u8
-#EXTINF:-1 tvg-name="Cineedge HD" tvg-logo="https://s2.itcnbd.live/server-1/image/aHR0cHM6Ly90c3RhdGljLmFrYXNoLWdvLmNvbS9jbXMtdWkvaW1hZ2VzL2N1c3RvbS1jb250ZW50LzE3NzAzNDc4NTEzMDUucG5n" group-title="Movies",Cineedge HD
-https://s2.itcnbd.live/server-1/stream/cineedge.m3u8
-#EXTINF:-1 tvg-name="Crimes" tvg-logo="https://s2.itcnbd.live/server-1/image/aHR0cHM6Ly90c3RhdGljLmFrYXNoLWdvLmNvbS9jbXMtdWkvaW1hZ2VzL2N1c3RvbS1jb250ZW50LzE3NzAzODAxMjY1NDAucG5n" group-title="Movies",Crimes
-https://s2.itcnbd.live/server-1/stream/crimes.m3u8
-#EXTINF:-1 tvg-name="Intelligence" tvg-logo="https://s2.itcnbd.live/server-1/image/aHR0cHM6Ly90c3RhdGljLmFrYXNoLWdvLmNvbS9jbXMtdWkvaW1hZ2VzL2N1c3RvbS1jb250ZW50LzE3NzAzODA0NjA0ODgucG5n" group-title="Movies",Intelligence
-https://s2.itcnbd.live/server-1/stream/intelligence.m3u8
-#EXTINF:-1 tvg-name="Originals" tvg-logo="https://s2.itcnbd.live/server-1/image/aHR0cHM6Ly90c3RhdGljLmFrYXNoLWdvLmNvbS9jbXMtdWkvaW1hZ2VzL2N1c3RvbS1jb250ZW50LzE3NzAzMTMxMjIzNzIucG5n" group-title="Movies",Originals
-https://s2.itcnbd.live/server-1/stream/originals.m3u8
-#EXTINF:-1 tvg-name="Screem" tvg-logo="https://s2.itcnbd.live/server-1/image/aHR0cHM6Ly90c3RhdGljLmFrYXNoLWdvLmNvbS9jbXMtdWkvaW1hZ2VzL2N1c3RvbS1jb250ZW50LzE3NzAzMTIwOTgzMzkucG5n" group-title="Movies",Screem
-https://s2.itcnbd.live/server-1/stream/screem.m3u8
-#EXTINF:-1 tvg-name="SONY MAX 2 VIP" tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" group-title="Movies",SONY MAX 2 VIP
+
+#EXTINF:-1 tvg-name="SONY MAX 2 VIP" tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" group-title="💢Fast💢",SONY MAX 2 
 https://s2.itcnbd.live/server-2/stream/sonymax_2.m3u8
-#EXTINF:-1 tvg-name="SONY MAX HD VIP" tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Movies",SONY MAX HD VIP
+#EXTINF:-1 tvg-name="SONY MAX HD VIP" tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="💢Fast💢",SONY MAX HD
 https://s2.itcnbd.live/server-2/stream/sony_max_hd.m3u8
 #EXTINF:-1 tvg-name="SONY MAX VIP" tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="Movies",SONY MAX VIP
 https://s2.itcnbd.live/server-2/stream/sony_max.m3u8
-#EXTINF:-1 tvg-name="SONY PIX HD VIP" tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="Movies",SONY PIX HD VIP
+#EXTINF:-1 tvg-name="SONY PIX HD VIP" tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="💢Fast💢",SONY PIX
 https://s2.itcnbd.live/server-2/stream/sonypix_hd.m3u8
 #EXTINF:-1 tvg-name="Superrix HD" tvg-logo="https://s2.itcnbd.live/server-1/image/aHR0cHM6Ly90c3RhdGljLmFrYXNoLWdvLmNvbS9jbXMtdWkvaW1hZ2VzL2N1c3RvbS1jb250ZW50LzE3NzAzNDgzODg5MjUucG5n" group-title="Movies",Superrix HD
 https://s2.itcnbd.live/server-1/stream/superrix.m3u8
