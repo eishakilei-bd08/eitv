@@ -70,61 +70,16 @@ https://s2.itcnbd.live/server-2/stream/nexus_tv.m3u8
 https://s2.itcnbd.live/server-2/stream/rajdhani_tv.m3u8
 #EXTINF:-1 tvg-name="SRK TV" tvg-logo="https://s2.itcnbd.live/server-1/image/aHR0cHM6Ly90c3RhdGljLmFrYXNoLWdvLmNvbS9jbXMtdWkvaW1hZ2VzL2N1c3RvbS1jb250ZW50LzE3NDYwMDU5NDAxNTUucG5n" group-title="💢Fast💢",SRK TV
 https://s2.itcnbd.live/server-1/stream/srktv.stream.m3u8
-#EXTINF:-1 tvg-name="STAR JALSHA HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvU1RBUiUyMEpBTFNIQSUyMEhEMTc0NTAzMzgxOS5wbmc" group-title="Bangla",STAR JALSHA HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTg.m3u8
-#EXTINF:-1 tvg-name="SUN BANGLA HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvU1VOJTIwQkFOR0xBJTIwSEQxNzQ1MDMzNzkxLnBuZw" group-title="Bangla",SUN BANGLA HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTc.m3u8
-#EXTINF:-1 tvg-name="ZEE BANGLA CINEMA" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvWkVFJTIwQkFOR0xBJTIwQ0lORU1BMTc0NTA0MDk5Ni5wbmc" group-title="Bangla",ZEE BANGLA CINEMA
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDM.m3u8
-#EXTINF:-1 tvg-name="ZEE BANGLA HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvWkVFJTIwQkFOR0xBJTIwSEQxNzQ1MDMzNjMzLnBuZw" group-title="Bangla",ZEE BANGLA HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTQ.m3u8
-#EXTINF:-1 tvg-name="A SPORTS HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvQSUyMFNQT1JUUyUyMEhEMTc0NTA0NDc4Mi5wbmc" group-title="Sports",A SPORTS HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09ODg.m3u8
-#EXTINF:-1 tvg-name="BAN VS AUS" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/JOg0jZ4BIxFjn23xbePr/posters/683d682a-5589-48e4-b08c-1afe5dc9c3e4.png" group-title="Sports",BAN VS AUS
-https://s2.itcnbd.live/server-2/stream/BDVSAUS-26.m3u8
-#EXTINF:-1 tvg-name="BFL Live 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl6-ZPZ6UT3YhXilJF9fxtHzCqIt6mD71Dmg2_D-ZUsg&amp;s=10" group-title="Sports",BFL Live 1
-https://s2.itcnbd.live/server-2/stream/live.m3u8
-#EXTINF:-1 tvg-name="BFL Live 2" tvg-logo="https://assets-prod.services.toffeelive.com//MXnGgJkBcqxnFHJBILyR/posters/035a24dd-4d88-4fc2-99a1-275a5bc97bf5.png" group-title="Sports",BFL Live 2
-https://s2.itcnbd.live/server-2/stream/match-12.m3u8
-#EXTINF:-1 tvg-name="BFL Live 3" tvg-logo="https://assets-prod.services.toffeelive.com//LnlKhJkBcqxnFHJBU8GM/posters/74e6a7bb-f850-4ec5-991f-7a882b04db37.png" group-title="Sports",BFL Live 3
-https://s2.itcnbd.live/server-2/stream/match-13.m3u8
-#EXTINF:-1 tvg-name="Crazy Ex" tvg-logo="https://s2.itcnbd.live/server-1/image/aHR0cHM6Ly90c3RhdGljLmFrYXNoLWdvLmNvbS9jbXMtdWkvaW1hZ2VzL2N1c3RvbS1jb250ZW50LzE3NzAzNDg3NTM4OTYucG5n" group-title="Sports",Crazy Ex
-https://s2.itcnbd.live/server-1/stream/crazy_ex.m3u8
-#EXTINF:-1 tvg-name="Euro Sport HD" tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png" group-title="Sports",Euro Sport HD
+
+#EXTINF:-1 tvg-name="Euro Sport HD" tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png" group-title="💢Fast💢",Euro Sport
 https://s2.itcnbd.live/server-2/stream/euro_sports_hd.m3u8
-#EXTINF:-1 tvg-name="EUROSPORTS HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvRVVST1NQT1JUUyUyMEhEMTc0NTA0MDQwNi5wbmc" group-title="Sports",EUROSPORTS HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDA.m3u8
-#EXTINF:-1 tvg-name="FAST SPORTS HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvRkFTVCUyMFNQT1JUUyUyMEhEMTc0NTA0NDc1MC5wbmc" group-title="Sports",FAST SPORTS HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09ODc.m3u8
-#EXTINF:-1 tvg-name="FIFA WC Channel 1" tvg-logo="https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/FIFA%20WC%20Channel%201.png" group-title="Sports",FIFA WC Channel 1
-https://s2.itcnbd.live/server-2/stream/sst.m3u8
-#EXTINF:-1 tvg-name="Fighters" tvg-logo="https://s2.itcnbd.live/server-1/image/aHR0cHM6Ly90c3RhdGljLmFrYXNoLWdvLmNvbS9jbXMtdWkvaW1hZ2VzL2N1c3RvbS1jb250ZW50LzE3NzAzODA5NDI2NzAucG5n" group-title="Sports",Fighters
-https://s2.itcnbd.live/server-1/stream/fighter.m3u8
-#EXTINF:-1 tvg-name="Flash Guys HD" tvg-logo="https://s2.itcnbd.live/server-1/image/aHR0cHM6Ly90c3RhdGljLmFrYXNoLWdvLmNvbS9jbXMtdWkvaW1hZ2VzL2N1c3RvbS1jb250ZW50LzE3NzAzNzgwNzQ1MjcucG5n" group-title="Sports",Flash Guys HD
-https://s2.itcnbd.live/server-1/stream/flashguys.m3u8
-#EXTINF:-1 tvg-name="GOLF SPORTS" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvR09MRiUyMFNQT1JUUzE3NDUwNDMzMzgucG5n" group-title="Sports",GOLF SPORTS
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NjY.m3u8
-#EXTINF:-1 tvg-name="ICC Test Championship Highlights" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/PnZefJcBcqxnFHJBoxca/posters/955ae898-8336-4936-8d78-c6b8866e35f7.png" group-title="Sports",ICC Test Championship Highlights
-https://s2.itcnbd.live/server-2/stream/icc_wtc_final.m3u8
-#EXTINF:-1 tvg-name="PTV SPORTS HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvUFRWJTIwU1BPUlRTJTIwSEQxNzQ1MDQ0OTkzLnBuZw" group-title="Sports",PTV SPORTS HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09OTI.m3u8
-#EXTINF:-1 tvg-name="SONY SPORTS 1 HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvc29ueSUyMHNwb3J0cyUyMDElMjBoZC5wbmc" group-title="Sports",SONY SPORTS 1 HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NzQ.m3u8
-#EXTINF:-1 tvg-name="SONY SPORTS 2 HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvc29ueSUyMHNwb3J0cyUyMDIlMjBoZC5wbmc" group-title="Sports",SONY SPORTS 2 HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Mjk.m3u8
-#EXTINF:-1 tvg-name="SONY SPORTS 3" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvU29ueSUyMHNwb3J0cyUyMDMucG5n" group-title="Sports",SONY SPORTS 3
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MzA.m3u8
-#EXTINF:-1 tvg-name="SONY SPORTS 4" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvc29ueSUyMHNwb3J0cyUyMDQucG5n" group-title="Sports",SONY SPORTS 4
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NzI.m3u8
-#EXTINF:-1 tvg-name="SONY SPORTS 5 HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvc29ueSUyMHNwb3J0cyUyMDUlMjBoZC5wbmc" group-title="Sports",SONY SPORTS 5 HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTAx.m3u8
-#EXTINF:-1 tvg-name="SONY SPORTS TEN 1 HD" tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports",SONY SPORTS TEN 1 HD
+#EXTINF:-1 tvg-name="SONY SPORTS TEN 1 HD" tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="💢Fast💢",SONY TEN 1 
 https://s2.itcnbd.live/server-2/stream/sony_sports_1_hd.m3u8
-#EXTINF:-1 tvg-name="SONY SPORTS TEN 2 HD" tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports",SONY SPORTS TEN 2 HD
+#EXTINF:-1 tvg-name="SONY SPORTS TEN 2 HD" tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="💢Fast💢",SONY TEN 2
 https://s2.itcnbd.live/server-2/stream/sony_sports_2_hd.m3u8
-#EXTINF:-1 tvg-name="SONY SPORTS TEN 5 HD" tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports",SONY SPORTS TEN 5 HD
+#EXTINF:-1 tvg-name="SONY SPORTS TEN 5 HD" tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="💢Fast💢",SONY TEN 5 
 https://s2.itcnbd.live/server-2/stream/sony_sports_5_hd.m3u8
-#EXTINF:-1 tvg-name="SONY TEN Cricket" tvg-logo="https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png" group-title="Sports",SONY TEN Cricket
+#EXTINF:-1 tvg-name="SONY TEN Cricket" tvg-logo="https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png" group-title="💢Fast💢",SONY TEN Cricket
 https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
 #EXTINF:-1 tvg-name="Sports Legends" tvg-logo="https://s2.itcnbd.live/server-1/image/aHR0cHM6Ly90c3RhdGljLmFrYXNoLWdvLmNvbS9jbXMtdWkvaW1hZ2VzL2N1c3RvbS1jb250ZW50LzE3NzAzNzc5MDAxMzkucG5n" group-title="Sports",Sports Legends
 https://s2.itcnbd.live/server-1/stream/sportslegends.m3u8
