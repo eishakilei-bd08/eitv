@@ -60,19 +60,11 @@ https://s2.itcnbd.live/server-2/stream/channel_i.m3u8
 https://s2.itcnbd.live/server-2/stream/ekhon_tv.m3u8
 #EXTINF:-1 tvg-name="Islamic TV" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/jehEA54BIxFjn23xAmdw/posters/f20b1b2e-3662-4da5-a71b-3f769d2a9a4e.png" group-title="💢Fast💢",Islamic TV
 https://s2.itcnbd.live/server-2/stream/islamic_tv.m3u8
-#EXTINF:-1 tvg-name="JALSHA MOVIES HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvSkFMU0hBJTIwTU9WSUVTJTIwSEQxNzQ1MDM0MDA1LnBuZw" group-title="Bangla",JALSHA MOVIES HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTk.m3u8
-#EXTINF:-1 tvg-name="JAMUNA TV" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvSkFNVU5BJTIwVFYxNzQ1MDQ0MDUyLnBuZw" group-title="Bangla",JAMUNA TV
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NzY.m3u8
-#EXTINF:-1 tvg-name="MAASRANGA HD" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvTUFBU1JBTkdBJTIwSEQxNzQ1MDQ0MTE3LnBuZw" group-title="Bangla",MAASRANGA HD
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09Nzg.m3u8
-#EXTINF:-1 tvg-name="Mohona TV" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/-Xz3PJwBcqxnFHJBDAlE/posters/fecea361-8b60-4aeb-a530-6e27eee8178a.png" group-title="Bangla",Mohona TV
+#EXTINF:-1 tvg-name="Mohona TV" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/-Xz3PJwBcqxnFHJBDAlE/posters/fecea361-8b60-4aeb-a530-6e27eee8178a.png" group-title="💢Fast💢",Mohona TV
 https://s2.itcnbd.live/server-2/stream/mohona_tv.m3u8
-#EXTINF:-1 tvg-name="Movie Bangla" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/CXz4PJwBcqxnFHJBPwrG/posters/2f913e34-3a6c-45e6-9f1f-97bf129a2ff5.png" group-title="Bangla",Movie Bangla
+#EXTINF:-1 tvg-name="Movie Bangla" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/CXz4PJwBcqxnFHJBPwrG/posters/2f913e34-3a6c-45e6-9f1f-97bf129a2ff5.png" group-title="💢Fast💢",Movie Bangla
 https://s2.itcnbd.live/server-2/stream/movie_bangla.m3u8
-#EXTINF:-1 tvg-name="NAGORIK" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvTkFHT1JJSzE3NDUwNDI3NzYucG5n" group-title="Bangla",NAGORIK
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NTQ.m3u8
-#EXTINF:-1 tvg-name="Nexus TV" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/FHz5PJwBcqxnFHJBdAqW/posters/419869ac-8ddf-4909-86c1-b69f0a3adf13.png" group-title="Bangla",Nexus TV
+#EXTINF:-1 tvg-name="Nexus TV" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/FHz5PJwBcqxnFHJBdAqW/posters/419869ac-8ddf-4909-86c1-b69f0a3adf13.png" group-title="💢Fast💢",Nexus TV
 https://s2.itcnbd.live/server-2/stream/nexus_tv.m3u8
 #EXTINF:-1 tvg-name="Rajdhani TV" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/KECGB54BuUSiBsg_dHyj/posters/d032f456-c7e8-4fd4-928b-ea5359960ed7.png" group-title="Bangla",Rajdhani TV
 https://s2.itcnbd.live/server-2/stream/rajdhani_tv.m3u8
