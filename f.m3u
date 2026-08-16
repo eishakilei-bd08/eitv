@@ -34,13 +34,7 @@ https://s2.itcnbd.live/server-2/stream/discovery_kids.m3u8
 https://s2.itcnbd.live/server-2/stream/pogo_sd.m3u8
 #EXTINF:-1 tvg-name="POGO" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvUE9HTzE3NDUwNDE1MTUucG5n" group-title="💢Fast💢",POGO
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDg.m3u8
-#EXTINF:-1 tvg-name="Smarty" tvg-logo="https://s2.itcnbd.live/server-1/image/aHR0cHM6Ly90c3RhdGljLmFrYXNoLWdvLmNvbS9jbXMtdWkvaW1hZ2VzL2N1c3RvbS1jb250ZW50LzE3NzAzODExMDc5MjQucG5n" group-title="Cartoon",Smarty
-https://s2.itcnbd.live/server-1/stream/smarty.m3u8
-#EXTINF:-1 tvg-name="SONIC" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvU09OSUMxNzQ1MDQxMTU0LnBuZw" group-title="Cartoon",SONIC
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDU.m3u8
-#EXTINF:-1 tvg-name="SONY YAY" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvU09OWSUyMFlBWTE3NDUwNDUwNDYucG5n" group-title="Cartoon",SONY YAY
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09OTM.m3u8
-#EXTINF:-1 tvg-name="SONY YAY VIP" tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" group-title="Cartoon",SONY YAY VIP
+#EXTINF:-1 tvg-name="SONY YAY VIP" tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" group-title="💢Fast💢",SONY YAY
 https://s2.itcnbd.live/server-2/stream/sonyyay.m3u8
 #EXTINF:-1 tvg-name="SUPER HUNGAMA" tvg-logo="https://s2.itcnbd.live/server-3/image/aHR0cDovLzEwLjQ3LjU3LjEwL2Fzc2V0cy9pbWFnZXMvU1VQRVIlMjBIVU5HQU1BMTc0NTA0NDAyMi5wbmc" group-title="Cartoon",SUPER HUNGAMA
 https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NzU.m3u8
