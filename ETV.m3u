@@ -15,6 +15,8 @@
 
 #EXTINF:-1 group-title="ETV🍁" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T-SPORTS
 http://103.185.24.134:3001/TSportsHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/IyRgumNxkz6o6Z93QOUUiwQBSkTYKOgNiXdxIorynAVA_1XadqUlxR1DtfuhnwVKYxSgarphcQ=s900-c-k-c0x00ffffff-no-rj" group-title="ETV🍁" group-logo="https://yt3.googleusercontent.com/AQLUH_ixhkqBRCV9M1rtWRQhUFiXB1QvX-l1DIbrfmeMjrU8kJzAeCaiupHjEPEz9M2daSfm9A=s900-c-k-c0x00ffffff-no-rj",Channel 1(4k)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" group-title="ETV🍁",Shomoy TV
 http://116.204.149.16/somoytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/R_tv.png" group-title="ETV🍁",RTV
@@ -25,9 +27,11 @@ http://116.204.149.16/banglatv/index.m3u8
 http://116.204.149.16/globaltv/index.m3u8
 #EXTINF:-1 group-title="ETV🍁" group-logo="https://yt3.googleusercontent.com/AQLUH_ixhkqBRCV9M1rtWRQhUFiXB1QvX-l1DIbrfmeMjrU8kJzAeCaiupHjEPEz9M2daSfm9A=s900-c-k-c0x00ffffff-no-rj" tvg-logo="https://otapp.store/uploads/tv_image/sm/channel-24.png", CHANNEL 24
 https://stream.ottplus.live/live/channel_24_abr/index.m3u8
+#EXTINF: tvg-logo="https://yt3.googleusercontent.com/AQLUH_ixhkqBRCV9M1rtWRQhUFiXB1QvX-l1DIbrfmeMjrU8kJzAeCaiupHjEPEz9M2daSfm9A=s900-c-k-c0x00ffffff-no-rj" -1 group-title="ETV🍁" group-logo="https://yt3.googleusercontent.com/AQLUH_ixhkqBRCV9M1rtWRQhUFiXB1QvX-l1DIbrfmeMjrU8kJzAeCaiupHjEPEz9M2daSfm9A=s900-c-k-c0x00ffffff-no-rj" tvg-logo="",BTV News
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/index.m3u8
 
-
-
+EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/dbc-news.png" group-title="ETV🍁" group-logo="https://yt3.googleusercontent.com/AQLUH_ixhkqBRCV9M1rtWRQhUFiXB1QvX-l1DIbrfmeMjrU8kJzAeCaiupHjEPEz9M2daSfm9A=s900-c-k-c0x00ffffff-no-rj",DBC News
+https://playztv-apps.pages.dev/dbc-news/index.m3u8
 
 
 
