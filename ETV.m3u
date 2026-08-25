@@ -39,7 +39,9 @@ https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=1173096.m3u8
 https://bdx-m3u8.pages.dev/sunbangla.m3u8
 #EXTINF:-1 group-title="ETV🍁" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/hhzvbd.png",Star jalsha
 https://footfytv.pro/proxy/direct?url=https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281675.m3u8
-#EXTINF:-1 group-title="ETV🍁"
+#EXTINF:-1 group-title="ETV🍁" group-logo="https://thumbs.dreamstime.com/b/movie-text-logo-cinema-film-entertainment-industry-png-transparent-image-stylized-related-content-representing-films-364904222.jpg" tvg-logo="https://p7.hiclipart.com/preview/535/809/286/jalsha-movies-star-jalsha-television-show-star-india-sitarhd.jpg",Star jalsah Movie HD (Tata play)
+http://103.151.60.162:2122/play/a00x/index.m3u8?hls
+#EXTINF:-1 group-title="ETV🍁" group-logo="https://thumbs.dreamstime.com/b/movie-text-logo-cinema-film-entertainment-industry-png-transparent-image-stylized-related-content-representing-films-364904222.jpg" tvg-logo="https://p7.hiclipart.com/preview/535/809/286/jalsha-movies-star-jalsha-television-show-star-india-sitarhd.jpg",Star jalsah Movie HD (Tata play)
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281674.m3u8
 #EXTINF:-1 group-title="ETV🍁" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla.png",Colors Bangla
 http://103.114.11.37:8081/Colors-bangla/tracks-v1a1/mono.m3u8?token=dsfsdfsdfsdf
