@@ -28,6 +28,7 @@
 #EXTINF:-1 group-title="ETV🍁" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T-SPORTS
 http://103.185.24.134:3001/TSportsHD/index.m3u8
 #EXTINF:-1 group-title="ETV🍁" group-logo="https://img.magnific.com/premium-vector/professional-tv-channel-logo-design-concept-vector-illustration_875240-1836.jpg?semt=ais_test_b&w=740&q=80" tvg-logo="https://yt3.googleusercontent.com/IFgAG_o_AdtX4IauErKIzuFGCj0m4QyH81Q1Uq8H-2Si9ul3vmXkLihDUnn6-QI3xiMZech0AQ=s900-c-k-c0x00ffffff-no-rj",Tsports
+http://103.151.60.162:2122/play/a030/index.m3u8?hls
 #https://s1.itcnbd.live/T-Sports-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2h7Rov9K9yz6dRM5N81dYq44AUzESD-FpiykR8bVAwg&s=10" group-title="ETV🍁",Zee Bangla
 http://103.151.60.162:2122/play/a011/index.m3u8?hls
@@ -39,9 +40,7 @@ https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=1173096.m3u8
 https://bdx-m3u8.pages.dev/sunbangla.m3u8
 #EXTINF:-1 group-title="ETV🍁" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/hhzvbd.png",Star jalsha
 https://footfytv.pro/proxy/direct?url=https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281675.m3u8
-#EXTINF:-1 group-title="ETV🍁" group-logo="https://thumbs.dreamstime.com/b/movie-text-logo-cinema-film-entertainment-industry-png-transparent-image-stylized-related-content-representing-films-364904222.jpg" tvg-logo="https://p7.hiclipart.com/preview/535/809/286/jalsha-movies-star-jalsha-television-show-star-india-sitarhd.jpg",Star jalsah Movie HD (Tata play)
-http://103.151.60.162:2122/play/a00x/index.m3u8?hls
-#EXTINF:-1 group-title="ETV🍁" group-logo="https://thumbs.dreamstime.com/b/movie-text-logo-cinema-film-entertainment-industry-png-transparent-image-stylized-related-content-representing-films-364904222.jpg" tvg-logo="https://p7.hiclipart.com/preview/535/809/286/jalsha-movies-star-jalsha-television-show-star-india-sitarhd.jpg",Star jalsah Movie HD (Tata play)
+#EXTINF:-1 group-title="ETV🍁" group-logo="https://thumbs.dreamstime.com/b/movie-text-logo-cinema-film-entertainment-industry-png-transparent-image-stylized-related-content-representing-films-364904222.jpg" tvg-logo="https://p7.hiclipart.com/preview/535/809/286/jalsha-movies-star-jalsha-television-show-star-india-sitarhd.jpg",jalsha Movie
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281674.m3u8
 #EXTINF:-1 group-title="ETV🍁" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla.png",Colors Bangla
 http://103.114.11.37:8081/Colors-bangla/tracks-v1a1/mono.m3u8?token=dsfsdfsdfsdf
