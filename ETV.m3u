@@ -41,13 +41,12 @@ https://bdx-m3u8.pages.dev/sunbangla.m3u8
 https://footfytv.pro/proxy/direct?url=https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281675.m3u8
 #EXTINF:-1 group-title="ETV🍁"
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281674.m3u8
-#EXTINF:-1 group-title="ETV🍁"
+#EXTINF:-1 group-title="ETV🍁" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla.png",Colors Bangla
 http://103.114.11.37:8081/Colors-bangla/tracks-v1a1/mono.m3u8?token=dsfsdfsdfsdf
-#EXTINF:-1 group-title="ETV🍁"
+#EXTINF:-1 group-title="ETV🍁" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla.png",Colors Bangla
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281676.m3u8
 #EXTINF:-1 group-title="ETV🍁" group-logo="https://img.magnific.com/premium-vector/professional-tv-channel-logo-design-concept-vector-illustration_875240-1836.jpg?semt=ais_test_b&w=740&q=80" tvg-logo="https://play-lh.googleusercontent.com/9SeOWItRm9aisiTN7QJO1cSeRbpj_XJBc-_R0b7QND_r_BFop59qRw5pWxAUl3beku_PKJoO7gJO9ZYM2-FimWM=w600-h300-pc0xffffff-pd",A Sports
 https://playztv-apps.pages.dev/asports/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/IyRgumNxkz6o6Z93QOUUiwQBSkTYKOgNiXdxIorynAVA_1XadqUlxR1DtfuhnwVKYxSgarphcQ=s900-c-k-c0x00ffffff-no-rj" group-title="ETV🍁" group-logo="https://yt3.googleusercontent.com/AQLUH_ixhkqBRCV9M1rtWRQhUFiXB1QvX-l1DIbrfmeMjrU8kJzAeCaiupHjEPEz9M2daSfm9A=s900-c-k-c0x00ffffff-no-rj",Channel 1(4k)
 https://stream.ottplus.bd/live/channel_1_hd_abr/index.m3u8
 #EXTINF:-1,tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" group-title="ETV🍁",Shomoy TV
