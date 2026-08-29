@@ -438,33 +438,18 @@ https://tvsen6.aynaott.com/AndTV/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TW3yQD9/Picsart-23-06-07-11-27-32-538.png" group-title="BANGLADESHI CHANNELS",SOMOY TV
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://cache.devm3u.top/live/playlist.m3u8?channel=somoy
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w457MWk/Picsart-23-06-07-11-22-28-998.png" group-title="BANGLADESHI CHANNELS",BOISHAKHI TV
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="BANGLADESHI CHANNELS",MAASRANGA TV
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WfjvRsn/Picsart-23-06-07-11-07-21-738.png" group-title="BANGLADESHI CHANNELS",MY TV
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://cache.devm3u.top/live/playlist.m3u8?channel=mytv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LnTmZLD/Picsart-23-06-07-10-15-30-064.png" group-title="BANGLADESHI CHANNELS",BANGLA TV
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://cache.devm3u.top/live/playlist.m3u8?channel=banglatv
 #EXTINF:-1 tvg-logo="https://cdn.jagonews24.com/media/common/logo.png" group-title="BANGLADESHI CHANNELS",JAGONEWS24
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBhfYpX/Picsart-23-06-07-10-23-04-121.png" group-title="BANGLADESHI CHANNELS",ASIAN TV
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://cache.devm3u.top/live/playlist.m3u8?channel=asiantv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bbYQfNr/Picsart-23-06-07-10-24-56-525.png" group-title="BANGLADESHI CHANNELS",DEEPTO TV
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jhPSkLR/Picsart-23-06-07-10-30-19-289.png" group-title="BANGLADESHI CHANNELS",SA TV
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://cache.devm3u.top/live/playlist.m3u8?channel=satv
 #EXTINF:-1 tvg-logo="https://rajdhanitv.online/assets/images/logo/1757970614logo%20footer.png" group-title="BANGLADESHI CHANNELS",RAJDHANI TV
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
