@@ -36,6 +36,8 @@ http://103.151.60.162:2122/play/a011/index.m3u8?hls
 https://m3u8-proxy.aniksaha113.workers.dev/zeebanglahd-ypptv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2h7Rov9K9yz6dRM5N81dYq44AUzESD-FpiykR8bVAwg&s=10" group-title="ETV🍁",Zee Bangla Hd
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=1173096.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2h7Rov9K9yz6dRM5N81dYq44AUzESD-FpiykR8bVAwg&s=10" group-title="ETV🍁",Zee Bangla Airtel 
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281671.m3u8
 #EXTINF:-1 group-title="ETV🍁" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6f/Sun_Bangla_logo.jpg/revision/latest?cb=20190203115538",Sun bangla
 https://bdx-m3u8.pages.dev/sunbangla.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPZdDXbsGeDOGhPC-Og7bXRrJxsbaFnZ1IEVB7-bPsJtpvNE9IhcMv0Q5OnUq5GCK9UqE7mzMCZinQaN1NSjk2wqKQFs_dreX5yGnDiXNju5yYT_9BDLC3dThhXRIfKk5XQGNc4oi6qWO3fvw5-9dqydLf6pvyHsq5cske3F1FKKih75cCUk20OKVymg/s600/Nur_20251216_222101_0000.png" group-title="ETV🍁, Star Jalsha                                 
@@ -48,6 +50,12 @@ https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281674.m3u8
 http://103.114.11.37:8081/Colors-bangla/tracks-v1a1/mono.m3u8?token=dsfsdfsdfsdf
 #EXTINF:-1 group-title="ETV🍁" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla.png",Colors Bangla
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281676.m3u8
+
+
+
+
+#EXTINF:-1 group-title="ETV🍁",Zee Sonar
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281673.m3u8
 #EXTINF:-1 group-title="ETV🍁" group-logo="https://img.magnific.com/premium-vector/professional-tv-channel-logo-design-concept-vector-illustration_875240-1836.jpg?semt=ais_test_b&w=740&q=80" tvg-logo="https://play-lh.googleusercontent.com/9SeOWItRm9aisiTN7QJO1cSeRbpj_XJBc-_R0b7QND_r_BFop59qRw5pWxAUl3beku_PKJoO7gJO9ZYM2-FimWM=w600-h300-pc0xffffff-pd",A Sports
 https://playztv-apps.pages.dev/asports/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/IyRgumNxkz6o6Z93QOUUiwQBSkTYKOgNiXdxIorynAVA_1XadqUlxR1DtfuhnwVKYxSgarphcQ=s900-c-k-c0x00ffffff-no-rj" group-title="ETV🍁" group-logo="https://yt3.googleusercontent.com/AQLUH_ixhkqBRCV9M1rtWRQhUFiXB1QvX-l1DIbrfmeMjrU8kJzAeCaiupHjEPEz9M2daSfm9A=s900-c-k-c0x00ffffff-no-rj",Channel 1(4k)
