@@ -175,12 +175,7 @@ http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
 
 #EXTINF:-1 tvg-id="UltimateTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/utvtamil.png" group-title="ETV🍁",Ultimate TV 
 https://stream.ottlive.co.in/utvtamil/index.m3u8
-#EXTINF:-1 tvg-id="DangalTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LOGO_HD/image.png" group-title="ETV🍁",Dangal TV                      
-http://103.175.73.12:8080/live/17/17_0.m3u8
-#EXTINF:-1 tvg-id="Dangal2.in@SD" tvg-logo="https://i.imgur.com/BEr1r7L.png" group-title="ETV🍁",Dangal 2
-http://103.175.73.12:8080/live/18/18_0.m3u8
-#EXTINF:-1 tvg-id="DDAssam.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142777_ld_h15_aa.png?lock=720x540" group-title="ETV🍁",DD Assam
-http://103.175.73.12:8080/live/15/15_0.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s" group-title="ETV🍁",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-0 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMgAFwCYOX0V7GEToy8keJKiMiqfAxNPm68YAfUFg=s900-c-k-c0x00ffffff-no-rj" group-title="ETV🍁",Enterr10 Bangla
