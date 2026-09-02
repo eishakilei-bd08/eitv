@@ -62,14 +62,13 @@ https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281658.m3u8
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281655.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/43NXkFx5/20240823_023458.png" group-title="ETV🍁",Animal Planet
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281653.m3u8
-
+#EXTINF:-1 group-title="ETV🍁" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Colors_Infinity.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",Color Infinity 
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281650.m3u8
-
 #EXTINF:-1 tvg-id="484" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="ETV🍁",Travelxp HD
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281649.m3u8
-
+#EXTINF:-1 group-title="ETV🍁" tvg-logo="https://i.pinimg.com/564x/d4/03/96/d403966c6276e85feaf0e3753146b71e.jpg",TLC
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281648.m3u8
-
+#EXTINF:-1 group-title="ETV🍁" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Epic-LOGO_2000_X_1125_transpharent.png",EPIC 
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281647.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="ETV🍁",Star Movies Select HD
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281644.m3u8
