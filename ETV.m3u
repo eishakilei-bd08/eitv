@@ -53,6 +53,8 @@ https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281675.m3u8
 #EXTINF:-1 group-title="ETV🍁" group-logo="https://thumbs.dreamstime.com/b/movie-text-logo-cinema-film-entertainment-industry-png-transparent-image-stylized-related-content-representing-films-364904222.jpg" tvg-logo="https://p7.hiclipart.com/preview/535/809/286/jalsha-movies-star-jalsha-television-show-star-india-sitarhd.jpg",jalsha Movie
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281674.m3u8
 #EXTINF:-1 group-title="ETV🍁" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla.png",Colors Bangla
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98882.ts
+#EXTINF:-1 group-title="ETV🍁" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla.png",Colors Bangla
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281676.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="ETV🍁",National Geographic HD 
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281666.m3u8
@@ -613,8 +615,7 @@ https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=1657
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png" group-title="INDIAN BANGLA",Zee Bangla HD
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98881.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png" group-title="INDIAN BANGLA",Colors Bangla
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98882.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png" group-title="INDIAN BANGLA",Sun Bangla
 http://27.124.71.27/Sun_Bangla/index.m3u8
