@@ -56,6 +56,34 @@ https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281674.m3u8
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98882.ts
 #EXTINF:-1 group-title="ETV🍁" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla.png",Colors Bangla
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281676.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="ETV🍁",Star Movies HD🎬
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98842.ts
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="ETV🍁",Star Movies Select HD
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98843.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1zW8RLLNCQm6UHcIIJZlscOB5vhs7BF2I7SfTthYGv3LtHeRSut2-Ag&s=10" group-title="ENGLISH MOVIES",Action Hollywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png" group-title="INDIAN BANGLA",Star Jalsha HD
+http://filex.me:8080/live/3114654477/5787654467/522638.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png" group-title="INDIAN BANGLA",Star Jalsha HD 2
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/198.ts
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png" group-title="INDIAN BANGLA",Colors Bangla Cinema
+https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=1657
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png" group-title="INDIAN BANGLA",Zee Bangla HD
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98881.ts
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="ETV🍁",National Geographic HD 
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281666.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png" group-title="ETV🍁",history
@@ -590,32 +618,6 @@ http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/19741.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="KIDS",Mr Bean Animated
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="ETV🍁",Star Movies HD🎬
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98842.ts
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="ETV🍁",Star Movies Select HD
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98843.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1zW8RLLNCQm6UHcIIJZlscOB5vhs7BF2I7SfTthYGv3LtHeRSut2-Ag&s=10" group-title="ENGLISH MOVIES",Action Hollywood Movies
-https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png" group-title="INDIAN BANGLA",Star Jalsha HD
-http://filex.me:8080/live/3114654477/5787654467/522638.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png" group-title="INDIAN BANGLA",Star Jalsha HD 2
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/198.ts
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png" group-title="INDIAN BANGLA",Colors Bangla Cinema
-https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=1657
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png" group-title="INDIAN BANGLA",Zee Bangla HD
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98881.ts
-
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png" group-title="INDIAN BANGLA",Sun Bangla
 http://27.124.71.27/Sun_Bangla/index.m3u8
