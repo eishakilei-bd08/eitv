@@ -56,7 +56,7 @@ https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281674.m3u8
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281676.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="ETV🍁",National Geographic HD 
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281666.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/177-1779467_history-tv-channel-logo-history-channel-logo.png",History Tv
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png" group-title="ETV🍁",history
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281663.m3u8
 #EXTINF:-1 group-title="ETV🍁" tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png",Discovery 
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281661.m3u8
@@ -661,10 +661,7 @@ http://27.124.71.27/Animal_Planet/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.tv9bangla.com/wp-content/themes/tv9bangla/images/tv9-bangla-logo.svg" group-title="None",TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="DangalTV.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png" group-title="HINDI",ENT | Dangal TV
-https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Dangal_2.png" group-title="None",DANGAL2
-https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/DD_Bharati_english.png" group-title="None",DD Bharati
 https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Ddnational2023.png" group-title="None",DD National HD
@@ -679,8 +676,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/in
 https://dwby15d04agvq.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zsj6tLX.jpeg" group-title="None",GOAL TV
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png" group-title="DOCUMENTARY",history
-https://live.thebosstv.com:30443/dwlive/HISTORY/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="DOCUMENTARY",Travel XP English
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/7C6j-JQBv9knK3AHVzUA/posters/e8f84105-5efe-4e91-a0d4-18a0849cf2f2.webp" group-title="DOCUMENTARY",TLC
