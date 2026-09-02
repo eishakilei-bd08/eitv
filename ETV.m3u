@@ -74,11 +74,11 @@ https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281647.m3u8
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281644.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="ETV🍁",Star Movies HD
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281643.m3u8
-
+#EXTINF:-1 group-title="ETV🍁" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Zee_Telugu_2025.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",Zee Telegu
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281623.m3u8
-
+#EXTINF:-1 group-title="ETV🍁" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Star%20Maa%20Movies%20HD.png",Star Movies
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281778.m3u8
-
+#EXTINF:-1 group-title="ETV🍁" tvg-logo="https://commons.wikimedia.org/wiki/File:MTV_New_Official_Logo_2021.png",MTV
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="ETV🍁",National Geographic HD 
