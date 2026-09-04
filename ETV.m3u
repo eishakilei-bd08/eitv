@@ -33,7 +33,7 @@ https://playztv-apps.pages.dev/unite8-sports-2/index.m3u8
 https://playztv-apps.pages.dev/willow-tv/index.m3u8
 #EXTINF:-1 group-title="ETV🍁" group-logo="https://img.magnific.com/premium-vector/professional-tv-channel-logo-design-concept-vector-illustration_875240-1836.jpg?semt=ais_test_b&w=740&q=80" tvg-logo="https://play-lh.googleusercontent.com/9SeOWItRm9aisiTN7QJO1cSeRbpj_XJBc-_R0b7QND_r_BFop59qRw5pWxAUl3beku_PKJoO7gJO9ZYM2-FimWM=w600-h300-pc0xffffff-pd",A Sports
 https://playztv-apps.pages.dev/a-sports/index.m3u8
-#EXTINF:-1 group-title="ETV🍁" group-logo="https://www.pngwing.com/en/free-png-dknuc?utm_source=chatgpt.com",PTV
+#EXTINF:-1 group-title="ETV🍁" tvg-logo="https://freekaj.com/assets/images/stock/image/2024/01/14/65a43e21ef5f41705262625.jpg?utm_source=chatgpt.com",T-sports
 https://playztv-apps.pages.dev/ptv-sports/index.m3u8
 #EXTINF:-1 group-title="ETV🍁" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T-SPORTS
 http://103.185.24.134:3001/TSportsHD/index.m3u8
