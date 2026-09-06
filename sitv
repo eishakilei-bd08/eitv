@@ -25,18 +25,31 @@
 
 
 
-
-#EXTINF:-1 tvg-id="172" tvg-name="SRK TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1779607122445.png" group-title="Entertainment",SRK TV
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/6d1aaa03b84a69992940873fc11af8fc" group-title="Bangla",Thikana
-https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
-
-#EXTINF:-1 ,RTV
+#EXTINF:-1 group-title="SITV💎" tvg-logo="https://commons.wikimedia.org/wiki/File:MTV_New_Official_Logo_2021.png",MTV
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
+#EXTINF:-1 group-title="SITV💎",Zee Sonar
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281673.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/IyRgumNxkz6o6Z93QOUUiwQBSkTYKOgNiXdxIorynAVA_1XadqUlxR1DtfuhnwVKYxSgarphcQ=s900-c-k-c0x00ffffff-no-rj" group-title="SITV💎" group-logo="https://yt3.googleusercontent.com/AQLUH_ixhkqBRCV9M1rtWRQhUFiXB1QvX-l1DIbrfmeMjrU8kJzAeCaiupHjEPEz9M2daSfm9A=s900-c-k-c0x00ffffff-no-rj",Channel 1(4k)
+https://stream.ottplus.bd/live/channel_1_hd_abr/index.m3u8
+#EXTINF:-1,tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" group-title="SITV💎",Shomoy TV
+http://116.204.149.16/somoytv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/R_tv.png" group-title="SITV💎",RTV
 http://116.204.149.16/rtvhd/index.m3u8
-#EXTINF:-1 ,SA TV HD
-http://116.204.149.16/satv/index.m3u8
-#EXTINF:-1 ,Bangla TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/razuahammad55/live-tv-hub/refs/heads/main/logos/Bangla_tv.png" group-title="SITV💎",Bangla TV
+#https://cdn.ghuddi.live/Bangla_TV/Bangla_TV_BD/playlist.m3u8
 http://116.204.149.16/banglatv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png" group-title="SITV💎",Global TV
+http://116.204.149.16/globaltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZB0sFvLdP7M4KDcmzxAvR1zlOB1K1FqXuaGjdZOUgSfh1waicWf63g&s=10" group-title="SITV💎" group-logo="https://yt3.googleusercontent.com/AQLUH_ixhkqBRCV9M1rtWRQhUFiXB1QvX-l1DIbrfmeMjrU8kJzAeCaiupHjEPEz9M2daSfm9A=s900-c-k-c0x00ffffff-no-rj",SA TV
+http://116.204.149.16/satv/index.m3u8
+#EXTINF:-1 tvg-id="229" tvg-name="Maasranga TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png" group-title="SITV💎",Maasranga TV
+http://116.204.149.16/maasranga/index.m3u8
+#EXTINF:-1 group-title="SITV💎" group-logo="https://yt3.googleusercontent.com/AQLUH_ixhkqBRCV9M1rtWRQhUFiXB1QvX-l1DIbrfmeMjrU8kJzAeCaiupHjEPEz9M2daSfm9A=s900-c-k-c0x00ffffff-no-rj" tvg-logo="https://otapp.store/uploads/tv_image/sm/channel-24.png", CHANNEL 24
+https://stream.ottplus.live/live/channel_24_abr/index.m3u8
+#EXTINF:-1 tvg-id="172" tvg-name="SRK TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1779607122445.png" group-title="SITV💎",SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/6d1aaa03b84a69992940873fc11af8fc" group-title="SITV💎",Thikana
+https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 
 
 
