@@ -21,63 +21,25 @@
 
 
 
+
+
+
+
+
 #EXTINF:-1 tvg-id="172" tvg-name="SRK TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1779607122445.png" group-title="Entertainment",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/6d1aaa03b84a69992940873fc11af8fc" group-title="Bangla",Thikana
 https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 
-#EXTINF:-1 ,Nagorik TV
-http://198.195.239.50:8095/nagorik/index.m3u8
 #EXTINF:-1 ,RTV
 http://116.204.149.16/rtvhd/index.m3u8
 #EXTINF:-1 ,SA TV HD
 http://116.204.149.16/satv/index.m3u8
 #EXTINF:-1 ,Bangla TV HD
 http://116.204.149.16/banglatv/index.m3u8
-#EXTINF:-1 ,Sony Max HD
-http://premimum.online:80/live/jen12345/jen54321/98857.ts
-#EXTINF:-1 ,Sony Max 2
-http://premimum.online:80/live/jen12345/jen54321/973.ts
-#EXTINF:-1 ,Sony Wah
-http://103.180.212.191:3500/live/1393.m3u8
-#EXTINF:-1 ,&explore HD
-http://premimum.online:80/live/jen12345/jen54321/4082.ts
-#EXTINF:-1 ,Colors Cineplex Superhits
-http://premimum.online:80/live/Jen12345/Jen54321/172368.ts
-#EXTINF:-1 ,Colors Cineplex Bollywood
-http://premimum.online:80/live/Jen12345/Jen54321/37074.ts
-#EXTINF:-1 ,Colors Cineplex HD
-http://premimum.online:80/live/Jen12345/Jen54321/9378.ts
-#EXTINF:-1 ,Rishtey Cineplex HD
-http://premimum.online:80/live/jen12345/jen54321/2440.ts
-#EXTINF:-1 ,Zee Cinema
-http://premimum.online:80/live/jen12345/jen54321/2439.ts
-#EXTINF:-1 ,Zee Anmol Cinema
-http://premimum.online:80/live/jen12345/jen54321/7065.ts
-#EXTINF:-1 ,Zee Action
-http://premimum.online:80/live/jen12345/jen54321/967.ts
-#EXTINF:-1 ,Zee Bollywood
-http://premimum.online:80/live/jen12345/jen54321/966.ts
-#EXTINF:-1 ,Star Gold Select
-http://premimum.online:80/live/jen12345/jen54321/98859.ts
+
+
+
 #EXTINF:-1 ,Goldmines 2
 http://103.175.73.12:8080/live/46/46_0.m3u8
 #EXTINF:-1 ,Goldmines Action
