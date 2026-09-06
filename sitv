@@ -53,17 +53,7 @@ https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 
 
 
-#EXTINF:-1 ,Goldmines 2
-http://103.175.73.12:8080/live/46/46_0.m3u8
-#EXTINF:-1 ,Goldmines Action
-http://103.175.73.12:8080/live/584/584_0.m3u8
-#EXTINF:-1 ,B4U MOVIES
-http://103.175.73.12:8080/live/43/43_0.m3u8
-#EXTINF:-1 ,T Sports HD
-http://198.195.239.50:8095/Tsports/index.m3u8
 
-#EXTINF:-1 ,Bhi Channel
-http://15.235.185.236/hls/bhi.m3u8
 #EXTINF:-1 ,Channel S UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 #EXTINF:-1 ,Deepto TV
@@ -72,8 +62,6 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 ,Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 ,Gazi TV HD
-https://tvsen1.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,Green TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
 #EXTINF:-1 ,Jago News 24
@@ -82,8 +70,6 @@ https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 ,Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 ,Nexus TV HD
-http://premimum.online/live/jen12345/jen54321/411.ts
 #EXTINF:-1 ,NRB TV
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 #EXTINF:-1 ,Probashi TV
