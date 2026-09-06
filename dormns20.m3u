@@ -10,18 +10,11 @@
 
 
 
-
-
-#EXTM3U
-
 #EXTINF:-1 group-title="BD News" tvg-logo="https://play-lh.googleusercontent.com/Rwq0gnxRbnsREPfJxc2NMmbGkAfWyMvUJO5cte2TQIdzdLSMXjiRs6FXYvfjNxOTizVeDUOoilcHSDwxlOACSg",BD TV
 http://192.168.91.8/streams/117/index.m3u8
 
 #EXTINF:-1 group-title="BD News" tvg-logo="https://i.ytimg.com/vi/MEFRrtRaqlc/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AHUBoAC4AOKAgwIABABGH8gJCglMA8=&rs=AOn4CLD_kZG6nLwYlKE3OmJRlKxP95N5Bg",Somoy 
 https://s1.itcnbd.live/somoy/index.m3u8
-
-#EXTINF:-1 group-title="BD News" tvg-logo="https://i.ytimg.com/vi/MEFRrtRaqlc/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AHUBoAC4AOKAgwIABABGH8gJCglMA8=&rs=AOn4CLD_kZG6nLwYlKE3OmJRlKxP95N5Bg",Somoy TV 1
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 #EXTINF:-1 group-title="BD News" tvg-logo="",BTV News
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/index.m3u8
@@ -1612,23 +1605,18 @@ https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 
 
 
-
 #EXTINF:-1 tvg-id="1000009248" tvg-name="SAB HD" group-title="Sony LIV" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",SAB HD 
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009248
-
 #EXTINF:-1 tvg-id="1000009273" tvg-name="SONY PAL" group-title="Sony LIV" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png",SONY PAL 
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009273
-
 #EXTINF:-1 tvg-id="1000001971" tvg-name="SONY YAY" group-title="Sony LIV" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",SONY YAY 
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000001971
-
 #EXTINF:-1 tvg-id="1000009247" tvg-name="SONY MAX HD" group-title="Sony LIV" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png",SONY MAX HD 
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009247
-
 #EXTINF:-1 tvg-id="1000009253" tvg-name="SONY WAH" group-title="Sony LIV" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png",SONY WAH 
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009253
