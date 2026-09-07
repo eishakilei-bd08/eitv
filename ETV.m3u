@@ -101,9 +101,13 @@ http://livetv.akr4m.com:8080/bdtv/restrem/10.m3u8
 #https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 #https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/15.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1yJ22g0/Channel-9.jpg" group-title="ETV🍁",CHANNEL 9
+#https://tvsen6.aynaott.com/Wef2Vj67njeYGDqQNFB9/index.m3u8
+#https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 http://livetv.akr4m.com:8080/bdtv/restrem/16.m3u8
+
+
+
 
 
 http://livetv.akr4m.com:8080/bdtv/restrem/17.m3u8
