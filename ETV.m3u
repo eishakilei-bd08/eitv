@@ -39,9 +39,6 @@ https://playztv-apps.pages.dev/ptv-sports/index.m3u8
 #http://103.185.24.134:3001/TSportsHD/index.m3u8
 #EXTINF:-1 group-title="ETV🍁" group-logo="https://img.magnific.com/premium-vector/professional-tv-channel-logo-design-concept-vector-illustration_875240-1836.jpg?semt=ais_test_b&w=740&q=80" tvg-logo="https://yt3.googleusercontent.com/IFgAG_o_AdtX4IauErKIzuFGCj0m4QyH81Q1Uq8H-2Si9ul3vmXkLihDUnn6-QI3xiMZech0AQ=s900-c-k-c0x00ffffff-no-rj",Tsports
 http://103.151.60.162:2122/play/a030/index.m3u8?hls
-
-
-
 #EXTINF:-1 group-title="ETV🍁" group-logo="https://img.magnific.com/premium-vector/professional-tv-channel-logo-design-concept-vector-illustration_875240-1836.jpg?semt=ais_test_b&w=740&q=80" tvg-logo="https://yt3.googleusercontent.com/IFgAG_o_AdtX4IauErKIzuFGCj0m4QyH81Q1Uq8H-2Si9ul3vmXkLihDUnn6-QI3xiMZech0AQ=s900-c-k-c0x00ffffff-no-rj",Tsports
 http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCRtp8T8/IMG-1741986198658-2.png" group-title="ETV🍁",STAR SPORTS 1 HD
@@ -54,32 +51,29 @@ http://livetv.akr4m.com:8080/bdtv/restrem/40.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqjVmZyt/Zee-Bangla-Cinema.jpg" group-title="ETV🍁",ZEE BANGLA CINEMA
 http://livetv.akr4m.com:8080/bdtv/restrem/42.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqjVmZyt/Zee-Bangla-Cinema.jpg" group-title="ETV🍁",ZEE BANGLA CINEMA
+http://livetv.akr4m.com:8080/bdtv/restrem/3.m3u8
 #EXTINF:-1 group-title="ETV🍁" group-logo="https://assets.dhakapost.com/media/imgAll/BG/2024September/btv-2--20240918180041.jpg?q=75&width=1280&utm_source=chatgpt.com",BTV
 http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8
 #EXTINF:-1 tvg-id="btv_news" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_1b90aebe217ac437da23625feaba0b76_playmist_btv_news400x400.jpg",BTV News
 #https://tvsen6.aynaott.com/tV8mB2zP7rX4kL1w/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/13.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/btv.png" group-title="PRO✅",BTV HD
-http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8
-#EXTINF:-1 tvg-id="240000" tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png" group-title="PRO✅",BTV
+#EXTINF:-1 tvg-id="240000" tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png" group-title="ETV🍁",BTV World 
 https://btv.hridoytv-channel.workers.dev/btv.m3u8
 #http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA6Leaj8pHKV9GIxfiviqUcc/m3u8
-#EXTINF:-1 tvg-logo="http://172.19.17.34:80/images/d92a7381521a7b2926fde01ecfe7fafe.png" group-title="PRO✅",BTV CHATTAGRAM🇧🇩
-https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
-#EXTINF:-1 tvg-id="btv_news" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_1b90aebe217ac437da23625feaba0b76_playmist_btv_news400x400.jpg" group-title="PRO✅",BTV News🇧🇩          
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/index.m3u8
-#EXTINF:-1 tvg-id="SangsadTV.bd@SD" tvg-logo="https://i.imgur.com/jkouxLg.png" group-title="PRO✅",Sangsad TV🇧🇩
-http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA5dlt3yYxePAtP3Yd8YVjJM/m3u8
-
-
+#EXTINF:-1 tvg-logo="http://172.19.17.34:80/images/d92a7381521a7b2926fde01ecfe7fafe.png" group-title="ETV🍁",BTV CHATTAGRAM
+#https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/11.m3u8
-
+#EXTINF:-1 tvg-id="SangsadTV.bd@SD" tvg-logo="https://i.imgur.com/jkouxLg.png" group-title="ETV🍁",Sangsad TV
 http://livetv.akr4m.com:8080/bdtv/restrem/32.m3u8
 
 
-http://livetv.akr4m.com:8080/bdtv/restrem/3.m3u8
+
+
+
+
+
+
 
 
 http://livetv.akr4m.com:8080/bdtv/restrem/4.m3u8
