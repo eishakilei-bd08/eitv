@@ -50,11 +50,13 @@ http://livetv.akr4m.com:8080/bdtv/restrem/39.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPQTMyHz/IMG-1741986445491-2.png" group-title="ETV🍁",STAR SPORTS SELECT 1 HD
 http://livetv.akr4m.com:8080/bdtv/restrem/40.m3u8
 #https://stream.kliv.in/nex/oppz22_167578.m3u8
-
-
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZRsMmLq/Depto-Tv.jpg" group-title="ETV🍁",DIPTO TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqjVmZyt/Zee-Bangla-Cinema.jpg" group-title="ETV🍁",ZEE BANGLA CINEMA
 http://livetv.akr4m.com:8080/bdtv/restrem/42.m3u8
+
+
+
 
 http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8
 
