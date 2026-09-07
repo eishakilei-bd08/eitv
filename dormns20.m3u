@@ -10,32 +10,24 @@
 
 
 
-#EXTINF:-1 group-title="BD News" tvg-logo="https://play-lh.googleusercontent.com/Rwq0gnxRbnsREPfJxc2NMmbGkAfWyMvUJO5cte2TQIdzdLSMXjiRs6FXYvfjNxOTizVeDUOoilcHSDwxlOACSg",BD TV
-http://192.168.91.8/streams/117/index.m3u8
-
-#EXTINF:-1 group-title="BD News" tvg-logo="https://i.ytimg.com/vi/MEFRrtRaqlc/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AHUBoAC4AOKAgwIABABGH8gJCglMA8=&rs=AOn4CLD_kZG6nLwYlKE3OmJRlKxP95N5Bg",Somoy 
-https://s1.itcnbd.live/somoy/index.m3u8
-
-#EXTINF:-1 group-title="BD News" tvg-logo="",BTV News
+#EXTINF:-1 group-title="BD♥️" tvg-logo="https://play-lh.googleusercontent.com/Rwq0gnxRbnsREPfJxc2NMmbGkAfWyMvUJO5cte2TQIdzdLSMXjiRs6FXYvfjNxOTizVeDUOoilcHSDwxlOACSg",BD TV
+http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0L74J7k/Somoy-Tv.jpg" group-title="BD♥️",SOMOY
+#https://tvsen5.aynaott.com/somoytv/tracks-v1a1/mono.m3u8
+http://103.165.93.31:8095/somoyTv/index.m3u8
+#EXTINF:-1 tvg-id="btv_ctg" tvg-name="BTV CTG" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/b994ae24dd627fb8b680e5cd654d1e9c.jpg" group-title="BD♥️",BTV CTG
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/index.m3u8
-
-#EXTINF:-1 tvg-id="btv_ctg" tvg-name="BTV CTG" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/b994ae24dd627fb8b680e5cd654d1e9c.jpg" group-title="BD News",BTV CTG
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=btv_ctg&format=.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwG0eh3DOQS8ejJyQ8ML-1EPRhjn4aVOMbo9BdDSlomHI8Vr0u9u64wME_&s=10" group-title="BD News",Sangsad TV
-
-
-#EXTINF:-1 group-title="BD News" tvg-logo="https://otapp.store/uploads/tv_image/sm/channel-24.png", CHANNEL 24
+#EXTINF:-1 group-title="BD♥️" tvg-logo="https://otapp.store/uploads/tv_image/sm/channel-24.png", CHANNEL 24
 https://stream.ottplus.live/live/channel_24_abr/index.m3u8
-
-#EXTINF:-1 group-title="BD News" tvg-logo="https://otapp.store/uploads/tv_image/sm/atn-news.png", ATN NEWS HD
-http://103.165.93.31:8095/atnNews/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="BD News" tvg-logo="https://otapp.store/uploads/tv_image/sm/ekattor-tv.png", EKATTOR TV HD
-http://103.165.93.31:8095/ekattorTv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="BD News" tvg-logo="https://otapp.store/uploads/tv_image/sm/jamuna-tv.png", Jamuna Tv
-http://103.165.93.31:8095/jamunaTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmJbrY8C/ATN-NEWS.jpg" group-title="BD♥️",ATN NEWS
+#http://103.165.93.31:8095/atnNews/tracks-v1a1/mono.m3u8
+https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6rgYGJk/Jamuna-Tv.jpg" group-title="BD♥️",JAMUNA TV
+https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
+#http://103.165.93.31:8095/jamunaTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjxB4bfF/Ekkattor.jpg" group-title="BD♥️",EKATTOR TV
+#http://103.165.93.31:8095/ekattorTv/tracks-v1a1/mono.m3u8
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 
 #EXTINF:-1 group-title="BD News" tvg-logo="https://otapp.store/uploads/tv_image/sm/maasranga-tv.png", Maasranga
 https://playztv-apps.pages.dev/maasranga-tv/index.m3u8
