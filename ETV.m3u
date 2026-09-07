@@ -39,6 +39,22 @@ https://playztv-apps.pages.dev/ptv-sports/index.m3u8
 http://103.185.24.134:3001/TSportsHD/index.m3u8
 #EXTINF:-1 group-title="ETV🍁" group-logo="https://img.magnific.com/premium-vector/professional-tv-channel-logo-design-concept-vector-illustration_875240-1836.jpg?semt=ais_test_b&w=740&q=80" tvg-logo="https://yt3.googleusercontent.com/IFgAG_o_AdtX4IauErKIzuFGCj0m4QyH81Q1Uq8H-2Si9ul3vmXkLihDUnn6-QI3xiMZech0AQ=s900-c-k-c0x00ffffff-no-rj",Tsports
 http://103.151.60.162:2122/play/a030/index.m3u8?hls
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2h7Rov9K9yz6dRM5N81dYq44AUzESD-FpiykR8bVAwg&s=10" group-title="ETV🍁",Zee Bangla
 http://103.151.60.162:2122/play/a011/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2h7Rov9K9yz6dRM5N81dYq44AUzESD-FpiykR8bVAwg&s=10" group-title="ETV🍁",Zee Bangla Yapptv
