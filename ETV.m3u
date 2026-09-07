@@ -118,7 +118,10 @@ http://livetv.akr4m.com:8080/bdtv/restrem/19.m3u8
 
 http://livetv.akr4m.com:8080/bdtv/restrem/20.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8m6PxQ4/ETV.jpg" group-title="ETV🍁",EKUSHEY TV
+#https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
+#http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/21.m3u8
 
 
