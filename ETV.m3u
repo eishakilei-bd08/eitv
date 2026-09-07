@@ -66,17 +66,13 @@ https://btv.hridoytv-channel.workers.dev/btv.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/11.m3u8
 #EXTINF:-1 tvg-id="SangsadTV.bd@SD" tvg-logo="https://i.imgur.com/jkouxLg.png" group-title="ETV🍁",Sangsad TV
 http://livetv.akr4m.com:8080/bdtv/restrem/32.m3u8
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvVmtRMh/Ananda-Tv.jpg" group-title="News",30.ANANDA TV
+#https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
+#https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/4.m3u8
+
+
+
 
 http://livetv.akr4m.com:8080/bdtv/restrem/5.m3u8
 
