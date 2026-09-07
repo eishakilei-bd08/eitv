@@ -60,6 +60,8 @@ http://livetv.akr4m.com:8080/bdtv/restrem/42.m3u8
 
 http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8
 
+#EXTINF:-1 tvg-id="btv_news" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_1b90aebe217ac437da23625feaba0b76_playmist_btv_news400x400.jpg",BTV News
+#https://tvsen6.aynaott.com/tV8mB2zP7rX4kL1w/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/13.m3u8
 
 http://livetv.akr4m.com:8080/bdtv/restrem/11.m3u8
