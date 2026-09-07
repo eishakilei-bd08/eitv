@@ -66,22 +66,34 @@ https://btv.hridoytv-channel.workers.dev/btv.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/11.m3u8
 #EXTINF:-1 tvg-id="SangsadTV.bd@SD" tvg-logo="https://i.imgur.com/jkouxLg.png" group-title="ETV🍁",Sangsad TV
 http://livetv.akr4m.com:8080/bdtv/restrem/32.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvVmtRMh/Ananda-Tv.jpg" group-title="News",30.ANANDA TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvVmtRMh/Ananda-Tv.jpg" group-title="ETV🍁",ANANDA TV
 #https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 #https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/4.m3u8
-
-
-
-
+EXTINF:-1 tvg-logo="https://i.postimg.cc/TPnBR3Fs/ATN-BANGLA.jpg" group-title="ETV🍁",ATN BANGLA
 http://livetv.akr4m.com:8080/bdtv/restrem/5.m3u8
-
+#https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
+#https://tvsen5.aynaott.com/atnbangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNfp63nv/Bangla-Vision.jpg" group-title="ETV🍁",BANGLA VISION
+#https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
+#https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/7.m3u8
+
+
+
+
 
 http://livetv.akr4m.com:8080/bdtv/restrem/8.m3u8
 
 
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28RYNg13/Bijoy-Tv.jpg" group-title="ETV🍁",26.BIJOY TV
 http://livetv.akr4m.com:8080/bdtv/restrem/9.m3u8
+#https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_720/chunks.m3u8
+#https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
+
+
 
 
 http://livetv.akr4m.com:8080/bdtv/restrem/10.m3u8
