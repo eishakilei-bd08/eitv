@@ -34,7 +34,7 @@ https://cdn.pishow.tv/ott/live/6/master.m3u8
 #EXTINF:-1 tvg-id="abps105" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/music_india.png",Music India
 https://cdn.pishow.tv/ott/live/226/master.m3u8
 
-#EXTINF:-1 tvg-id="abps3" group-title="FTA | Music" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/9x_jalwa.png",9X Jalwa
+#EXTINF:-1 tvg-id="abps3" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/9x_jalwa.png",9X Jalwa
 https://ms2.alliancebroadband.in/media_9x_jalwa.m3u8
 
 #EXTINF:-1 tvg-id="abps143" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/sangeet_bangla.png",Sangeet Bangla
@@ -51,45 +51,45 @@ https://ms4.alliancebroadband.in/media_ptc_chak_de.m3u8
 
 #EXTINF:-1 tvg-id="abps117" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/ptc_chakde.png",PTC Chakde
 https://cdn.pishow.tv/ott/live/449/master.m3u8
-
-#EXTINF:-1 tvg-id="abps51" group-title="FTA | Music" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/dhoom.png",Dhoom
+#EXTINF:-1 tvg-id="abps51" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/dhoom.png",Dhoom
 https://ms3.alliancebroadband.in/media_dhoom.m3u8
-#EXTINF:-1 tvg-id="abps68" group-title="FTA | Music" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/ilove.png",Ilove
+#EXTINF:-1 tvg-id="abps68" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/ilove.png",Ilove
 https://ms4.alliancebroadband.in/media_ilove.m3u8
 
-#EXTINF:-1 tvg-id="abps85" group-title="FTA | Music" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/khabar_fast.png",Khabar Fast
+#EXTINF:-1 tvg-id="abps85" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/khabar_fast.png",Khabar Fast
 https://ms4.alliancebroadband.in/media_khabar_fast.m3u8
 
-#EXTINF:-1 tvg-id="abps99" group-title="FTA | Music" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/manoronjon_music.png",Manoronjon Music
+#EXTINF:-1 tvg-id="abps99" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/manoronjon_music.png",Manoronjon Music
 https://ms2.alliancebroadband.in/media_manoronjon_music.m3u8
 
-#EXTINF:-1 tvg-id="abps100" group-title="FTA | Music" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/mastiii.png",Mastiii
+#EXTINF:-1 tvg-id="abps100" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/mastiii.png",Mastiii
 https://ms2.alliancebroadband.in/media_mastiii.m3u8
 
-#EXTINF:-1 tvg-id="abps144" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/sangeet_bhojpuri.png",Sangeet Bhojpuri
+#EXTINF:-1 tvg-id="abps144" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/sangeet_bhojpuri.png",Sangeet Bhojpuri
 https://ms1.alliancebroadband.in/media_sangeet_bhojpuri.m3u8
 
-#EXTINF:-1 tvg-id="abps145" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/sangeet_marathi.png",Sangeet Marathi
+#EXTINF:-1 tvg-id="abps145" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/sangeet_marathi.png",Sangeet Marathi
 https://cdn.pishow.tv/ott/live/1229/master.m3u8
 
 
-#EXTINF:-1 tvg-id="abps16" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/b4u_bhojpuri.png",B4U Bhojpuri
+#EXTINF:-1 tvg-id="abps16" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/b4u_bhojpuri.png",B4U Bhojpuri
 https://ms4.alliancebroadband.in/media_b4u_bhojpuri.m3u8
 
-#EXTINF:-1 tvg-id="abps17" group-title="FTA | Entertainment" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/b4u_kadak.png",B4U Kadak
+#EXTINF:-1 tvg-id="abps17" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/b4u_kadak.png",B4U Kadak
 https://cdn.pishow.tv/ott/live/227/master.m3u8
 
-#EXTINF:-1 tvg-id="abps18" group-title="FTA | Entertainment" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/b4u_music.png",B4U Music
+#EXTINF:-1 tvg-id="abps18" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/b4u_music.png",B4U Music
 https://cdn.pishow.tv/ott/live/415/master.m3u8
 
-#EXTINF:-1 tvg-id="abps19" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/dishum.png",BFLIX Movies
+#EXTINF:-1 tvg-id="abps19" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/dishum.png",BFLIX Movies
 https://ms4.alliancebroadband.in/media_bflix_movies.m3u8
 
-#EXTINF:-1 tvg-id="abps20" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/btv_news.png",BTV News
+#EXTINF:-1 tvg-id="abps20" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/btv_news.png",BTV News
 https://ms1.alliancebroadband.in/media_btv_news.m3u8
 
-#EXTINF:-1 tvg-id="abps21" group-title="FTA | Music" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/balle_balle.png",Balle Balle
-https://ms4.alliancebroadband.in/media_balle_balle.m3u8
+#EXTINF:-1 tvg-id="abps21" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/balle_balle.png",Balle Balle
+https://cdn.pishow.tv/ott/live/987/master.m3u8
+
 
 
 
@@ -287,8 +287,7 @@ https://cdn.pishow.tv/ott/live/961/master.m3u8
 https://cdn.pishow.tv/ott/live/965/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Aakash Aath
 https://cdn.pishow.tv/ott/live/969/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",Balle Balle
-https://cdn.pishow.tv/ott/live/987/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="",Jinvani TV
 https://cdn.pishow.tv/ott/live/989/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Anjan TV
