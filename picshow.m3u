@@ -16,12 +16,12 @@
 
 
 
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="",9X Jhakaas
+#EXTINF:-1 tvg-id="abps4" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/9x_jhakaas.png",9X Jhakaas
 https://cdn.pishow.tv/ott/live/6/master.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="",DD Urdu
 https://cdn.pishow.tv/ott/live/8/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",DD Kisan
@@ -3675,8 +3675,7 @@ https://ms3.alliancebroadband.in/media_99_tv.m3u8
 #EXTINF:-1 tvg-id="abps3" group-title="FTA | Music" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/9x_jalwa.png",9X Jalwa
 https://ms2.alliancebroadband.in/media_9x_jalwa.m3u8
 
-#EXTINF:-1 tvg-id="abps4" group-title="FTA | Music" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/9x_jhakaas.png",9X Jhakaas
-https://ms2.alliancebroadband.in/media_9x_jhakaas.m3u8
+
 
 #EXTINF:-1 tvg-id="abps5" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/9x_tashan.png",9X Tashan
 https://ms2.alliancebroadband.in/media_9x_tashan.m3u8
