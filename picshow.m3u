@@ -52,11 +52,44 @@ https://ms4.alliancebroadband.in/media_ptc_chak_de.m3u8
 #EXTINF:-1 tvg-id="abps117" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/ptc_chakde.png",PTC Chakde
 https://cdn.pishow.tv/ott/live/449/master.m3u8
 
+#EXTINF:-1 tvg-id="abps51" group-title="FTA | Music" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/dhoom.png",Dhoom
+https://ms3.alliancebroadband.in/media_dhoom.m3u8
+#EXTINF:-1 tvg-id="abps68" group-title="FTA | Music" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/ilove.png",Ilove
+https://ms4.alliancebroadband.in/media_ilove.m3u8
+
+#EXTINF:-1 tvg-id="abps85" group-title="FTA | Music" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/khabar_fast.png",Khabar Fast
+https://ms4.alliancebroadband.in/media_khabar_fast.m3u8
+
+#EXTINF:-1 tvg-id="abps99" group-title="FTA | Music" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/manoronjon_music.png",Manoronjon Music
+https://ms2.alliancebroadband.in/media_manoronjon_music.m3u8
+
+#EXTINF:-1 tvg-id="abps100" group-title="FTA | Music" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/mastiii.png",Mastiii
+https://ms2.alliancebroadband.in/media_mastiii.m3u8
+
+#EXTINF:-1 tvg-id="abps144" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/sangeet_bhojpuri.png",Sangeet Bhojpuri
+https://ms1.alliancebroadband.in/media_sangeet_bhojpuri.m3u8
+
+#EXTINF:-1 tvg-id="abps145" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/sangeet_marathi.png",Sangeet Marathi
+https://cdn.pishow.tv/ott/live/1229/master.m3u8
 
 
+#EXTINF:-1 tvg-id="abps16" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/b4u_bhojpuri.png",B4U Bhojpuri
+https://ms4.alliancebroadband.in/media_b4u_bhojpuri.m3u8
 
+#EXTINF:-1 tvg-id="abps17" group-title="FTA | Entertainment" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/b4u_kadak.png",B4U Kadak
+https://cdn.pishow.tv/ott/live/227/master.m3u8
 
+#EXTINF:-1 tvg-id="abps18" group-title="FTA | Entertainment" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/b4u_music.png",B4U Music
+https://cdn.pishow.tv/ott/live/415/master.m3u8
 
+#EXTINF:-1 tvg-id="abps19" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/dishum.png",BFLIX Movies
+https://ms4.alliancebroadband.in/media_bflix_movies.m3u8
+
+#EXTINF:-1 tvg-id="abps20" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/btv_news.png",BTV News
+https://ms1.alliancebroadband.in/media_btv_news.m3u8
+
+#EXTINF:-1 tvg-id="abps21" group-title="FTA | Music" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/balle_balle.png",Balle Balle
+https://ms4.alliancebroadband.in/media_balle_balle.m3u8
 
 
 
@@ -132,8 +165,6 @@ https://cdn.pishow.tv/ott/live/223/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Hi Dost
 https://cdn.pishow.tv/ott/live/224/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="",B4U Kadak
-https://cdn.pishow.tv/ott/live/227/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Manoranjan Movies
 https://cdn.pishow.tv/ott/live/228/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Channel WIN
@@ -206,8 +237,7 @@ https://cdn.pishow.tv/ott/live/407/master.m3u8
 https://cdn.pishow.tv/ott/live/409/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",I News
 https://cdn.pishow.tv/ott/live/411/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",B4U Music
-https://cdn.pishow.tv/ott/live/415/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="",B4U Movies
 https://cdn.pishow.tv/ott/live/419/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",CVR English
@@ -310,8 +340,7 @@ https://cdn.pishow.tv/ott/live/1211/master.m3u8
 https://cdn.pishow.tv/ott/live/1213/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Gangaur Television
 https://cdn.pishow.tv/ott/live/1221/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",Sangeet Marathi
-https://cdn.pishow.tv/ott/live/1229/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="",R Plus Gold
 https://cdn.pishow.tv/ott/live/1231/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",R Plus News
@@ -3738,23 +3767,6 @@ https://ms2.alliancebroadband.in/media_arihant.m3u8
 #EXTINF:-1 tvg-id="abps15" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/asianet_news.png",Asianet News
 https://ms4.alliancebroadband.in/media_asianet_news.m3u8
 
-#EXTINF:-1 tvg-id="abps16" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/b4u_bhojpuri.png",B4U Bhojpuri
-https://ms4.alliancebroadband.in/media_b4u_bhojpuri.m3u8
-
-#EXTINF:-1 tvg-id="abps17" group-title="FTA | Entertainment" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/b4u_kadak.png",B4U Kadak
-https://ms4.alliancebroadband.in/media_b4u_kadak.m3u8
-
-#EXTINF:-1 tvg-id="abps18" group-title="FTA | Entertainment" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/b4u_music.png",B4U Music
-https://ms4.alliancebroadband.in/media_b4u_music.m3u8
-
-#EXTINF:-1 tvg-id="abps19" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/dishum.png",BFLIX Movies
-https://ms4.alliancebroadband.in/media_bflix_movies.m3u8
-
-#EXTINF:-1 tvg-id="abps20" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/btv_news.png",BTV News
-https://ms1.alliancebroadband.in/media_btv_news.m3u8
-
-#EXTINF:-1 tvg-id="abps21" group-title="FTA | Music" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/balle_balle.png",Balle Balle
-https://ms4.alliancebroadband.in/media_balle_balle.m3u8
 
 #EXTINF:-1 tvg-id="abps22" group-title="FTA | General" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/bengali_talkies.png",Bangla Talkies
 https://ms3.alliancebroadband.in/media_bengali_talkies.m3u8
@@ -3843,8 +3855,11 @@ https://ms4.alliancebroadband.in/media_darshana.m3u8
 #EXTINF:-1 tvg-id="abps50" group-title="FTA | Entertainment" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/dhamaal.png",Dhamaal
 https://ms4.alliancebroadband.in/media_dhamaal.m3u8
 
-#EXTINF:-1 tvg-id="abps51" group-title="FTA | Music" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/dhoom.png",Dhoom
-https://ms3.alliancebroadband.in/media_dhoom.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="abps52" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/digvijay_news.png",Digvijay 24*7
 https://ms1.alliancebroadband.in/media_digvijay_news.m3u8
@@ -3894,8 +3909,8 @@ https://ms2.alliancebroadband.in/media_hindi_khabar.m3u8
 #EXTINF:-1 tvg-id="abps67" group-title="FTA | Spiritual" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/vrindavan.png",ISKCON, Vrindavan
 https://cam.pc.cdn.bitgravity.com/cam/live/feed023/Alliance/live_darshan/playlist.m3u8?e=1801765799&h=15ed447ec07e3c3135b85ba313524249
 
-#EXTINF:-1 tvg-id="abps68" group-title="FTA | Music" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/ilove.png",Ilove
-https://ms4.alliancebroadband.in/media_ilove.m3u8
+
+
 
 #EXTINF:-1 tvg-id="abps69" group-title="FTA | News" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/india_24.png",India 24
 https://ms2.alliancebroadband.in/media_india_24.m3u8
@@ -3945,8 +3960,6 @@ https://cam.pc.cdn.bitgravity.com/cam/live/Kashi_Vishwanath/Alliance/live_darsha
 #EXTINF:-1 tvg-id="abps84" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/kaumudi_tv.png",Kaumudi TV
 https://ms4.alliancebroadband.in/media_kaumudi_tv.m3u8
 
-#EXTINF:-1 tvg-id="abps85" group-title="FTA | Music" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/khabar_fast.png",Khabar Fast
-https://ms4.alliancebroadband.in/media_khabar_fast.m3u8
 
 #EXTINF:-1 tvg-id="abps86" group-title="FTA | Entertainment" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/khabrein_abhi_tak.png",Khabrein Abhi Tak
 https://ms2.alliancebroadband.in/media_khabrein_abhi_tak.m3u8
@@ -3987,11 +4000,7 @@ https://ms4.alliancebroadband.in/media_manoranjan_movie.m3u8
 #EXTINF:-1 tvg-id="abps98" group-title="FTA | Entertainment" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/manoranjan_tv.png",Manoranjan TV
 https://ms3.alliancebroadband.in/media_manoranjan_tv.m3u8
 
-#EXTINF:-1 tvg-id="abps99" group-title="FTA | Music" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/manoronjon_music.png",Manoronjon Music
-https://ms2.alliancebroadband.in/media_manoronjon_music.m3u8
 
-#EXTINF:-1 tvg-id="abps100" group-title="FTA | Music" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/mastiii.png",Mastiii
-https://ms2.alliancebroadband.in/media_mastiii.m3u8
 
 #EXTINF:-1 tvg-id="abps101" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/mathrubhumi.png",Mathrubhumi
 https://ms2.alliancebroadband.in/media_mathrubhumi.m3u8
@@ -4116,11 +4125,6 @@ https://ms1.alliancebroadband.in/media_sandesh_news.m3u8
 
 
 
-#EXTINF:-1 tvg-id="abps144" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/sangeet_bhojpuri.png",Sangeet Bhojpuri
-https://ms1.alliancebroadband.in/media_sangeet_bhojpuri.m3u8
-
-#EXTINF:-1 tvg-id="abps145" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/sangeet_marathi.png",Sangeet Marathi
-https://ms3.alliancebroadband.in/media_sangeet_marathi.m3u8
 
 #EXTINF:-1 tvg-id="abps146" group-title="FTA | Spiritual" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/sankar.png",Sankar
 https://ms2.alliancebroadband.in/media_sankar.m3u8
