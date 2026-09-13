@@ -73,7 +73,8 @@ https://cdn.pishow.tv/ott/live/1229/master.m3u8
 
 
 #EXTINF:-1 tvg-id="abps16" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/b4u_bhojpuri.png",B4U Bhojpuri
-https://ms4.alliancebroadband.in/media_b4u_bhojpuri.m3u8
+https://cdn.pishow.tv/ott/live/1293/master.m3u8
+
 
 #EXTINF:-1 tvg-id="abps17" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/b4u_kadak.png",B4U Kadak
 https://cdn.pishow.tv/ott/live/227/master.m3u8
@@ -90,7 +91,20 @@ https://ms1.alliancebroadband.in/media_btv_news.m3u8
 #EXTINF:-1 tvg-id="abps21" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/balle_balle.png",Balle Balle
 https://cdn.pishow.tv/ott/live/987/master.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="",7S Music
+https://cdn.pishow.tv/ott/live/1257/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",Dhoom Music Bangla
+https://cdn.pishow.tv/ott/live/1456/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",PTC Music
+https://cdn.pishow.tv/ott/live/1501/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",PTC News
+https://cdn.pishow.tv/ott/live/1502/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",PTC Simran
+https://cdn.pishow.tv/ott/live/1503/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",Punjabi Hits
+https://cdn.pishow.tv/ott/live/1504/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",PTC Punjabi
+https://cdn.pishow.tv/ott/live/1604/master.m3u8
 
 
 
@@ -358,8 +372,8 @@ https://cdn.pishow.tv/ott/live/1245/master.m3u8
 https://cdn.pishow.tv/ott/live/1247/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",MK Six
 https://cdn.pishow.tv/ott/live/1253/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",7S Music
-https://cdn.pishow.tv/ott/live/1257/master.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="",Tamilan TV
 https://cdn.pishow.tv/ott/live/1259/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Puthiya Thalaimurai
@@ -374,8 +388,7 @@ https://cdn.pishow.tv/ott/live/1279/master.m3u8
 https://cdn.pishow.tv/ott/live/1285/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",NDTV Profit
 https://cdn.pishow.tv/ott/live/1287/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",Sangeet Bhojpuri
-https://cdn.pishow.tv/ott/live/1293/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="",Peppers TV
 https://cdn.pishow.tv/ott/live/1383/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Nambikkai TV
@@ -390,8 +403,7 @@ https://cdn.pishow.tv/ott/live/1453/master.m3u8
 https://cdn.pishow.tv/ott/live/1454/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Dharm Sandesh
 https://cdn.pishow.tv/ott/live/1455/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",Dhoom Music Bangla
-https://cdn.pishow.tv/ott/live/1456/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="",Goldmines
 https://cdn.pishow.tv/ott/live/1459/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Goldmines 2
@@ -440,14 +452,7 @@ https://cdn.pishow.tv/ott/live/1494/master.m3u8
 https://cdn.pishow.tv/ott/live/1498/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Orange Bangla
 https://cdn.pishow.tv/ott/live/1499/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",PTC Music
-https://cdn.pishow.tv/ott/live/1501/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",PTC News
-https://cdn.pishow.tv/ott/live/1502/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",PTC Simran
-https://cdn.pishow.tv/ott/live/1503/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",Punjabi Hits
-https://cdn.pishow.tv/ott/live/1504/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="",Reporter TV
 https://cdn.pishow.tv/ott/live/1510/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Safari
@@ -466,8 +471,7 @@ https://cdn.pishow.tv/ott/live/1530/master.m3u8
 https://cdn.pishow.tv/ott/live/1531/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Odisha TV
 https://cdn.pishow.tv/ott/live/1600/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",PTC Punjabi
-https://cdn.pishow.tv/ott/live/1604/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="",Malai Murasu Seithigal
 https://cdn.pishow.tv/ott/live/1606/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",SVBC 4
