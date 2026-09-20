@@ -1,13 +1,17 @@
 #EXTM3U 
 
-
-
-
-
 Content and Copyright Notice
 
 This platform acts merely as an index and database of publicly available content found on the internet. We do not host, upload, or own any of the video files, films, or series (including images and media) linked here. All content is sourced from independent third-party websites.
 If you are the owner of any content displayed and believe its presence constitutes a copyright violation, please reach out to us immediately with relevant documentation so we can investigate and take appropriate action.
+
+
+
+
+
+
+
+
 
 
 
@@ -30,15 +34,6 @@ https://pixeldrain.dev/api/file/1hjbtKr3?download
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TDPsnyrt/KD-The-Devil-2026.jpg" group-title="AR Movie",KD – The Devil (2026)
 https://pixeldrain.dev/api/file/BfRHy3Zy?download
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0jkLzfW7/Voyal-2026.webp" group-title="AR Movie",Voyal (2026)
-https://pixeldrain.dev/api/file/9pydqbWV?download
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/v68xfTwg/Pho-Jvguc.jpg" group-title="AR Movie",Y2K (2024)
-https://pixeldrain.dev/api/file/PhoJvguc?download
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fzSmgqLN/Return-to-Silent-Hill-2026.jpg" group-title="AR Movie",Return to Silent Hill (2026)
-https://pixeldrain.dev/api/file/7BKhGGVw?download
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZRQ7846v/Kara-2026.jpg" group-title="AR Movie",Kara (2026)
 https://pixeldrain.dev/api/file/9Zpr9xwK?download
