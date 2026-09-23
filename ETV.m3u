@@ -28,7 +28,7 @@
 
 
 #EXTINF:-1 group-title="ETV🍁" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T-SPORTS
-https://playztv-apps.pages.dev/unite8-sports-2/index.m3u8
+http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
 #EXTINF:-1 group-title="ETV🍁" tvg-logo="https://mms.businesswire.com/media/20250109393255/en/2348228/4/WILLOW_2023_Primary-Stacked.jpg?utm_source=chatgpt.com",Willow
 https://playztv-apps.pages.dev/willow-tv/index.m3u8
 #EXTINF:-1 group-title="ETV🍁" group-logo="https://img.magnific.com/premium-vector/professional-tv-channel-logo-design-concept-vector-illustration_875240-1836.jpg?semt=ais_test_b&w=740&q=80" tvg-logo="https://play-lh.googleusercontent.com/9SeOWItRm9aisiTN7QJO1cSeRbpj_XJBc-_R0b7QND_r_BFop59qRw5pWxAUl3beku_PKJoO7gJO9ZYM2-FimWM=w600-h300-pc0xffffff-pd",A Sports
@@ -39,8 +39,6 @@ https://playztv-apps.pages.dev/ptv-sports/index.m3u8
 #http://103.185.24.134:3001/TSportsHD/index.m3u8
 #EXTINF:-1 group-title="ETV🍁" group-logo="https://img.magnific.com/premium-vector/professional-tv-channel-logo-design-concept-vector-illustration_875240-1836.jpg?semt=ais_test_b&w=740&q=80" tvg-logo="https://yt3.googleusercontent.com/IFgAG_o_AdtX4IauErKIzuFGCj0m4QyH81Q1Uq8H-2Si9ul3vmXkLihDUnn6-QI3xiMZech0AQ=s900-c-k-c0x00ffffff-no-rj",Tsports
 http://103.151.60.162:2122/play/a030/index.m3u8?hls
-#EXTINF:-1 group-title="ETV🍁" group-logo="https://img.magnific.com/premium-vector/professional-tv-channel-logo-design-concept-vector-illustration_875240-1836.jpg?semt=ais_test_b&w=740&q=80" tvg-logo="https://yt3.googleusercontent.com/IFgAG_o_AdtX4IauErKIzuFGCj0m4QyH81Q1Uq8H-2Si9ul3vmXkLihDUnn6-QI3xiMZech0AQ=s900-c-k-c0x00ffffff-no-rj",Tsports
-http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCRtp8T8/IMG-1741986198658-2.png" group-title="ETV🍁",STAR SPORTS 1 HD
 http://livetv.akr4m.com:8080/bdtv/restrem/39.m3u8
 #https://stream.kliv.in/nex/oppz22_167573.m3u8
@@ -50,8 +48,6 @@ http://livetv.akr4m.com:8080/bdtv/restrem/40.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZRsMmLq/Depto-Tv.jpg" group-title="ETV🍁",DIPTO TV
 #https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/17.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqjVmZyt/Zee-Bangla-Cinema.jpg" group-title="ETV🍁",ZEE BANGLA CINEMA
-http://livetv.akr4m.com:8080/bdtv/restrem/42.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqjVmZyt/Zee-Bangla-Cinema.jpg" group-title="ETV🍁",ZEE BANGLA CINEMA
 http://livetv.akr4m.com:8080/bdtv/restrem/3.m3u8
 #EXTINF:-1 group-title="ETV🍁" group-logo="https://assets.dhakapost.com/media/imgAll/BG/2024September/btv-2--20240918180041.jpg?q=75&width=1280&utm_source=chatgpt.com",BTV
