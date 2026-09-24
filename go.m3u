@@ -10,11 +10,72 @@
 
 
 
+#EXTINF:-1,Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
+http://103.141.70.136:8080//bdtv/restrem/1.m3u8
+
+http://103.141.70.136:8080//bdtv/restrem/2.m3u8
+
+http://103.141.70.136:8080//bdtv/restrem/3.m3u8
+
+http://103.141.70.136:8080//bdtv/restrem/4.m3u8
+
+http://103.141.70.136:8080//bdtv/restrem/5.m3u8
+
+http://103.141.70.136:8080//bdtv/restrem/6.m3u8
+
+http://103.141.70.136:8080//bdtv/restrem/7.m3u8
+
+http://103.141.70.136:8080//bdtv/restrem/8.m3u8
+
+http://103.141.70.136:8080//bdtv/restrem/9.m3u8
+
+
+http://103.141.70.136:8080//bdtv/restrem/19.m3u8
+
+http://103.141.70.136:8080//bdtv/restrem/12.m3u8
+
+http://103.141.70.136:8080//bdtv/restrem/12.m3u8
+
+
+http://103.141.70.136:8080//bdtv/restrem/13.m3u8
+
+http://103.141.70.136:8080//bdtv/restrem/14.m3u8
+
+http://103.141.70.136:8080//bdtv/restrem/15.m3u8
+
+http://103.141.70.136:8080//bdtv/restrem/16.m3u8
+
+http://103.141.70.136:8080//bdtv/restrem/17.m3u8
+
+
+http://103.141.70.136:8080//bdtv/restrem/18.m3u8
+
+
+http://103.141.70.136:8080//bdtv/restrem/19.m3u8
+
+http://103.141.70.136:8080//bdtv/restrem/20.m3u8
+
+
+http://103.141.70.136:8080//bdtv/restrem/21.m3u8
+
+http://103.141.70.136:8080//bdtv/restrem/22.m3u8
+
+
+http://103.141.70.136:8080//bdtv/restrem/23.m3u8
+
+http://103.141.70.136:8080//bdtv/restrem/24.m3u8
+
+
+http://103.141.70.136:8080//bdtv/restrem/25.m3u8
+
+
+
 
 #EXTINF:-1,Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1,Deepto TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
 #EXTINF:-1,Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1,Channel I
