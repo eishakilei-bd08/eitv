@@ -2473,29 +2473,6 @@ https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://yuppnimrestreammum.akamaized.net/181224/smil:darshanatv.smil/playlist.m3u8?hdnts=st%3D1790381397~exp%3D1790402997~acl%3D%21%2A%2F181224%2Fsmil%3Adarshanatv.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_186_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_186_-1~hmac%3D1496215dca83fc54e2a94f4f78862a1fce9a570ab1a39496c3ef3c90bdbdae9c
 
-#EXTINF:-1 tvg-id="183" tvg-chno="825" tvg-name="nepal-1" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nepal-1.png" group-title="Entertainment", Nepal 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/playlist.m3u8?hdnts=st%3D1790381397~exp%3D1790402997~acl%3D%21%2A%2Ffta%2Fnepal1%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_183_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_183_-1~hmac%3D21735ba46bf5828b1e8da62e4d2ebe89cd2979b3002b13b39dd3b2d3459cea42
-
-#EXTINF:-1 tvg-id="80" tvg-chno="275" tvg-name="jupiter-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jupiter-tv.png" group-title="Music", Jupiter TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c7e85b21-ea01-42b4-85db-15dcfec98942/manifest.m3u8?hdnts=st%3D1790381398~exp%3D1790402998~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fc7e85b21-ea01-42b4-85db-15dcfec98942%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_80_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_80_-1~hmac%3Df6a972bbd36e711a3e8a49adede1b2ead74479a08844cf5ac127962e78a28fcd
-
-#EXTINF:-1 tvg-id="41" tvg-chno="282" tvg-name="wildest-wish-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kawupc.png" group-title="Music", Wildest wish tv
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/937a5556-49c9-403b-9d3f-f8f10bbc3249/manifest.m3u8
-
-#EXTINF:-1 tvg-id="58" tvg-chno="283" tvg-name="edgy-urban" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/athpnb.png" group-title="Music", Edgy Urban
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/50ce2783-e0fe-405b-bfa7-349c4ff4916b/manifest.m3u8?hdnts=st%3D1790381399~exp%3D1790402999~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F50ce2783-e0fe-405b-bfa7-349c4ff4916b%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_58_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_58_-1~hmac%3D6b3230b51450cb37cda6b1572791f389872c31cc1366f3fc3b28cd0b588ed8f7
 
 #EXTINF:-1 tvg-id="137" tvg-chno="67" tvg-name="balle-balle" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/balle-balle.png" group-title="Music", Balle Balle
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2503,23 +2480,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/50
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://d1msejlow1t3l4.cloudfront.net/fta/balleballe/playlist.m3u8?hdnts=st%3D1790381399~exp%3D1790402999~acl%3D%21%2A%2Ffta%2Fballeballe%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_137_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_137_-1~hmac%3D8e258527d388d9286ac7b766b271b73a2e299eaded96ef6dbed727df1f03f388
 
-#EXTINF:-1 tvg-id="126" tvg-chno="68" tvg-name="insync" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/insync.png" group-title="Music", insync
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://d1msejlow1t3l4.cloudfront.net/fta/insync/playlist.m3u8?hdnts=st%3D1790381400~exp%3D1790403000~acl%3D%21%2A%2Ffta%2Finsync%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_126_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_126_-1~hmac%3De675510e150dc8997a3d0f5405b175140b50e050173275e14dad4dbcefeb72b0
-
-#EXTINF:-1 tvg-id="192" tvg-chno="69" tvg-name="haryanvi-hits" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/haryanvi-hits.png" group-title="Music", Haryanvi Hits
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppnimresmum.akamaized.net/28072023/smil:haryanvihits.smil/playlist.m3u8?hdnts=st%3D1790381401~exp%3D1790403001~acl%3D%21%2A%2F28072023%2Fsmil%3Aharyanvihits.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_192_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_192_-1~hmac%3Ddc98ecc9f0aa5a8157ef2b88d06c7e26ba5c2801436606fc7534358339edd0e2
-
-#EXTINF:-1 tvg-id="214" tvg-chno="70" tvg-name="songdew" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/songdew.png" group-title="Music", Songdew
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st%3D1790381401~exp%3D1790403001~acl%3D%21%2A%2F181224%2Fsmil%3Asongdewtv.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_214_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_214_-1~hmac%3D53af02a2505029273dab18887462aac64447278783b83f3c4a851005db6c0463
 
 #EXTINF:-1 tvg-id="300" tvg-chno="715" tvg-name="punjabi-hits" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zqbwbs.png" group-title="Music", Punjabi Hits
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2527,17 +2487,6 @@ https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/41be6bd6-efe8-4884-810a-6b082875d4fd/index.m3u8?hdnts=st%3D1790381401~exp%3D1790403001~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F41be6bd6-efe8-4884-810a-6b082875d4fd%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_300_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_300_-1~hmac%3D232ebbef28a3d26286bee0068b6ec8f69c2bab6ee2098413c07027fadce2a31d
 
-#EXTINF:-1 tvg-id="199" tvg-chno="711" tvg-name="boogle-bollywood" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/boogle-bollywood.png" group-title="Music", Boogle Bollywood
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?hdnts=st%3D1790381402~exp%3D1790403002~acl%3D%21%2A%2F181224%2Fsmil%3Abogglebollywood.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_199_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_199_-1~hmac%3D5b2956550a66c673638c1d399946fb795de551a795d3a03971a0edfff3995060
-
-#EXTINF:-1 tvg-id="190" tvg-chno="713" tvg-name="wah-punjabi" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wah-punjabi.png" group-title="Music", Wah Punjabi
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppnimrestreammum.akamaized.net/181224/smil:wahpunjabi.smil/playlist.m3u8?hdnts=st%3D1790381402~exp%3D1790403002~acl%3D%21%2A%2F181224%2Fsmil%3Awahpunjabi.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_190_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_190_-1~hmac%3D922be918f2d3fdcfe7db4a70c613b5c32d3a2838f1fb36eb41328487bf8168f7
 
 #EXTINF:-1 tvg-id="146" tvg-chno="536" tvg-name="murasu" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/murasu.png" group-title="Music", Murasu
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2545,11 +2494,6 @@ https://yuppnimrestreammum.akamaized.net/181224/smil:wahpunjabi.smil/playlist.m3
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8?hdnts=st%3D1790381402~exp%3D1790403002~acl%3D%21%2A%2Fv1%2Fmaster%2Fa0d007312bfd99c47f76b77ae26b1ccdaae76cb1%2Fmurasu_nim_https%2F050522%2Fmurasu%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_146_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_146_-1~hmac%3D9cbd33ab424b0e0d6f11413bdbdf965ce30a59d6ceea3695d9b8dbe734b10ff3
 
-#EXTINF:-1 tvg-id="70" tvg-chno="537" tvg-name="thalaa-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thalaa-tv.png" group-title="Music", Thalaa TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8?hdnts=st%3D1790381403~exp%3D1790403003~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F2069c593-3c07-4d62-9d44-746be5c3a5d6%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_70_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_70_-1~hmac%3D966b2efbfa0fcc95af7bbf9889fb00951686c37f54887516e11076479eef4121
 
 #EXTINF:-1 tvg-id="166" tvg-chno="612" tvg-name="kappa-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kappa-tv.png" group-title="Music", Kappa TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2557,17 +2501,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://d1msejlow1t3l4.cloudfront.net/fta/kappatv/playlist.m3u8?hdnts=st%3D1790381403~exp%3D1790403003~acl%3D%21%2A%2Ffta%2Fkappatv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_166_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_166_-1~hmac%3Db39dac267262952d37ce050663dab38dedf51b030ef6c3098868dd3070e457c5
 
-#EXTINF:-1 tvg-id="83" tvg-chno="232" tvg-name="kiddo" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kiddo.png" group-title="Kids", Kiddo
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5bcf9d24-04f2-401d-a93f-7af54f29461a/manifest.m3u8?hdnts=st%3D1790381404~exp%3D1790403004~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F5bcf9d24-04f2-401d-a93f-7af54f29461a%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_83_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_83_-1~hmac%3D766d9805435818caef54cc37a66ea0b248e4e877c21547a974fd6b52cad755ae
-
-#EXTINF:-1 tvg-id="48" tvg-chno="235" tvg-name="cartoon-tv-classics" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ehuljr.png" group-title="Kids", Cartoon TV Classics
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8?hdnts=st%3D1790381404~exp%3D1790403004~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fd5543c06-5122-49a7-9662-32187f48aa2c%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_48_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_48_-1~hmac%3D8e6eefb2b9d4818d401339add4df6074e380fd55ae7560b28c9ccb13f3903a7c
 
 #EXTINF:-1 tvg-id="323" tvg-chno="" tvg-name="hooray-rhymes" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hooray-rhymes.png" group-title="Kids", Hooray Rhymes
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2580,12 +2513,6 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://vglivessai.akamaized.net/eu/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/playlist.m3u8?hdnts=st%3D1790381405~exp%3D1790403005~acl%3D%21%2A%2Feu%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F675a37e5-f517-434e-adae-d25ae1706340%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_326_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_326_-1~hmac%3D9c3242f1635e45802de160abaef6e9e8369336498ef75862c7cace2c7ae8be1f
-
-#EXTINF:-1 tvg-id="281" tvg-chno="2" tvg-name="green-gold-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/green-gold-tv.png" group-title="Kids", Green Gold TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://greengold-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/abce93aa-dfba-43c5-a356-876695d20088/playlist.m3u8?hdnts=st%3D1790381405~exp%3D1790403005~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fabce93aa-dfba-43c5-a356-876695d20088%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_281_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_281_-1~hmac%3D80ac52d449fe53bb161046f8c13458e2ea2407997694ebe323447322cbd98ca5
 
 #EXTINF:-1 tvg-id="176" tvg-chno="303" tvg-name="god-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jjhfoz.png" group-title="Spiritual", God TV
 #KODIPROP:inputstream=inputstream.adaptive
