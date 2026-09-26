@@ -1383,47 +1383,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/44
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/master.m3u8?hdnts=st%3D1790400467~exp%3D1790422067~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F93dc292b-cbcf-4988-ab97-94feced4c14b%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_77_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_77_-1~hmac%3D606c54b6c4e5290f570bceefb775da8ed6c03e02b940857348ca71f73b135d73
 
-#EXTINF:-1 tvg-id="72" tvg-chno="258" tvg-name="tensions-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tensions-tv.png" group-title="Movies", Tensions TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9db01cea-0af6-4382-b2c6-e23525f6640d/manifest.m3u8?hdnts=st%3D1790400467~exp%3D1790422067~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F9db01cea-0af6-4382-b2c6-e23525f6640d%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_72_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_72_-1~hmac%3D08c8804ffe9b8d76cb234a6e82a8407cfd6609ef071daaa900429fd3df94527b
-
-#EXTINF:-1 tvg-id="55" tvg-chno="259" tvg-name="drive-in-movie-channel" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/drive-in-movie-channel.png" group-title="Movies", Drive In Movie Channel
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5056383-20ac-488f-b299-6577f66881ff/manifest.m3u8?hdnts=st%3D1790400468~exp%3D1790422068~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fe5056383-20ac-488f-b299-6577f66881ff%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_55_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_55_-1~hmac%3Df52bd27314d44dd18aed0c915829baf09ebe9da74027b53fa926949eeca71f31
-
-#EXTINF:-1 tvg-id="57" tvg-chno="260" tvg-name="weshort" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/weshort.png" group-title="Movies", Weshort
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea019bed-a45e-4dfe-a452-84f5f2f76ea9/manifest.m3u8?hdnts=st%3D1790400468~exp%3D1790422068~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fea019bed-a45e-4dfe-a452-84f5f2f76ea9%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_57_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_57_-1~hmac%3Dd4ae6c59244acc21639333a8cd9a868e506e4d939eecdeb4fd5a5de97b2e6b23
-
-#EXTINF:-1 tvg-id="85" tvg-chno="261" tvg-name="kung-fu" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kung-fu.png" group-title="Movies", Kung Fu
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/manifest.m3u8?hdnts=st%3D1790400469~exp%3D1790422069~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F06862a07-6a92-4b4d-abc3-5fea131713b5%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_85_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_85_-1~hmac%3D6f3da6ca0fdf1923b9203f190e15885fbcb45189fc9af2fbf93ec37c12f76b47
-
-#EXTINF:-1 tvg-id="256" tvg-chno="308" tvg-name="best-action-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fjbfto.png" group-title="Movies", BEST ACTION TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/12a9fc64-24ca-491e-b86c-be18c9be047b/manifest.m3u8?hdnts=st%3D1790400469~exp%3D1790422069~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F12a9fc64-24ca-491e-b86c-be18c9be047b%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_256_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_256_-1~hmac%3D2667f434610052a873f8a2078823c08e799742470ebfc47e6c06bbadaec6abf8
-
-#EXTINF:-1 tvg-id="257" tvg-chno="309" tvg-name="best-drama-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vuyumm.png" group-title="Movies",   BEST DRAMA TV  
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/ptnr-yupptv/title-BEST_DRAMA_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9800ea5c-2183-4160-9f01-70e5d6428a50/manifest.m3u8?hdnts=st%3D1790400469~exp%3D1790422069~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-BEST_DRAMA_YUPPTV%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F9800ea5c-2183-4160-9f01-70e5d6428a50%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_257_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_257_-1~hmac%3Df31bfa64795980431da20ba71843819330c3fe3767034603bb3246f2f1f00e9d
-
-#EXTINF:-1 tvg-id="258" tvg-chno="310" tvg-name="best-thriller-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ewehpt.png" group-title="Movies", BEST THRILLER TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/ptnr-yupptv/title-BEST_THRILLER_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8?hdnts=st%3D1790400470~exp%3D1790422070~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-BEST_THRILLER_YUPPTV%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fce168a85-c8d4-41d6-a597-cc8fd7baddd9%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_258_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_258_-1~hmac%3D85f59c528ab3daa6682d70cc669200a72856b8b00aa5739cd7d4fa6517463deb
 
 #EXTINF:-1 tvg-id="318" tvg-chno="" tvg-name="pocket-films" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/pocket-films.png" group-title="Movies", Pocket Films
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1431,11 +1390,6 @@ https://streams2.sofast.tv/ptnr-yupptv/title-BEST_THRILLER_YUPPTV/v1/master/611d
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/playlist.m3u8?hdnts=st%3D1790400471~exp%3D1790422071~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fb8ada260-bb81-472b-b7c1-3a79213a84b8%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_318_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_318_-1~hmac%3D34c1a975c72817e8c01c92203184768f3f99d528f9eab8169941c5cdb66e1511
 
-#EXTINF:-1 tvg-id="92" tvg-chno="429" tvg-name="tolly-tv1" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aumnrs.png" group-title="Movies", Tolly TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8?hdnts=st%3D1790400471~exp%3D1790422071~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F13b5735d-52c3-4be0-853d-e0ec0127e708%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_92_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_92_-1~hmac%3Da505ced85eb33a4f8c9ba4ab00b461c7dd2f84ff91c35444ef8e33c54997277d
 
 #EXTINF:-1 tvg-id="301" tvg-chno="716" tvg-name="tabbar-hits" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tabbar-hits.png" group-title="Movies", Tabbar Hits
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1461,35 +1415,6 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/index.m3u8?hdnts=st%3D1790400473~exp%3D1790422073~acl%3D%21%2A%2Fus%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fb6d9e864-ec16-410a-804d-ccf8f720bfaa%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_329_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_329_-1~hmac%3Dc33b508fd27a9b3850868eb62e773450eaaf9c66761a036d1e9d3423b42b2437
 
-#EXTINF:-1 tvg-id="4" tvg-chno="249" tvg-name="ndtv-goodtimes" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mxzyyw.png" group-title="Lifestyle", NDTV GoodTimes
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/playlist.m3u8?hdnts=st%3D1790400473~exp%3D1790422073~acl%3D%21%2A%2F230226%2Fndtvgoodtimes%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_4_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_4_-1~hmac%3D3c64fa0bc4ef00028b6778c14652078a8e0e89ac388d44f8787459729d39ec36
-
-#EXTINF:-1 tvg-id="264" tvg-chno="313" tvg-name="defiance-media" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jocyub.png" group-title="Lifestyle", DEFIANCE MEDIA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ee745e0b-7035-44db-8b40-0eb45a7d7c40/playlist.m3u8?hdnts=st%3D1790400474~exp%3D1790422074~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fee745e0b-7035-44db-8b40-0eb45a7d7c40%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_264_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_264_-1~hmac%3D9d1e10c900464b499af2259b51716ca859b39e7255c031622dc2915ad192acb1
-
-#EXTINF:-1 tvg-id="267" tvg-chno="315" tvg-name="escape-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bazmyr.png" group-title="Lifestyle", ESCAPE TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4da91549-1762-4d60-b8b7-db07ef7ee64b/master.m3u8?hdnts=st%3D1790400474~exp%3D1790422074~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F4da91549-1762-4d60-b8b7-db07ef7ee64b%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_267_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_267_-1~hmac%3D8e4cbf2ce5987917f11d4214d3c79dc51eb1f45a2abfefaea06926fcf98c74b8
-
-#EXTINF:-1 tvg-id="271" tvg-chno="319" tvg-name="luxury-dreams-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kuygkv.png" group-title="Lifestyle", LUXURY DREAMS TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2f8307f7-cae4-4b19-afc0-32f4ba4ab4d0/manifest.m3u8?hdnts=st%3D1790400474~exp%3D1790422074~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F2f8307f7-cae4-4b19-afc0-32f4ba4ab4d0%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_271_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_271_-1~hmac%3Dac0244258ef21b1fc6dcc195922f376cc34407d76bd11b693411293a3d0aeb86
-
-#EXTINF:-1 tvg-id="277" tvg-chno="324" tvg-name="unchainedtv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gjwmjv.png" group-title="Lifestyle", UNCHAINEDTV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e6fe3169-15ec-4f33-b16c-c9fc37853d61/master.m3u8?hdnts=st%3D1790400475~exp%3D1790422075~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fe6fe3169-15ec-4f33-b16c-c9fc37853d61%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_277_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_277_-1~hmac%3Dfbb4c0239d8a595e06f84c78a7c52238a97355a81917dacf88cea8c5b074ad58
 
 #EXTINF:-1 tvg-id="114" tvg-chno="428" tvg-name="vanitha-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vanitha-tv.png" group-title="Lifestyle", Vanitha TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1497,11 +1422,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e6
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://yuppnimrestreammum.akamaized.net/260723/smil:vanitha1.smil/playlist.m3u8?hdnts=st%3D1790400475~exp%3D1790422075~acl%3D%21%2A%2F260723%2Fsmil%3Avanitha1.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_114_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_114_-1~hmac%3Dc199294649f4356675bb2e8924dea6ea1b3ba1acb77f3b1b99704fe67865a43b
 
-#EXTINF:-1 tvg-id="286" tvg-chno="140" tvg-name="cvr-health" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cvr-health.png" group-title="Lifestyle", CVR Health
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppparoriglin.akamaized.net/181224/smil:cvrhealth.smil/playlist.m3u8?hdnts=st%3D1790400475~exp%3D1790422075~acl%3D%21%2A%2F181224%2Fsmil%3Acvrhealth.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_286_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_286_-1~hmac%3Da3bc33bf2e00677316de2e8941d40f6b8016e0a16ebfb92b038ccb0bdb131b5d
 
 #EXTINF:-1 tvg-id="234" tvg-chno="659" tvg-name="ayush-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lrvzwz.png" group-title="Lifestyle", Ayush TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1509,41 +1429,6 @@ https://yuppparoriglin.akamaized.net/181224/smil:cvrhealth.smil/playlist.m3u8?hd
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 http://d1msejlow1t3l4.cloudfront.net/fta/ayushtv/playlist.m3u8?hdnts=st%3D1790400475~exp%3D1790422075~acl%3D%21%2A%2Ffta%2Fayushtv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_234_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_234_-1~hmac%3Db0c10442dea8f849f6db813aa19f59f69805e91a6898a6e8f2f4e13ea5dbe2fa
 
-#EXTINF:-1 tvg-id="284" tvg-chno="" tvg-name="willow-sports" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xzbzkm.png" group-title="Sports", Willow Sports
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://amg01269-amg01269c1-yupptv-us-5319.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-yupptvus/playlist.m3u8?hdnts=st%3D1790400477~exp%3D1790422077~acl%3D%21%2A%2Fplaylist%2Famg01269-willowtvfast-willowplus-yupptvus%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_284_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_284_-1~hmac%3Df38c616b3f8af5712b9688bf9c179c950a01a37c37f5563474beca3c69c9bc18
-
-#EXTINF:-1 tvg-id="68" tvg-chno="271" tvg-name="fight-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fight-tv.png" group-title="Sports", Fight TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8?hdnts=st%3D1790400477~exp%3D1790422077~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F70e45fc8-1f6c-4492-ac26-9868f70f4e02%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_68_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_68_-1~hmac%3D247359970c06cfbbd6477d745abe72c48de7934e53f75c2b65e5d9a5af36968d
-
-#EXTINF:-1 tvg-id="84" tvg-chno="273" tvg-name="kozoom" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sqjspw.png" group-title="Sports", Kozoom
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8?hdnts=st%3D1790400478~exp%3D1790422078~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Ffdd6f243-f971-4a1a-9510-97ac01d6b37f%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_84_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_84_-1~hmac%3D2d3307580d5d39742002fd3ce54a8e5913a266a3c44b5d5d4e3b64e2f765de06
-
-#EXTINF:-1 tvg-id="40" tvg-chno="279" tvg-name="xtrem-sports" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xtrem-sports.png" group-title="Sports", Xtrem sports
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
-
-#EXTINF:-1 tvg-id="76" tvg-chno="286" tvg-name="sport-fishing-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sport-fishing-tv.png" group-title="Sports", Sport Fishing TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8?hdnts=st%3D1790400478~exp%3D1790422078~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Feea68b79-bfe2-451e-a227-d637a5b9548a%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_76_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_76_-1~hmac%3D27902ba3ece3c86877250de3713b48c85211b4f2899e94a29a1298acc207b147
-
-#EXTINF:-1 tvg-id="42" tvg-chno="292" tvg-name="america-boating-channel" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rwfaja.png" group-title="Sports", America Boating Channel
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04c3a27e-c2a0-420b-8eef-7dae9ab93056/manifest.m3u8?hdnts=st%3D1790400479~exp%3D1790422079~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F04c3a27e-c2a0-420b-8eef-7dae9ab93056%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_42_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_42_-1~hmac%3D9dfa7e45cb644572fd40dd3924054d32a44659a733ad6b513b8f7a2c6ad2037e
 
 #EXTINF:-1 tvg-id="67" tvg-chno="298" tvg-name="the-chukker-channel" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rrkxqp.png" group-title="Sports", The Chukker Channel
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1551,17 +1436,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3bd726a3-0d30-491d-b5e7-e1afb6e02112/master.m3u8?hdnts=st%3D1790400479~exp%3D1790422079~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F3bd726a3-0d30-491d-b5e7-e1afb6e02112%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_67_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_67_-1~hmac%3D598f65cff49a12fbbe554e7418f68208a8cda70446532fcd1d94359b759ce4a7
 
-#EXTINF:-1 tvg-id="49" tvg-chno="299" tvg-name="chronotv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/imwzux.png" group-title="Sports", ChronoTV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d375ebca-9cd0-475e-ad4d-0cde6634de9c/manifest.m3u8?hdnts=st%3D1790400479~exp%3D1790422079~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fd375ebca-9cd0-475e-ad4d-0cde6634de9c%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_49_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_49_-1~hmac%3Da7cd66f825f86859024924af1485617f61eb51e6e1955e40d9798f18eb7e9182
-
-#EXTINF:-1 tvg-id="79" tvg-chno="300" tvg-name="itsf" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/itsf.png" group-title="Sports", ITSF
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20a0ac30-d157-4400-8f64-3c52b37c645c/manifest.m3u8?hdnts=st%3D1790400479~exp%3D1790422079~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F20a0ac30-d157-4400-8f64-3c52b37c645c%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_79_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_79_-1~hmac%3D3a528ffbdb0b2e4ee008a52f9201f636ce9424491fad43e588230e6e473d773b
 
 #EXTINF:-1 tvg-id="272" tvg-chno="320" tvg-name="mma-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lvwqlf.png" group-title="Sports", MMA TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1575,24 +1449,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/72
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8f7ca5bc-6bd2-4dc4-98d0-9ff71eedf477/master.m3u8?hdnts=st%3D1790400480~exp%3D1790422080~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F8f7ca5bc-6bd2-4dc4-98d0-9ff71eedf477%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_253_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_253_-1~hmac%3Dc2ecdfa12bd3e15dc61f928696abf5d7f1afd50d74a56035df03f50d2f5e067f
 
-#EXTINF:-1 tvg-id="290" tvg-chno="264" tvg-name="cricket-gold" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cricket-gold.png" group-title="Sports", Cricket Gold
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8?hdnts=st%3D1790400480~exp%3D1790422080~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fb2048bb8-1686-4432-aa50-647245383e0c%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_290_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_290_-1~hmac%3Dfc92314083352f314529b78ecab39fdec34f9782a33052cee5e6252a41509b7c
-
-#EXTINF:-1 tvg-id="292" tvg-chno="266" tvg-name="adventure-sports-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/adventure-sports-tv.png" group-title="Sports", Adventure Sports TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/dbac0562-cc83-4443-a546-44c04912102a/manifest.m3u8?hdnts=st%3D1790400481~exp%3D1790422081~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fdbac0562-cc83-4443-a546-44c04912102a%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_292_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_292_-1~hmac%3D7350a00dc2a5b20b43abc9012d92b034f7927ce1e7c422f0eab64295446e1086
-
-#EXTINF:-1 tvg-id="293" tvg-chno="267" tvg-name="drive--speed" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/drive-speed.png" group-title="Sports", Drive+ Speed
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d00c9b93-97ca-488c-9072-265d0079fae6/manifest.m3u8?hdnts=st%3D1790400481~exp%3D1790422081~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fd00c9b93-97ca-488c-9072-265d0079fae6%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_293_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_293_-1~hmac%3Df624915ef476ad7fd6e744d9ff98634e199a7f38ae42e3528cdcd51c2a592e41
-
 #EXTINF:-1 tvg-id="294" tvg-chno="268" tvg-name="hunt-fish-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hunt-fish-tv.png" group-title="Sports", Hunt Fish TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -1605,17 +1461,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/75
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f2e7e4ed-1b9c-4404-9fc6-41d0d13880b7/index.m3u8?hdnts=st%3D1790400482~exp%3D1790422082~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Ff2e7e4ed-1b9c-4404-9fc6-41d0d13880b7%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_295_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_295_-1~hmac%3Db1c6d316046a30068ddc31ae5c536a2bf5ff037297a5257546c0b5c27a48d746
 
-#EXTINF:-1 tvg-id="298" tvg-chno="269" tvg-name="absinthe-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/badjix.png" group-title="Sports", Absinthe TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/ptnr-yupptv/title-absinthetv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/254b2fef-a3dd-4a6d-af18-38711e02e31c/manifest.m3u8?hdnts=st%3D1790400482~exp%3D1790422082~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-absinthetv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F254b2fef-a3dd-4a6d-af18-38711e02e31c%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_298_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_298_-1~hmac%3D71b6992eb8eb24656d7e9912900f2759a1a8aa4ee641731983712202ecfc12a3
-
-#EXTINF:-1 tvg-id="296" tvg-chno="262" tvg-name="yachting-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yachting-tv.png" group-title="Sports", Yachting TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9c7be81a-7dd6-481e-a010-d306ed060db7/manifest.m3u8?hdnts=st%3D1790400483~exp%3D1790422083~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F9c7be81a-7dd6-481e-a010-d306ed060db7%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_296_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_296_-1~hmac%3D09fb7bcabac8bc034cb2d4e5033c85a1f3104c24a37d73ea68e1009f265faaca
 
 #EXTINF:-1 tvg-id="325" tvg-chno="" tvg-name="pickleball-now" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/pickleball-now.png" group-title="Sports", PickleBall Now
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1623,11 +1468,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9c
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://distro-timesgroup.vgcdn.net/vglive-sk-843549/playlist.m3u8?hdnts=st%3D1790400483~exp%3D1790422083~acl%3D%21%2A%2Fvglive-sk-843549%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_325_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_325_-1~hmac%3D2e8729c0e43766e5bc3137747e5cc9dffb324f8d0295ebd11a57bc9a3c43d2c6
 
-#EXTINF:-1 tvg-id="66" tvg-chno="236" tvg-name="english-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/english-tv.png" group-title="Educational", English TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5e9aebd-1df4-4e56-be4f-33a891756f9b/manifest.m3u8?hdnts=st%3D1790400484~exp%3D1790422084~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fa5e9aebd-1df4-4e56-be4f-33a891756f9b%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_66_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_66_-1~hmac%3D0e90e9c7cd657807756c0f42703f7ef9f900bd101e93e468bf9048e84f959c00
 
 #EXTINF:-1 tvg-id="251" tvg-chno="327" tvg-name="turito-iit-jee" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zuqhea.png" group-title="Educational", Turito IIT JEE
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1641,20 +1481,15 @@ https://yuppnimrestreammum.akamaized.net/181224/smil:ymcc12thiit.smil/playlist.m
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://yuppnimrestreammum.akamaized.net/181224/smil:ymcc12thneet.smil/playlist.m3u8?hdnts=st%3D1790400485~exp%3D1790422085~acl%3D%21%2A%2F181224%2Fsmil%3Aymcc12thneet.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_252_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_252_-1~hmac%3D38a3077b25f80d4133c95f8e4615abca7d465db3b808252fb0820a2d8b8ef513
 
-#EXTINF:-1 tvg-id="178" tvg-chno="432" tvg-name="t-sat-nipuna" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/crzalk.png" group-title="Educational", T-SAT Nipuna
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppnimrestreammum.akamaized.net/110923/smil:tsatnipuna.smil/playlist.m3u8?hdnts=st%3D1790400485~exp%3D1790422085~acl%3D%21%2A%2F110923%2Fsmil%3Atsatnipuna.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_178_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_178_-1~hmac%3D64274c38f084ff7187dc1503de025cc27aec122a8a1bb2804c7cb2fc19cdee45
 
-#EXTINF:-1 tvg-id="193" tvg-chno="433" tvg-name="t-sat-vidya" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/etmwbj.png" group-title="Educational", T-SAT Vidya
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppirecloriginvt.akamaized.net/110923/smil:tsatvidya1.smil/playlist.m3u8?hdnts=st%3D1790400486~exp%3D1790422086~acl%3D%21%2A%2F110923%2Fsmil%3Atsatvidya1.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_193_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_193_-1~hmac%3Def22cfea0d75ce4707553db67ed24634589d6e3b02bc65902f7a5383f05a4eb2
 
-#EXTINF:-1 tvg-id="276" tvg-chno="323" tvg-name="space-series" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/epxndj.png" group-title="Others", SPACE SERIES
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8?hdnts=st%3D1790400486~exp%3D1790422086~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F18d329ef-d478-413c-b68f-c123494ac434%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_276_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_276_-1~hmac%3D64100e383f7992267736cabee95ca08ff6a893c3a28fb945d0730b8df653b109
+
+
+
+
+
+
+
+
+
+
