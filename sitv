@@ -24,8 +24,7 @@
 
 
 
-
-#EXTINF:-1 group-title="SITV💎" tvg-logo="https://commons.wikimedia.org/wiki/File:MTV_New_Official_Logo_2021.png",MTV
+#EXTINF:-1 group-title="SITV💎" group-logo="https://bilder.fernsehserien.de/gfx/pics/1200/Mtv-Logo-Gross.jpg.jpg?utm_source=chatgpt.com",MTV🌀
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
 #EXTINF:-1 group-title="SITV💎",Zee Sonar
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281673.m3u8
