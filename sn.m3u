@@ -26,6 +26,13 @@
 
 
 
+   
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01f7b9f7bf7e425f86d6dfd478390e3f:5fde68100a7856d055038236ffc7c84a
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194388" tvg-language="Bengali" tvg-logo="https://sund-images.sunnxt.com/192537/640x360_GeminiMoviesHD_192537_abeec905-1e11-4abf-98fd-16d62fce60c8.jpg" group-title="SunNxt", Sun Bangla
+https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
 #EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://sund-images.sunnxt.com/194403/640x360_SunTVHD_194403_522c701c-4770-4934-a6d3-47045b0d4fa5.jpg" group-title="SunNxt", Sun TV HD
@@ -114,8 +121,7 @@ https://livestream.sunnxt.com/a4b4f71a8b4344f3a280e906657a517a/GeminiLifeB_IN_in
 #EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194346" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194346/640x360_KushiTV_194346_b0eff97b-4670-42fb-9d87-49d78fab6f3a.jpg" group-title="SunNxt", Kushi TV
 https://livestream.sunnxt.com/b24f908d8104462db019c91dac6512a3/KushiTV_IN_index.mpd
 
-#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="" tvg-language="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" group-title="SunNxt", TV9 Telugu
-https://vg-tv9live.akamaized.net/v1/vglive-sk-121537/main.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2ec6fa5b77ff4223a376c2b98032fbf8:afe96f602fd6abedcd9c2c8cdf799afd
@@ -132,7 +138,7 @@ https://livestream.sunnxt.com/6a59979ff0044fd3b6e0cb85d6f44432/GeminiMoviesB_IN_
 #EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194395" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194410/640x360_SunMusic_194410_d4d08876-9d23-432c-aab4-b5c70c58aaac.jpg" group-title="SunNxt", Gemini Music
 https://livestream.sunnxt.com/52b94f70c6e64692b2497f5023b629cd/GeminiMusicB_IN_index.mpd
 
-   MALAYALAM
+
    
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eae838ccd75d4a1fbff6fd7dd1c97780:8259ce0c112725a4d2c94d154207425f
@@ -199,8 +205,7 @@ https://livestream.sunnxt.com/8034b7519d6a4ab8929aa4279fda1f29/UdayaMusicB_IN_in
 #EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194400" tvg-language="Kannada" tvg-logo="https://sund-images.sunnxt.com/194400/640x360_UdayaComedy_194400_476f38f8-3104-4816-a540-968b36f27a5f.jpg" group-title="SunNxt", Udaya Comedy
 https://livestream.sunnxt.com/8a3d3d8d679b4f9f83a8305b4ead0644/UdayaComedyB_IN_index.mpd
 
-#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="" tvg-language="Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Karnataka.png" group-title="SunNxt", TV9 Kannada
-https://vg-tv9live.akamaized.net/v1/vglive-sk-428007/main.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=19d8a5cc002f411b89b33925acdc33e0:2a9aa7a3f69834c4f348430cc3f658bb
@@ -212,27 +217,15 @@ https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_inde
 #EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="193239" tvg-language="Kannada" tvg-logo="https://sund-images.sunnxt.com/193239/640x360_TestChannel_193239_e9155a54-81ab-49a1-9b95-0cd81b234dc0.jpg" group-title="SunNxt", Udaya TV
 https://livestream5.sunnxt.com/e2f36b5d0be74780a041a8f5b65bc7e6/UdayaTVB_IN_index.mpd
 
-#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="" tvg-language="Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/Public_TV.png" group-title="SunNxt", Public TV
-https://livestream.knowtable.xyz:5443/iostv/streams/Publictv.m3u8
 
-   HINDI
-   
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09ffaaff477d490abb4516b7e0711d35:759cc157a993e8a76ff4d675e34b5400
 #EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194389" tvg-language="Hindi" tvg-logo="https://sund-images.sunnxt.com/194389/640x360_SunNeoHD_194389_5edd34c1-4574-452e-a613-2f4140cd636f.jpg" group-title="SunNxt", Sun Neo HD
 https://livestream8.sunnxt.com/248c92b73514435686fd72ba325d4008/SunNeoHDB_IN_index.mpd
 
-#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/TV9_Bharatvarsh.png" group-title="SunNxt", TV9 Bharatvarsh
-https://vg-tv9live.akamaized.net/v1/vglive-sk-301666/main.m3u8
 
-   BENGALI
-   
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=01f7b9f7bf7e425f86d6dfd478390e3f:5fde68100a7856d055038236ffc7c84a
-#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194388" tvg-language="Bengali" tvg-logo="https://sund-images.sunnxt.com/192537/640x360_GeminiMoviesHD_192537_abeec905-1e11-4abf-98fd-16d62fce60c8.jpg" group-title="SunNxt", Sun Bangla
-https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
-
-   MARATHI
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5ea90a1f3b1e4a0a9b72c8e0f4a9bf31:30899fda5ca4dfb5a4535ce10c4d7341
@@ -243,3 +236,11 @@ https://livestream9.sunnxt.com/b0aacde03b744564870634ecb10e8a31/SunMarathiB_IN_i
 #KODIPROP:inputstream.adaptive.license_key=5ea90a1f3b1e4a0a9b72c8e0f4a9bf31:30899fda5ca4dfb5a4535ce10c4d7341
 #EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="" tvg-language="Marathi" tvg-logo="https://sund-images.sunnxt.com/194387/640x360_SunMarathi_194387_441db2e2-0fa1-48ca-be59-7f5dd70f66cb.jpg" group-title="SunNxt", Sun Marathi AU
 https://livestream5.sunnxt.com/2699d3c42a1944d9bb8e919433a349c2/SunMarathiB_AU_index.mpd
+
+
+
+
+
+
+
+
