@@ -15,6 +15,47 @@
 
 
 
+#EXTINF:-1 tvg-id="24" tvg-chno="678" tvg-name="republic-bangla" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/awqywf.png" group-title="News", Republic Bangla
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/73776a5e-e64c-44a4-9199-9e7e21e940fc/playlist.m3u8?hdnts=st%3D1790400394~exp%3D1790421994~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F73776a5e-e64c-44a4-9199-9e7e21e940fc%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_24_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_24_-1~hmac%3D581edbd786b98bec67cc503ba3e65ce8c1ce6861a8cf85ddc7357bf27641411e
+
+#EXTINF:-1 tvg-id="324" tvg-chno="" tvg-name="kolkata-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kolkata-tv.png" group-title="News", Kolkata TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d4017753-7155-4cee-8755-10f1b3eb6d77/index.m3u8?hdnts=st%3D1790400395~exp%3D1790421995~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fd4017753-7155-4cee-8755-10f1b3eb6d77%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_324_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_324_-1~hmac%3D4ec1312241e238881e5bf536e433d06936a3a46123342a8ed061c38ea35aedf5
+
+#EXTINF:-1 tvg-id="342" tvg-chno="" tvg-name="rplus-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rplus-news.png" group-title="News", Rplus News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5dcc9dc-3a33-4b19-a361-5a5b3aa022f7/index.m3u8?hdnts=st%3D1790400395~exp%3D1790421995~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fe5dcc9dc-3a33-4b19-a361-5a5b3aa022f7%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_342_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_342_-1~hmac%3D669ae53bf71f8ca13f787526c461f0f3ba17cba6763f5b34aa978969be112c88
+
+#EXTINF:-1 tvg-id="226" tvg-chno="676" tvg-name="abp-ananda" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wlyrmq.png" group-title="News", ABP Ananda
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-664562/ananda/master.m3u8?hdnts=st%3D1790400396~exp%3D1790421996~acl%3D%21%2A%2Fvglive-sk-664562%2Fananda%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_226_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_226_-1~hmac%3D881ea73fc7263d61543d026e4e76094935e09d002f3bc36df09d778e38aa38fa
+
+#EXTINF:-1 tvg-id="35" tvg-chno="680" tvg-name="tv9-bangla" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mnuwms.png" group-title="News", TV9 Bangla
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://ssai.vgcdn.net/v1/master/tv9yupptv/tv9bangla/main.m3u8?hdnts=st%3D1790400397~exp%3D1790421997~acl%3D%21%2A%2Fv1%2Fmaster%2Ftv9yupptv%2Ftv9bangla%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_35_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_35_-1~hmac%3D8b2d0f3c2d0d96d6f3df13b7fc0fa9b37ec33bd5edf1e17c7cd6694b6fe1d8a2
+
+#EXTINF:-1 tvg-id="116" tvg-chno="683" tvg-name="calcutta-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/calcutta-news.png" group-title="News", Calcutta News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://d1msejlow1t3l4.cloudfront.net/fta/calcuttanews/playlist.m3u8?hdnts=st%3D1790400397~exp%3D1790421997~acl%3D%21%2A%2Ffta%2Fcalcuttanews%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_116_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_116_-1~hmac%3Deeb9fb5bb275497a40a22f955a477f7d9be2e344cddddf26e1425844cc36a3c0
+
+#EXTINF:-1 tvg-id="9" tvg-chno="401" tvg-name="tv9-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cmwyio.png" group-title="News", TV9 News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://ssai.vgcdn.net/v1/master/tv9yupptv/tv9telugu/main.m3u8?hdnts=st%3D1790400398~exp%3D1790421998~acl%3D%21%2A%2Fv1%2Fmaster%2Ftv9yupptv%2Ftv9telugu%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_9_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_9_-1~hmac%3D12baf61bb51f81377035939340db5c8b9342555f7917ca7c71422ce98626bdf5
 
 
 
@@ -298,11 +339,6 @@ https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-355289/majha/master.m3u8?hdnts=s
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://tv9live.yuppcdn.net/vglive-sk-115561/v1/019e01a3ce881ea540a871e333265/019e01a42abd15fc600b774ea53d5/main.m3u8?hdnts=st%3D1790400393~exp%3D1790421993~acl%3D%21%2A%2Fvglive-sk-115561%2Fv1%2F019e01a3ce881ea540a871e333265%2F019e01a42abd15fc600b774ea53d5%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_11_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_11_-1~hmac%3D74c4fca1bbcefb81cdccc5d9ab00d3a329a9aac8c7b32dc92aaa1e5f6ca4f106
 
-#EXTINF:-1 tvg-id="6" tvg-chno="729" tvg-name="24-taas" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ldybum.png" group-title="News", 24 Taas
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-580995/main.m3u8?hdnts=st%3D1790400393~exp%3D1790421993~acl%3D%21%2A%2Fvglive-sk-580995%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_6_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_6_-1~hmac%3D32505e5c5b943ccf93b930b69d667a4c2e97991b92ad6ce2fa518e4845e6ca88
 
 #EXTINF:-1 tvg-id="162" tvg-chno="730" tvg-name="jai-maharashtra" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jai-maharashtra.png" group-title="News", Jai Maharashtra
 #KODIPROP:inputstream=inputstream.adaptive
@@ -310,53 +346,6 @@ https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-580995/main.m3u8?hdnts=st%3D1790
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://d1msejlow1t3l4.cloudfront.net/fta/jaimaharashtra/playlist.m3u8?hdnts=st%3D1790400393~exp%3D1790421993~acl%3D%21%2A%2Ffta%2Fjaimaharashtra%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_162_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_162_-1~hmac%3D1f3f21df00874e48cda814f7cc740b0e589a088a38245dd6c374fb7f32f583b3
 
-#EXTINF:-1 tvg-id="24" tvg-chno="678" tvg-name="republic-bangla" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/awqywf.png" group-title="News", Republic Bangla
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/73776a5e-e64c-44a4-9199-9e7e21e940fc/playlist.m3u8?hdnts=st%3D1790400394~exp%3D1790421994~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F73776a5e-e64c-44a4-9199-9e7e21e940fc%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_24_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_24_-1~hmac%3D581edbd786b98bec67cc503ba3e65ce8c1ce6861a8cf85ddc7357bf27641411e
-
-#EXTINF:-1 tvg-id="324" tvg-chno="" tvg-name="kolkata-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kolkata-tv.png" group-title="News", Kolkata TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d4017753-7155-4cee-8755-10f1b3eb6d77/index.m3u8?hdnts=st%3D1790400395~exp%3D1790421995~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fd4017753-7155-4cee-8755-10f1b3eb6d77%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_324_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_324_-1~hmac%3D4ec1312241e238881e5bf536e433d06936a3a46123342a8ed061c38ea35aedf5
-
-#EXTINF:-1 tvg-id="342" tvg-chno="" tvg-name="rplus-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rplus-news.png" group-title="News", Rplus News
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5dcc9dc-3a33-4b19-a361-5a5b3aa022f7/index.m3u8?hdnts=st%3D1790400395~exp%3D1790421995~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fe5dcc9dc-3a33-4b19-a361-5a5b3aa022f7%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_342_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_342_-1~hmac%3D669ae53bf71f8ca13f787526c461f0f3ba17cba6763f5b34aa978969be112c88
-
-#EXTINF:-1 tvg-id="226" tvg-chno="676" tvg-name="abp-ananda" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wlyrmq.png" group-title="News", ABP Ananda
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-664562/ananda/master.m3u8?hdnts=st%3D1790400396~exp%3D1790421996~acl%3D%21%2A%2Fvglive-sk-664562%2Fananda%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_226_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_226_-1~hmac%3D881ea73fc7263d61543d026e4e76094935e09d002f3bc36df09d778e38aa38fa
-
-#EXTINF:-1 tvg-id="7" tvg-chno="679" tvg-name="24-ghanta" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/uperuc.png" group-title="News", 24 Ghanta
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-778421/main.m3u8?hdnts=st%3D1790400396~exp%3D1790421996~acl%3D%21%2A%2Fvglive-sk-778421%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_7_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_7_-1~hmac%3De1e7a2af732851942575221c93a4d25dfdbf4d73721d4a13568f7e6c4d68d6b5
-
-#EXTINF:-1 tvg-id="35" tvg-chno="680" tvg-name="tv9-bangla" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mnuwms.png" group-title="News", TV9 Bangla
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://ssai.vgcdn.net/v1/master/tv9yupptv/tv9bangla/main.m3u8?hdnts=st%3D1790400397~exp%3D1790421997~acl%3D%21%2A%2Fv1%2Fmaster%2Ftv9yupptv%2Ftv9bangla%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_35_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_35_-1~hmac%3D8b2d0f3c2d0d96d6f3df13b7fc0fa9b37ec33bd5edf1e17c7cd6694b6fe1d8a2
-
-#EXTINF:-1 tvg-id="116" tvg-chno="683" tvg-name="calcutta-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/calcutta-news.png" group-title="News", Calcutta News
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://d1msejlow1t3l4.cloudfront.net/fta/calcuttanews/playlist.m3u8?hdnts=st%3D1790400397~exp%3D1790421997~acl%3D%21%2A%2Ffta%2Fcalcuttanews%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_116_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_116_-1~hmac%3Deeb9fb5bb275497a40a22f955a477f7d9be2e344cddddf26e1425844cc36a3c0
-
-#EXTINF:-1 tvg-id="9" tvg-chno="401" tvg-name="tv9-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cmwyio.png" group-title="News", TV9 News
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://ssai.vgcdn.net/v1/master/tv9yupptv/tv9telugu/main.m3u8?hdnts=st%3D1790400398~exp%3D1790421998~acl%3D%21%2A%2Fv1%2Fmaster%2Ftv9yupptv%2Ftv9telugu%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_9_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_9_-1~hmac%3D12baf61bb51f81377035939340db5c8b9342555f7917ca7c71422ce98626bdf5
 
 #EXTINF:-1 tvg-id="100" tvg-chno="402" tvg-name="ntv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ntv.png" group-title="News", NTV
 #KODIPROP:inputstream=inputstream.adaptive
