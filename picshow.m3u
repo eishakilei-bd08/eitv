@@ -526,8 +526,7 @@ https://cdn.pishow.tv/ott/live/1513/master.m3u8
 https://cdn.pishow.tv/ott/live/1516/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Maha Punjabi
 https://cdn.pishow.tv/ott/live/1521/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",Total TV
-https://cdn.pishow.tv/ott/live/1522/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="",TV5 Kannada
 https://cdn.pishow.tv/ott/live/1526/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Kairali We
@@ -3800,30 +3799,28 @@ https://ms2.alliancebroadband.in/media_sudarshan.m3u8
 #EXTINF:-1 tvg-id="abps154" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/super_tv.png",Super TV
 https://ms1.alliancebroadband.in/media_super_tv.m3u8
 
-#EXTINF:-1 tvg-id="abps155" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/tv5_kannada.png",TV5 Kannada
-https://ms1.alliancebroadband.in/media_tv5_kannada.m3u8
 
-#EXTINF:-1 tvg-id="abps156" group-title="FTA | News" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/tv9_bangla.png",TV9 Bangla
-https://ms4.alliancebroadband.in/media_tv9_bangla.m3u8
-
-#EXTINF:-1 tvg-id="abps157" group-title="FTA | News" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/tv9_bharatvarsh.png",TV9 Bharatvarsh
-https://ms4.alliancebroadband.in/media_tv9_bharatvarsh.m3u8
-
-#EXTINF:-1 tvg-id="abps158" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/tv9_karnataka.png",TV9 Karnataka
-https://ms1.alliancebroadband.in/media_tv9_karnataka.m3u8
-
-#EXTINF:-1 tvg-id="abps159" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/tv_9_telegu.png",TV9 Telegu
-https://ms2.alliancebroadband.in/media_tv_9_telegu.m3u8
-
-#EXTINF:-1 tvg-id="abps160" group-title="FTA | News" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/taaza_tv.png",Taaza TV
-https://ms3.alliancebroadband.in/media_taaza_tv.m3u8
 
 #EXTINF:-1 tvg-id="abps161" group-title="FTA | News" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/total_tv.png",Total TV
-https://ms2.alliancebroadband.in/media_total_tv.m3u8
+https://cdn.pishow.tv/ott/live/1522/master.m3u8
 
 
-#EXTINF:-1 tvg-id="abps164" group-title="FTA | News" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/z_24_ghanta.png",Zee 24 Ghanta
-https://ms1.alliancebroadband.in/media_z_24_ghanta.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
