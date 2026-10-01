@@ -7,30 +7,14 @@
 
 
 
-#EXTINF:-1,Bengali Beats
-https://tplay.live/originals/bengali-beats/index.m3u8
-#EXTINF:-1,Ilm TV
-https://tplay.live/originals/ilm-tv/index.m3u8
-#EXTINF:-1,24/7 Motu Patlu 
-https://tplay.live/playlist/kids/motu-patlu/index.m3u8
-#EXTINF:-1,24/7 Doraemon
-https://tplay.live/playlist/kids/doraemon/index.m3u8
-#EXTINF:-1,24/7 Oggy and the Cockroaches
-https://tplay.live/playlist/kids/oggy-and-the-cockroaches/index.m3u8
-#EXTINF:-1,24/7 Gopal Bhar
-https://tplay.live/playlist/kids/gopal-bhar/index.m3u8
-#EXTINF:-1,24/7 Bantul The Great 
-https://tplay.live/playlist/kids/bantul-the-great/index.m3u8
-#EXTINF:-1,24/7 Bangla Movies
-https://tplay.live/playlist/movies/bangla-movies/index.m3u8
-#EXTINF:-1,24/7 Bollywood Movies
-https://tplay.live/playlist/movies/bollywood-movies/index.m3u8
-#EXTINF:-1,24/7 Dubbed Movies
-https://tplay.live/playlist/movies/dubbed-movies/index.m3u8
-#EXTINF:-1,24/7 T Play Special
-https://tplay.live/playlist/music/tplay-special/index.m3u8
-#EXTINF:-1,GTV
-https://tvsen1.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1, CHANNEL ONE NEWS
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 channel-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-chno="120" tvg-name="LiveNOW from FOX" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f9c0d48b540a55dcb98b04d2cc8abf25/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1693442636429_1688568583363_177281_LiveNow-Monochromatic_Banner_Logo_260x147_001.png" group-title="News",LiveNOW from FOX
@@ -39,12 +23,6 @@ https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
 https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
 #EXTINF:-1 channel-id="8db0f9f4abf6542ba95f97a545f98513" tvg-id="8db0f9f4abf6542ba95f97a545f98513" tvg-chno="142" tvg-name="CBC News" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8db0f9f4abf6542ba95f97a545f98513/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1731443569102_CBC-News-hosts_infohud-centered.png" group-title="News",CBC News
 https://jmp2.uk/rok-8db0f9f4abf6542ba95f97a545f98513.m3u8
-#EXTINF:-1 channel-id="6183f9f73a64394cf3c55690605af2a7" tvg-id="6183f9f73a64394cf3c55690605af2a7" tvg-chno="144" tvg-name="BBC News" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6183f9f73a64394cf3c55690605af2a7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1765822678156_ROKU_BBC_NEWS_LOGO_260x147_WHITE.png" group-title="Documentary",BBC News
-https://jmp2.uk/rok-6183f9f73a64394cf3c55690605af2a7.m3u8
-#EXTINF:-1 channel-id="52ed4fc0c2635136b6ea44e2dc4a8a00" tvg-id="52ed4fc0c2635136b6ea44e2dc4a8a00" tvg-chno="145" tvg-name="CTV News" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/52ed4fc0c2635136b6ea44e2dc4a8a00/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1720621983863_CTVNews_HUD_Logo_260x147.png" group-title="News",CTV News
-https://jmp2.uk/rok-52ed4fc0c2635136b6ea44e2dc4a8a00.m3u8
-#EXTINF:-1 channel-id="f95c40a17cfe5b9fb1970192e378fb0c" tvg-id="f95c40a17cfe5b9fb1970192e378fb0c" tvg-chno="161" tvg-name="AccuWeather NOW" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f95c40a17cfe5b9fb1970192e378fb0c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1655146991984_Roku_HUD.png" group-title="Weather",AccuWeather NOW
-https://jmp2.uk/rok-f95c40a17cfe5b9fb1970192e378fb0c.m3u8
 #EXTINF:-1 channel-id="a1e38b83ae2a56f09f4d2ee8ed206b35" tvg-id="a1e38b83ae2a56f09f4d2ee8ed206b35" tvg-chno="163" tvg-name="Weathernation" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a1e38b83ae2a56f09f4d2ee8ed206b35/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1670264331925_WN_Roku_EPG_centered.png" group-title="Weather",Weathernation
 https://jmp2.uk/rok-a1e38b83ae2a56f09f4d2ee8ed206b35.m3u8
 #EXTINF:-1 channel-id="0838d5ccb1d5564d98fb804ab314c85e" tvg-id="0838d5ccb1d5564d98fb804ab314c85e" tvg-chno="164" tvg-name="FOX Weather" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0838d5ccb1d5564d98fb804ab314c85e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1693442655370_1688568641141_FWX_HUD_1.png" group-title="News",FOX Weather
