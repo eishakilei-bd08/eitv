@@ -27,23 +27,30 @@ If you are the owner of any content displayed and believe its presence constitut
 
 
 
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pL1B7kt/20240815-181452.png" group-title="FTP🔥" ,Boishakhi TV 
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QCCFhSh/20240817-133814.png" group-title="FTP🔥", Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n6c0xPh/20240817-133826.png" group-title="FTP🔥" ,Deepto Tv
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmRkMGMzYTUtM2E2My00YjZlLWFmZjItMDA5M2EwNjNiZTNjXkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_.jpg" group-title="SR BDIX South" , Ala Vaikunthapurramuloo (2020)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmRkMGMzYTUtM2E2My00YjZlLWFmZjItMDA5M2EwNjNiZTNjXkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_.jpg" group-title="FTP🔥" , Ala Vaikunthapurramuloo (2020)
 https://pixeldra.in/api/file/iKk8dMra?download
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7UkHJogQ1QOihEwmK67-zQz9Pk3ie1408anxnX7aekiaWq9VhpJV1MiW2&s=10" group-title="SR BDIX Bangladesh" , Surongo (2023)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7UkHJogQ1QOihEwmK67-zQz9Pk3ie1408anxnX7aekiaWq9VhpJV1MiW2&s=10" group-title="FTP🔥" , Surongo (2023)
 https://pixeldra.in/api/file/XLydnsWL?download
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpAaOJD3Mq-QMINU66EGpF8dZmTUrfGnvVrjeeQ6hMPklCgJaxsBtE0gHg&s=10" group-title="SR BDIX South" ,  K.G.F: Chapter 1 (2018)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpAaOJD3Mq-QMINU66EGpF8dZmTUrfGnvVrjeeQ6hMPklCgJaxsBtE0gHg&s=10" group-title="FTP🔥" ,  K.G.F: Chapter 1 (2018)
 https://pixeldra.in/api/file/sow6gevq?download
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vYCVqWB/Zq-TLHUN-2024-09-26-T135225-822.jpg" group-title="SR BDIX Kolkata" , Magic (2021)
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vYCVqWB/Zq-TLHUN-2024-09-26-T135225-822.jpg" group-title="FTP🔥" , Magic (2021)
 https://pixeldra.in/api/file/utpdVs2s?download
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FK0BkK8m/image.png.jpg" group-title="SR BDIX Bollywood", Ulajh (2024)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FK0BkK8m/image.png.jpg" group-title="FTP🔥", Ulajh (2024)
 https://pixeldra.in/api/file/aw2Wvr8M?download
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/R4JmxXN/Dekhechhi-Tomake-Shrabone-2024-S01-Bengali-AT-WEB-DL-H264-AAC-1080p-720p-480p-ESub-1.webp" group-title="SR BDIX Bangla Web" , Dekhechhi Tomake Shrabone (2024)
 https://pixeldra.in/api/file/PiUv2kmm?download
