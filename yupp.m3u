@@ -1534,24 +1534,6 @@ https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8?hdnts=st%3D179038
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://d1msejlow1t3l4.cloudfront.net/fta/peppers/playlist.m3u8?hdnts=st%3D1790381396~exp%3D1790402996~acl%3D%21%2A%2Ffta%2Fpeppers%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_113_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_113_-1~hmac%3D17b8f92fa690a25e42bdeaeb9f0930efee5f20566fd8840ad29fb91762713e82
 
-#EXTINF:-1 tvg-id="219" tvg-chno="529" tvg-name="ibc-radio" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ibc-radio.png" group-title="Entertainment", IBC Radio
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppindottclorigin.akamaized.net/120723/ibcradio_test/playlist.m3u8?hdnts=st%3D1790381396~exp%3D1790402996~acl%3D%21%2A%2F120723%2Fibcradio_test%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_219_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_219_-1~hmac%3Da914af7a81641ec006496d1239c7521a8c750d2b39a5456ec2dd3e89750af0f4
-
-#EXTINF:-1 tvg-id="117" tvg-chno="621" tvg-name="jaihind-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jaihind-tv.png" group-title="Entertainment", Jaihind TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8?hdnts=st%3D1790381397~exp%3D1790402997~acl%3D%21%2A%2F260723%2Fsmil%3Ajaihind1.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_117_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_117_-1~hmac%3D731b0a488794882adbc6cf70bd7fc42a216257f33355bb90a3754c24df53a0c3
-
-#EXTINF:-1 tvg-id="186" tvg-chno="622" tvg-name="darshanatv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/darshanatv.png" group-title="Entertainment", DarshanaTV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppnimrestreammum.akamaized.net/181224/smil:darshanatv.smil/playlist.m3u8?hdnts=st%3D1790381397~exp%3D1790402997~acl%3D%21%2A%2F181224%2Fsmil%3Adarshanatv.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_186_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_186_-1~hmac%3D1496215dca83fc54e2a94f4f78862a1fce9a570ab1a39496c3ef3c90bdbdae9c
-
 
 #EXTINF:-1 tvg-id="137" tvg-chno="67" tvg-name="balle-balle" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/balle-balle.png" group-title="Music", Balle Balle
 #KODIPROP:inputstream=inputstream.adaptive
