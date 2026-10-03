@@ -15,6 +15,8 @@
 
 
 
+#EXTINF:-1 channel-id="e3823bb513585861904499a21a736c4f" tvg-id="e3823bb513585861904499a21a736c4f" tvg-chno="977" tvg-name="Canal ViX" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e3823bb513585861904499a21a736c4f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1743194357309_CanalViX_HUD_ChannelLogo_260x147px.png" group-title="Entertainment",Canal ViX
+https://jmp2.uk/rok-e3823bb513585861904499a21a736c4f.m3u8
 #EXTINF:-1, CHANNEL ONE NEWS
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 channel-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-chno="120" tvg-name="LiveNOW from FOX" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f9c0d48b540a55dcb98b04d2cc8abf25/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1693442636429_1688568583363_177281_LiveNow-Monochromatic_Banner_Logo_260x147_001.png" group-title="News",LiveNOW from FOX
@@ -575,24 +577,16 @@ https://jmp2.uk/rok-5ae9fb0c6e015b0d951063f6a6b39ee5.m3u8
 https://jmp2.uk/rok-5e709cfe55d955ec899903cde681a5a4.m3u8
 #EXTINF:-1 channel-id="cdfd1ee39343a406984976d2687e894d" tvg-id="cdfd1ee39343a406984976d2687e894d" tvg-chno="976" tvg-name="Vas O No Vas USA" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/cdfd1ee39343a406984976d2687e894d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1765921837825_DealOrNoDealUSA-LATAM_HUD_logo_260x147.png" group-title="Entertainment",Vas O No Vas USA
 https://jmp2.uk/rok-cdfd1ee39343a406984976d2687e894d.m3u8
-#EXTINF:-1 channel-id="e3823bb513585861904499a21a736c4f" tvg-id="e3823bb513585861904499a21a736c4f" tvg-chno="977" tvg-name="Canal ViX" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e3823bb513585861904499a21a736c4f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1743194357309_CanalViX_HUD_ChannelLogo_260x147px.png" group-title="Entertainment",Canal ViX
-https://jmp2.uk/rok-e3823bb513585861904499a21a736c4f.m3u8
-#EXTINF:-1 channel-id="7913b5796de15cb9ab8dfd392d769dec" tvg-id="7913b5796de15cb9ab8dfd392d769dec" tvg-chno="981" tvg-name="Canela.TV Pasión Turca" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7913b5796de15cb9ab8dfd392d769dec/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734562744530_ROKU-PasionTurca-InfoHUD-1.png" group-title="Drama",Canela.TV Pasión Turca
-https://jmp2.uk/rok-7913b5796de15cb9ab8dfd392d769dec.m3u8
-#EXTINF:-1 channel-id="0a85a15f5ee75646bf386d3de3083a94" tvg-id="0a85a15f5ee75646bf386d3de3083a94" tvg-chno="982" tvg-name="Canela.TV Pasión Latina" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0a85a15f5ee75646bf386d3de3083a94/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734562719513_ROKU-PasionLatina-InfoHUD-1.png" group-title="Action",Canela.TV Pasión Latina
-https://jmp2.uk/rok-0a85a15f5ee75646bf386d3de3083a94.m3u8
+
+
 #EXTINF:-1 channel-id="4010582bb66b58a69151a4f552de0823" tvg-id="4010582bb66b58a69151a4f552de0823" tvg-chno="983" tvg-name="FilmRise Series Gratis" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4010582bb66b58a69151a4f552de0823/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1772664425410_RokuChannel_FilmRiseSeriesGratis_HUD_Logo_260x147.png" group-title="Drama",FilmRise Series Gratis
 https://jmp2.uk/rok-4010582bb66b58a69151a4f552de0823.m3u8
-#EXTINF:-1 channel-id="acf637e8292736265712e3be566c0e5a" tvg-id="acf637e8292736265712e3be566c0e5a" tvg-chno="984" tvg-name="Cinépolis Channel" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/acf637e8292736265712e3be566c0e5a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1752626860506_HUD-Logo-260x147.png" group-title="Action",Cinépolis Channel
-https://jmp2.uk/rok-acf637e8292736265712e3be566c0e5a.m3u8
 #EXTINF:-1 channel-id="7b5699f58b2b54be9da4d23fe354fb59" tvg-id="7b5699f58b2b54be9da4d23fe354fb59" tvg-chno="987" tvg-name="ViX Villanos de Novela" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7b5699f58b2b54be9da4d23fe354fb59/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678481229409_VillanosDeNovela_HUD_Logo_260x147.png" group-title="Entertainment",ViX Villanos de Novela
 https://jmp2.uk/rok-7b5699f58b2b54be9da4d23fe354fb59.m3u8
 #EXTINF:-1 channel-id="0de9839c79b758589c580dcdd4b40a8a" tvg-id="0de9839c79b758589c580dcdd4b40a8a" tvg-chno="988" tvg-name="Caso Cerrado" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0de9839c79b758589c580dcdd4b40a8a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1747831065584_CASO_CERRADO_260x147_2x1_logo_center_align_EFEFEF_transparent_bkgd_roku.png" group-title="Entertainment",Caso Cerrado
 https://jmp2.uk/rok-0de9839c79b758589c580dcdd4b40a8a.m3u8
 #EXTINF:-1 channel-id="a61227fe8ede21ffc0e223763ccbe42f" tvg-id="a61227fe8ede21ffc0e223763ccbe42f" tvg-chno="989" tvg-name="Cuando Los Angeles Caen" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a61227fe8ede21ffc0e223763ccbe42f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1760152096030_CLAC_260X147_EFEFEF.png" group-title="Entertainment",Cuando Los Angeles Caen
 https://jmp2.uk/rok-a61227fe8ede21ffc0e223763ccbe42f.m3u8
-#EXTINF:-1 channel-id="02cdd68d6244543b83ff35d990891463" tvg-id="02cdd68d6244543b83ff35d990891463" tvg-chno="990" tvg-name="Canela.TV Hollywood y Más" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/02cdd68d6244543b83ff35d990891463/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734562662522_ROKU-CanelaTV-InfoHUD-1.png" group-title="Action",Canela.TV Hollywood y Más
-https://jmp2.uk/rok-02cdd68d6244543b83ff35d990891463.m3u8
 #EXTINF:-1 channel-id="017397f76bae510a8a9800c4b94eaa40" tvg-id="017397f76bae510a8a9800c4b94eaa40" tvg-chno="991" tvg-name="ViX Cine Club" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/017397f76bae510a8a9800c4b94eaa40/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1704751574192_CineClub_RokuHub_260x147_White.png" group-title="Comedy",ViX Cine Club
 https://jmp2.uk/rok-017397f76bae510a8a9800c4b94eaa40.m3u8
 #EXTINF:-1 channel-id="5d1c16bba82b53e69bf979c2fdca4ca8" tvg-id="5d1c16bba82b53e69bf979c2fdca4ca8" tvg-chno="992" tvg-name="Novelísima" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5d1c16bba82b53e69bf979c2fdca4ca8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1707517468219_Novelisima_informational_HUD_centered.png" group-title="Romance",Novelísima
@@ -605,8 +599,6 @@ https://jmp2.uk/rok-b0d5db7f498f56fcaf1f8289eea6ea4d.m3u8
 https://jmp2.uk/rok-396f57d10b5d5ec98648f810dcbe1f11.m3u8
 #EXTINF:-1 channel-id="eaeb1f4ef8ed510e8bc2a3fd78510c30" tvg-id="eaeb1f4ef8ed510e8bc2a3fd78510c30" tvg-chno="997" tvg-name="Runtime Español" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/eaeb1f4ef8ed510e8bc2a3fd78510c30/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1752267199574_Runtime_USH_HUD_260x147.png" group-title="Entertainment",Runtime Español
 https://jmp2.uk/rok-eaeb1f4ef8ed510e8bc2a3fd78510c30.m3u8
-#EXTINF:-1 channel-id="8b2c97d22c7fed4d9d302a1796d5e009" tvg-id="8b2c97d22c7fed4d9d302a1796d5e009" tvg-chno="998" tvg-name="FILMEX Comedia" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8b2c97d22c7fed4d9d302a1796d5e009/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766446177723_FMXcom_HUD_WHITE.png" group-title="Comedy",FILMEX Comedia
-https://jmp2.uk/rok-8b2c97d22c7fed4d9d302a1796d5e009.m3u8
 #EXTINF:-1 channel-id="ab6cd6569bf6557a8c5d9798cfce202b" tvg-id="ab6cd6569bf6557a8c5d9798cfce202b" tvg-chno="999" tvg-name="ViX Novelas de oro" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ab6cd6569bf6557a8c5d9798cfce202b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1704751782970_NovelasdeOro_RokuHub_260x147_White.png" group-title="Entertainment",ViX Novelas de oro
 https://jmp2.uk/rok-ab6cd6569bf6557a8c5d9798cfce202b.m3u8
 #EXTINF:-1 channel-id="1d889b474b205fe385a2c552aa909b94" tvg-id="1d889b474b205fe385a2c552aa909b94" tvg-chno="1000" tvg-name="ViX Novelas en familia" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1d889b474b205fe385a2c552aa909b94/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1704751831441_NovelasEnFamilia_RokuHub_260x147_White.png" group-title="Entertainment",ViX Novelas en familia
@@ -627,11 +619,8 @@ https://jmp2.uk/rok-bdb3cb29453a137748dfaeadae2f9d2b.m3u8
 https://jmp2.uk/rok-5b4b59af18ff5686916ef5eb3574de46.m3u8
 #EXTINF:-1 channel-id="770c7e1794505869b1ce94c84905ecea" tvg-id="770c7e1794505869b1ce94c84905ecea" tvg-chno="1010" tvg-name="EMOCIÓN ATRES TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/770c7e1794505869b1ce94c84905ecea/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1764947814081_LOGO_EA3TV-HUD-HORIZONTAL.png" group-title="Drama",EMOCIÓN ATRES TV
 https://jmp2.uk/rok-770c7e1794505869b1ce94c84905ecea.m3u8
-#EXTINF:-1 channel-id="e498eb91cd01d4c0c0acdb5ea7c736ab" tvg-id="e498eb91cd01d4c0c0acdb5ea7c736ab" tvg-chno="1011" tvg-name="Kanal D Drama" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e498eb91cd01d4c0c0acdb5ea7c736ab/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1771623196005_VIVE-KANAL-D-DRAMA-HUD_260x147.png" group-title="Entertainment",Kanal D Drama
-https://jmp2.uk/rok-e498eb91cd01d4c0c0acdb5ea7c736ab.m3u8
 #EXTINF:-1 channel-id="9b3f0b588b03c9126a053d3eebfc58db" tvg-id="9b3f0b588b03c9126a053d3eebfc58db" tvg-chno="1013" tvg-name="FreeTV Asia" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9b3f0b588b03c9126a053d3eebfc58db/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1736789758464_FreeTV_Asia_HUD_Logo_.png" group-title="Action",FreeTV Asia
 https://jmp2.uk/rok-9b3f0b588b03c9126a053d3eebfc58db.m3u8
-
 #EXTINF:-1 channel-id="b015fcbafb496320954672321e746f8a" tvg-id="b015fcbafb496320954672321e746f8a" tvg-chno="1017" tvg-name="Todo Cine" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b015fcbafb496320954672321e746f8a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1758347842585_LOGO_Todocine_Roku_HUD-verticalRoxannaTork.png" group-title="Action",Todo Cine
 https://jmp2.uk/rok-b015fcbafb496320954672321e746f8a.m3u8
 #EXTINF:-1 channel-id="2bc36154da3310eaa692d0ea141ef8e0" tvg-id="2bc36154da3310eaa692d0ea141ef8e0" tvg-chno="1020" tvg-name="Pitufo TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2bc36154da3310eaa692d0ea141ef8e0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746832685543_PitufoTV_HUD_260x147_efefef_logo.png" group-title="Animated",Pitufo TV
