@@ -657,12 +657,6 @@ https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8?hdnts=st%3D17904
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://d1msejlow1t3l4.cloudfront.net/fta/jinvani/playlist.m3u8?hdnts=st%3D1790400453~exp%3D1790422053~acl%3D%21%2A%2Ffta%2Fjinvani%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_156_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_156_-1~hmac%3De4f5af08b4503ad2ebeb27f8417a1b7899e53950e412a6af9167d0f553fbed61
 
-#EXTINF:-1 tvg-id="203" tvg-chno="100" tvg-name="astroscience" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/astroscience.png" group-title="Spiritual", Astroscience
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppnimrestreammum.akamaized.net/181224/smil:astrotech.smil/playlist.m3u8?hdnts=st%3D1790400453~exp%3D1790422053~acl%3D%21%2A%2F181224%2Fsmil%3Aastrotech.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_203_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_203_-1~hmac%3D646c9e03d1bbcec580fce30c5a8b9f1dd5ac1d5b75870bb06144b36f2ca44c4c
-
 #EXTINF:-1 tvg-id="123" tvg-chno="101" tvg-name="subharti-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/subharti-tv.png" group-title="Spiritual", Subharti TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -675,12 +669,6 @@ https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8?hdnts=st%3D17
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/bc87c6ce-e887-442b-beaf-67753925f0d9/index.m3u8?hdnts=st%3D1790400454~exp%3D1790422054~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fbc87c6ce-e887-442b-beaf-67753925f0d9%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_353_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_353_-1~hmac%3D9a1200c2026764eefff86ba55961aa3ef35ba1e9c67c20213b3109b7170c9aa3
 
-#EXTINF:-1 tvg-id="206" tvg-chno="102" tvg-name="peace-of-mind" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/peace-of-mind.png" group-title="Spiritual", Peace of Mind
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppnimrestreammum.akamaized.net/181224/smil:peaceofmind.smil/playlist.m3u8?hdnts=st%3D1790400454~exp%3D1790422054~acl%3D%21%2A%2F181224%2Fsmil%3Apeaceofmind.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_206_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_206_-1~hmac%3D7b8ace43b3a2002e676cc15c23a57acf67e9c308599b3d1b377dae2acb387d4c
-
 #EXTINF:-1 tvg-id="236" tvg-chno="108" tvg-name="divya-bhajan" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/divya-bhajan.png" group-title="Spiritual", Divya Bhajan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -692,66 +680,6 @@ https://vg-pitaaratvyupp.akamaized.net/ptnr-yupptv/title-DivyaBhajan/v1/master/6
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://ktismaservers.in:3466/live/hosannattvhindhilive.m3u8?hdnts=st%3D1790400455~exp%3D1790422055~acl%3D%21%2A%2Flive%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_280_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_280_-1~hmac%3De17732227fe62ac69414ec5d23d2e3c9588c74cd9b0b9c757529cccccb1321d4
-
-#EXTINF:-1 tvg-id="314" tvg-chno="" tvg-name="aadinath-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aadinath-tv.png" group-title="Spiritual", Aadinath TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://d2gvyg6lvauoko.cloudfront.net/230226/aadinathtv/playlist.m3u8?hdnts=st%3D1790400456~exp%3D1790422056~acl%3D%21%2A%2F230226%2Faadinathtv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_314_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_314_-1~hmac%3D1cf5ce494f93573bcb9fa04d75b52c447e83fba251b3afc42480d466f4197ac2
-
-#EXTINF:-1 tvg-id="315" tvg-chno="" tvg-name="awakening-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/awakening-tv.png" group-title="Spiritual", Awakening TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://d2gvyg6lvauoko.cloudfront.net/230226/awakeningtv/playlist.m3u8?hdnts=st%3D1790400456~exp%3D1790422056~acl%3D%21%2A%2F230226%2Fawakeningtv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_315_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_315_-1~hmac%3Dc67d949a3a4ec7f83500c20beddbbfc5ba2791d84bda06bf36d9a53e078318df
-
-#EXTINF:-1 tvg-id="110" tvg-chno="421" tvg-name="bhakti-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bhakti-tv.png" group-title="Spiritual", Bhakti TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppnimresmum.akamaized.net/240122/bhakti/playlist.m3u8?hdnts=st%3D1790400456~exp%3D1790422056~acl%3D%21%2A%2F240122%2Fbhakti%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_110_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_110_-1~hmac%3D04b9b78d7ae7cc002a0b816076866172e10d5b39ba1debd469c3e4dba5d1d346
-
-#EXTINF:-1 tvg-id="99" tvg-chno="422" tvg-name="svbc" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/svbc.png" group-title="Spiritual", SVBC
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppnimresmum.akamaized.net/110322/svbc/playlist.m3u8?hdnts=st%3D1790400457~exp%3D1790422057~acl%3D%21%2A%2F110322%2Fsvbc%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_99_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_99_-1~hmac%3D2151d2320de5f7a35fefbe81d1ecf385595412d32c6a9f0d4259aa545023d2d3
-
-#EXTINF:-1 tvg-id="207" tvg-chno="423" tvg-name="yupptv-veda" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yupptv-veda.png" group-title="Spiritual", YUPPTV VEDA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppnimresmum.akamaized.net/28072023/smil:yupptvveda1.smil/playlist.m3u8?hdnts=st%3D1790400458~exp%3D1790422058~acl%3D%21%2A%2F28072023%2Fsmil%3Ayupptvveda1.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_207_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_207_-1~hmac%3Da7fe08201c3a3f19ecf63c522b7f86ae3a5d20f2cfa3892a0a7d8f1a2b2c76e5
-
-#EXTINF:-1 tvg-id="191" tvg-chno="424" tvg-name="hindu-dharmam" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hindu-dharmam.png" group-title="Spiritual", Hindu Dharmam
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppnimrestreammum.akamaized.net/181224/smil:hindudharmam.smil/playlist.m3u8?hdnts=st%3D1790400459~exp%3D1790422059~acl%3D%21%2A%2F181224%2Fsmil%3Ahindudharmam.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_191_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_191_-1~hmac%3D9f9c53ca7288b290de89a4c7717b731b83de60d85d7540598e8ec7c6dad0377d
-
-#EXTINF:-1 tvg-id="122" tvg-chno="425" tvg-name="aradana-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aradana-tv.png" group-title="Spiritual", Aradana TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppnimrestreammum.akamaized.net/181224/smil:aradanatv.smil/playlist.m3u8?hdnts=st%3D1790400459~exp%3D1790422059~acl%3D%21%2A%2F181224%2Fsmil%3Aaradanatv.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_122_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_122_-1~hmac%3D7f7a4689f462e4637c45d60a512d68ed0d334132d500da72112f679a683c700c
-
-#EXTINF:-1 tvg-id="149" tvg-chno="426" tvg-name="om-cvr" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/om-cvr.png" group-title="Spiritual", OM CVR
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppnimrestreammum.akamaized.net/181224/smil:cvrom1.smil/playlist.m3u8?hdnts=st%3D1790400459~exp%3D1790422059~acl%3D%21%2A%2F181224%2Fsmil%3Acvrom1.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_149_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_149_-1~hmac%3Db37b5f76abd1afd580ba82bc79f78176701995df9233f53c5a137a990c9fe634
-
-#EXTINF:-1 tvg-id="201" tvg-chno="427" tvg-name="pmc" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/pmc.png" group-title="Spiritual", PMC
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppnimresmum.akamaized.net/120723/smil:studiooneplus.smil/playlist.m3u8?hdnts=st%3D1790400459~exp%3D1790422059~acl%3D%21%2A%2F120723%2Fsmil%3Astudiooneplus.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_201_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_201_-1~hmac%3De8b83d2685c8f7803616e001051fd388e13f0f5209dfdd7537a869b5ee29cd32
-
-#EXTINF:-1 tvg-id="173" tvg-chno="615" tvg-name="goodness-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/goodness-tv.png" group-title="Spiritual", Goodness TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppnimrestreammum.akamaized.net/181224/smil:goodness.smil/playlist.m3u8?hdnts=st%3D1790400466~exp%3D1790422066~acl%3D%21%2A%2F181224%2Fsmil%3Agoodness.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_173_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_173_-1~hmac%3D093801fee6f9f1acf607d52b2443d2b867bcf0f689513022400f0d4e1bd2961a
 
 
 #EXTINF:-1 tvg-id="77" tvg-chno="257" tvg-name="horror-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/horror-tv.png" group-title="Movies", Horror TV
