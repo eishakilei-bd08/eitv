@@ -595,12 +595,6 @@ https://vglivessai.akamaized.net/in/v1/master/611d79b11b77e2f571934fd80ca1413453
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://vg-pitaaratvyupp.akamaized.net/ptnr-yupptv/title-PitaaraComedy/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5b28c9c9-60eb-4d9b-8f3e-d772ec318e7f/playlist.m3u8?hdnts=st%3D1790400435~exp%3D1790422035~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-PitaaraComedy%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F5b28c9c9-60eb-4d9b-8f3e-d772ec318e7f%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_235_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_235_-1~hmac%3D037052837a034f5107b7934a494d434c76f809f05a5a499a1c204e8978f12af5
 
-#EXTINF:-1 tvg-id="200" tvg-chno="712" tvg-name="parvasi-tv-hd" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/parvasi-tv-hd.png" group-title="Entertainment", Parvasi TV HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppnimrestreammum.akamaized.net/181224/smil:pravasi.smil/playlist.m3u8?hdnts=st%3D1790400436~exp%3D1790422036~acl%3D%21%2A%2F181224%2Fsmil%3Apravasi.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_200_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_200_-1~hmac%3De01b0666c22d91dc996eecebbcd45d25f532d225bcbe1d3af662e3d7d9bdf4fc
-
 #EXTINF:-1 tvg-id="169" tvg-chno="767" tvg-name="pasand" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/pasand.png" group-title="Entertainment", PASAND
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -612,12 +606,6 @@ https://d1msejlow1t3l4.cloudfront.net/fta/pasand/playlist.m3u8?hdnts=st%3D179040
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://d1msejlow1t3l4.cloudfront.net/fta/rengonitv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="205" tvg-chno="526" tvg-name="athavan-tv-hd" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/athavan-tv-hd.png" group-title="Entertainment", Athavan TV HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppnimresmum.akamaized.net/120723/smil:athavantv1.smil/playlist.m3u8?hdnts=st%3D1790400437~exp%3D1790422037~acl%3D%21%2A%2F120723%2Fsmil%3Aathavantv1.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_205_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_205_-1~hmac%3D6f107ec91febcba4e9dfb8eabd7b6c40a83168cdf7972374698c0d4deb8dee24
 
 #EXTINF:-1 tvg-id="167" tvg-chno="527" tvg-name="moon-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/moon-tv.png" group-title="Entertainment", Moon TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -638,34 +626,6 @@ https://d1msejlow1t3l4.cloudfront.net/fta/peppers/playlist.m3u8?hdnts=st%3D17904
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/playlist.m3u8?hdnts=st%3D1790400440~exp%3D1790422040~acl%3D%21%2A%2Ffta%2Fnepal1%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_183_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_183_-1~hmac%3Dffc6cda4496e3680c3869e200809346ed6e4609955303b72dbedb49b0c84a5b8
 
-#EXTINF:-1 tvg-id="80" tvg-chno="275" tvg-name="jupiter-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jupiter-tv.png" group-title="Music", Jupiter TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c7e85b21-ea01-42b4-85db-15dcfec98942/manifest.m3u8?hdnts=st%3D1790400440~exp%3D1790422040~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fc7e85b21-ea01-42b4-85db-15dcfec98942%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_80_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_80_-1~hmac%3D8b180a27367b24438c150c39e50eae85d2bc47a7e69f6059726c788e70c52e09
-
-#EXTINF:-1 tvg-id="41" tvg-chno="282" tvg-name="wildest-wish-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kawupc.png" group-title="Music", Wildest wish tv
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/937a5556-49c9-403b-9d3f-f8f10bbc3249/manifest.m3u8
-
-#EXTINF:-1 tvg-id="58" tvg-chno="283" tvg-name="edgy-urban" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/athpnb.png" group-title="Music", Edgy Urban
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/50ce2783-e0fe-405b-bfa7-349c4ff4916b/manifest.m3u8?hdnts=st%3D1790400441~exp%3D1790422041~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F50ce2783-e0fe-405b-bfa7-349c4ff4916b%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_58_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_58_-1~hmac%3Dfbadcd46126c0d2662521c3d9c100cdf5cd818e7db9e130d93c215b87e595dfc
-
-#EXTINF:-1 tvg-id="137" tvg-chno="67" tvg-name="balle-balle" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/balle-balle.png" group-title="Music", Balle Balle
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="197" tvg-chno="91" tvg-name="hare-krishna-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hare-krishna-tv.png" group-title="Spiritual", Hare Krishna TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppnimrestreammum.akamaized.net/181224/smil:harekrishna.smil/playlist.m3u8?hdnts=st%3D1790400449~exp%3D1790422049~acl%3D%21%2A%2F181224%2Fsmil%3Aharekrishna.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_197_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.171.127.97_yuppfast_2_channel_197_-1~hmac%3D402ab90cfe71a298409f8c825eb320057ab2d184867b817148b33c95d2ae85f0
 
 #EXTINF:-1 tvg-id="8" tvg-chno="92" tvg-name="divya-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dluhyb.png" group-title="Spiritual", Divya TV
 #KODIPROP:inputstream=inputstream.adaptive
