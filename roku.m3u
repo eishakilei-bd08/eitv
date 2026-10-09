@@ -10,7 +10,101 @@
 
 
 
-
+#EXTM3U x-tvg-url="https://whiplash.cc/scheds/schedule.xml"
+#EXTINF:-1 tvg-id="C1.1.146.ersatztv.org" tvg-name="WHP1" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/Whiplash.png" group-title="webchnl and mist",Whiplash
+https://cdn.whiplash.cc/whiplash/index.m3u8
+#EXTINF:-1 tvg-id="C2.1.147.ersatztv.org" tvg-name="WHP2" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/Whiplash2.png" group-title="webchnl and mist",Whiplash II
+https://cdn.whiplash.cc/whiplash-2/index.m3u8
+#EXTINF:-1 tvg-id="C3.1.148.ersatztv.org" tvg-name="WHP3" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/WhiplashCinema.png" group-title="webchnl and mist",Whiplash Cinema
+https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="EEL" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/EELCHANNEL.png" group-title="webchnl and mist",Eel Channel
+https://mci01.nive.live/28/index.m3u8
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="TDIS" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/ToonDisneyAgain.png" group-title="webchnl and mist",Toon Disney Again (Soon: FIZZ)
+https://mci01.nive.live/29/index.m3u8
+#EXTINF:-1 tvg-id="C3.147.ersatztv.org" tvg-name="WINDW" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/WindowTV.png" group-title="webchnl and mist",Window TV
+https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="DIJIT" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/DIJIT.png" group-title="webchnl and mist",DIJIT
+https://toy.vcdn.fyi/dijit/index.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="2X2" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/2X2ENG.png" group-title="webchnl and mist",2x2_english
+https://mci01.nive.live/18/index.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="PLCID" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/PLACID.png" group-title="webchnl and mist",Placid
+https://toy.vcdn.fyi/placid/index.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="FLSBK" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/FlashBAK.png" group-title="webchnl and mist",flashBAK
+https://mci01.nive.live/23/index.m3u8
+#EXTINF:-1 tvg-id="zenith" tvg-name="ZNTH" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/ZEN1TH.png" group-title="webchnl and mist",zén!th
+https://live.azenagroup.com/zenith/index.m3u8
+#EXTINF:-1 tvg-id="yub" tvg-name="YUB" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/TheYub.png" group-title="webchnl and mist",Yub Network
+https://toy.vcdn.fyi/tertiary-yub/index.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="TOON" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/CNExtras.png" group-title="webchnl and mist",Cartoon Network Extras
+https://mci01.nive.live/8/index.m3u8
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="VOLT" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/Volt.png" group-title="webchnl and mist",Volt
+https://toy.vcdn.fyi/tertiary-volt/index.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="DTWVE" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/DOTWAVE.png" group-title="webchnl and mist",Dotwave
+https://toy.vcdn.fyi/tertiary-dotwave/index.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="REGGR" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/ReggaetonRecords.png" group-title="webchnl and mist",Reggaeton Records
+https://toy.vcdn.fyi/tertiary-reggaeton/index.m3u8
+#EXTINF:-1 tvg-id="C6.1.151.ersatztv.org" tvg-name="BIWI" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/Biwi.png" group-title="webchnl and mist",biwi
+https://cdn.whiplash.cc/whiplash-biwi/index.m3u8
+#EXTINF:-1 tvg-id="C420.246.ersatztv.org" tvg-name="CRT" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/CROSSRIFT.png" group-title="webchnl and mist",Crossrift
+https://toy.vcdn.fyi/crossrift/index.m3u8
+#EXTINF:-1 tvg-id="C352.250.ersatztv.org" tvg-name="DFLCT" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/Deflect.png" group-title="webchnl and mist",Deflect
+https://toy.vcdn.fyi/deflect/index.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="MRSAT" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/MRSAT.png" group-title="webchnl and mist",MRSAT
+https://toy.vcdn.fyi/mrsat/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="ANIMX" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/ANIMAXNA.png" group-title="webchnl and mist",Animax NA
+https://animax.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="JETIX" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/JETIX.png" group-title="webchnl and mist",Jetix Web
+https://mci01.nive.live/12/index.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="VOLTX" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/VOLTIX.png" group-title="webchnl and mist",VOLTIX
+https://mci01.nive.live/25/index.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="WBSPT" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/WSHD.png" group-title="webchnl and mist",WebSpot
+https://toy.vcdn.fyi/webspot/index.m3u8
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="BOOM" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/BOOMERANGREBORN.png" group-title="webchnl and mist",Boomerang Reborn
+https://toy.vcdn.fyi/boomreborn/index.m3u8
+#EXTINF:-1 tvg-id="C7.151.ersatztv.org" tvg-name="ATLAS" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/ATLAS.png" group-title="webchnl and mist",atlas
+https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="XENON" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/Xenon.png" group-title="webchnl and mist",xenon.
+https://toy.vcdn.fyi/xenon/index.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="SOKOL" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/SokolTV.png" group-title="webchnl and mist",sokol/tv
+https://toy.vcdn.fyi/sokol-tv/index.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="CLCT" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/BongoDummy.png" group-title="webchnl and mist",COLLECTIVE
+https://cdn.whiplash.cc/whiplash-collective/index.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="OBJCT" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/ObjectCentral.png" group-title="webchnl and mist",Object Central
+https://watch.mistlive.tv/hls/objectcent/playlist.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="YPCH" tvg-logo="https://static.wikitide.net/indietvwiki/thumb/2/23/New_ypch_logo_1.png/320px-New_ypch_logo_1.png" group-title="webchnl and mist",Yeeps Channel
+https://watch.mistlive.tv/hls/ypch/playlist.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="STONE" tvg-logo="https://api.mistweather.com/api/v1.5/image/f325acf1-d87b-4c16-8d26-ae6ab5b02c86?width=192&height=192&fit=inside" group-title="webchnl and mist",Stone
+https://watch.mistlive.tv/hls/stone/playlist.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="BLITZ" tvg-logo="https://static.wikitide.net/indietvwiki/thumb/3/3e/Blitzlogo2025.png/799px-Blitzlogo2025.png" group-title="webchnl and mist",Blitz
+https://watch.mistlive.tv/hls/blitz/playlist.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="ULTRA" tvg-logo="https://api.mistweather.com/api/v1.5/image/7e818550-b494-47af-b3d2-1929fbc5c283?width=192&height=192&fit=inside" group-title="webchnl and mist",ULTRA!
+https://watch.mistlive.tv/hls/ultra/playlist.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="SCUZZ" tvg-logo="https://api.mistweather.com/api/v1.5/image/9d895fd6-b38f-4f9e-bfdd-675dc845b05d?width=192&height=192&fit=inside" group-title="webchnl and mist",SCUZZ
+https://watch.mistlive.tv/hls/scuzz/playlist.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="DELTA" tvg-logo="https://api.mistweather.com/api/v1.5/image/5f544f3c-0d8f-4fa1-8ecd-a1748b044e98?width=192&height=192&fit=inside" group-title="webchnl and mist",DELTA
+https://watch.mistlive.tv/hls/delta/playlist.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="CRANK" tvg-logo="https://api.mistweather.com/api/v1.5/image/7fd2878c-40bd-4f06-9e45-36d83ebdc7a9?width=192&height=192&fit=inside" group-title="webchnl and mist",Crank
+https://watch.mistlive.tv/hls/crank/playlist.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="VORTX" tvg-logo="https://api.mistlive.tv/api/v1.5/image/bcac8f00-9744-4dde-96f1-f51efa2705f9?width=192&height=192&fit=inside" group-title="webchnl and mist",VORTEX
+https://watch.mistlive.tv/hls/vortex/playlist.m3u8
+#EXTINF:-1 tvg-id="magicaltv.iptv.mistweather.com" tvg-name="MAGCL" tvg-logo="https://api.mistweather.com/api/v1.5/image/18e66fa7-34c7-4ee8-9c4c-74397d936664?width=192&height=192&fit=inside" group-title="webchnl and mist",Magical
+https://watch.mistlive.tv/hls/magicaltv/playlist.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="DIMSN" tvg-logo="https://api.mistweather.com/api/v1.5/image/77b25ed7-ba8d-4bba-93f4-f973de1069da?width=192&height=192&fit=inside" group-title="webchnl and mist",Dimensions (dimnsns)
+https://watch.mistlive.tv/hls/dimnsn/playlist.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="WTHSN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Weatherlogos.png/revision/latest/scale-to-width-down/320?cb=20260417011930" group-title="webchnl and mist",Weatherscan
+https://watch.mistlive.tv/hls/zachnet-ch1/playlist.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="TLMSC" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/TotalMusic.png" group-title="webchnl and mist",Totalmusic
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="TM80S" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/TotalMusic80s.png" group-title="webchnl and mist",Totalmusic 80s
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="TM00S" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/TotalMusic00s.png" group-title="webchnl and mist",Totalmusic 2000s
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="TMCRT" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/TotalMusicConcerts.png" group-title="webchnl and mist",Totalmusic Concerts
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="TMDNC" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/TotalMusicDance.png" group-title="webchnl and mist",Totalmusic Dance
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="WHPFM" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/WHFM.png" group-title="webchnl and mist",Whiplash FM
+https://cdn.whiplash.cc/whiplash-fm/index.m3u8
 
 
 
