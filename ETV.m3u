@@ -120,8 +120,9 @@ http://livetv.akr4m.com:8080/bdtv/restrem/24.m3u8
 #https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 #https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/26.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89MSqI1ufAg5lZ65fLRwxILWht2QKHyBKi5uW9DYwhU-6BRGhGB7faKTXxcbYmQG_tTsWG8QxIqNH3jDTBR0_rAH0mUpSfqyBzWgukJF6tDJ8_qSx30qBvSQta3xPS5gMZPaMTxWuEymSnt6RQFbRbNu9PJQcdGBrhIcJuHwn_0YK0zNgF3XyJKuK8Q/s1080/1000019135.png" group-title="ETV🍁", Jalsha Movies
+https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89MSqI1ufAg5lZ65fLRwxILWht2QKHyBKi5uW9DYwhU-6BRGhGB7faKTXxcbYmQG_tTsWG8QxIqNH3jDTBR0_rAH0mUpSfqyBzWgukJF6tDJ8_qSx30qBvSQta3xPS5gMZPaMTxWuEymSnt6RQFbRbNu9PJQcdGBrhIcJuHwn_0YK0zNgF3XyJKuK8Q/s1080/1000019135.png" group-title="ETV🍁", Jalsha Movies HD
 http://livetv.akr4m.com:8080/bdtv/restrem/27.m3u8
 
 
