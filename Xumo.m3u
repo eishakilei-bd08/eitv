@@ -842,30 +842,11 @@ https://amg00353-amg00353c18-lg-us-3069.playouts.now.amagi.tv/playlist/amg00353-
 https://d1bl6tskrpq9ze.cloudfront.net/hls/cw.m3u8
 #EXTINF:-1 tvg-id="Grit_Xtra" tvg-logo="http://img.platform.wurl.dev/channel/1208/lg/049016/LG-400x225_v1.png" group-title="Westerns",Grit Xtra
 https://wurlewscripps.global.transmit.live/hls/68f6af393617a3dcae3e8c17/v1/scripps_gritxtra_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="_Canela.TV_Deportes" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/AMG00658C11ENG/resized_a56c6bb2c4855718a75a5822c9a900bba6088a44414b17f39e119e3f325dae84_8f1aa442871c4c19aa2b47b4c1c8bb41ctvvodbox19052316x90jpg_400_225.png" group-title="Spanish Language", Canela.TV Deportes
-https://amg00658-amg00658c11-lg-us-7531.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deportesus-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="Lucha_Plus" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/luchap/resized_d37ae8c10fd80707392c2379acdb648e325d0f7389c7869003d39b4941e524dc_lpetegen0316jpg_400_225.png" group-title="Spanish Language",Lucha Plus
-https://amg17334-luchalibre-amg17334c1-lg-us-6732.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="Novelas_y_Dramas" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/AMG00658C99ENG/resized_542ab23d18ce882297b1ea1ca719d4aa08d8af3a626abc60dac7386dd35eec1e_7bf0dd67f57d43fca0e759a48c9360541rseijv7ujpg_400_225.png" group-title="Spanish Language",Novelas y Dramas
-https://amg00658-amg00658c99-lg-us-7506.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pasionlatina-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="Canela.TV_Narco-Drama" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/AMG00658C13ENG/resized_aacb1780b2969300cce6baff667b8249b30ef2c0d755ba79db71e5329c10ad8e_392a6f9bfb6e46c6ba3fac8da989da44elcorridodesilvianobernal16x9crisjpg_400_225.png" group-title="Spanish Language",Canela.TV Narco-Drama
-https://amg00658-amg00658c13-lg-us-7400.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-narcodramaltus-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="Canela.TV_Hollywood_y_Mas" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/AMG00658C105ENG/resized_4b7a9725ca023475e2a5909da810082e099b4f1455b2881dba26229d52d66007_d2b25e3bc0fd448e8154c40b41d42ee816x9png_400_225.png" group-title="Spanish Language",Canela.TV Hollywood y Mas
-https://amg00658-amg00658c105-lg-us-7334.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-hollywoodymasus-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="Canela.TV_Clasicos" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/AMG00658C9ENG/resized_27a308e6f31439d40aa31576b9a5f5d981a87a57f7fec1deb9eeac857946f93d_1f26644a2871976ed9abac0a67251b4554dfcd8516x9png_400_225.png" group-title="Spanish Language",Canela.TV Clasicos
-https://amg00658-amg00658c9-lg-us-7505.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clasicosuslt-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="Crime_Beat_TV" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=225&url=https://images.frequency.com/video/101zyadmzcfgk12s14f2qwxt5/w1920_h1080/101zyadmzcfgk12s14f2qwxt5.jpg" group-title="Crime",Crime Beat TV
-https://linear-940.frequency.stream/dist/lg-us/940/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Crime_ThrillHer" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1056-LG-400x225_v1.png" group-title="Crime",Crime ThrillHer
 https://aenetworks.global.transmit.live/hls/68b77f472119c010f116648d/v1/aenetworks_thrillher_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="Forensic_Files" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0TZ5FU274LZW/400x225.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992255%2F400x225.jpg%3Ftype%3DchannelTile" group-title="Crime",Forensic Files
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
-#EXTINF:-1 tvg-id="Unsolved_Mysteries" tvg-logo="https://image.xumo.com/v1/assets/asset/XM060W0283U1J4/400x225.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992257%2F400x225.jpg%3Ftype%3DchannelTile" group-title="Crime",Unsolved Mysteries
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
 #EXTINF:-1 tvg-id="A&E_Alaska_State_Troopers" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/1-2049/2181-LG-768x432_v1.png" group-title="Crime",A&E Alaska State Troopers
 https://aenetworks.global.transmit.live/hls/69f513e9b1fc478d8423d39a/v1/ae_networks_alaskastatetroopers_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="Cold_Case_Files" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/AECCF/resized_a60489d6044595a0023925a085df4fbdb6411f6fb255dc82dbf42704f5a103cb_27486214418thumbjpg_400_225.png" group-title="Crime",Cold Case Files
-https://amg00276-aenetwork-amg00276c3-lg-us-1235.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-coldcasefiles-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="TruBlu" tvg-logo="http://img.platform.wurl.dev/channel/1565/lg/142485/LG-400x225_v1.png" group-title="Crime",TruBlu
 https://wurltrublufactual.global.transmit.live/hls/6994cb0f5ee6d4ddfbe7d7e7/playlist.m3u8
 #EXTINF:-1 tvg-id="A&E_Crime_360" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/393-LG-400x225_v3.png" group-title="Crime",A&E Crime 360
