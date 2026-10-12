@@ -719,24 +719,15 @@ https://linear-893.frequency.stream/dist/lg-us/893/hls/master/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznringside-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Swerve_Combat" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=225&url=https://images.frequency.com/video/7463363299889332160/solid/rectangle/w1920_h1080/24jpxa64z60x1mkda3f1m8xg4.jpg" group-title="Sports",Swerve Combat
 https://linear-253.frequency.stream/dist/lg-us/253/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="F1_Channel" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/FRLA1/resized_07aad63a3c9634cad39366b9aabccc6f92c276ca03b0197c2e54e29851b6dbe6_1000010279landscapewebjpg_400_225.png" group-title="Sports",F1 Channel
-https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist/amg12058-c15medianetworkslimitedfast-formula1tv-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="RACER_Select" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MAVTV/resized_04db204950413f40c75f93ac86c9dcb696ea6cf19c3852c923e0f9194e968101_racerselect768x432jpg_400_225.png" group-title="Sports",RACER Select
-https://amg00378-mavtv-amg00378c4-lg-us-1984.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-mavtvselectdomestic-lgus/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Monster_Jam" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1693-LG-960x540_v1.png" group-title="Sports",Monster Jam
 https://wurlspacemob.global.transmit.live/hls/6866cf7dd9fb5876ff1673c8/v1/answermedia_monsterjam_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Women's_Sports_Network" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/WOMCH/resized_0ffdebd3c67e0ffe346869eb81310da8d8614bee256e0584658ad1a0db63420b_wsngoe0043jpg_400_225.png" group-title="Sports",Women's Sports Network
 https://womensnetwork-lg.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-womensnetwork/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="DP_World_Tour" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/DPWTG/resized_8de55f2ac6fc1b38bb483adc62e3125f6011fb3dcd72c9a57fae1f130e11440a_dpwt1920x1080002png_400_225.png" group-title="Sports",DP World Tour
-https://amg12058-c15studio-amg12058c6-lg-us-5876.playouts.now.amagi.tv/playlist/amg12058-c15medianetworkslimitedfast-dpworldtourgolf-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Strongman_Champions_League" tvg-logo="http://img.platform.wurl.dev/channel/1102/lg/129bb3/LG-400x225_v1.png" group-title="Sports",Strongman Champions League
 https://wurlrightsbooster.global.transmit.live/hls/6823bc03ec440b38950aff0b/playlist.m3u8
-#EXTINF:-1 tvg-id="ITV_Deportes" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ITVDEP/resized_7c35657a0470988c2c0705bc835e0dfaf6c97606428a48ec195bb5833d13c0e2_p7884645bh8afjpg_400_225.png" group-title="Sports",ITV Deportes
-https://amg01602-amg01602c3-lg-us-8576.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-itvdeportes-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Anger_Management" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/LGNVBP/resized_56cd646c2f49e1e85f78ddc39c74528eb96d56102d8938c0011be16178161216_angermanagementlandscapejpg_400_225.png" group-title="Comedy",Anger Management
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-angermanagement-lgus/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="Laff_More" tvg-logo="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-400x225_v1.png" group-title="Comedy",Laff More
 https://wurlewscripps.global.transmit.live/hls/68faa8c23714adc3f0f25388/v1/scripps_laffmore_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="GET_Comedy" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/830-LG-960x540_v1.png" group-title="Comedy",GET Comedy
