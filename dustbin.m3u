@@ -1,6 +1,55 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/c0b0c986890a8c88c3566d93e18cada6" group-title="AynaOTT",EPIX TV
+https://tvsen7.aynaott.com/epix/index.m3u8?e=1779783548&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=29a299310f79aa6f2c0e6c99413413ef
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/f403cc315ca6269c5fcbf1875c95d329" group-title="AynaOTT",FX TV
+https://tvsen7.aynaott.com/fx/index.m3u8?e=1779783548&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=54441b771412613aee96d9fe8d4b4a87
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/582675c375dfa47c2d66e6639fcd2eac" group-title="AynaOTT",Food Network
+https://tvsen6.aynaott.com/foodnetwork/index.m3u8?e=1779783548&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=59e89a637e391f8f28cb94ecf65e0183
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b64c028d8c0895ed81f3201d5979f7ba" group-title="AynaOTT",HBO 2
+https://tvsen7.aynaott.com/hbo2/index.m3u8?e=1779783548&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7ea4fb405ad54a4d73189af331ea968c
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/be15ed692e22ad4b7dcb9d7251ce32a6" group-title="AynaOTT",HGTV
+https://tvsen7.aynaott.com/hgtv/index.m3u8?e=1779783548&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5eec5d1b3d76ca7ea14cb2fcfbd75940
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/ac4e2fb2e4eccd7417e5cc5b5a733369" group-title="AynaOTT",LAFF TV
+https://tvsen7.aynaott.com/laff/index.m3u8?e=1779783548&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=173bccb7d96e2c05a43208d4ad22c2d5
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/90258e6758834a12979d27097bee04a7" group-title="AynaOTT",LIFE TIME
+https://tvsen7.aynaott.com/lifetime/index.m3u8?e=1779783548&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a71f8089cc5b9f78eba6f0e9ef771a06
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/2dce8297266bbc9c235c27119f914e1b" group-title="AynaOTT",Nat Geo TV
+https://tvsen6.aynaott.com/natgeo/index.m3u8?e=1779783548&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d1c22deb1beb3345538fcda5a79fd1e3
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/addd5f3c52326489e02df9aa14bb4ea5" group-title="AynaOTT",SYFY TV
+https://tvsen7.aynaott.com/syfy/index.m3u8?e=1779783548&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=10edf9923c4f95fd716f8b76a463ddcb
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/ba3c9fa1144bc65322f8ae3a1bb69cc9" group-title="AynaOTT",TLC HD
+https://tvsen6.aynaott.com/tlc_hd/index.m3u8?e=1779783548&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2037dafbf71d3f80244796bace4f2ef2
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a7f87f1e71905ee14429ed26abd29b2a" group-title="AynaOTT",Travel Channel
+https://tvsen6.aynaott.com/travelxp/index.m3u8?e=1779783548&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c4c6014636cb1b7e531c565ca45d9112
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/1678abdbf203bb77af4bbf2905a3de59" group-title="AynaOTT",IBTV USA
+https://tvsen7.aynaott.com/ibtvusa/index.m3u8?e=1779783548&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=49bdeb42dc5b266af42c023e511eb30a
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/67e08c23033802b4443baf81d1b048bf" group-title="AynaOTT",WEATHER CHANNEL
+https://tvsen6.aynaott.com/TheWeatherChannel/index.m3u8?e=1779783548&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3029c90e654e9cf14e0036d12b38aff8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/16a213d06e7362d97cb6085e70c9b5a2" group-title="AynaOTT",CNBC TV
+https://tvsen6.aynaott.com/cnbc/index.m3u8?e=1779783548&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=36abd2ee26cfba0647c809722af58228
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5b8848e0ec2d5cd133fadef42317dec5" group-title="Religious",TAQBEER
+https://tvsen7.aynascope.net/takbeer/index.m3u8?e=1778391535&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d47d3bd511cc83cd1bccdefc3f34435b
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/813fca9bc7df9a4810efe2eb87c57039" group-title="Religious",MADANI TV
+https://tvsen7.aynascope.net/MadaniTV/index.m3u8?e=1778391535&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5093d415b043d5f9b1e50f50b7136e86
+
+
 
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="BANGLA",Green tv
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
