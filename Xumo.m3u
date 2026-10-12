@@ -764,19 +764,9 @@ https://wurlspacemob.global.transmit.live/hls/67cf33d86ef201b4705ce2a0/v1/answer
 https://amg00497-amg00497c33-amgplt0023.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00497-amg00497c33-amgplt0023/playlist.m3u8
 #EXTINF:-1 tvg-id="Majordomo_TV_with_David_Chang" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/44271-46319/91035744-default_v1.png" group-title="Lifestyle",Majordomo TV with David Chang
 https://wurllg.global.transmit.live/hls/68dd53c86c8601319550732f/playlist.m3u8
-#EXTINF:-1 tvg-id="Power_Nation" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/POWNA/resized_9ecc9c8cef010872f2c59bc14040b7e5d0acd73fbe7a077a11369fbfd7d6491b_powernationthumb768x432jpg_400_225.png" group-title="Lifestyle",Power Nation
-https://amg01258-raycom-amg01258c1-lg-us-886.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-powernation-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="Martha_Stewart" tvg-logo="https://d31l2nn7dlh4li.cloudfront.net/amg17902/resized_images/resized_b6e14b8978a00317cc8ae2f71c5b627fb8df3eee85387f65ab8020e55265cac0_mc0310jeangeorgesscreenshot16x9jpg_400_225.png" group-title="Lifestyle",Martha Stewart
-https://amg17902-amg17902c1-amgplt0023.playout.now3.amagi.tv/playlist/amg17902-amg17902c1-amgplt0023/playlist.m3u8
-#EXTINF:-1 tvg-id="America's_Test_Kitchen" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/AMG01420C1ENG/resized_dfa6e89bf94c7c5421f2b687415fc3fa938444fb262e697a26a4c17ba5127780_jah0504familystyleitaliansundaysupperott1080jpg_400_225.png" group-title="Lifestyle",America's Test Kitchen
-https://amg01420-americastestkitchen-amg01420c1-lg-us-1280.playouts.now.amagi.tv/playlist/amg01420-americastestkitchen-americastestkitchen-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="Cook's_Country_Channel" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/CCCH/resized_7e7904a1c577320913c8d8ee053c77c60e13e2709705c6baf4f5b8f03d9bbcbb_65bd11934ef35f00015cb8241080jpg_400_225.png" group-title="Lifestyle",Cook's Country Channel
-https://amg01420-amg01420c5-lg-us-5093.playouts.now.amagi.tv/playlist/amg01420-americastestkitchen-cookscountrychannel-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="Emeril_Lagasse" tvg-logo="https://d31l2nn7dlh4li.cloudfront.net/amg17902/resized_images/resized_afcd7b68ebd2461ee2e1e7ce63551ab27aa40aa0c84bbd46db90e64b4296b7b9_essenceofemeril02389screenshot16x9jpg_400_225.png" group-title="Lifestyle",Emeril Lagasse
-https://amg17902-amg17902c2-amgplt0023.playout.now3.amagi.tv/playlist/amg17902-amg17902c2-amgplt0023/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Hungry" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/140-LG-400x225_v1.png" group-title="Lifestyle",Hungry
 https://wurljansonmedia.global.transmit.live/hls/67dd78702f042c9565eb1cfe/v1/food/lg_us/latest/main/hls/playlist.m3u8
-
 #EXTINF:-1 tvg-id="At_Home_with_Family_Handyman" tvg-logo="http://img.platform.wurl.dev/channel/1308/lg/5ea754/LG-400x225_v2.png" group-title="Lifestyle",At Home with Family Handyman
 https://tmbijukin.global.transmit.live/hls/68d5b949f1814c6c39825027/v1/jukin_homefamilyhandyman_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Tiny_House_Nation" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/675-LG-400x225_v3.png" group-title="Lifestyle",Tiny House Nation
