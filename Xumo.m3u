@@ -744,17 +744,9 @@ https://wurlewscripps.global.transmit.live/hls/68faa8c23714adc3f0f25388/v1/scrip
 https://wurlgameshownetwork.global.transmit.live/hls/68d16b590531b397b61a778d/v1/gsn_cinevault_70s_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Animation+" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=225&url=https://images.frequency.com/video/7424416696292264703/solid/rectangle/w1920_h1080/kft0atgmf9wp1idd4uhpwdwcb.jpg" group-title="Comedy",Animation+
 https://linear-918.frequency.stream/dist/lg-us/918/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Slightly_Off_IFC" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/564-LG-960x540_v1.png" group-title="Comedy",Slightly Off IFC
-https://wurlrainbowmedia.global.transmit.live/hls/68c49ef04301491a9f4cfbcb/v1/amc_slightly_off_by_amc_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="The_Conners" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/THCONS/resized_56bc5edd04610ba289b0c6b1d4e35bc9cc095f5555c522c55cf13623a434babd_theconnerslandscapejpg_400_225.png" group-title="Comedy",The Conners
-https://amg00353-amg00353c36-lg-us-6064.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-theconners-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="Johnny_Carson_TV" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/JHCRN/resized_33642c910a5f61a5ba7084200176802e3938ea74b0cee210a1a51ba349be6f36_johnnycarsontheverybestofjohnnyandguests1920x1080jpg_400_225.png" group-title="Comedy",Johnny Carson TV
-https://amg00163-shoutfactoryfast-amg00163c2-lg-us-860.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-johnnycarsontv-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="MST3K" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MST3K/resized_4eef9d0fbbcaa2b3b2710708b2dff0906802870f4fdc353c858d66621d8fe5af_gracenotemst3kteenagestranglernologo1920x1080jpg_400_225.png" group-title="Comedy",MST3K
-https://amg00163-shoutfactoryfast-amg00163c4-lg-us-858.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-mst3k-lgus/playlist.m3u8
+
 #EXTINF:-1 tvg-id="WITZ-Comedy_TV" tvg-logo="http://img.platform.wurl.dev/channel/1197/lg/4bbe15/LG-400x225_v2.png" group-title="Comedy",WITZ-Comedy TV
 https://wurlbesteverchannels.global.transmit.live/hls/695ff77d70783bed1981352c/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Majordomo_TV_with_David_Chang" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/44271-46319/91035744-default_v1.png" group-title="Lifestyle",Majordomo TV with David Chang
 https://wurllg.global.transmit.live/hls/68dd53c86c8601319550732f/playlist.m3u8
 #EXTINF:-1 tvg-id="Hungry" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/140-LG-400x225_v1.png" group-title="Lifestyle",Hungry
