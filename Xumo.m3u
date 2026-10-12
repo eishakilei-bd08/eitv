@@ -822,27 +822,9 @@ https://aenetworks.global.transmit.live/hls/68b7814f793640e982cd6718/v1/aenetwor
 https://aenetworks.global.transmit.live/hls/67be3d9fb3714a9e22d8288b/v1/aenetworks_iceroadtruckers_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Dance_Moms" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/AEDMS/resized_ee1a7dccb49fced20d45253efcbe94f75f1d01fb7a011906d554449456f51282_182949300244thumbjpg_400_225.png" group-title="Reality",Dance Moms
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00276-aetelevisionnet-dancemoms-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="Matched_Married_Meet" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/AEMMM/resized_16149d5e73bff2e806b75e0f9f96c452d40aabaf36d6f02919724ae5026ccfdc_285495463019thumbjpg_400_225.png" group-title="Reality",Matched Married Meet
-https://amg00276-aenetwork-amg00276c4-lg-us-1236.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-matchedmarriedmeet-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="Cheaters" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0CXQSOJUG1JI/400x225.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993001%2F400x225.jpg%3Ftype%3DchannelTile" group-title="Reality",Cheaters
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
-#EXTINF:-1 tvg-id="The_Osbournes" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ALREALLGUS/resized_3af77cea2a6164f1d38d0317c0736ccc254f3348f1ea82f2cbd850a8c102e4e8_theosbournes1920x1080jpg_400_225.png" group-title="Reality",The Osbournes
-https://banijay-allreal-lg-us.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-banijay-allreal-lg-us/CDN/master.m3u8
-#EXTINF:-1 tvg-id="Hell's_Kitchen" tvg-logo="https://image.xumo.com/v1/assets/asset/XM06ZDPOF6WQDX/400x225.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992260%2F400x225.jpg%3Ftype%3DchannelTile" group-title="Reality",Hell's Kitchen
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
-#EXTINF:-1 tvg-id="Project_Runway" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/AMG02189C1ENG/resized_4a6c2a68486985e01e7d03ac435ac910849cded046ce6396f5268230f014c030_prs12ep12091920x1080jpg_400_225.png" group-title="Reality",Project Runway
-https://amg02189-amg02189c1-lg-us-7233.playouts.now.amagi.tv/playlist/amg02189-spyglass-projectrunway-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="Fear_Factor" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/FRFCT/resized_29486217e3027518721f2cf03332e7b5649a70b15c0fa12b77487b57c4752cd5_fearfactorthumbnail1920x1080jpg_400_225.png" group-title="Reality",Fear Factor
-https://banijay-fearfactor-lg-us.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-banijay-fearfactor-lg-us/CDN/master.m3u8
-#EXTINF:-1 tvg-id="Nosey" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/NINTL1US/resized_570d81e207e983503e27c04e1a36b1eb664a53c72471d6feeee15e33a6e9d91b_sw2312png_400_225.png" group-title="Reality",Nosey
-https://nosey-intl-1-lg-us.amagi.tv/hls/amagi_hls_data_noseyAAAA-noseyintl1-lg-us/CDN/master.m3u8
-#EXTINF:-1 tvg-id="Ghost_Hunters" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/GTHTR/resized_61b549009aae23f1fbcf105dbd6b2e7b20ab12af9c4f91c6db59499f338302df_ghosthunterslandscapejpg_400_225.png" group-title="Reality",Ghost Hunters
-https://amg00353-amg00353c18-lg-us-3069.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ghosthunters-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="Western_Bound_Wrangled_by_INSP" tvg-logo="https://image.xumo.com/v1/assets/asset/XT01R0J5NJQH83/400x225.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992520%2F400x225.jpg%3Ftype%3DchannelTile" group-title="Westerns",Western Bound Wrangled by INSP
-https://d1bl6tskrpq9ze.cloudfront.net/hls/cw.m3u8
+
 #EXTINF:-1 tvg-id="Grit_Xtra" tvg-logo="http://img.platform.wurl.dev/channel/1208/lg/049016/LG-400x225_v1.png" group-title="Westerns",Grit Xtra
 https://wurlewscripps.global.transmit.live/hls/68f6af393617a3dcae3e8c17/v1/scripps_gritxtra_1/lg_us/latest/main/hls/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Crime_ThrillHer" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1056-LG-400x225_v1.png" group-title="Crime",Crime ThrillHer
 https://aenetworks.global.transmit.live/hls/68b77f472119c010f116648d/v1/aenetworks_thrillher_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="A&E_Alaska_State_Troopers" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/1-2049/2181-LG-768x432_v1.png" group-title="Crime",A&E Alaska State Troopers
