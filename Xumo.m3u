@@ -872,12 +872,6 @@ https://wurltrublufactual.global.transmit.live/hls/6994cb0f5ee6d4ddfbe7d7e7/play
 https://aenetworks.global.transmit.live/hls/68b76f7c793640e982cd670c/v1/aenetworks_crime360_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Crimes_Cults_Killers__by_A&E" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1055-LG-400x225_v3.png" group-title="Crime",Crimes Cults Killers  by A&E
 https://aenetworks.global.transmit.live/hls/68b779592bcf083f5d656235/v1/aenetworks_kriminal_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="World's_Most_Evil_Killers" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0N61SE948UWP/400x225.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F400x225.jpg%3Ftype%3DchannelTile" group-title="Crime",World's Most Evil Killers
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
-#EXTINF:-1 tvg-id="Live_PD_Presents" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/lpdpr/resized_1356f162b23551f9686717aa3d3f68265c585d22c32fc731a24bcb3b3d250541_233532480374thumbjpg_400_225.png" group-title="Crime",Live PD Presents
-https://amg00276-aenetwork-amg00276c26-lg-us-7268.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-livepdpresents-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="JAIL" tvg-logo="http://img.platform.wurl.dev/channel/1201/lg/371c00/LG-400x225_v1.png" group-title="Crime",JAIL
-https://wurllangley.global.transmit.live/hls/68dc5ced67531dbca67149df/playlist.m3u8
 #EXTINF:-1 tvg-id="Law&Crime" tvg-logo="http://img.platform.wurl.dev/channel/226/lg/649349/LG-400x225_v1.png" group-title="Crime",Law&Crime
 https://wurllawnewz.global.transmit.live/hls/68dc523c2aa9a163d81820fa/v1/lawandcrime_samsung/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Court_TV" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1516-LG-400x225-_v1.png" group-title="Crime",Court TV
