@@ -715,11 +715,9 @@ https://wurlrainbowmedia.global.transmit.live/hls/68c4987e18e2a74e37774fb6/v1/am
 https://wurlrainbowmedia.global.transmit.live/hls/68c49b2318e2a74e37774fbc/v1/amc_networks_nesnnation_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="UFC" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=225&url=https://images.frequency.com/video/7465548905404826983/solid/rectangle/w1920_h1080/1xxs5348pd9rs1rj1s25ugefgh.jpg" group-title="Sports",UFC
 https://linear-893.frequency.stream/dist/lg-us/893/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="DAZN_Ringside" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/DZNRS/resized_c61c8307881892e25376a8546aca5be66024d4e1232beab58e489b9b16c9722c_dfapm1490613jpeg_400_225.png" group-title="Sports",DAZN Ringside
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznringside-lgus/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Swerve_Combat" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=225&url=https://images.frequency.com/video/7463363299889332160/solid/rectangle/w1920_h1080/24jpxa64z60x1mkda3f1m8xg4.jpg" group-title="Sports",Swerve Combat
 https://linear-253.frequency.stream/dist/lg-us/253/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Monster_Jam" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1693-LG-960x540_v1.png" group-title="Sports",Monster Jam
 https://wurlspacemob.global.transmit.live/hls/6866cf7dd9fb5876ff1673c8/v1/answermedia_monsterjam_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Women's_Sports_Network" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/WOMCH/resized_0ffdebd3c67e0ffe346869eb81310da8d8614bee256e0584658ad1a0db63420b_wsngoe0043jpg_400_225.png" group-title="Sports",Women's Sports Network
