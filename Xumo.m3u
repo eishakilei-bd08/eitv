@@ -754,17 +754,9 @@ https://amg00163-shoutfactoryfast-amg00163c2-lg-us-860.playouts.now.amagi.tv/pla
 https://amg00163-shoutfactoryfast-amg00163c4-lg-us-858.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-mst3k-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="WITZ-Comedy_TV" tvg-logo="http://img.platform.wurl.dev/channel/1197/lg/4bbe15/LG-400x225_v2.png" group-title="Comedy",WITZ-Comedy TV
 https://wurlbesteverchannels.global.transmit.live/hls/695ff77d70783bed1981352c/playlist.m3u8
-#EXTINF:-1 tvg-id="Comedy_Dynamics" tvg-logo="https://images.frequency.com/video/tnwtdpomx9lg1ag4exfnzw2a8/w1920_h1080/tnwtdpomx9lg1ag4exfnzw2a8.jpg?width=400&height=225" group-title="Comedy",Comedy Dynamics
-https://linear-903.frequency.stream/dist/lg-us/903/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Comedy_Plus" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/AMG02042C5ENG/resized_ed5f503f683722ca2dbae1decabadd65c2d0f5dca03426200d56510f60d14db2_fmp21159png_400_225.png" group-title="Comedy",Comedy Plus
-https://amg02042-ottstudio-amg02042c5-lg-us-1052.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-comedyplus-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="The_Red_Green_Channel" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/949-LG-400x225_v2.png" group-title="Comedy",The Red Green Channel
-https://wurlspacemob.global.transmit.live/hls/67cf33d86ef201b4705ce2a0/v1/answermedia_theredgreenshow_2/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="All_Chewed_Up" tvg-logo="https://d31l2nn7dlh4li.cloudfront.net/amg00497/resized_images/resized_50ad56c021cdaeb51a061f613227749161364f0b2592bc16a5334138722246cb_chewedup226260209colormixv2lg00134323still001jpg_400_225.png" group-title="Lifestyle",All Chewed Up
-https://amg00497-amg00497c33-amgplt0023.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00497-amg00497c33-amgplt0023/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Majordomo_TV_with_David_Chang" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/44271-46319/91035744-default_v1.png" group-title="Lifestyle",Majordomo TV with David Chang
 https://wurllg.global.transmit.live/hls/68dd53c86c8601319550732f/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Hungry" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/140-LG-400x225_v1.png" group-title="Lifestyle",Hungry
 https://wurljansonmedia.global.transmit.live/hls/67dd78702f042c9565eb1cfe/v1/food/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="At_Home_with_Family_Handyman" tvg-logo="http://img.platform.wurl.dev/channel/1308/lg/5ea754/LG-400x225_v2.png" group-title="Lifestyle",At Home with Family Handyman
