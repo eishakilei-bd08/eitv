@@ -758,9 +758,6 @@ https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 
 
-
-#EXTM3U x-tvg-url="" <!-- Auto-generated: 2026-10-06 09:28 UTC -->
-
 #EXTINF:-1 tvg-id="ch_0" tvg-name="BTV Shangshad" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Sangsad%20Television.webp?raw=true" group-title="TV",BTV Shangshad
 https://btv.hridoytv-channel.workers.dev/sangsad.m3u8
 #EXTINF:-1 tvg-id="ch_1" tvg-name="BTV" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/BTV.webp" group-title="TV",BTV
@@ -1099,16 +1096,6 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 
-
-#EXTM3U
-# =============================================================
-#  🎬 LIVE MOVIES PLAYLIST
-#  👨‍💻 Dev        : @devxhasu
-#  🔗 Repo       : https://github.com/devxhasu/my-iptv-playlist
-#  🕐 Last Update: 12 Oct 2026, 07:09 AM (BDT)
-#  ⏰ Next Run   : 12 Oct 2026, 09:09 AM (BDT)
-#  📺 Live Total : 519
-# =============================================================
 #EXTINF:-1 tvg-name="B4U Movies (576p)" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Movies",B4U Movies (576p)
 https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-name="Blokbaster HD (1080p)" tvg-logo="https://i.imgur.com/KcOi4Os.png" group-title="Movies",Blokbaster HD (1080p)
