@@ -1306,7 +1306,6 @@ https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8?hdnts=st%3D179038
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://d1msejlow1t3l4.cloudfront.net/fta/peppers/playlist.m3u8?hdnts=st%3D1790381396~exp%3D1790402996~acl%3D%21%2A%2Ffta%2Fpeppers%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_113_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_113_-1~hmac%3D17b8f92fa690a25e42bdeaeb9f0930efee5f20566fd8840ad29fb91762713e82
 
-
 #EXTINF:-1 tvg-id="137" tvg-chno="67" tvg-name="balle-balle" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/balle-balle.png" group-title="Music", Balle Balle
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -1359,7 +1358,6 @@ https://d1msejlow1t3l4.cloudfront.net/211125/godtv/playlist.m3u8?hdnts=st%3D1790
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8?hdnts=st%3D1790381410~exp%3D1790403010~acl%3D%21%2A%2Ffta%2Fsubhartitv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_123_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_48.217.251.138_yuppfast_2_channel_123_-1~hmac%3D5217152000433bab0c87b17c98889767472a6414030cea2f836ec0fb6278929c
-
 
 
 #EXTINF:-1 tvg-id="77" tvg-chno="257" tvg-name="horror-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/horror-tv.png" group-title="Movies", Horror TV
