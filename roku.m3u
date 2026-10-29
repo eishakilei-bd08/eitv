@@ -10,7 +10,15 @@
 
 
 
-#EXTM3U x-tvg-url="https://whiplash.cc/scheds/schedule.xml"
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="C1.1.146.ersatztv.org" tvg-name="WHP1" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/Whiplash.png" group-title="webchnl and mist",Whiplash
 https://cdn.whiplash.cc/whiplash/index.m3u8
 #EXTINF:-1 tvg-id="C2.1.147.ersatztv.org" tvg-name="WHP2" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/Whiplash2.png" group-title="webchnl and mist",Whiplash II
