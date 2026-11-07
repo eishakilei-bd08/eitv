@@ -281,7 +281,8 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="SunBangla.in@SD" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sun-bangla.png" group-title="Indian Bangla",Sun Bangla
+http://27.124.71.27/Sun_Bangla/index.m3u8
 
 
 
@@ -2304,39 +2305,10 @@ http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:
 #EXTINF:-1 tvg-id="Star.Jalsha.in" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/star-jalsha.png" group-title="Indian Bangla",Star Jalsha
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 
-#EXTINF:-1 tvg-id="SunBangla.in@SD" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sun-bangla.png" group-title="Indian Bangla",Sun Bangla
-http://27.124.71.27/Sun_Bangla/index.m3u8
-
-#EXTINF:-1 tvg-id="019de785-399f-7d6a-9f41-dc7f834b3300" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4c08302f7fbe506a998e74c89fcf08ac_playmist_tv9_bangla_400x400.jpg" group-title="Indian Bangla",TV9 Bangla
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ZeeBangla.in@HD" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-bangla.png" group-title="Indian Bangla",Zee Bangla
-https://drk6xq0vhn.gpcdn.net/live/zee_bangla_720/index.m3u8
-
-#EXTINF:-1 tvg-id="ZeeBanglaSonar.in@SD" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-bangla-sonar.png" group-title="Indian Bangla",Zee Bangla Sonar
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYy4jJoltvhvpRSuk8i6Wm03s40xqEpsla9Q&s" group-title="Indian Bangla",Zee 24 Ghanta
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zee24ghantaa-xiaomi/playlist.m3u8
-
-# Movies
-
-#EXTINF:-1 tvg-id="ZeeAction.in" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-action.png" group-title="Movies",Zee Action
-https://stream.ottplus.live/live/zee_action_abr/index.m3u8
-
-#EXTINF:-1 tvg-id="ZeeBollywood.in@SD" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-bollywood.png" group-title="Movies",Zee Bollywood
-https://drk6xq0vhn.gpcdn.net/live/zee_bollywood_abr/index.m3u8
-
-#EXTINF:-1 tvg-id="ZeeCinema.in@HD" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-cinema.png" group-title="Movies",Zee Cinema
-https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-gOTZYUBCEpOwrtIYHCLViHpAU9Cz7V6zR14fu6XOlYahvBguPaxmbjH6ClmGp-PpLVDR8iFTOLRXo7xmxXBg5heY_umgJK0DRNwFb8pqCPP0rwdtZ9goIjgur2DeyqzIAZXgkObDCGIMVjXwhfvDH1Ol-kzFc9PlKFC8iWpWtYUskRxoint29agY/s600/Nur_20251107_222900_0000.png" group-title="Movies",SRK TV
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZeeTV.in@SD" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-tv.png" group-title="Movies",Zee TV
 https://d47ddb99.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVUVkhEVUtHZXJtYW55X0hMUw/playlist.m3u8
 
-# Kids
 
 #EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/cartoon-network.png" group-title="Kids",Cartoon Network
 https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
@@ -2344,19 +2316,7 @@ https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 #EXTINF:-1 group-title="Kids",Cartoon Network HD
 http://fonte.lista.luxe:80/iptvgood/101011/4038
 
-#EXTINF:-1 tvg-id="DisneyChannel.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids",Disney Channel
-http://88.212.15.19/live/test_disney/playlist.m3u8
 
-#EXTINF:-1 group-title="Kids",Nick
-http://188.113.190.12/43/index.m3u8
-
-#EXTINF:-1 tvg-id="Pogo.in@SD" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/pogo.png" group-title="Kids",Pogo
-https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
-
-#EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-yay.png" group-title="Kids",Sony Yay
-https://drk6xq0vhn.gpcdn.net/live/sony_yay_abr/index.m3u8
-
-# News
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg" group-title="News",CGTN
 https://0472.org/hls/cgtn.m3u8
@@ -2370,32 +2330,6 @@ https://a-cdn.klowdtv.com/live2/france24_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.logoeps.net/wp-content/uploads/2016/12/al-jazeera-logo.png" group-title="News",AL Jazeera
 https://live-hls-web-aje-gcp.thehlive.com/AJE/03.m3u8
 
-#EXTINF:-1 tvg-id="cna.sg" tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg" group-title="News",Channel News Asia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/deutsche_welle-brandlogo.net_-512x512.png" group-title="News",DW
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Russia-today-logo.svg/revision/latest" group-title="News",Russia Today
-https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-
-#EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1074.png" group-title="News",Bloomberg TV
-https://bloomberg.com/media-manifest/streams/eu.m3u8
-
-# Entertainment
-
-#EXTINF:-1 group-title="Entertainment",AXN HD
-http://79.127.238.228:14563/
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmNW86sW/image_29.jpg" group-title="Entertainment",HBO
-http://195.26.87.217/live.ts?channelId=49858&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
-#EXTINF:-1 tvg-id="ZeeTV.in@SD" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-tv.png" group-title="Entertainment",Zee TV
-https://d47ddb99.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVUVkhEVUtHZXJtYW55X0hMUw/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="MADANIChannelBangla.bd" tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png" group-title="Religious",MADANI Channel Bangla
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 
 #EXTINF:-1 tvg-id="custom.makkah.live" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/makkah-live.png" group-title="Religious",Makkah Live
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/index.m3u8
