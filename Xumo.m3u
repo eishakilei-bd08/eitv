@@ -530,13 +530,6 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951183/hls/master.m3u8?ads.xumo_cha
 
 
 
-
-
-
-
-
-
-#EXTM3U
 #EXTINF:-1 tvg-id="LiveNOW_from_FOX" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/FOXLIVENOW/resized_0ad0a7ba3e5b534693911432e4b661dc0bd4563ff79dbe394605979c00ef331d_p20209211bh8aajpg_400_225.png" group-title="News",LiveNOW from FOX
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Newsmax_N2" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/NWSMX/resized_db06ce835bef5e705d7c9d7ce32a0f2ca3d1110e2b69d79c52e14ea03790f6b6_michaelsavagesavagenationjpg_400_225.png" group-title="News",Newsmax N2
