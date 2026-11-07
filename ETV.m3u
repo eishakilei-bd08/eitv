@@ -25,9 +25,7 @@
 #EXTINF:-1 tvg-name="Jago News 24"tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/pran -RFL.png" group-title="Extra Channels", Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 
-
-#EXTINF:-1, Deepto TV
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZRsMmLq/Depto-Tv.jpg" group-title="ETV🍁",DIPTO TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
 #EXTINF:-1 group-title="MYANMAR", MWD HD
@@ -51,7 +49,7 @@ http://203.81.84.130/hls/mwd_family/index.m3u8
 http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
 
 #EXTINF:-1 group-title="ETV🍁" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T-SPORTS
-http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
+http://45.117.61.162/01_Tsports_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ETV🍁" tvg-logo="https://mms.businesswire.com/media/20250109393255/en/2348228/4/WILLOW_2023_Primary-Stacked.jpg?utm_source=chatgpt.com",Willow
 https://playztv-apps.pages.dev/willow-tv/index.m3u8
 #EXTINF:-1 group-title="ETV🍁" group-logo="https://img.magnific.com/premium-vector/professional-tv-channel-logo-design-concept-vector-illustration_875240-1836.jpg?semt=ais_test_b&w=740&q=80" tvg-logo="https://play-lh.googleusercontent.com/9SeOWItRm9aisiTN7QJO1cSeRbpj_XJBc-_R0b7QND_r_BFop59qRw5pWxAUl3beku_PKJoO7gJO9ZYM2-FimWM=w600-h300-pc0xffffff-pd",A Sports
@@ -61,7 +59,7 @@ https://playztv-apps.pages.dev/ptv-sports/index.m3u8
 #EXTINF:-1 group-title="ETV🍁" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T-SPORTS
 #http://103.185.24.134:3001/TSportsHD/index.m3u8
 #EXTINF:-1 group-title="ETV🍁" group-logo="https://img.magnific.com/premium-vector/professional-tv-channel-logo-design-concept-vector-illustration_875240-1836.jpg?semt=ais_test_b&w=740&q=80" tvg-logo="https://yt3.googleusercontent.com/IFgAG_o_AdtX4IauErKIzuFGCj0m4QyH81Q1Uq8H-2Si9ul3vmXkLihDUnn6-QI3xiMZech0AQ=s900-c-k-c0x00ffffff-no-rj",Tsports
-http://103.151.60.162:2122/play/a030/index.m3u8?hls
+http://103.209.196.22:84/feed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNQfGnnb/RLr-MBlm.png" group-title="ETV🍁",Bein Sports xtra
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCRtp8T8/IMG-1741986198658-2.png" group-title="ETV🍁",STAR SPORTS 1 HD
@@ -70,9 +68,7 @@ http://livetv.akr4m.com:8080/bdtv/restrem/39.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPQTMyHz/IMG-1741986445491-2.png" group-title="ETV🍁",STAR SPORTS SELECT 1 HD
 http://livetv.akr4m.com:8080/bdtv/restrem/40.m3u8
 #https://stream.kliv.in/nex/oppz22_167578.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZRsMmLq/Depto-Tv.jpg" group-title="ETV🍁",DIPTO TV
-#https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-http://livetv.akr4m.com:8080/bdtv/restrem/17.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqjVmZyt/Zee-Bangla-Cinema.jpg" group-title="ETV🍁",ZEE BANGLA CINEMA
 http://livetv.akr4m.com:8080/bdtv/restrem/3.m3u8
 #EXTINF:-1 group-title="ETV🍁" group-logo="https://assets.dhakapost.com/media/imgAll/BG/2024September/btv-2--20240918180041.jpg?q=75&width=1280&utm_source=chatgpt.com",BTV
@@ -151,60 +147,6 @@ https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/27.m3u8
 
 
-http://livetv.akr4m.com:8080/bdtv/restrem/28.m3u8
-
-http://livetv.akr4m.com:8080/bdtv/restrem/29.m3u8
-
-http://livetv.akr4m.com:8080/bdtv/restrem/33.m3u8
-
-http://livetv.akr4m.com:8080/bdtv/restrem/34.m3u8
-
-http://livetv.akr4m.com:8080/bdtv/restrem/35.m3u8
-
-http://livetv.akr4m.com:8080/bdtv/restrem/36.m3u8
-
-http://livetv.akr4m.com:8080/bdtv/restrem/37.m3u8
-
-http://livetv.akr4m.com:8080/bdtv/restrem/38.m3u8
-
-http://livetv.akr4m.com:8080/bdtv/restrem/44.m3u8
-
-http://livetv.akr4m.com:8080/bdtv/restrem/45.m3u8
-
-http://livetv.akr4m.com:8080/bdtv/restrem/47.m3u8
-
-http://livetv.akr4m.com:8080/bdtv/restrem/50.m3u8
-
-http://livetv.akr4m.com:8080/bdtv/restrem/51.m3u8
-
-http://livetv.akr4m.com:8080/bdtv/restrem/52.m3u8
-
-http://livetv.akr4m.com:8080/bdtv/restrem/53.m3u8
-
-http://livetv.akr4m.com:8080/bdtv/restrem/55.m3u8
-
-http://livetv.akr4m.com:8080/bdtv/restrem/57.m3u8
-
-http://livetv.akr4m.com:8080/bdtv/restrem/58.m3u8
-
-http://livetv.akr4m.com:8080/bdtv/restrem/59.m3u8
-
-http://livetv.akr4m.com:8080/bdtv/restrem/60.m3u8
-
-http://livetv.akr4m.com:8080/bdtv/restrem/62.m3u8
-
-http://livetv.akr4m.com:8080/bdtv/restrem/63.m3u8
-
-http://livetv.akr4m.com:8080/bdtv/restrem/64.m3u8
-
-http://livetv.akr4m.com:8080/bdtv/restrem/67.m3u8
-
-http://livetv.akr4m.com:8080/bdtv/restrem/68.m3u8
-
-http://livetv.akr4m.com:8080/bdtv/restrem/69.m3u8
-
-
-http://livetv.akr4m.com:8080/bdtv/restrem/70.m3u8
 
 
 
@@ -2211,8 +2153,6 @@ https://iptv-proxy.ahmed-bd-org.workers.dev/dbc-news/index.m3u8
 #EXTINF:-1 tvg-id="019de785-3960-7cad-a051-6b707a28890b" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_ebcb173e194bfeede20303e348b80999_playmist_deepto_tv_400x400.jpg" group-title="Bangladesh",Deepto TV
 https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kqF2kdy/20240826-230650.png" group-title="Bangladesh",DEEPTO TV HD
-https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8?
 
 #EXTINF:-1 tvg-id="DeshTV.bd" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/desh-tv.png" group-title="Bangladesh",Desh TV
 https://stream.ottplus.live/live/desh_tv_abr/index.m3u8
