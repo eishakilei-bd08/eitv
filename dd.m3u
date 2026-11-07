@@ -15,6 +15,11 @@
 
 
 
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://tom-dzherri.net/static/images/logo.jpg" group-title="👑Tom&Jerry👑",1
 https://v.tom-dzherri.net/video/kids/1/1.mp4
 
@@ -54,7 +59,6 @@ https://v.tom-dzherri.net/video/kids/1/12.mp4
 #EXTINF:-1 tvg-logo="https://tom-dzherri.net/static/images/logo.jpg" group-title="👑Tom&Jerry👑",13
 https://v.tom-dzherri.net/video/kids/1/13.mp4
 
-﻿#EXTM3U
 
 
 #EXTINF:-1 tvg-logo="https://tom-dzherri.net/static/images/logo.jpg" group-title="👑Tom&Jerry👑",1
@@ -99,7 +103,6 @@ https://v.tom-dzherri.net/video/kids/2/26.mp4
 #EXTINF:-1 tvg-logo="https://tom-dzherri.net/static/images/logo.jpg" group-title="👑Tom&Jerry👑",14
 https://v.tom-dzherri.net/video/kids/2/27.mp4
 
-﻿#EXTM3U
 
 
 #EXTINF:-1 tvg-logo="https://tom-dzherri.net/static/images/logo.jpg" group-title="👑Tom&Jerry👑",1
@@ -177,9 +180,6 @@ https://v.tom-dzherri.net/video/kids/3/51.mp4
 #EXTINF:-1 tvg-logo="https://tom-dzherri.net/static/images/logo.jpg" group-title="👑Tom&Jerry👑",25
 https://v.tom-dzherri.net/video/kids/3/52.mp4
 
-﻿#EXTM3U
-
-
 
 
 
@@ -222,10 +222,6 @@ https://v.tom-dzherri.net/video/kids/4/64.mp4
 
 #EXTINF:-1 tvg-logo="https://tom-dzherri.net/static/images/logo.jpg" group-title="👑Tom&Jerry👑",13
 https://v.tom-dzherri.net/video/kids/4/65.mp4
-
-
-
-﻿#EXTM3U
 
 
 
@@ -275,10 +271,6 @@ https://v.tom-dzherri.net/video/skazki/1/14.mp4
 #EXTINF:-1 tvg-logo="https://tom-dzherri.net/static/images/logo.jpg" group-title="👑Tom&Jerry👑",15
 https://v.tom-dzherri.net/video/skazki/1/15.mp4
 
-﻿#EXTM3U
-
-
-
 
 #EXTINF:-1 tvg-logo="https://tom-dzherri.net/static/images/logo.jpg" group-title="👑Tom&Jerry👑",1
 https://v.tom-dzherri.net/video/skazki/2/1.mp4
@@ -315,8 +307,6 @@ https://v.tom-dzherri.net/video/skazki/2/11.mp4
 
 #EXTINF:-1 tvg-logo="https://tom-dzherri.net/static/images/logo.jpg" group-title="👑Tom&Jerry👑",12
 https://v.tom-dzherri.net/video/skazki/2/12.mp4
-
-﻿#EXTM3U
 
 
 
@@ -365,8 +355,6 @@ https://v.tom-dzherri.net/video/skazki/3/14.mp4
 
 #EXTINF:-1 tvg-logo="https://tom-dzherri.net/static/images/logo.jpg" group-title="👑Tom&Jerry👑",15
 https://v.tom-dzherri.net/video/skazki/3/15.mp4
-﻿#EXTM3U
-
 
 
 
@@ -406,10 +394,6 @@ https://v.tom-dzherri.net/video/skazki/4/11.mp4
 #EXTINF:-1 tvg-logo="https://tom-dzherri.net/static/images/logo.jpg" group-title="👑Tom&Jerry👑",12
 https://v.tom-dzherri.net/video/skazki/4/12.mp4
 
-﻿#EXTM3U
-
-
-
 
 #EXTINF:-1 tvg-logo="https://tom-dzherri.net/static/images/logo.jpg" group-title="👑Tom&Jerry👑",1
 https://v.tom-dzherri.net/video/skazki/5/1.mp4
@@ -446,9 +430,6 @@ https://v.tom-dzherri.net/video/skazki/5/11.mp4
 
 #EXTINF:-1 tvg-logo="https://tom-dzherri.net/static/images/logo.jpg" group-title="👑Tom&Jerry👑",12
 https://v.tom-dzherri.net/video/skazki/5/12.mp4
-
-
-﻿#EXTM3U
 
 
 
