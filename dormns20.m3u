@@ -87,25 +87,6 @@ http://103.151.60.162:2122/play/a011/index.m3u8?hls
 #KODIPROP:inputstream.adaptive.license_key=01f7b9f7bf7e425f86d6dfd478390e3f:5fde68100a7856d055038236ffc7c84a
 https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://static.wikia.nocookie.net/india-tv-channel/images/f/fb/Aakashaath_blue.png/revision/latest?cb=20211211133635",Aakash Aath
-https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png" group-title="Bangla",Colors Bangla SD (Jio)
-http://103.180.212.191:3500/live/1369.m3u8
-
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla.png",Colors Bangla (jio)2
-http://live.balajibroadband.com:3500/live/1369.m3u8
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="Bangla",Colors Bangla HD (Jio)
-http://103.180.212.191:3500/live/756.m3u8
-
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla.png" group-title="Bangla",Colors Bangla HD (Jio)2
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://madanitv.assadikb.workers.dev/live.php?id=756&e=.m3u8
-
-
-
-
 
 
 
@@ -116,8 +97,6 @@ https://madanitv.assadikb.workers.dev/live.php?id=756&e=.m3u8
 #KODIPROP:mimetype=application/dash+xml
 http://103.175.73.12:8080/live/258/master.m3u8
 
-#EXTINF:-1 tvg-id="258" tvg-logo="" group-title="Entertainment",Shemaroo Umang (jio)
-http://103.180.212.191:3500/live/2078.m3u8
 
 #EXTINF:-1 tvg-id="" group-logo="https://www.dangalplay.com/assets/logos/logo_dP.png" tvg-logo="https://dangaplay-json.s3.ap-south-1.amazonaws.com/Dangal_16x9.jpg" group-title="Entertainment" group-logo="https://www.dangalplay.com/assets/logos/logo_dP.png",Dangal
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
@@ -155,11 +134,6 @@ http://103.175.73.12:8080/live/19/19_0.m3u8
 #EXTINF:-1 group-title="Kid" tvg-logo="https://assets-prod.services.toffeelive.com/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",Sony yay bangla 1
 https://stream.ottplus.bd/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
 
-#EXTINF:-1 group-title="Kid" tvg-logo="https://assets-prod.services.toffeelive.com/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",Sony yay bangla (jio)2
-http://live.balajibroadband.com:3500/live/3424.m3u8
-
-#EXTINF:-1 group-title="Kid" tvg-logo="https://assets-prod.services.toffeelive.com/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",Sony yay (airtle)2
-https://operator1.barfik.org/u4b3n324j7/7cj49wd783/156089
 
 #EXTINF:-1 group-title="Kid" tvg-logo="https://assets-prod.services.toffeelive.com/mC6W-JQBv9knK3AHfDWA/posters/d2a02d82-fde4-4769-a6d9-95c0560e2120.webp",Cartoon Network SD
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
@@ -175,11 +149,7 @@ https://login.bheem.tv/bpk-tv/22602/output/index.mpd?
 #EXTINF:-1 group-title="Kid" tvg-logo="https://assets-prod.services.toffeelive.com/mC6W-JQBv9knK3AHfDWA/posters/d2a02d82-fde4-4769-a6d9-95c0560e2120.webp",Cartoon Network (Toffee)
 https://stream.ottplus.bd/live/cn_sd_abr/live/cn_sd/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kid",Cartoon Network Hindi (Jio)
-http://103.180.212.191:3500/live/816.m3u8
 
-#EXTINF:-1 group-title="Kid" tvg-logo="https://assets-prod.services.toffeelive.com/mC6W-JQBv9knK3AHfDWA/posters/d2a02d82-fde4-4769-a6d9-95c0560e2120.webp",Cartoon Network (jio)2
-http://live.balajibroadband.com:3500/live/816.m3u8
 
 #EXTINF:-1 tvg-id="22602" tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png" group-title="Kid",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -225,20 +195,10 @@ https://stream.ottplus.bd/live/pogo_sd_abr/live/pogo_sd/chunks.m3u8
 #KODIPROP:inputstream.adaptive.license_key=747bbd76538e54aba7b84da4d5dc5aba:bd594239af2c1befc5d117cc72c83f33
 https://login.bheem.tv/bpk-tv/22603/output/index.mpd
 
-#EXTINF:-1 group-title="Kid"  tvg-logo="https://assets-prod.services.toffeelive.com/1i6e-JQBv9knK3AHHTXR/posters/325887a7-84ea-4cf9-a6fd-6111ddc25671.webp",Discovery Kids (jio)2
-http://live.balajibroadband.com:3500/live/554.m3u8
-
 #EXTINF:-1 group-title="Kid"  tvg-logo="https://assets-prod.services.toffeelive.com/1i6e-JQBv9knK3AHHTXR/posters/325887a7-84ea-4cf9-a6fd-6111ddc25671.webp",Discovery Kids 
 https://stream.ottplus.bd/live/discovery_kids_abr/live/discovery_kids/chunks.m3u8
 
-#EXTINF:-1 tvg-id="duranta_tv" tvg-logo="http://monirul.bro.bd/assets/images/DURANTA TV1745043400.png" group-title="Kid",DURANTA TV 1
-http://180.94.28.28:8097//Duronto-TV/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-id="duranta_tv" tvg-logo="http://monirul.bro.bd/assets/images/DURANTA TV1745043400.png" group-title="Kid",DURANTA TV 2
-http://180.94.28.28:8097//Duronto-TV/index.fmp4.m3u8?token=e75fb97048890b77770eb83dbf6ba162d7146f10-0b19b41c8305385db0d73e7de5baa853-1776169973-1776166373&remote=no_check_ip
-
-#EXTINF:-1 tvg-id="duranta_tv" tvg-logo="http://monirul.bro.bd/assets/images/DURANTA TV1745043400.png" group-title="Kid",DURANTA TV 3
-http://103.151.61.12/DurontoTV/video.m3u8?token=i7bZaZWaFrSIE0
 
 #EXTINF:-1 group-title="Kid" tvg-logo="https://img.etimg.com/thumb/width-1200,height-1200,imgsize-25048,resizemode-75,msid-123659275/industry/media/entertainment/media/shemaroo-launches-hindi-movie-channel-josh.jpg",Shemaroo Josh and Chumbak 1
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/chunklist_b1628000_sleng.m3u8
@@ -258,9 +218,6 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 group-title="Kid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpPf4msTiSxg2hmiDn_0jrRNnt1d-CMwGxXYZql7bR9Ambs3ZkvNkSJqIi&s=10",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-
-#EXTINF:-1 group-title="Kid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpPf4msTiSxg2hmiDn_0jrRNnt1d-CMwGxXYZql7bR9Ambs3ZkvNkSJqIi&s=10",Enter 10 Bangla +
-http://180.94.28.28:8097//ENTER-10-BANGLA/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/194389/150x150_SunNeoHD_194389_00f513c6-9032-400b-98c8-664e11a68e23.jpg" group-title="Kid",Sun Neo HD 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -282,26 +239,6 @@ https://vglivessai.akamaized.net/eu/v1/master/611d79b11b77e2f571934fd80ca1413453
 #EXTINF:-1 group-title="Kid" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_knPXllpEcdKwQtOLl6bIdv-IdV52j3P2JoAKZ1b_xS=s900-c-k-c0x00ffffff-no-rj",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 
-#EXTINF:-1 group-title="Kid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNB2Ti0KKikmuKv3SXn8GLuf9hyixFfqM10T7NmAmTE5GTPWaS1zPq7Hw&s=10",Gopal Bhar TV
-https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Kid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeAXC6Gx6dyrT7-mYCJGo_QevfGdC5Qwz061YLaO-1EUTSr5L4ybY55CY&s=10",Doraemon TV
-https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Kid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9dMF6LIF1ytCzO9F2tQIqVVRAyfnqwq1PCipJ3qNQ6dsWyIZdpYr-VIFB&s=10",Oggy and the Cockroaches
-https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Kid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfPgiXGn8ucxVo5vEwnXVEb3ddd4K51XaQWFFO3NtxdhfwxdommPj4SKg&s=10",Motu Patlu
-https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Kid" tvg-logo="https://jiotvimages.cdn.jio.com/imagespublic/60/54/020bd78dc47b5aa28bdca36af3ff943e_1750264600349_l_medium.jpg",Bantul The Great
-https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Kid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeYBIeqsyeKhWi0Sj-RkgDNjwhTPuoXzTMPnFjLsjmfrD6NKLRAAZELo4&s=10",Tom & Jerry TV
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-
-#EXTINF:-1 group-title="Kid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeYBIeqsyeKhWi0Sj-RkgDNjwhTPuoXzTMPnFjLsjmfrD6NKLRAAZELo4&s=10",Tom & Jerry TV
-https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Kid" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/157727c6-25b3-4fc8-ae12-95a471eb09a5/dhickau-87072274-e25b-48bc-bc87-8dd774b028e6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xNTc3MjdjNi0yNWIzLTRmYzgtYWUxMi05NWE0NzFlYjA5YTUvZGhpY2thdS04NzA3MjI3NC1lMjViLTQ4YmMtYmM4Ny04ZGQ3NzRiMDI4ZTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lRcujLv7WOfaiCLRRzUJbKqBdrILW9dJyi7PWk7fTjc",Mr Bean Animated
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
@@ -309,17 +246,6 @@ https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg0
 
 
 
-
-
-
-#EXTINF:-1  group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh0MytidNXTA_8Uojkwit5ZWehFYpQBg-LgaOgMa4BLw&s=10",Sony Max 1
-https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132468
-
-#EXTINF:-1  group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh0MytidNXTA_8Uojkwit5ZWehFYpQBg-LgaOgMa4BLw&s=10",Sony Max 1 (jio)
-http://103.180.212.191:3500/live/3418.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh0MytidNXTA_8Uojkwit5ZWehFYpQBg-LgaOgMa4BLw&s=10",Sony Max 1 (jio)2
-http://live.balajibroadband.com:3500/live/3418.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh0MytidNXTA_8Uojkwit5ZWehFYpQBg-LgaOgMa4BLw&s=10",Sony Max 1(jio)3
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
@@ -344,11 +270,7 @@ https://stream.ottplus.bd/live/max_2_abr/live/max_2_720/chunks.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Sony-max-2-in.png/revision/latest?cb=20221026151354",Sony Max 2 (Airtel)
 http://line.iptvhunt.com:80/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=280780&extension=ts&play_token=fcGHHYKtJl
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-wah.png",Sony Wah (Jio)
-http://103.180.212.191:3500/live/1393.m3u8
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-wah.png",Sony Wah (jio)2
-http://live.balajibroadband.com:3500/live/1393.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.pngkey.com/png/full/532-5320038_zee-cinema.png",Zee cinema HD (Toffee)2
 https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/chunks.m3u8
@@ -393,9 +315,6 @@ http://103.175.73.12:8080/live/257/257_0.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/%26pictures_HD_2014.svg/revision/latest?cb=20231217022237",And Pictures SD 
 https://stream.ottplus.bd/live/and_picture_hd_abr/live/and_picture_hd_720/chunks.m3u8
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/%26pictures_HD_2014.svg/revision/latest?cb=20231217022237",And Pictures HD (Tata Play)
-http://66.102.126.10:8000/play/a01t/index.m3u8
-
 #EXTINF:-1 tvg-id="43" tvg-logo="https://otapp.store/uploads/tv_image/sm/b4u-movies.png" group-title="Movie",B4U Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -410,73 +329,7 @@ http://103.175.73.12:8080/live/43/43_0.m3u8
 #KODIPROP:mimetype=application/dash+xml
 http://103.175.73.12:8080/live/44/44_0.m3u8
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO_k_SvNlR-VDa6V-F1bEgkNGKdcVxz1KIKBNHeG_STg&s=10",Star gold SD
-http://103.151.60.162:2122/play/a01n/index.m3u8?hls
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO_k_SvNlR-VDa6V-F1bEgkNGKdcVxz1KIKBNHeG_STg&s=10",Star gold HD (Tata play)1
-http://202.70.146.135:8000/play/a02a/index.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO_k_SvNlR-VDa6V-F1bEgkNGKdcVxz1KIKBNHeG_STg&s=10",Star gold HD (Tata play)3
-http://66.102.126.10:8000/play/a00f/index.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO_k_SvNlR-VDa6V-F1bEgkNGKdcVxz1KIKBNHeG_STg&s=10",Star gold HD
-http://line.iptvhunt.com:80/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=280766&extension=ts&play_token=aIm6acfUC1
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Star_Gold_2_HD_2020.svg/revision/latest/scale-to-width-down/250?cb=20211215235613",Star gold 2 HD  (Tata play)1
-http://103.151.60.162:2122/play/a01v/index.m3u8?hls
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Star_Gold_2_HD_2020.svg/revision/latest/scale-to-width-down/250?cb=20211215235613",Star gold 2 HD  (Tata play)3
-http://202.70.146.135:8000/play/a04q/index.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://yt3.googleusercontent.com/kqp2MvB4D-XcnPEAJ3wtbItKUBpKTmOwg46W-4RqubmMBf4okYuyCY7ODbOC0w1g5dH8H1a1Ug=s900-c-k-c0x00ffffff-no-rj",Star Gold Romance (Tata play)1
-http://66.102.126.10:8000/play/a00r/index.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://yt3.googleusercontent.com/kqp2MvB4D-XcnPEAJ3wtbItKUBpKTmOwg46W-4RqubmMBf4okYuyCY7ODbOC0w1g5dH8H1a1Ug=s900-c-k-c0x00ffffff-no-rj",Star Gold Romance (Tata play)2
-http://202.70.146.135:8000/play/a044/index.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsWPmueMmMmxYNwZN9IUz54qWWR8SgcADUP75K85WbzX2IOteykPiawMw&s=10",Star Gold Select HD (Tata Play)1
-http://202.70.146.135:8000/play/a068/index.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsWPmueMmMmxYNwZN9IUz54qWWR8SgcADUP75K85WbzX2IOteykPiawMw&s=10",Star Gold Select HD (Tata Play)2
-http://66.102.126.10:8000/play/a01s/index.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpoyzleYU5_H8AUpw0R3ts4d2bHYd_6Z0Jhm7TqfbHbrwVc66sgVtj0w&s=10",Star Gold Thrills (airtle)
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_GOLD_THRILLS.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpoyzleYU5_H8AUpw0R3ts4d2bHYd_6Z0Jhm7TqfbHbrwVc66sgVtj0w&s=10",Star Gold Thrills (Tata Play)
-http://66.102.126.10:8000/play/a00c/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Movie",Colors Cineplex (Jio)
-http://103.180.212.191:3500/live/482.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-cineplex-hd.png", Colors Cineplex (jio)2
-http://live.balajibroadband.com:3500/live/482.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="Movie",Colors Cineplex HD (Jio)
-http://103.180.212.191:3500/live/1477.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-cineplex-hd.png", Colors Cineplex HD (jio)2
-http://live.balajibroadband.com:3500/live/1477.m3u8
-
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-cineplex-hd.png", Colors Cineplex HD (airtle)
-http://line.iptvhunt.com:80/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=156003&extension=ts&play_token=X3VRlYmNWB
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png" group-title="Movie",Colors Cineplex Superhit (Jio)
-http://103.180.212.191:3500/live/1450.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://img-cdn.publive.online/fit-in/1200x675/afaqs/media/post_attachments/f8db88958d85e099d754615991db4830d7d69cfb3b90b2cdeeb010db1c23c2c3.jpg",Colors Cineplex Superhit (jio)2
-http://live.balajibroadband.com:3500/live/1450.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Colors_Cineplex_Bollywood.jpg/revision/latest?cb=20210321050648",Colors Cineplex bollywood
-http://line.iptvhunt.com:80/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=946375&extension=ts&play_token=NgeHiELSWX
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="Movie",Colors Cineplex Bollywood (Jio)
-http://103.180.212.191:3500/live/1763.m3u8
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="Movie",Colors Cineplex Bollywood (jio)2
-http://live.balajibroadband.com:3500/live/1763.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="Movie",Colors Cineplex Bollywood (jio)3
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
@@ -583,56 +436,11 @@ https://live.shamim-iptv.workers.dev/coloursbanglachinema.m3u8
 
 
 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AnimalPlanetHDHin.png" group-title="World",Animal Planet  Hindi (Jio)
-http://103.180.212.191:3500/live/566.m3u8
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AnimalPlanetHDHin.png" group-title="World",Animal Planet  Hindi (Jio)2
-http://live.balajibroadband.com:3500/live/566.m3u8
-
 #EXTINF:-1 tvg-id="22052" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnimalPlanetHD_Transparent_d36c0ee3-3e3f-4e0c-b3b2-23bfb3c3c2b0.png" group-title="World",Animal Planet HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8aaf27b53099505a8307b7df2f61b46c:83692149a2e59a8aae8e39ed6a1f6325
 https://login.bheem.tv/bpk-tv/22052/output/index.mpd?
 
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AnimalPlanetHDHin.png" group-title="World",Animal Planet HD Hindi (Jio)
-http://103.180.212.191:3500/live/3451.m3u8
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AnimalPlanetHDHin.png" group-title="World",Animal Planet HD Hindi (Jio)2
-http://live.balajibroadband.com:3500/live/3451.m3u8
-
-#EXTINF:-1 tvg-logo="http://monirul.bro.bd/assets/images/discovery hd.png" group-title="World",Discovery Channel
-http://103.151.60.162:2122/play/a01k/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="http://monirul.bro.bd/assets/images/discovery hd.png" group-title="World",Discovery Channel Bengali (jio)2
-http://live.balajibroadband.com:3500/live/573.m3u8
-
-#EXTINF:-1 tvg-logo="http://monirul.bro.bd/assets/images/discovery hd.png" group-title="World",Discovery Channel Hindi (jio)2
-http://live.balajibroadband.com:3500/live/575.m3u8
-
-#EXTINF:-1 group-title="World" tvg-logo="http://monirul.bro.bd/assets/images/discovery hd.png",Discovery Channel HD
-http://202.70.146.135:8000/play/a05z/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://monirul.bro.bd/assets/images/discovery hd.png" group-title="World",Discovery Channel HD (jio)2
-http://live.balajibroadband.com:3500/live/3444.m3u8
-
-#EXTINF:-1 group-title="World" tvg-logo="http://monirul.bro.bd/assets/images/discovery hd.png",Discovery Channel +
-http://180.94.28.28:8097//DISCOVERY-BANGLA/index.fmp4.m3u8
-
-#EXTINF:-1 group-title="World" tvg-logo="https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg",National Geography HD 
-http://103.151.60.162:2122/play/a01g/index.m3u8?hls
-
-#EXTINF:-1 group-title="World" tvg-logo="https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg",National Geography +
-http://180.94.28.28:8097//NAT-GEO-BANGLA/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-id="natgeo_wild_hd" tvg-logo="http://monirul.bro.bd/assets/images/NATGEO WILD HD1745038542.png" group-title="World",NATGEO WILD HD
-http://103.151.60.162:2122/play/a01f/index.m3u8?hls
 
 
 
