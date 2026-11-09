@@ -1,36 +1,24 @@
 #EXTM3U
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 01
-http://103.175.73.12:8080/live/1/1_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 02
-http://103.175.73.12:8080/live/2/2_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 03
-http://103.175.73.12:8080/live/3/3_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 04
-http://103.175.73.12:8080/live/4/4_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 05
-http://103.175.73.12:8080/live/5/5_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 06
-http://103.175.73.12:8080/live/6/6_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 07
-http://103.175.73.12:8080/live/7/7_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 08
-http://103.175.73.12:8080/live/8/8_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 09
-http://103.175.73.12:8080/live/9/9_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 10
-http://103.175.73.12:8080/live/10/10_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 11
-http://103.175.73.12:8080/live/11/11_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 12
-http://103.175.73.12:8080/live/12/12_0.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 13
 http://103.175.73.12:8080/live/13/13_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 14
-http://103.175.73.12:8080/live/14/14_0.m3u8
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 15
 http://103.175.73.12:8080/live/15/15_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 16
-http://103.175.73.12:8080/live/16/16_0.m3u8
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 17
 http://103.175.73.12:8080/live/17/17_0.m3u8
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 18
@@ -39,50 +27,12 @@ http://103.175.73.12:8080/live/18/18_0.m3u8
 http://103.175.73.12:8080/live/19/19_0.m3u8
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 20
 http://103.175.73.12:8080/live/20/20_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 21
-http://103.175.73.12:8080/live/21/21_0.m3u8
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 22
 http://103.175.73.12:8080/live/22/22_0.m3u8
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 23
 http://103.175.73.12:8080/live/23/23_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 24
-http://103.175.73.12:8080/live/24/24_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 25
-http://103.175.73.12:8080/live/25/25_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 26
-http://103.175.73.12:8080/live/26/26_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 27
-http://103.175.73.12:8080/live/27/27_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 28
-http://103.175.73.12:8080/live/28/28_0.m3u8
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 29
 http://103.175.73.12:8080/live/29/29_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 30
-http://103.175.73.12:8080/live/30/30_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 31
-http://103.175.73.12:8080/live/31/31_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 32
-http://103.175.73.12:8080/live/32/32_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 33
-http://103.175.73.12:8080/live/33/33_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 34
-http://103.175.73.12:8080/live/34/34_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 35
-http://103.175.73.12:8080/live/35/35_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 36
-http://103.175.73.12:8080/live/36/36_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 37
-http://103.175.73.12:8080/live/37/37_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 38
-http://103.175.73.12:8080/live/38/38_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 39
-http://103.175.73.12:8080/live/39/39_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 40
-http://103.175.73.12:8080/live/40/40_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 41
-http://103.175.73.12:8080/live/41/41_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 42
-http://103.175.73.12:8080/live/42/42_0.m3u8
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 43
 http://103.175.73.12:8080/live/43/43_0.m3u8
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 44
