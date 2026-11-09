@@ -55,20 +55,12 @@ http://103.175.73.12:8080/live/53/53_0.m3u8
 http://103.175.73.12:8080/live/54/54_0.m3u8
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 55
 http://103.175.73.12:8080/live/55/55_0.m3u8
-
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 64
 http://103.175.73.12:8080/live/64/64_0.m3u8
-
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 87
 http://103.175.73.12:8080/live/87/87_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 88
-http://103.175.73.12:8080/live/88/88_0.m3u8
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 89
 http://103.175.73.12:8080/live/89/89_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 90
-http://103.175.73.12:8080/live/90/90_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 91
-http://103.175.73.12:8080/live/91/91_0.m3u8
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 92
 http://103.175.73.12:8080/live/92/92_0.m3u8
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 93
@@ -101,32 +93,15 @@ http://103.175.73.12:8080/live/105/105_0.m3u8
 http://103.175.73.12:8080/live/106/106_0.m3u8
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 107
 http://103.175.73.12:8080/live/107/107_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 108
-http://103.175.73.12:8080/live/108/108_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 109
-http://103.175.73.12:8080/live/109/109_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 110
-http://103.175.73.12:8080/live/110/110_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 111
-http://103.175.73.12:8080/live/111/111_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 112
-http://103.175.73.12:8080/live/112/112_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 113
-http://103.175.73.12:8080/live/113/113_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 114
-http://103.175.73.12:8080/live/114/114_0.m3u8
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 115
 http://103.175.73.12:8080/live/115/115_0.m3u8
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 116
 http://103.175.73.12:8080/live/116/116_0.m3u8
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 117
 http://103.175.73.12:8080/live/117/117_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 118
-http://103.175.73.12:8080/live/118/118_0.m3u8
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 119
 http://103.175.73.12:8080/live/119/119_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 120
-http://103.175.73.12:8080/live/120/120_0.m3u8
+
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 121
 http://103.175.73.12:8080/live/121/121_0.m3u8
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 122
