@@ -1495,12 +1495,7 @@ http://103.175.73.12:8080/live/802/802_0.m3u8
 http://103.175.73.12:8080/live/803/803_0.m3u8
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 804
 http://103.175.73.12:8080/live/804/804_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 805
-http://103.175.73.12:8080/live/805/805_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 806
-http://103.175.73.12:8080/live/806/806_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 807
-http://103.175.73.12:8080/live/807/807_0.m3u8
+
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 808
 http://103.175.73.12:8080/live/808/808_0.m3u8
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 809
@@ -1535,8 +1530,6 @@ http://103.175.73.12:8080/live/822/822_0.m3u8
 http://103.175.73.12:8080/live/823/823_0.m3u8
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 824
 http://103.175.73.12:8080/live/824/824_0.m3u8
-#EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 825
-http://103.175.73.12:8080/live/825/825_0.m3u8
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 826
 http://103.175.73.12:8080/live/826/826_0.m3u8
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 827
@@ -1567,7 +1560,6 @@ http://103.175.73.12:8080/live/838/838_0.m3u8
 http://103.175.73.12:8080/live/839/839_0.m3u8
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 840
 http://103.175.73.12:8080/live/840/840_0.m3u8
-
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 843
 http://103.175.73.12:8080/live/843/843_0.m3u8
 #EXTINF:-1 group-title="✳️EKTV✳️" ,Channel 844
