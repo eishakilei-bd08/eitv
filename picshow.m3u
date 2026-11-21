@@ -12,34 +12,10 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/safayatul-islam/IPTV/main/logos/banglatv.png",Bangla TV 
-http://116.204.149.16/banglatv/index.m3u8
-
-
-#EXTINF:-1 group-title="-",Chaina
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
 #EXTINF:-1,ENTERTRAIN_BANGLA
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1,JOO_MUSIC
 https://livecdn.live247stream.com/joomusic/tv/joomusic/stream/chunks.m3u8
-
-
-
-
-
 #EXTINF:-1 ,Amar Bangla*
 http://115.187.41.216:8080/hls/amarbangla/index.m3u8
 #EXTINF:-1 ,Amar Digital*
@@ -54,84 +30,30 @@ http://115.187.41.216:8080/hls/salambangla/index.m3u8
 http://115.187.41.216:8080/hls/digitalfashion/index.m3u8
 #EXTINF:-1 ,Sananda Tv*
 http://115.187.41.216:8080/hls/sanandatv/index.m3u8
-
 #EXTINF:-1 ,Dangal
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="abps1" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/10_tv.png",10 TV
 http://203.81.84.130/hls/mwd_document/index.m3u8
 #EXTINF:-1 tvg-id="abps4" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/9x_jhakaas.png",9X Jhakaas
 https://cdn.pishow.tv/ott/live/6/master.m3u8
 #EXTINF:-1 tvg-id="abps105" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/music_india.png",Music India
 https://cdn.pishow.tv/ott/live/226/master.m3u8
-
-#EXTINF:-1 tvg-id="abps3" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/9x_jalwa.png",9X Jalwa
-https://ms2.alliancebroadband.in/media_9x_jalwa.m3u8
-
 #EXTINF:-1 tvg-id="abps143" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/sangeet_bangla.png",Sangeet Bangla
 https://cdn.pishow.tv/ott/live/1143/master.m3u8
 #EXTINF:-1 tvg-id="abps5" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/9x_tashan.png",9X Tashan
 https://cdn.pishow.tv/ott/live/1613/master.m3u8
-
-#EXTINF:-1 tvg-id="abps6" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/9xm.png",9Xm
-https://ms2.alliancebroadband.in/media_9xm.m3u8
-
-
-#EXTINF:-1 tvg-id="abps116" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/ptc_chak_de.png",PTC Chak DE
-https://ms4.alliancebroadband.in/media_ptc_chak_de.m3u8
-
 #EXTINF:-1 tvg-id="abps117" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/ptc_chakde.png",PTC Chakde
 https://cdn.pishow.tv/ott/live/449/master.m3u8
-#EXTINF:-1 tvg-id="abps51" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/dhoom.png",Dhoom
-https://ms3.alliancebroadband.in/media_dhoom.m3u8
-#EXTINF:-1 tvg-id="abps68" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/ilove.png",Ilove
-https://ms4.alliancebroadband.in/media_ilove.m3u8
-
-#EXTINF:-1 tvg-id="abps85" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/khabar_fast.png",Khabar Fast
-https://ms4.alliancebroadband.in/media_khabar_fast.m3u8
-
-#EXTINF:-1 tvg-id="abps99" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/manoronjon_music.png",Manoronjon Music
-https://ms2.alliancebroadband.in/media_manoronjon_music.m3u8
-
-#EXTINF:-1 tvg-id="abps100" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/mastiii.png",Mastiii
-https://ms2.alliancebroadband.in/media_mastiii.m3u8
-
-#EXTINF:-1 tvg-id="abps144" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/sangeet_bhojpuri.png",Sangeet Bhojpuri
-https://ms1.alliancebroadband.in/media_sangeet_bhojpuri.m3u8
-
 #EXTINF:-1 tvg-id="abps145" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/sangeet_marathi.png",Sangeet Marathi
 https://cdn.pishow.tv/ott/live/1229/master.m3u8
-
-
 #EXTINF:-1 tvg-id="abps16" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/b4u_bhojpuri.png",B4U Bhojpuri
 https://cdn.pishow.tv/ott/live/1293/master.m3u8
-
-
 #EXTINF:-1 tvg-id="abps17" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/b4u_kadak.png",B4U Kadak
 https://cdn.pishow.tv/ott/live/227/master.m3u8
-
 #EXTINF:-1 tvg-id="abps18" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/b4u_music.png",B4U Music
 https://cdn.pishow.tv/ott/live/415/master.m3u8
-
-#EXTINF:-1 tvg-id="abps19" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/dishum.png",BFLIX Movies
-https://ms4.alliancebroadband.in/media_bflix_movies.m3u8
-
-#EXTINF:-1 tvg-id="abps20" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/btv_news.png",BTV News
-https://ms1.alliancebroadband.in/media_btv_news.m3u8
-
 #EXTINF:-1 tvg-id="abps21" group-title="Picshow👑" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/balle_balle.png",Balle Balle
 https://cdn.pishow.tv/ott/live/987/master.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-name="Bengali Beats" tvg-logo="https://i.postimg.cc/jSLNzXgM/Bengali-Beats.png" group-title="𝐌𝐮𝐬𝐢𝐜",Bengali Beats
-https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Sangeet Bangla" tvg-logo="https://i.postimg.cc/pdddb1bs/20250529_120025.png" group-title="𝐌𝐮𝐬𝐢𝐜",Sangeet Bangla
 http://103.175.73.12:8080/live/379/379_0.m3u8
 #EXTINF:-1 tvg-name="B4U Music" tvg-logo="https://i.postimg.cc/0N2VWksB/channels4-profile.jpg" group-title="𝐌𝐮𝐬𝐢𝐜",B4U Music
@@ -146,25 +68,10 @@ http://103.175.73.12:8080/live/155/155_0.m3u8
 http://103.175.73.12:8080/live/161/master.m3u8
 #EXTINF:-1 tvg-name="7S Music" tvg-logo="https://i.postimg.cc/VkxZ8tD2/76-Tamil-channel.webp" group-title="𝐌𝐮𝐬𝐢𝐜",7S Music
 http://103.175.73.12:8080/live/771/master.m3u8
-#EXTINF:-1 tvg-name="Music India" tvg-logo="https://i.postimg.cc/XNHzD5Zg/s143563-ld-h15-aa.png" group-title="𝐌𝐮𝐬𝐢𝐜",Music India
-https://cdn-2.pishow.tv/live/226/master.m3u8
-#EXTINF:-1 tvg-name="Zoom" tvg-logo="https://i.postimg.cc/7hz6tG8D/20250529_121941.png" group-title="𝐌𝐮𝐬𝐢𝐜",Zoom
-https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-name="yrf Music" tvg-logo="https://i.postimg.cc/hPFhzrTG/20250529_121624.png" group-title="𝐌𝐮𝐬𝐢𝐜",yrf Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-name="Hindi Hits HD" tvg-logo="https://i.postimg.cc/ryC1Y2K4/Capture.png" group-title="𝐌𝐮𝐬𝐢𝐜",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 tvg-name="Sangeet Bhojpuri" tvg-logo="https://i.postimg.cc/d1pkfnGy/s143757-ld-h15-aa.png" group-title="𝐌𝐮𝐬𝐢𝐜",Sangeet Bhojpuri
-https://cdn-4.pishow.tv/live/1293/master.m3u8
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="",7S Music
 https://cdn.pishow.tv/ott/live/1257/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Dhoom Music Bangla
@@ -179,36 +86,6 @@ https://cdn.pishow.tv/ott/live/1503/master.m3u8
 https://cdn.pishow.tv/ott/live/1504/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",PTC Punjabi
 https://cdn.pishow.tv/ott/live/1604/master.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="",DD Urdu
 https://cdn.pishow.tv/ott/live/8/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",DD Kisan
@@ -263,12 +140,8 @@ https://cdn.pishow.tv/ott/live/35/master.m3u8
 https://cdn.pishow.tv/ott/live/36/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",DD Bangla
 https://cdn.pishow.tv/ott/live/37/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",DD Girnar
-https://cdn.pishow.tv/ott/live/38/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Sansad TV 2
 https://cdn.pishow.tv/ott/live/39/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",Sansad TV 2 HD
-https://cdn.pishow.tv/ott/live/40/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",IBC 24
 https://cdn.pishow.tv/ott/live/220/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Ayush TV
@@ -277,9 +150,6 @@ https://cdn.pishow.tv/ott/live/221/master.m3u8
 https://cdn.pishow.tv/ott/live/223/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Hi Dost
 https://cdn.pishow.tv/ott/live/224/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="",Manoranjan Movies
-https://cdn.pishow.tv/ott/live/228/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Channel WIN
 https://cdn.pishow.tv/ott/live/229/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Shemaroo TV
@@ -290,8 +160,6 @@ https://cdn.pishow.tv/ott/live/232/master.m3u8
 https://cdn.pishow.tv/ott/live/233/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Aastha Kannada
 https://cdn.pishow.tv/ott/live/234/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",Dhamaka Movies B4U
-https://cdn.pishow.tv/ott/live/235/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",AKD Calcutta News
 https://cdn.pishow.tv/ott/live/237/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Tehzeeb TV
@@ -350,7 +218,6 @@ https://cdn.pishow.tv/ott/live/407/master.m3u8
 https://cdn.pishow.tv/ott/live/409/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",I News
 https://cdn.pishow.tv/ott/live/411/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="",B4U Movies
 https://cdn.pishow.tv/ott/live/419/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",CVR English
@@ -367,9 +234,6 @@ https://cdn.pishow.tv/ott/live/439/master.m3u8
 https://cdn.pishow.tv/ott/live/441/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Shekinah TV
 https://cdn.pishow.tv/ott/live/447/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="",PTC Punjabi Gold
-https://cdn.pishow.tv/ott/live/450/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Angel TV HD
 https://cdn.pishow.tv/ott/live/453/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",NHK World Japan
@@ -384,8 +248,6 @@ https://cdn.pishow.tv/ott/live/463/master.m3u8
 https://cdn.pishow.tv/ott/live/465/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",ABP Majha
 https://cdn.pishow.tv/ott/live/471/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",Malar TV
-https://cdn.pishow.tv/ott/live/473/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Santvani TV
 https://cdn.pishow.tv/ott/live/475/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Swaraj Express SMBC
@@ -400,7 +262,6 @@ https://cdn.pishow.tv/ott/live/961/master.m3u8
 https://cdn.pishow.tv/ott/live/965/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Aakash Aath
 https://cdn.pishow.tv/ott/live/969/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="",Jinvani TV
 https://cdn.pishow.tv/ott/live/989/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Anjan TV
@@ -443,7 +304,6 @@ https://cdn.pishow.tv/ott/live/1135/master.m3u8
 https://cdn.pishow.tv/ott/live/1139/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Dangal TV
 https://cdn.pishow.tv/ott/live/1141/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="",DD Sports HD
 https://cdn.pishow.tv/ott/live/1161/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",99TV
@@ -452,7 +312,6 @@ https://cdn.pishow.tv/ott/live/1211/master.m3u8
 https://cdn.pishow.tv/ott/live/1213/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Gangaur Television
 https://cdn.pishow.tv/ott/live/1221/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="",R Plus Gold
 https://cdn.pishow.tv/ott/live/1231/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",R Plus News
@@ -467,12 +326,8 @@ https://cdn.pishow.tv/ott/live/1241/master.m3u8
 https://cdn.pishow.tv/ott/live/1243/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Polimer News
 https://cdn.pishow.tv/ott/live/1245/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",Vasanth TV
-https://cdn.pishow.tv/ott/live/1247/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",MK Six
 https://cdn.pishow.tv/ott/live/1253/master.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="",Tamilan TV
 https://cdn.pishow.tv/ott/live/1259/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Puthiya Thalaimurai
@@ -487,7 +342,6 @@ https://cdn.pishow.tv/ott/live/1279/master.m3u8
 https://cdn.pishow.tv/ott/live/1285/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",NDTV Profit
 https://cdn.pishow.tv/ott/live/1287/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="",Peppers TV
 https://cdn.pishow.tv/ott/live/1383/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Nambikkai TV
@@ -502,7 +356,6 @@ https://cdn.pishow.tv/ott/live/1453/master.m3u8
 https://cdn.pishow.tv/ott/live/1454/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Dharm Sandesh
 https://cdn.pishow.tv/ott/live/1455/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="",Goldmines
 https://cdn.pishow.tv/ott/live/1459/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Goldmines 2
@@ -515,8 +368,6 @@ https://cdn.pishow.tv/ott/live/1462/master.m3u8
 https://cdn.pishow.tv/ott/live/1463/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Ishwar TV
 https://cdn.pishow.tv/ott/live/1464/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",Jai Maharashtra
-https://cdn.pishow.tv/ott/live/1465/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Janam TV
 https://cdn.pishow.tv/ott/live/1466/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Jeevan TV
@@ -551,7 +402,6 @@ https://cdn.pishow.tv/ott/live/1494/master.m3u8
 https://cdn.pishow.tv/ott/live/1498/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Orange Bangla
 https://cdn.pishow.tv/ott/live/1499/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="",Reporter TV
 https://cdn.pishow.tv/ott/live/1510/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Safari
@@ -560,7 +410,6 @@ https://cdn.pishow.tv/ott/live/1513/master.m3u8
 https://cdn.pishow.tv/ott/live/1516/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Maha Punjabi
 https://cdn.pishow.tv/ott/live/1521/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="",TV5 Kannada
 https://cdn.pishow.tv/ott/live/1526/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Kairali We
@@ -569,7 +418,6 @@ https://cdn.pishow.tv/ott/live/1530/master.m3u8
 https://cdn.pishow.tv/ott/live/1531/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Odisha TV
 https://cdn.pishow.tv/ott/live/1600/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="",Malai Murasu Seithigal
 https://cdn.pishow.tv/ott/live/1606/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",SVBC 4
@@ -578,7 +426,6 @@ https://cdn.pishow.tv/ott/live/1607/master.m3u8
 https://cdn.pishow.tv/ott/live/1611/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Thanthi TV
 https://cdn.pishow.tv/ott/live/1612/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="",DD Jharkhand
 https://cdn.pishow.tv/ott/live/1617/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Divyavani TV
@@ -637,18 +484,11 @@ https://cdn.pishow.tv/ott/live/10024/master.m3u8
 https://cdn.pishow.tv/ott/live/10025/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",MCPL Info News
 https://cdn.pishow.tv/ott/live/10026/master.m3u8
-
-
-
-
-
-#EXTINF:-1,Sananda
-https://live.sanandatelevision.in/sananda/index.m3u8
 #EXTINF:-1,Fail Army😁😁😁😁
 https://jmp2.uk/plex-64305451fc3be5947773c339-5f170d62b898490041b4936e.m3u8
 #EXTINF:-1 ,Ekushey TV(BD2)
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",Ekuse Tv
+#EXTINF:-1,,Ekuse Tv
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1,G-Series🇧🇩
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
@@ -658,22 +498,12 @@ https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 https://srkapp.ncare.live/flixhls/flixsrktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="247" tvg-name="Biswa Bangla 24 HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/biswa-bangla-24.png" group-title="BD Channel-(বাংলা চ্যানেল)",Biswa Bangla 24 HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/biswabanglatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="246" tvg-name="Alpona TV HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/alpona-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Alpona TV HD
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/alponatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="245" tvg-name="Deshi TV HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/deshi-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Deshi TV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshitv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="244" tvg-name="Deshe Bideshe HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/deshe-bideshe.png" group-title="BD Channel-(বাংলা চ্যানেল)",Deshe Bideshe HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshebideshe.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="231" tvg-name="Green Tv HD" tvg-logo="https://free.otapp.store/uploads/tv_image/sm/green-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Green Tv HD
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/depto-tv.jpg" group-title="BANGLA",SRK TV🇧🇩
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Logo_of_Deepto_TV.svg/1200px-Logo_of_Deepto_TV.svg.png" group-title="BANGLA",দ্বীপ্ত টি়ভি🇧🇩
-https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="BANGLA",Desh TV🇧🇩
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png" group-title="BANGLA",একুশে টিভি
@@ -684,23 +514,16 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="BANGLA",দেশি টিভি🇧🇩
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BANGLA",Mohona TV🇧🇩
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="BANGLA",মাই টিভি🇧🇩
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-id="enter10bangla.in" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg",Enter10 Bangla HD
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.postimg.cc/t4cxjxRj/Deshi-TV.jpg",Deshi TV HD🇧🇩
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Logo_of_Deepto_TV.svg/1280px-Logo_of_Deepto_TV.svg.png" ,Deepto TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Channel_S_Bangladesh_Logo.png" ,CHANNEL S🇧🇩
 https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1 group-title="BD.BANG.CH ( BDIX )" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/jagonews.jpg",Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:-1 group-title="BD.BANG.CH ( BDIX )" tvg-logo="https://i.imgur.com/gTnzXlx.png",Me Tv🇧🇩
 https://iptvbd.live/metv1080/1080.m3u8
-#EXTINF:-1 group-title="BD.BANG.CH ( BDIX )" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/08/millennium24.jpg",Millennium24
-https://app.ncare.live/live-orgin/mnews24.stream/playlist.m3u8
 #EXTINF:-1 group-title="BD.BANG.CH ( BDIX )" tvg-logo="https://i.imgur.com/d5jBYxE.png",NRB Tv
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 #EXTINF:-1 group-title="BD.BANG.CH ( BDIX )" tvg-logo="https://i.ibb.co/xJjQP6L/Nan-Tv-Logo-Final.png",Nan Tv
@@ -713,8 +536,6 @@ http://115.187.41.216:8080/hls/amardigital/index.m3u8
 http://115.187.41.216:8080/hls/montvbangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Relagion Channel", Peace TV Bangla🇧🇩
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7jrjkW1/20240813-112630.png" group-title="Relagion Channel", Madani TV
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TtHtGkW/20240803-172601.png" group-title="Relagion Channel", Makkah TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rtkWYHV/20240827-092043.png" group-title="Relagion Channel", AL Sunnah TV
@@ -723,32 +544,10 @@ http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png",Madina Live
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-chno="109" tvg-id="13" tvg-name="SAILAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/sailam_tv_1771226325.webp" group-title="",109 SAILAM TV
-https://stream.onecloudlive.in/sailamtv/sailamtv/index.m3u8
-
 #EXTINF:-1 tvg-chno="116" tvg-id="20" tvg-name="SHALINI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771734680.webp" group-title="Entertainment",116 SHALINI TV
 https://ipcloud.live/shalinitv/shalinitv/index.m3u8
-
-#EXTINF:-1 tvg-chno="117" tvg-id="21" tvg-name="SANTHIYA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771734716.webp" group-title="Entertainment",117 SANTHIYA TV
-https://stream.onecloudlive.in/santhiyatv/santhiyatvhd/index.m3u8
-
-
 #EXTINF:-1 tvg-chno="120" tvg-id="25" tvg-name="BRIGHT SIMROSE TV" tvg-logo="https://files.catbox.moe/jaybsc.png" group-title="Entertainment",120 BRIGHT SIMROSE TV
 https://notvstream.in/brightsimrosetv/brightsimrosetv/index.m3u8
-
-
-
-
 #EXTINF:-1 tvg-chno="123" tvg-id="98" tvg-name="SRI VARAHI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1779683809.webp" group-title="Entertainment",123 SRI VARAHI TV
 https://real-vk.proxy.nellaiiptv.com/SRIVARAHITV/index.m3u8
 #EXTINF:-1 tvg-chno="124" tvg-id="99" tvg-name="TELE MAX" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1779683787.webp" group-title="Entertainment",124 TELE MAX
@@ -757,101 +556,40 @@ https://real-vk.proxy.nellaiiptv.com/TELEMAX/index.m3u8
 https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
 #EXTINF:-1 tvg-chno="128" tvg-id="103" tvg-name="DIAMOND TALKIES" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1779683709.webp" group-title="Entertainment",128 DIAMOND TALKIES
 https://real-vk.proxy.nellaiiptv.com/DIAMONDTALKIES/index.m3u8
-
 #EXTINF:-1 tvg-chno="151" tvg-id="363" tvg-name="RETRO MUSIC TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782119238.webp" group-title="Music",151 RETRO MUSIC TV
 https://sanplayout.xyz/live2/retromusichd/playlist.m3u8
 #EXTINF:-1 tvg-chno="252" tvg-id="293" tvg-name="VTR TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773206480.webp" group-title="Entertainment",252 VTR TV
 http://xstream.onecloudlive.in:8080/vtrtelevision/vtrhd/index.m3u8
-#EXTINF:-1 tvg-chno="252" tvg-id="293" tvg-name="VTR TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773206480.webp" group-title="Entertainment",252 VTR TV [RTMP]
-
-#EXTINF:-1 tvg-chno="303" tvg-id="124" tvg-name="SAHARA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771246596.webp" group-title="Entertainment",303 SAHARA TV
-https://ipcloud.live/saharatv/saharatvhd/index.m3u8
-#EXTINF:-1 tvg-chno="303" tvg-id="124" tvg-name="SAHARA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771246596.webp" group-title="Entertainment",303 SAHARA TV [RTMP]
-None
-#EXTINF:-1 tvg-chno="305" tvg-id="126" tvg-name="DEVADHAI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771246521.webp" group-title="Entertainment",305 DEVADHAI TV
-https://ipcloud.live/devadhaitv/devadhaitv/index.m3u8
-
 #EXTINF:-1 tvg-chno="309" tvg-id="130" tvg-name="RK TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771246050.webp" group-title="Entertainment",309 RK TV
 http://rktv.phoenixcreations.online/rktv/rktv/index.m3u8
-
-#EXTINF:-1 tvg-chno="310" tvg-id="373" tvg-name="MTN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784266150.webp" group-title="Entertainment",310 MTN TV
-https://rtmp.applelive.in/mtntv/mtntv/index.m3u8
-#EXTINF:-1 tvg-chno="310" tvg-id="373" tvg-name="MTN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784266150.webp" group-title="Entertainment",310 MTN TV [RTMP]
-
 #EXTINF:-1 tvg-chno="312" tvg-id="133" tvg-name="S MEDIA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771245935.webp" group-title="Entertainment",312 S MEDIA TV
 https://stream.onecloudlive.in/stv/stvhd/index.m3u8
-#EXTINF:-1 tvg-chno="312" tvg-id="133" tvg-name="S MEDIA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771245935.webp" group-title="Entertainment",312 S MEDIA TV [RTMP]
-None
-#EXTINF:-1 tvg-chno="313" tvg-id="134" tvg-name="EAGLE TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771245911.webp" group-title="Entertainment",313 EAGLE TV
-https://ipcloud.live/eaglemedia/eagletv/index.m3u8
-
-
 #EXTINF:-1 tvg-chno="319" tvg-id="140" tvg-name="SHALWIN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771245505.webp" group-title="Entertainment",319 SHALWIN TV
 https://live3.onecloudlive.in/shalwintv/shalwintv/index.m3u8
-
 #EXTINF:-1 tvg-chno="321" tvg-id="143" tvg-name="KARTHIK TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771245444.webp" group-title="Entertainment",321 KARTHIK TV
 https://ipcloud.live/karthick/karthicktvhd/index.m3u8
-
 #EXTINF:-1 tvg-chno="322" tvg-id="144" tvg-name="RAGAMM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771245417.webp" group-title="Entertainment",322 RAGAMM TV
 https://account26.livebox.co.in/RAGAMMTPhls/live.m3u8
-#EXTINF:-1 tvg-chno="322" tvg-id="144" tvg-name="RAGAMM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771245417.webp" group-title="Entertainment",322 RAGAMM TV [RTMP]
-None
-#EXTINF:-1 tvg-chno="323" tvg-id="145" tvg-name="KING TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771245291.webp" group-title="Entertainment",323 KING TV
-https://server.sscloud7.in/kingtv/kingtv/index.m3u8
-
 #EXTINF:-1 tvg-chno="326" tvg-id="149" tvg-name="RIO MAX TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771245052.webp" group-title="Entertainment",326 RIO MAX TV
 https://stream.onecloudlive.in/riotv/riotvmax/index.m3u8
-
 #EXTINF:-1 tvg-chno="332" tvg-id="155" tvg-name="LUCKY TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771244909.webp" group-title="Entertainment",332 LUCKY TV
 https://live3.onecloudlive.in/luckytv/luckytvhd/index.m3u8
-#EXTINF:-1 tvg-chno="332" tvg-id="155" tvg-name="LUCKY TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771244909.webp" group-title="Entertainment",332 LUCKY TV [RTMP]
-None
 #EXTINF:-1 tvg-chno="333" tvg-id="156" tvg-name="PCN CHANNEL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771244873.webp" group-title="Entertainment",333 PCN CHANNEL TV
 https://pcntv.wmsdigital.in/hls/gtv/stream.m3u8
-#EXTINF:-1 tvg-chno="333" tvg-id="156" tvg-name="PCN CHANNEL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771244873.webp" group-title="Entertainment",333 PCN CHANNEL TV [RTMP]
-None
 #EXTINF:-1 tvg-chno="334" tvg-id="157" tvg-name="VINMEEN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771244731.webp" group-title="Devotional",334 VINMEEN TV
 https://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
-
-#EXTINF:-1 tvg-chno="338" tvg-id="161" tvg-name="N VISION MUSIC TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771244548.webp" group-title="Music",338 N VISION MUSIC TV
-https://stream.onecloudlive.in/nvision/nvisionmusic/index.m3u8
-
 #EXTINF:-1 tvg-chno="340" tvg-id="163" tvg-name="MATHI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771244420.webp" group-title="Movies",340 MATHI TV
 https://notvstream.in/mathitv/mathitv/index.m3u8
-#EXTINF:-1 tvg-chno="340" tvg-id="163" tvg-name="MATHI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771244420.webp" group-title="Movies",340 MATHI TV [RTMP]
-None
 #EXTINF:-1 tvg-chno="341" tvg-id="97" tvg-name="SAKTHI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777389599.webp" group-title="Entertainment",341 SAKTHI TV
 https://real-vk.proxy.nellaiiptv.com/SAKTHITV/index.m3u8
-#EXTINF:-1 tvg-chno="341" tvg-id="97" tvg-name="SAKTHI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777389599.webp" group-title="Entertainment",341 SAKTHI TV [RTMP]
-null
 #EXTINF:-1 tvg-chno="342" tvg-id="164" tvg-name="PRIME MUSIC" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771244366.webp" group-title="Music",342 PRIME MUSIC
 https://live.primestream.in/prime/music/index.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-id="164" tvg-name="PRIME MUSIC" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771244366.webp" group-title="Music",342 PRIME MUSIC [RTMP]
-null
-#EXTINF:-1 tvg-chno="343" tvg-id="165" tvg-name="RIYA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771244344.webp" group-title="Movies",343 RIYA TV
-https://play.applelive.in/riyatv/riyatv.m3u8
-
-#EXTINF:-1 tvg-chno="346" tvg-id="168" tvg-name="PR TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771244139.webp" group-title="Movies",346 PR TV
-https://applelive-in.proxy.nellaiiptv.com/prtv/prtv.m3u8
-#EXTINF:-1 tvg-chno="346" tvg-id="168" tvg-name="PR TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771244139.webp" group-title="Movies",346 PR TV [RTMP]
-
 #EXTINF:-1 tvg-chno="347" tvg-id="169" tvg-name="MARUTHU TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771244112.webp" group-title="Movies",347 MARUTHU TV
 https://live4.onecloudlive.in/maruthitv/maruthitvhd/index.m3u8
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-chno="352" tvg-id="176" tvg-name="IDHAYAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771243717.webp" group-title="Entertainment",352 IDHAYAM TV
 http://sanplayout.xyz/live2/idhayamtv/index.m3u8
 #EXTINF:-1 tvg-chno="352" tvg-id="176" tvg-name="IDHAYAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771243717.webp" group-title="Entertainment",352 IDHAYAM TV [RTMP]
 http://sanplayout.xyz/live2/idhayamtv/index.m3u8
-#EXTINF:-1 tvg-chno="353" tvg-id="177" tvg-name="A1 MEDIA NEWS TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771387408.webp" group-title="News",353 A1 MEDIA NEWS TV
-https://sanplayout-xyz.proxy.nellaiiptv.com/live2/a1medianews/index.m3u8
 #EXTINF:-1 tvg-chno="353" tvg-id="177" tvg-name="A1 MEDIA NEWS TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771387408.webp" group-title="News",353 A1 MEDIA NEWS TV [RTMP]
 http://sanplayout.xyz/live2/a1medianews/index.m3u8
 #EXTINF:-1 tvg-chno="354" tvg-id="178" tvg-name="SILVER SAT TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771390842.webp" group-title="Entertainment",354 SILVER SAT TV
@@ -860,280 +598,76 @@ http://sanplayout.xyz:8080/live2/silversatmedia/playlist.m3u8
 http://sanplayout.xyz/live2/silversatmedia/index.m3u8
 #EXTINF:-1 tvg-chno="355" tvg-id="179" tvg-name="IDHAYAM KIDS TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771387384.webp" group-title="Kids",355 IDHAYAM KIDS TV
 http://sanplayout.xyz/live2/idhayamkidz/index.m3u8
-#EXTINF:-1 tvg-chno="355" tvg-id="179" tvg-name="IDHAYAM KIDS TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771387384.webp" group-title="Kids",355 IDHAYAM KIDS TV [RTMP]
-http://sanplayout-xyz.proxy.nellaiiptv.com/live2/idhayamkidz/index.m3u8
 #EXTINF:-1 tvg-chno="356" tvg-id="180" tvg-name="JAYAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771243678.webp" group-title="Entertainment",356 JAYAM TV
 https://view.rcserver.in/tmp_hls10/jayamtvkarur/index.m3u8
-#EXTINF:-1 tvg-chno="356" tvg-id="180" tvg-name="JAYAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771243678.webp" group-title="Entertainment",356 JAYAM TV [RTMP]
-None
 #EXTINF:-1 tvg-chno="357" tvg-id="181" tvg-name="SHALINI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771233291.webp" group-title="Entertainment",357 SHALINI TV
 https://app.ashokadigital.net/app/55c65ef4/index.m3u8
-#EXTINF:-1 tvg-chno="357" tvg-id="181" tvg-name="SHALINI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771233291.webp" group-title="Entertainment",357 SHALINI TV [RTMP]
-https://vk2.proxy.nellaiiptv.com/SHALINITVHD/index.m3u8
-#EXTINF:-1 tvg-chno="361" tvg-id="185" tvg-name="TAMILMAGAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771301827.webp" group-title="Entertainment",361 TAMILMAGAN TV
-https://tamilmagantv-1.proxy.nellaiiptv.com/hls/tamilmagantv/index.m3u8
-#EXTINF:-1 tvg-chno="361" tvg-id="185" tvg-name="TAMILMAGAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771301827.webp" group-title="Entertainment",361 TAMILMAGAN TV [RTMP]
-null
-#EXTINF:-1 tvg-chno="363" tvg-id="188" tvg-name="KUMARAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773081788.webp" group-title="Entertainment",363 KUMARAN TV
-https://stream.rojatv.cloud/kumarantv/gobi/index.m3u8
-#EXTINF:-1 tvg-chno="363" tvg-id="188" tvg-name="KUMARAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773081788.webp" group-title="Entertainment",363 KUMARAN TV [RTMP]
-null
-#EXTINF:-1 tvg-chno="365" tvg-id="190" tvg-name="KC TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771243144.webp" group-title="Entertainment",365 KC TV
-https://rtmp.bmlive.net/bms/kctv/index.m3u8
-#EXTINF:-1 tvg-chno="365" tvg-id="190" tvg-name="KC TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771243144.webp" group-title="Entertainment",365 KC TV [RTMP]
-None
-#EXTINF:-1 tvg-chno="366" tvg-id="192" tvg-name="KC MUSIC TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771243192.webp" group-title="Music",366 KC MUSIC TV
-https://rtmp.bmlive.net/bms/kcmusic/index.m3u8
-#EXTINF:-1 tvg-chno="366" tvg-id="192" tvg-name="KC MUSIC TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771243192.webp" group-title="Music",366 KC MUSIC TV [RTMP]
-None
-#EXTINF:-1 tvg-chno="367" tvg-id="193" tvg-name="RP PLUS TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771243254.webp" group-title="Entertainment",367 RP PLUS TV
-https://rtmp.applelive.in/rplus/rplus/index.m3u8
-#EXTINF:-1 tvg-chno="367" tvg-id="193" tvg-name="RP PLUS TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771243254.webp" group-title="Entertainment",367 RP PLUS TV [RTMP]
-null
 #EXTINF:-1 tvg-chno="369" tvg-id="195" tvg-name="SRI VELAVAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771233481.webp" group-title="Entertainment",369 SRI VELAVAN TV
 https://rtmp.applelive.in/velavantv/srivelavantvultrahd/index.m3u8
-#EXTINF:-1 tvg-chno="369" tvg-id="195" tvg-name="SRI VELAVAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771233481.webp" group-title="Entertainment",369 SRI VELAVAN TV [RTMP]
-null
-#EXTINF:-1 tvg-chno="370" tvg-id="196" tvg-name="JTK TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771233164.webp" group-title="Devotional",370 JTK TV
-https://app.xstream.onecloudlive.in/jtktv/jtktvhd/index.m3u8
-#EXTINF:-1 tvg-chno="370" tvg-id="196" tvg-name="JTK TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771233164.webp" group-title="Devotional",370 JTK TV [RTMP]
-None
 #EXTINF:-1 tvg-chno="372" tvg-id="198" tvg-name="EZHIL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771257205.webp" group-title="Entertainment",372 EZHIL TV
 https://stream.onecloudlive.in/ezhiltv/ezhilhd/index.m3u8
-#EXTINF:-1 tvg-chno="372" tvg-id="198" tvg-name="EZHIL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771257205.webp" group-title="Entertainment",372 EZHIL TV [RTMP]
-null
-#EXTINF:-1 tvg-chno="373" tvg-id="199" tvg-name="ROWTHIRAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771253547.webp" group-title="Entertainment",373 ROWTHIRAM TV
-https://live.applelive.in/rowthiramtv/rowthiramtv/index.m3u8
-#EXTINF:-1 tvg-chno="373" tvg-id="199" tvg-name="ROWTHIRAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771253547.webp" group-title="Entertainment",373 ROWTHIRAM TV [RTMP]
-rtmp://eleventv.live3.onecloudlive.in:1935/eleventv/eleventv
-#EXTINF:-1 tvg-chno="374" tvg-id="201" tvg-name="LUCKY TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773081746.webp" group-title="Entertainment",374 LUCKY TV
-https://live.onecloudlive.in/luckytvtk/luckytv/index.m3u8
-#EXTINF:-1 tvg-chno="374" tvg-id="201" tvg-name="LUCKY TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773081746.webp" group-title="Entertainment",374 LUCKY TV [RTMP]
-rtmp://luckytvtk.live.onecloudlive.in:1935/luckytvtk/luckytv
 #EXTINF:-1 tvg-chno="376" tvg-id="203" tvg-name="MADURA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771253349.webp" group-title="Kids",376 MADURA TV
 https://stream.onecloudlive.in/mm/maduratv/index.m3u8
-#EXTINF:-1 tvg-chno="376" tvg-id="203" tvg-name="MADURA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771253349.webp" group-title="Kids",376 MADURA TV [RTMP]
-rtmp://mm.stream.onecloudlive.in:1935/mm/maduratv
 #EXTINF:-1 tvg-chno="377" tvg-id="204" tvg-name="SUBASH TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771253654.webp" group-title="Entertainment",377 SUBASH TV
 https://subashhd-sscloud7-in.proxy.nellaiiptv.com/live/subashhd/index.m3u8
-#EXTINF:-1 tvg-chno="377" tvg-id="204" tvg-name="SUBASH TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771253654.webp" group-title="Entertainment",377 SUBASH TV [RTMP]
-rtmp://subashhd.sscloud7.in/live/subashhd
-#EXTINF:-1 tvg-chno="381" tvg-id="208" tvg-name="ASOKA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773081727.webp" group-title="Entertainment",381 ASOKA TV
-https://ipcloud.live/asokatv/asokahd/index.m3u8
-#EXTINF:-1 tvg-chno="381" tvg-id="208" tvg-name="ASOKA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773081727.webp" group-title="Entertainment",381 ASOKA TV [RTMP]
-rtmp://ipcloud.live/asokatv/asokahd
 #EXTINF:-1 tvg-chno="384" tvg-id="211" tvg-name="MATHAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773081698.webp" group-title="Entertainment",384 MATHAN TV
 https://ipcloud.live/mathantv/mathantv/index.m3u8
-#EXTINF:-1 tvg-chno="384" tvg-id="211" tvg-name="MATHAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773081698.webp" group-title="Entertainment",384 MATHAN TV [RTMP]
-rtmp://ipcloud.live/mathantv/mathantv
-#EXTINF:-1 tvg-chno="386" tvg-id="213" tvg-name="LEO TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771301765.webp" group-title="Entertainment",386 LEO TV
-https://ipcloud.live/leotv/leotvhd/index.m3u8
-#EXTINF:-1 tvg-chno="386" tvg-id="213" tvg-name="LEO TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771301765.webp" group-title="Entertainment",386 LEO TV [RTMP]
-rtmp://ipcloud.live/leotv/leotvhd
-#EXTINF:-1 tvg-chno="387" tvg-id="214" tvg-name="EAGLE TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773081689.webp" group-title="Entertainment",387 EAGLE TV
-https://rtmp.bmlive.net/bms/eagletv/index.m3u8
-#EXTINF:-1 tvg-chno="387" tvg-id="214" tvg-name="EAGLE TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773081689.webp" group-title="Entertainment",387 EAGLE TV [RTMP]
-rtmp://rtmp.bmlive.net:1935/bms/eagletv
-#EXTINF:-1 tvg-chno="388" tvg-id="215" tvg-name="SHA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771301751.webp" group-title="Entertainment",388 SHA TV
-https://play.applelive.in/shatv/shatv.m3u8
-#EXTINF:-1 tvg-chno="388" tvg-id="215" tvg-name="SHA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771301751.webp" group-title="Entertainment",388 SHA TV [RTMP]
-
-#EXTINF:-1 tvg-chno="389" tvg-id="216" tvg-name="KAVIN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771301733.webp" group-title="Entertainment",389 KAVIN TV
-https://kavintv-3.proxy.nellaiiptv.com/NOTV/KAVINTV/index.m3u8?token=GTR
-#EXTINF:-1 tvg-chno="389" tvg-id="216" tvg-name="KAVIN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771301733.webp" group-title="Entertainment",389 KAVIN TV [RTMP]
-rtmp://198.144.149.206:1935/NOTV/KAVINTV?token=GTR
-#EXTINF:-1 tvg-chno="390" tvg-id="217" tvg-name="TSN MUSIC TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771309981.webp" group-title="Music",390 TSN MUSIC TV
-https://kavintv-3.proxy.nellaiiptv.com/NOTV/VAAGAI/tracks-v1a1/mono.m3u8?token=GTR
-#EXTINF:-1 tvg-chno="390" tvg-id="217" tvg-name="TSN MUSIC TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771309981.webp" group-title="Music",390 TSN MUSIC TV [RTMP]
-
-#EXTINF:-1 tvg-chno="391" tvg-id="218" tvg-name="TSN HOLLYWOOD TAMIL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771310223.webp" group-title="Movies",391 TSN HOLLYWOOD TAMIL TV
-https://kavintv-3.proxy.nellaiiptv.com/DINESH/PT/index.m3u8?token=YAAL
-#EXTINF:-1 tvg-chno="391" tvg-id="218" tvg-name="TSN HOLLYWOOD TAMIL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771310223.webp" group-title="Movies",391 TSN HOLLYWOOD TAMIL TV [RTMP]
-
-#EXTINF:-1 tvg-chno="392" tvg-id="219" tvg-name="SNR TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771310410.webp" group-title="Entertainment",392 SNR TV
-https://kavintv-3.proxy.nellaiiptv.com/NOTV/ASOSACHENNAI/index.m3u8?token=GTR
-#EXTINF:-1 tvg-chno="392" tvg-id="219" tvg-name="SNR TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771310410.webp" group-title="Entertainment",392 SNR TV [RTMP]
-
-#EXTINF:-1 tvg-chno="393" tvg-id="220" tvg-name="SITHAR TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771310492.webp" group-title="Entertainment",393 SITHAR TV
-https://kavintv-3.proxy.nellaiiptv.com/DINESH/PT2/index.m3u8?token=YAAL
-#EXTINF:-1 tvg-chno="393" tvg-id="220" tvg-name="SITHAR TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771310492.webp" group-title="Entertainment",393 SITHAR TV [RTMP]
-
 #EXTINF:-1 tvg-chno="394" tvg-id="222" tvg-name="MULLAI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771311179.webp" group-title="Entertainment",394 MULLAI TV
 https://live.apcloud.in/mullaitv/live/index.m3u8
-#EXTINF:-1 tvg-chno="394" tvg-id="222" tvg-name="MULLAI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771311179.webp" group-title="Entertainment",394 MULLAI TV [RTMP]
-
 #EXTINF:-1 tvg-chno="396" tvg-id="224" tvg-name="JEYAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771345877.webp" group-title="Entertainment",396 JEYAN TV
 https://stream.onecloudlive.in/jeyantv/jeyantv/index.m3u8
-#EXTINF:-1 tvg-chno="396" tvg-id="224" tvg-name="JEYAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771345877.webp" group-title="Entertainment",396 JEYAN TV [RTMP]
-rtmp://jeyantv.stream.onecloudlive.in:1935/jeyantv/jeyantv
 #EXTINF:-1 tvg-chno="397" tvg-id="225" tvg-name="JJ NEWS TAMIL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771403107.webp" group-title="News",397 JJ NEWS TAMIL TV
 https://hlsstream.olidigital.in/jjtvnewstamil/jjtvnewstamil/index.m3u8
-#EXTINF:-1 tvg-chno="397" tvg-id="225" tvg-name="JJ NEWS TAMIL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771403107.webp" group-title="News",397 JJ NEWS TAMIL TV [RTMP]
-
 #EXTINF:-1 tvg-chno="398" tvg-id="226" tvg-name="ROYAL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771561763.webp" group-title="Entertainment",398 ROYAL TV
 https://online-applelive-in.proxy.nellaiiptv.com/royaltv/royaltv/index.m3u8
-#EXTINF:-1 tvg-chno="398" tvg-id="226" tvg-name="ROYAL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771561763.webp" group-title="Entertainment",398 ROYAL TV [RTMP]
-rtmp://online.applelive.in/royaltv/royaltv
-#EXTINF:-1 tvg-chno="399" tvg-id="227" tvg-name="BHAGAVATH TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771561843.webp" group-title="Entertainment",399 BHAGAVATH TV
-https://online-applelive-in.proxy.nellaiiptv.com/bhagavathtv/bhagavathtv/index.m3u8
-#EXTINF:-1 tvg-chno="399" tvg-id="227" tvg-name="BHAGAVATH TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771561843.webp" group-title="Entertainment",399 BHAGAVATH TV [RTMP]
-rtmp://online.applelive.in/bhagavathtv/bhagavathtv
-#EXTINF:-1 tvg-chno="401" tvg-id="229" tvg-name="JCV TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771897861.webp" group-title="Entertainment",401 JCV TV
-https://play.applelive.in/jcvtv/jcvtv.m3u8
-#EXTINF:-1 tvg-chno="401" tvg-id="229" tvg-name="JCV TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771897861.webp" group-title="Entertainment",401 JCV TV [RTMP]
-
-#EXTINF:-1 tvg-chno="404" tvg-id="232" tvg-name="AARTHI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771669052.webp" group-title="Entertainment",404 AARTHI TV
-https://kavintv-3.proxy.nellaiiptv.com//NOTV/AARTHITV/index.m3u8?token=GTR
-#EXTINF:-1 tvg-chno="404" tvg-id="232" tvg-name="AARTHI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771669052.webp" group-title="Entertainment",404 AARTHI TV [RTMP]
-rtmp://198.144.149.206:1935/NOTV/AARTHITV?token=GTR
-#EXTINF:-1 tvg-chno="405" tvg-id="233" tvg-name="TAITAL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771606974.webp" group-title="Entertainment",405 TAITAL TV
-https://stream.onecloudlive.in/taitaltv/live/index.m3u8
-#EXTINF:-1 tvg-chno="405" tvg-id="233" tvg-name="TAITAL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771606974.webp" group-title="Entertainment",405 TAITAL TV [RTMP]
-rtmp://taitaltv.stream.onecloudlive.in:1935/taitaltv/live
-#EXTINF:-1 tvg-chno="406" tvg-id="234" tvg-name="THARUMAI AATHINAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771607120.webp" group-title="Entertainment",406 THARUMAI AATHINAM TV
-https://stream.onecloudlive.in/taitaltv/livetv/index.m3u8
-#EXTINF:-1 tvg-chno="406" tvg-id="234" tvg-name="THARUMAI AATHINAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771607120.webp" group-title="Entertainment",406 THARUMAI AATHINAM TV [RTMP]
-rtmp://taitaltv.stream.onecloudlive.in:1935/taitaltv/livetv
-#EXTINF:-1 tvg-chno="407" tvg-id="235" tvg-name="RPM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771607211.webp" group-title="Entertainment",407 RPM TV
-https://live.applelive.in/rpmtv/rpmtv/index.m3u8
-#EXTINF:-1 tvg-chno="407" tvg-id="235" tvg-name="RPM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771607211.webp" group-title="Entertainment",407 RPM TV [RTMP]
-
 #EXTINF:-1 tvg-chno="409" tvg-id="237" tvg-name="MAHIMAI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771608908.webp" group-title="Devotional",409 MAHIMAI TV
 https://mahimai.iptelevision.live/mahimaitv/video.m3u8
-#EXTINF:-1 tvg-chno="409" tvg-id="237" tvg-name="MAHIMAI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771608908.webp" group-title="Devotional",409 MAHIMAI TV [RTMP]
-
 #EXTINF:-1 tvg-chno="411" tvg-id="239" tvg-name="HARIN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771774889.webp" group-title="Entertainment",411 HARIN TV
 https://ipcloud.live/harintv/harintvhd/index.m3u8
-#EXTINF:-1 tvg-chno="411" tvg-id="239" tvg-name="HARIN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771774889.webp" group-title="Entertainment",411 HARIN TV [RTMP]
-rtmp://ipcloud.live/harintv/harintvhd
 #EXTINF:-1 tvg-chno="413" tvg-id="241" tvg-name="JEYAM PLUS" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773081666.webp" group-title="Entertainment",413 JEYAM PLUS
 https://ipcloud.live/mmtv/jeyamplus/index.m3u8
-#EXTINF:-1 tvg-chno="413" tvg-id="241" tvg-name="JEYAM PLUS" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773081666.webp" group-title="Entertainment",413 JEYAM PLUS [RTMP]
-rtmp://ipcloud.live/mmtv/jeyamplus
 #EXTINF:-1 tvg-chno="414" tvg-id="242" tvg-name="MSN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771899839.webp" group-title="Entertainment",414 MSN TV
 https://ipcloud.live/msntv/msntv/index.m3u8
-#EXTINF:-1 tvg-chno="414" tvg-id="242" tvg-name="MSN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771899839.webp" group-title="Entertainment",414 MSN TV [RTMP]
-rtmp://ipcloud.live/msntv/msntv
 #EXTINF:-1 tvg-chno="415" tvg-id="243" tvg-name="OLI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773081646.webp" group-title="Entertainment",415 OLI TV
 https://live.olidigital.in/olitv/olitv/index.m3u8
-#EXTINF:-1 tvg-chno="415" tvg-id="243" tvg-name="OLI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773081646.webp" group-title="Entertainment",415 OLI TV [RTMP]
-
 #EXTINF:-1 tvg-chno="416" tvg-id="244" tvg-name="MN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1779683548.webp" group-title="Entertainment",416 MN TV
 https://mntv.livebox.co.in/mntvhls/live.m3u8
-#EXTINF:-1 tvg-chno="416" tvg-id="244" tvg-name="MN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1779683548.webp" group-title="Entertainment",416 MN TV [RTMP]
-
 #EXTINF:-1 tvg-chno="417" tvg-id="245" tvg-name="MN MUSIC TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773081634.webp" group-title="Music",417 MN MUSIC TV
 https://mntv.livebox.co.in/musichls/live.m3u8
-#EXTINF:-1 tvg-chno="417" tvg-id="245" tvg-name="MN MUSIC TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773081634.webp" group-title="Music",417 MN MUSIC TV [RTMP]
-
 #EXTINF:-1 tvg-chno="418" tvg-id="246" tvg-name="CTN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771645061.webp" group-title="Entertainment",418 CTN TV
 https://ipcloud.live/ctn/ctntvhd/index.m3u8
-#EXTINF:-1 tvg-chno="418" tvg-id="246" tvg-name="CTN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771645061.webp" group-title="Entertainment",418 CTN TV [RTMP]
-
-#EXTINF:-1 tvg-chno="420" tvg-id="248" tvg-name="BHARATHI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773081615.webp" group-title="Entertainment",420 BHARATHI TV
-https://stream.onecloudlive.in/karnan/bharathitv/index.m3u8
-#EXTINF:-1 tvg-chno="420" tvg-id="248" tvg-name="BHARATHI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773081615.webp" group-title="Entertainment",420 BHARATHI TV [RTMP]
-rtmp://stream.onecloudlive.in/karnan/bharathitv
 #EXTINF:-1 tvg-chno="424" tvg-id="252" tvg-name="AARON TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773081565.webp" group-title="Entertainment",424 AARON TV
 https://stream.onecloudlive.in/sachintv/aarontvhd/index.m3u8
-#EXTINF:-1 tvg-chno="424" tvg-id="252" tvg-name="AARON TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773081565.webp" group-title="Entertainment",424 AARON TV [RTMP]
-rtmp://sachintv.stream.onecloudlive.in:1935/sachintv/aarontvhd
-#EXTINF:-1 tvg-chno="427" tvg-id="255" tvg-name="THENDRAL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785584227.webp" group-title="Entertainment",427 THENDRAL TV
-https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8
-#EXTINF:-1 tvg-chno="427" tvg-id="255" tvg-name="THENDRAL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785584227.webp" group-title="Entertainment",427 THENDRAL TV [RTMP]
-
 #EXTINF:-1 tvg-chno="428" tvg-id="256" tvg-name="SAI BABA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773081533.webp" group-title="Devotional",428 SAI BABA TV
 https://singamcloud.in/saibaba/livekovai/index.m3u8
-#EXTINF:-1 tvg-chno="428" tvg-id="256" tvg-name="SAI BABA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773081533.webp" group-title="Devotional",428 SAI BABA TV [RTMP]
-rtmp://singamcloud.in/saibaba/livekovai
 #EXTINF:-1 tvg-chno="430" tvg-id="258" tvg-name="K CHANNEL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771901071.webp" group-title="Entertainment",430 K CHANNEL TV
 https://brightmeltech-in.proxy.nellaiiptv.com/kchannel/kchannel.m3u8
-#EXTINF:-1 tvg-chno="430" tvg-id="258" tvg-name="K CHANNEL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771901071.webp" group-title="Entertainment",430 K CHANNEL TV [RTMP]
-rtmp://brightmeltech.in:1935/kchannel/kchannel
-#EXTINF:-1 tvg-chno="431" tvg-id="259" tvg-name="BOYS TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771774778.webp" group-title="Entertainment",431 BOYS TV
-https://rtmp.applelive.in/boystv/boystv/index.m3u8
-#EXTINF:-1 tvg-chno="431" tvg-id="259" tvg-name="BOYS TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771774778.webp" group-title="Entertainment",431 BOYS TV [RTMP]
-rtmp://rtmp.applelive.in/boystv/boystv
-#EXTINF:-1 tvg-chno="433" tvg-id="261" tvg-name="BHARATHI THIRAI ULAGAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773067494.webp" group-title="Entertainment",433 BHARATHI THIRAI ULAGAM TV
-https://bharathitv2-sscloud7-in.proxy.nellaiiptv.com/live/bharathithiraiulagam/index.m3u8
-#EXTINF:-1 tvg-chno="433" tvg-id="261" tvg-name="BHARATHI THIRAI ULAGAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773067494.webp" group-title="Entertainment",433 BHARATHI THIRAI ULAGAM TV [RTMP]
-rtmp://bharathitv2.sscloud7.in:1935/live/bharathithiraiulagam
-#EXTINF:-1 tvg-chno="434" tvg-id="262" tvg-name="VELAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773067485.webp" group-title="Entertainment",434 VELAN TV
-https://cloudstream4k.com/velantv/bsk/index.m3u8
-#EXTINF:-1 tvg-chno="434" tvg-id="262" tvg-name="VELAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773067485.webp" group-title="Entertainment",434 VELAN TV [RTMP]
-rtmp://cloudstream4k.com:1935/velantv/bsk
 #EXTINF:-1 tvg-chno="436" tvg-id="264" tvg-name="7 STAR TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771775927.webp" group-title="Entertainment",436 7 STAR TV
 http://premium.7starcloud.com:1935/live/7star/live.m3u8
-#EXTINF:-1 tvg-chno="436" tvg-id="264" tvg-name="7 STAR TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771775927.webp" group-title="Entertainment",436 7 STAR TV [RTMP]
-rtmp://premium.7starcloud.com:1935/live/7star8
 #EXTINF:-1 tvg-chno="437" tvg-id="265" tvg-name="7 STAR MUSIC TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777819022.webp" group-title="Music",437 7 STAR MUSIC TV
 http://premium.7starcloud.com:1935/live/7starmusic/playlist.m3u8
-#EXTINF:-1 tvg-chno="437" tvg-id="265" tvg-name="7 STAR MUSIC TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777819022.webp" group-title="Music",437 7 STAR MUSIC TV [RTMP]
-rtmp://premium.7starcloud.com:1935/live/7starmusic
 #EXTINF:-1 tvg-chno="438" tvg-id="266" tvg-name="RAINBOW TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771929876.webp" group-title="Entertainment",438 RAINBOW TV
 https://cloudstream4k.com/rainbowtv/ssdslive/index.m3u8
-#EXTINF:-1 tvg-chno="438" tvg-id="266" tvg-name="RAINBOW TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771929876.webp" group-title="Entertainment",438 RAINBOW TV [RTMP]
-rtmp://cloudstream4k.com:1935/rainbowtv/ssdslive
 #EXTINF:-1 tvg-chno="439" tvg-id="267" tvg-name="KCN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773067454.webp" group-title="Entertainment",439 KCN TV
 https://view.rcserver.in/tmp_hls12/kcntv/index.m3u8
-#EXTINF:-1 tvg-chno="439" tvg-id="267" tvg-name="KCN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773067454.webp" group-title="Entertainment",439 KCN TV [RTMP]
-rtmp://rcserver.in:1937/kcntv
 #EXTINF:-1 tvg-chno="440" tvg-id="268" tvg-name="SMCV TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771900021.webp" group-title="Entertainment",440 SMCV TV
 https://singamcloud.in/smcvtv/smcvtv/index.m3u8
-#EXTINF:-1 tvg-chno="440" tvg-id="268" tvg-name="SMCV TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771900021.webp" group-title="Entertainment",440 SMCV TV [RTMP]
-rtmp://singamcloud.in:1935/smcvtv/smcvtv
-#EXTINF:-1 tvg-chno="441" tvg-id="269" tvg-name="KUMARI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773067404.webp" group-title="Entertainment",441 KUMARI TV
-https://rtmp.applelive.in/gvkumaritv/gvkumaritv/index.m3u8
-#EXTINF:-1 tvg-chno="441" tvg-id="269" tvg-name="KUMARI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773067404.webp" group-title="Entertainment",441 KUMARI TV [RTMP]
-rtmp://rtmp.applelive.in/gvkumaritv/gvkumaritv
-#EXTINF:-1 tvg-chno="443" tvg-id="271" tvg-name="VELAVAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771897886.webp" group-title="Entertainment",443 VELAVAN TV
-https://server.sscloud7.in/live/velavantv/index.m3u8
-#EXTINF:-1 tvg-chno="443" tvg-id="271" tvg-name="VELAVAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771897886.webp" group-title="Entertainment",443 VELAVAN TV [RTMP]
-rtmp://tvl-velavantv.sscloud7.in/live/velavantv
 #EXTINF:-1 tvg-chno="446" tvg-id="274" tvg-name="MEN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773067368.webp" group-title="Entertainment",446 MEN TV
 https://ipcloud.live/mtv/menhd/index.m3u8
-#EXTINF:-1 tvg-chno="446" tvg-id="274" tvg-name="MEN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773067368.webp" group-title="Entertainment",446 MEN TV [RTMP]
-
-#EXTINF:-1 tvg-chno="448" tvg-id="276" tvg-name="SHALINI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771779194.webp" group-title="Entertainment",448 SHALINI TV
-https://stream.singamcloud.in/shalinitv/shalinitv/index.m3u8
-#EXTINF:-1 tvg-chno="448" tvg-id="276" tvg-name="SHALINI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771779194.webp" group-title="Entertainment",448 SHALINI TV [RTMP]
-
-#EXTINF:-1 tvg-chno="449" tvg-id="277" tvg-name="KING TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771779405.webp" group-title="Entertainment",449 KING TV
-https://rtmp.bmlive.net/kingtv/kingtv/index.m3u8
-#EXTINF:-1 tvg-chno="449" tvg-id="277" tvg-name="KING TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771779405.webp" group-title="Entertainment",449 KING TV [RTMP]
-rtmp://rtmp.bmlive.net:1935/kingtv/kingtv
 #EXTINF:-1 tvg-chno="450" tvg-id="278" tvg-name="THENDRAL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773067356.webp" group-title="Entertainment",450 THENDRAL TV
 https://almthendraltv-phoenixcreations-online.proxy.nellaiiptv.com/almthendraltv/almthendraltv/index.m3u8
-#EXTINF:-1 tvg-chno="450" tvg-id="278" tvg-name="THENDRAL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773067356.webp" group-title="Entertainment",450 THENDRAL TV [RTMP]
-rtmp://almthendraltv.phoenixcreations.online:1935/almthendraltv/almthendraltv
-#EXTINF:-1 tvg-chno="451" tvg-id="279" tvg-name="PHOENIX TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773067344.webp" group-title="Entertainment",451 PHOENIX TV
-https://phoenix-srivi.phoenixcreations-online.proxy.nellaiiptv.com/phoenix/phoenix/index.m3u8
-#EXTINF:-1 tvg-chno="451" tvg-id="279" tvg-name="PHOENIX TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773067344.webp" group-title="Entertainment",451 PHOENIX TV [RTMP]
-rtmp://phoenix-srivi.phoenixcreations.online:1935/phoenix/phoenix
 #EXTINF:-1 tvg-chno="453" tvg-id="281" tvg-name="D TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771917388.webp" group-title="Entertainment",453 D TV
 https://stream.d6-pro.com/Dtv/live/index.m3u8
-#EXTINF:-1 tvg-chno="453" tvg-id="281" tvg-name="D TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771917388.webp" group-title="Entertainment",453 D TV [RTMP]
-
 #EXTINF:-1 tvg-chno="454" tvg-id="282" tvg-name="DBHAKHI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771917454.webp" group-title="Devotional",454 DBHAKHI TV
 https://stream.d6-pro.com/Dbhakhi/live/index.m3u8
-#EXTINF:-1 tvg-chno="454" tvg-id="282" tvg-name="DBHAKHI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771917454.webp" group-title="Devotional",454 DBHAKHI TV [RTMP]
-
 #EXTINF:-1 tvg-chno="456" tvg-id="283" tvg-name="TUNES 6 MUSIC TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771917533.webp" group-title="Music",456 TUNES 6 MUSIC TV
 https://stream.d6-pro.com/tunes6music/live/index.m3u8
-#EXTINF:-1 tvg-chno="456" tvg-id="283" tvg-name="TUNES 6 MUSIC TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771917533.webp" group-title="Music",456 TUNES 6 MUSIC TV [RTMP]
-
 #EXTINF:-1 tvg-chno="457" tvg-id="230" tvg-name="EZHIL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771601170.webp" group-title="Entertainment",457 EZHIL TV
 https://rtmp.notvstream.in/ezhiltv/ezhiltv/index.m3u8
-#EXTINF:-1 tvg-chno="457" tvg-id="230" tvg-name="EZHIL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771601170.webp" group-title="Entertainment",457 EZHIL TV [RTMP]
-rtmp://rtmp.notvstream.in:1935/ezhiltv/ezhiltv
 #EXTINF:-1 tvg-chno="544" tvg-id="298" tvg-name="SMART TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1774419155.webp" group-title="Entertainment",544 SMART TV
 https://hdserver-7starcloud-com.proxy.nellaiiptv.com/smart/tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="544" tvg-id="298" tvg-name="SMART TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1774419155.webp" group-title="Entertainment",544 SMART TV [RTMP]
-
 #EXTINF:-1 tvg-chno="545" tvg-id="299" tvg-name="NIJAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1774419921.webp" group-title="Devotional",545 NIJAM TV
 https://nijamtv.indiamatrix.in/nijamtv/nijamtv.m3u8
-#EXTINF:-1 tvg-chno="545" tvg-id="299" tvg-name="NIJAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1774419921.webp" group-title="Devotional",545 NIJAM TV [RTMP]
-
 #EXTINF:-1 tvg-chno="547" tvg-id="286" tvg-name="THIRAI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1772293013.webp" group-title="Entertainment",547 THIRAI TV
 http://view.apserver.in/tmp_hls2/thiraitv/index.m3u8
 #EXTINF:-1 tvg-chno="547" tvg-id="286" tvg-name="THIRAI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1772293013.webp" group-title="Entertainment",547 THIRAI TV [RTMP]
@@ -1144,401 +678,106 @@ https://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
 https://live.apcloud.in/thiraimusic/thiraimusichd/index.m3u8
 #EXTINF:-1 tvg-chno="549" tvg-id="290" tvg-name="KOODAL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773081403.webp" group-title="Entertainment",549 KOODAL TV
 https://web.applelive.in/koodaltv/koodaltv/index.m3u8
-#EXTINF:-1 tvg-chno="549" tvg-id="290" tvg-name="KOODAL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773081403.webp" group-title="Entertainment",549 KOODAL TV [RTMP]
-
-#EXTINF:-1 tvg-chno="551" tvg-id="292" tvg-name="VIMAL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773082019.webp" group-title="Entertainment",551 VIMAL TV
-https://stream.onecloudlive.in/karthick/vimaltv/index.m3u8
-#EXTINF:-1 tvg-chno="551" tvg-id="292" tvg-name="VIMAL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773082019.webp" group-title="Entertainment",551 VIMAL TV [RTMP]
-
 #EXTINF:-1 tvg-chno="552" tvg-id="294" tvg-name="THANGAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1774028943.webp" group-title="Entertainment",552 THANGAM TV
 https://stream.onecloudlive.in/thangamtv/thangamtvhd/index.m3u8
-#EXTINF:-1 tvg-chno="552" tvg-id="294" tvg-name="THANGAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1774028943.webp" group-title="Entertainment",552 THANGAM TV [RTMP]
-rtmp://thangamtv.stream.onecloudlive.in:1935/thangamtv/thangamtvhd
-#EXTINF:-1 tvg-chno="553" tvg-id="117" tvg-name="HANSITHA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/hansitha_tv_1770714172.webp" group-title="Entertainment",553 HANSITHA TV
-https://air.rojatv.cloud/hanshitha/tv/index.m3u8
-#EXTINF:-1 tvg-chno="553" tvg-id="117" tvg-name="HANSITHA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/hansitha_tv_1770714172.webp" group-title="Entertainment",553 HANSITHA TV [RTMP]
-
-#EXTINF:-1 tvg-chno="555" tvg-id="302" tvg-name="JET TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1775660474.webp" group-title="Entertainment",555 JET TV
-https://hlsstream.apcloud.in/jettv/jettvhd/index.m3u8
-#EXTINF:-1 tvg-chno="555" tvg-id="302" tvg-name="JET TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1775660474.webp" group-title="Entertainment",555 JET TV [RTMP]
-
-#EXTINF:-1 tvg-chno="556" tvg-id="303" tvg-name="SRI VELAVAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1776182515.webp" group-title="Entertainment",556 SRI VELAVAN TV
-https://rtmp.applelive.in/srivelavantv/srivelavantv4k/index.m3u8
-#EXTINF:-1 tvg-chno="556" tvg-id="303" tvg-name="SRI VELAVAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1776182515.webp" group-title="Entertainment",556 SRI VELAVAN TV [RTMP]
-
-#EXTINF:-1 tvg-chno="558" tvg-id="311" tvg-name="HELLO TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777372503.webp" group-title="Entertainment",558 HELLO TV
-https://view.rcserver.in/tmp_hls26/hellotamiltv/index.m3u8
-#EXTINF:-1 tvg-chno="558" tvg-id="311" tvg-name="HELLO TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777372503.webp" group-title="Entertainment",558 HELLO TV [RTMP]
-
-#EXTINF:-1 tvg-chno="559" tvg-id="312" tvg-name="MAGIZH TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777483337.webp" group-title="Entertainment",559 MAGIZH TV
-https://magizhtv-phoenixcreations-online.proxy.nellaiiptv.com/magizhtv/magizhtv/index.m3u8
-#EXTINF:-1 tvg-chno="559" tvg-id="312" tvg-name="MAGIZH TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777483337.webp" group-title="Entertainment",559 MAGIZH TV [RTMP]
-rtmp://magizhtv.phoenixcreations.online:1935/magizhtv/magizhtv
-#EXTINF:-1 tvg-chno="560" tvg-id="313" tvg-name="BAMA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777610935.webp" group-title="Entertainment",560 BAMA TV
-https://bamatv-tactv.tamilstream-in.proxy.nellaiiptv.com/bamatv/bama/index.m3u8
-#EXTINF:-1 tvg-chno="560" tvg-id="313" tvg-name="BAMA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777610935.webp" group-title="Entertainment",560 BAMA TV [RTMP]
-
-#EXTINF:-1 tvg-chno="561" tvg-id="314" tvg-name="AMMAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777716076.webp" group-title="Entertainment",561 AMMAN TV
-https://app.ashokadigital.net/app/78b1bc36/index.m3u8
-#EXTINF:-1 tvg-chno="561" tvg-id="314" tvg-name="AMMAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777716076.webp" group-title="Entertainment",561 AMMAN TV [RTMP]
-
 #EXTINF:-1 tvg-chno="562" tvg-id="315" tvg-name="STAR MEDIA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777819566.webp" group-title="Entertainment",562 STAR MEDIA TV
 https://rtmp.notvstream.in/starmedia/starmedia/index.m3u8
-#EXTINF:-1 tvg-chno="562" tvg-id="315" tvg-name="STAR MEDIA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777819566.webp" group-title="Entertainment",562 STAR MEDIA TV [RTMP]
-
-#EXTINF:-1 tvg-chno="563" tvg-id="316" tvg-name="A1 TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777820038.webp" group-title="Entertainment",563 A1 TV
-https://app.ashokadigital.net/app/0fca457c/index.m3u8
-#EXTINF:-1 tvg-chno="563" tvg-id="316" tvg-name="A1 TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777820038.webp" group-title="Entertainment",563 A1 TV [RTMP]
-
-#EXTINF:-1 tvg-chno="564" tvg-id="317" tvg-name="KM MUSIC TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777820260.webp" group-title="Music",564 KM MUSIC TV
-https://stream.ashokadigital.net/kmmusic/kmmusic/index.m3u8
-#EXTINF:-1 tvg-chno="564" tvg-id="317" tvg-name="KM MUSIC TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777820260.webp" group-title="Music",564 KM MUSIC TV [RTMP]
-
-#EXTINF:-1 tvg-chno="565" tvg-id="318" tvg-name="HITECH TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777820479.webp" group-title="Entertainment",565 HITECH TV
-https://app.ashokadigital.net/app/44ae008e/index.m3u8
-#EXTINF:-1 tvg-chno="565" tvg-id="318" tvg-name="HITECH TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777820479.webp" group-title="Entertainment",565 HITECH TV [RTMP]
-
-#EXTINF:-1 tvg-chno="567" tvg-id="320" tvg-name="THALAPATHY TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777820867.webp" group-title="Entertainment",567 THALAPATHY TV
-https://app.ashokadigital.net/app/1ef919c6/index.m3u8
-#EXTINF:-1 tvg-chno="567" tvg-id="320" tvg-name="THALAPATHY TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777820867.webp" group-title="Entertainment",567 THALAPATHY TV [RTMP]
-
-#EXTINF:-1 tvg-chno="568" tvg-id="321" tvg-name="PARAMS TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777820994.webp" group-title="Entertainment",568 PARAMS TV
-https://stream.ashokadigital.net/ashokaslm/paramstv/index.m3u8
-#EXTINF:-1 tvg-chno="568" tvg-id="321" tvg-name="PARAMS TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777820994.webp" group-title="Entertainment",568 PARAMS TV [RTMP]
-
 #EXTINF:-1 tvg-chno="569" tvg-id="322" tvg-name="BREAKING NEWS BY LEADSTORY" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777821626.webp" group-title="News",569 BREAKING NEWS BY LEADSTORY
 https://amg02703-leadstory-leadstory-samsungau-rr75f.amagi.tv/playlist/amg02703-leadstory-leadstory-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-chno="569" tvg-id="322" tvg-name="BREAKING NEWS BY LEADSTORY" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777821626.webp" group-title="News",569 BREAKING NEWS BY LEADSTORY [RTMP]
-
 #EXTINF:-1 tvg-chno="570" tvg-id="323" tvg-name="BRITISH SCREEN CLASSIC" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777821697.webp" group-title="Entertainment",570 BRITISH SCREEN CLASSIC
 https://amg00654-itv-amg00654c25-samsung-gb-4838.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="570" tvg-id="323" tvg-name="BRITISH SCREEN CLASSIC" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777821697.webp" group-title="Entertainment",570 BRITISH SCREEN CLASSIC [RTMP]
-
-#EXTINF:-1 tvg-chno="573" tvg-id="326" tvg-name="VANTAGE MUSIC UK TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777821995.webp" group-title="Music",573 VANTAGE MUSIC UK TV
-https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8
-#EXTINF:-1 tvg-chno="573" tvg-id="326" tvg-name="VANTAGE MUSIC UK TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777821995.webp" group-title="Music",573 VANTAGE MUSIC UK TV [RTMP]
-
 #EXTINF:-1 tvg-chno="575" tvg-id="328" tvg-name="SURIYA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782116996.webp" group-title="Entertainment",575 SURIYA TV
 https://stream.ottlive.co.in/suryatvtamil/index.m3u8
-#EXTINF:-1 tvg-chno="575" tvg-id="328" tvg-name="SURIYA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782116996.webp" group-title="Entertainment",575 SURIYA TV [RTMP]
-
 #EXTINF:-1 tvg-chno="576" tvg-id="329" tvg-name="SURVIVOR TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777822408.webp" group-title="Entertainment",576 SURVIVOR TV
 https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-chno="576" tvg-id="329" tvg-name="SURVIVOR TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777822408.webp" group-title="Entertainment",576 SURVIVOR TV [RTMP]
-
-#EXTINF:-1 tvg-chno="578" tvg-id="331" tvg-name="MARAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1778692570.webp" group-title="Entertainment",578 MARAN TV
-https://server.sscloud7.in/marantv/marantv/index.m3u8
-#EXTINF:-1 tvg-chno="578" tvg-id="331" tvg-name="MARAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1778692570.webp" group-title="Entertainment",578 MARAN TV [RTMP]
-
 #EXTINF:-1 tvg-chno="579" tvg-id="332" tvg-name="VAJRAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1778692925.webp" group-title="Entertainment",579 VAJRAM TV
- https://app.ashokadigital.net/app/68b001a0/index.m3u8
-#EXTINF:-1 tvg-chno="579" tvg-id="332" tvg-name="VAJRAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1778692925.webp" group-title="Entertainment",579 VAJRAM TV [RTMP]
-
+https://app.ashokadigital.net/app/68b001a0/index.m3u8
 #EXTINF:-1 tvg-chno="580" tvg-id="333" tvg-name="VAJRA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1778693284.webp" group-title="Entertainment",580 VAJRA TV
 https://app.ashokadigital.net/app/3b31be9f/index.m3u8
-#EXTINF:-1 tvg-chno="580" tvg-id="333" tvg-name="VAJRA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1778693284.webp" group-title="Entertainment",580 VAJRA TV [RTMP]
-
-#EXTINF:-1 tvg-chno="581" tvg-id="335" tvg-name="DEVI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1778732047.webp" group-title="Entertainment",581 DEVI TV
- https://app.ashokadigital.net/app/7086d917/index.m3u8
-#EXTINF:-1 tvg-chno="581" tvg-id="335" tvg-name="DEVI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1778732047.webp" group-title="Entertainment",581 DEVI TV [RTMP]
-
-#EXTINF:-1 tvg-chno="582" tvg-id="336" tvg-name="VEZHAMUGAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1778775017.webp" group-title="Entertainment",582 VEZHAMUGAM TV
-http://vezhamugam.stream.nellaiiptv.com/vezhamugam/live/index.m3u8
-#EXTINF:-1 tvg-chno="582" tvg-id="336" tvg-name="VEZHAMUGAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1778775017.webp" group-title="Entertainment",582 VEZHAMUGAM TV [RTMP]
-
-#EXTINF:-1 tvg-chno="584" tvg-id="338" tvg-name="GOLDEN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1779026842.webp" group-title="Entertainment",584 GOLDEN TV
-https://sanplayout-xyz.proxy.nellaiiptv.com/live2/goldentv/index.m3u8
-#EXTINF:-1 tvg-chno="584" tvg-id="338" tvg-name="GOLDEN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1779026842.webp" group-title="Entertainment",584 GOLDEN TV [RTMP]
-http://sanplayout.xyz/live2/goldentv/index.m3u8
 #EXTINF:-1 tvg-chno="589" tvg-id="346" tvg-name="SRI VINAYAGA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1781331044.webp" group-title="Entertainment",589 SRI VINAYAGA TV
 https://1.proxy.nellaiiptv.com/srivinayagatv/hd/playlist.m3u8
-#EXTINF:-1 tvg-chno="589" tvg-id="346" tvg-name="SRI VINAYAGA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1781331044.webp" group-title="Entertainment",589 SRI VINAYAGA TV [RTMP]
-rtmp://112.133.198.71:1935/srivinayagatv/hd
 #EXTINF:-1 tvg-chno="590" tvg-id="347" tvg-name="SRI VINAYAGA MUSIC TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1781361132.webp" group-title="Music",590 SRI VINAYAGA MUSIC TV
 https://1.proxy.nellaiiptv.com/srivinayagatv/music/playlist.m3u8
 #EXTINF:-1 tvg-chno="590" tvg-id="347" tvg-name="SRI VINAYAGA MUSIC TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1781361132.webp" group-title="Music",590 SRI VINAYAGA MUSIC TV [RTMP]
 http://112.133.198.71:1935/srivinayagatv/music/playlist.m3u8
-#EXTINF:-1 tvg-chno="591" tvg-id="348" tvg-name="SR MUSIX" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782061785.webp" group-title="Music",591 SR MUSIX
-https://srnet-bmlive-net.proxy.nellaiiptv.com/srmusic/myStream/playlist.m3u8
-#EXTINF:-1 tvg-chno="591" tvg-id="348" tvg-name="SR MUSIX" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782061785.webp" group-title="Music",591 SR MUSIX [RTMP]
-http://srnet.bmlive.net:1935/srmusic/myStream/playlist.m3u8
 #EXTINF:-1 tvg-chno="592" tvg-id="349" tvg-name="EYE TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782061933.webp" group-title="Entertainment",592 EYE TV
 https://2.proxy.nellaiiptv.com/EyeMedia/EyeTV/index.m3u8
 #EXTINF:-1 tvg-chno="592" tvg-id="349" tvg-name="EYE TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782061933.webp" group-title="Entertainment",592 EYE TV [RTMP]
 http://198.144.149.196:8080/EyeMedia/EyeTV/index.m3u8
-#EXTINF:-1 tvg-chno="593" tvg-id="350" tvg-name="EURO TAMIL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782119114.webp" group-title="Entertainment",593 EURO TAMIL TV
-https://3.proxy.nellaiiptv.com/DINESH/EURO/index.m3u8?token=YAAL
-#EXTINF:-1 tvg-chno="593" tvg-id="350" tvg-name="EURO TAMIL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782119114.webp" group-title="Entertainment",593 EURO TAMIL TV [RTMP]
-rtmp://198.144.149.206/DINESH/EURO?token=YAAL
 #EXTINF:-1 tvg-chno="594" tvg-id="351" tvg-name="NRJ TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782118983.webp" group-title="Entertainment",594 NRJ TV
 https://3.proxy.nellaiiptv.com/DINESH/NRJTV/index.m3u8?token=YAAL
-#EXTINF:-1 tvg-chno="594" tvg-id="351" tvg-name="NRJ TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782118983.webp" group-title="Entertainment",594 NRJ TV [RTMP]
-rtmp://198.144.149.206:1935/DINESH/NRJTV?token=YAAL
 #EXTINF:-1 tvg-chno="595" tvg-id="352" tvg-name="PJ TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782102762.webp" group-title="Entertainment",595 PJ TV
 https://3.proxy.nellaiiptv.com/DINESH/PJTV/index.m3u8?token=YAAL
-#EXTINF:-1 tvg-chno="595" tvg-id="352" tvg-name="PJ TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782102762.webp" group-title="Entertainment",595 PJ TV [RTMP]
-rtmp://198.144.149.206/DINESH/PJTV?token=YAAL
-#EXTINF:-1 tvg-chno="596" tvg-id="353" tvg-name="SANA HD" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782116567.webp" group-title="Entertainment",596 SANA HD
-https://stream.galaxyott.live/live/sanatv/index.m3u8
-#EXTINF:-1 tvg-chno="596" tvg-id="353" tvg-name="SANA HD" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782116567.webp" group-title="Entertainment",596 SANA HD [RTMP]
-
 #EXTINF:-1 tvg-chno="597" tvg-id="354" tvg-name="SANA PLUS" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782116707.webp" group-title="Entertainment",597 SANA PLUS
 https://galaxyott.live/hls/sanaplus.m3u8
-#EXTINF:-1 tvg-chno="597" tvg-id="354" tvg-name="SANA PLUS" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782116707.webp" group-title="Entertainment",597 SANA PLUS [RTMP]
-
 #EXTINF:-1 tvg-chno="598" tvg-id="355" tvg-name="U TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782116863.webp" group-title="Entertainment",598 U TV
 https://stream.galaxyott.live/live/utv/index.m3u8
-#EXTINF:-1 tvg-chno="598" tvg-id="355" tvg-name="U TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782116863.webp" group-title="Entertainment",598 U TV [RTMP]
-
 #EXTINF:-1 tvg-chno="599" tvg-id="356" tvg-name="SUBIN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782117168.webp" group-title="Entertainment",599 SUBIN TV
 https://stream.galaxyott.live/live/subintv/index.m3u8
-#EXTINF:-1 tvg-chno="599" tvg-id="356" tvg-name="SUBIN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782117168.webp" group-title="Entertainment",599 SUBIN TV [RTMP]
-
 #EXTINF:-1 tvg-chno="600" tvg-id="357" tvg-name="DHARSHAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782117300.webp" group-title="Devotional",600 DHARSHAN TV
 https://galaxyott.live/hls/dharshantv.m3u8
-#EXTINF:-1 tvg-chno="600" tvg-id="357" tvg-name="DHARSHAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782117300.webp" group-title="Devotional",600 DHARSHAN TV [RTMP]
-
-#EXTINF:-1 tvg-chno="601" tvg-id="358" tvg-name="VETRI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782118239.webp" group-title="Entertainment",601 VETRI TV
-https://vetritv-phoenixcreations-online.proxy.nellaiiptv.com/vetritv/vetritv/playlist.m3u8
-#EXTINF:-1 tvg-chno="601" tvg-id="358" tvg-name="VETRI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782118239.webp" group-title="Entertainment",601 VETRI TV [RTMP]
-
-#EXTINF:-1 tvg-chno="602" tvg-id="359" tvg-name="PRINCE TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782118479.webp" group-title="Entertainment",602 PRINCE TV
-https://princetv-phoenixcreations-online.proxy.nellaiiptv.com/princetv/prince/playlist.m3u8
-#EXTINF:-1 tvg-chno="602" tvg-id="359" tvg-name="PRINCE TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782118479.webp" group-title="Entertainment",602 PRINCE TV [RTMP]
-
 #EXTINF:-1 tvg-chno="603" tvg-id="360" tvg-name="EYE TAMIL COMEDY TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782118675.webp" group-title="Entertainment",603 EYE TAMIL COMEDY TV
 https://2.proxy.nellaiiptv.com/EyeMedia/comedy/index.m3u8
-#EXTINF:-1 tvg-chno="603" tvg-id="360" tvg-name="EYE TAMIL COMEDY TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782118675.webp" group-title="Entertainment",603 EYE TAMIL COMEDY TV [RTMP]
-
 #EXTINF:-1 tvg-chno="604" tvg-id="362" tvg-name="EYE TAMIL MUSIC TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782118853.webp" group-title="Entertainment",604 EYE TAMIL MUSIC TV
 https://2.proxy.nellaiiptv.com/EyeMedia/music/index.m3u8
-#EXTINF:-1 tvg-chno="604" tvg-id="362" tvg-name="EYE TAMIL MUSIC TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782118853.webp" group-title="Entertainment",604 EYE TAMIL MUSIC TV [RTMP]
-
-#EXTINF:-1 tvg-chno="606" tvg-id="364" tvg-name="CHITOOR TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782119600.webp" group-title="Entertainment",606 CHITOOR TV
-https://server.streamwell.in/chittoortvhd.m3u8
-#EXTINF:-1 tvg-chno="606" tvg-id="364" tvg-name="CHITOOR TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782119600.webp" group-title="Entertainment",606 CHITOOR TV [RTMP]
-
 #EXTINF:-1 tvg-chno="607" tvg-id="365" tvg-name="HEAVEN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782119813.webp" group-title="Devotional",607 HEAVEN TV
 https://heaventv.livebox.co.in/heaventvhls/live.m3u8
-#EXTINF:-1 tvg-chno="607" tvg-id="365" tvg-name="HEAVEN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782119813.webp" group-title="Devotional",607 HEAVEN TV [RTMP]
-
 #EXTINF:-1 tvg-chno="608" tvg-id="366" tvg-name="BIBLE TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782120125.webp" group-title="Regional",608 BIBLE TV
 https://account33.livebox.co.in/bibletvhls/live.m3u8
-#EXTINF:-1 tvg-chno="608" tvg-id="366" tvg-name="BIBLE TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782120125.webp" group-title="Regional",608 BIBLE TV [RTMP]
-
-#EXTINF:-1 tvg-chno="610" tvg-id="370" tvg-name="AGARAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1783750961.webp" group-title="Entertainment",610 AGARAM TV
-https://app.xstream.onecloudlive.in/akaramtvhd/akaram/index.m3u8
-#EXTINF:-1 tvg-chno="610" tvg-id="370" tvg-name="AGARAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1783750961.webp" group-title="Entertainment",610 AGARAM TV [RTMP]
-
 #EXTINF:-1 tvg-chno="611" tvg-id="371" tvg-name="CTN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1783962275.webp" group-title="Entertainment",611 CTN TV
 https://4.proxy.nellaiiptv.com/ctn/channel/index.m3u8
 #EXTINF:-1 tvg-chno="611" tvg-id="371" tvg-name="CTN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1783962275.webp" group-title="Entertainment",611 CTN TV [RTMP]
 http://217.216.79.247/ctn/channel/index.m3u8
 #EXTINF:-1 tvg-chno="612" tvg-id="372" tvg-name="MADURAI ARASI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784121502.webp" group-title="Entertainment",612 MADURAI ARASI TV
 https://app.xstream.onecloudlive.in/maduraiarasi/livestream/index.m3u8
-#EXTINF:-1 tvg-chno="612" tvg-id="372" tvg-name="MADURAI ARASI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784121502.webp" group-title="Entertainment",612 MADURAI ARASI TV [RTMP]
-
-#EXTINF:-1 tvg-chno="613" tvg-id="374" tvg-name="SUPER TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784265914.webp" group-title="Entertainment",613 SUPER TV
-https://5.proxy.nellaiiptv.com/hls/supertv/index.m3u8?cookieCheck=1
-#EXTINF:-1 tvg-chno="613" tvg-id="374" tvg-name="SUPER TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784265914.webp" group-title="Entertainment",613 SUPER TV [RTMP]
-
-#EXTINF:-1 tvg-chno="614" tvg-id="375" tvg-name="RS TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784265966.webp" group-title="Entertainment",614 RS TV
-https://rstv.stream.onecloudlive.in/rstv/rstvhd/index.m3u8
-#EXTINF:-1 tvg-chno="614" tvg-id="375" tvg-name="RS TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784265966.webp" group-title="Entertainment",614 RS TV [RTMP]
-
-#EXTINF:-1 tvg-chno="615" tvg-id="376" tvg-name="KC VISION TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784274206.webp" group-title="Entertainment",615 KC VISION TV
-https://live.skystream.in/live/pcn/index.m3u8
-#EXTINF:-1 tvg-chno="615" tvg-id="376" tvg-name="KC VISION TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784274206.webp" group-title="Entertainment",615 KC VISION TV [RTMP]
-
 #EXTINF:-1 tvg-chno="616" tvg-id="378" tvg-name="LOTUS TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784896615.webp" group-title="Entertainment",616 LOTUS TV
 https://hlsstream.olidigital.in/kodumudi/tv/index.m3u8
 #EXTINF:-1 tvg-chno="616" tvg-id="378" tvg-name="LOTUS TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784896615.webp" group-title="Entertainment",616 LOTUS TV [RTMP]
 https://hlsstream.olidigital.in/kodumudi/tv/index.m3u8
 #EXTINF:-1 tvg-chno="617" tvg-id="379" tvg-name="RAAGAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784922537.webp" group-title="Entertainment",617 RAAGAM TV
 https://stream.onecloudlive.in/raagamtv/raagamtvhd/index.m3u8
-#EXTINF:-1 tvg-chno="617" tvg-id="379" tvg-name="RAAGAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784922537.webp" group-title="Entertainment",617 RAAGAM TV [RTMP]
-
-#EXTINF:-1 tvg-chno="618" tvg-id="380" tvg-name="GURUDEVAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785339177.webp" group-title="Entertainment",618 GURUDEVAN TV
-https://deva.nellaiiptv.com/Gurudevan/tv/index.m3u8
-#EXTINF:-1 tvg-chno="618" tvg-id="380" tvg-name="GURUDEVAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785339177.webp" group-title="Entertainment",618 GURUDEVAN TV [RTMP]
-
 #EXTINF:-1 tvg-chno="619" tvg-id="381" tvg-name="RUHASHA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785339290.webp" group-title="Entertainment",619 RUHASHA TV
 https://live.applelive.in/ruhashatv/ruhashatv/index.m3u8
-#EXTINF:-1 tvg-chno="619" tvg-id="381" tvg-name="RUHASHA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785339290.webp" group-title="Entertainment",619 RUHASHA TV [RTMP]
-
 #EXTINF:-1 tvg-chno="620" tvg-id="382" tvg-name="THOGAI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785339205.webp" group-title="Entertainment",620 THOGAI TV
 https://thogaitv.stream.onecloudlive.in/thogaitv/12345678/index.m3u8
-#EXTINF:-1 tvg-chno="620" tvg-id="382" tvg-name="THOGAI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785339205.webp" group-title="Entertainment",620 THOGAI TV [RTMP]
-
-#EXTINF:-1 tvg-chno="621" tvg-id="383" tvg-name="ABNAZ TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785313323.webp" group-title="Entertainment",621 ABNAZ TV
-https://live.skystream.in/live/abnaztvkum/index.m3u8
-#EXTINF:-1 tvg-chno="621" tvg-id="383" tvg-name="ABNAZ TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785313323.webp" group-title="Entertainment",621 ABNAZ TV [RTMP]
-
-#EXTINF:-1 tvg-chno="622" tvg-id="387" tvg-name="GANESH TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785584368.webp" group-title="Entertainment",622 GANESH TV
-https://hls.thendraltv.in/ganeshtv_ade49abb/index.m3u8
-#EXTINF:-1 tvg-chno="622" tvg-id="387" tvg-name="GANESH TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785584368.webp" group-title="Entertainment",622 GANESH TV [RTMP]
-
 #EXTINF:-1 tvg-chno="623" tvg-id="388" tvg-name="ME24TAMIL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785584631.webp" group-title="Entertainment",623 ME24TAMIL TV
 https://orange.stream.onecloudlive.in/orange/ME24TAMIL/index.m3u8
-#EXTINF:-1 tvg-chno="623" tvg-id="388" tvg-name="ME24TAMIL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785584631.webp" group-title="Entertainment",623 ME24TAMIL TV [RTMP]
-
-#EXTINF:-1 tvg-chno="624" tvg-id="389" tvg-name="CTN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785675453.webp" group-title="",624 CTN TV
-https://rtmp.bmlive.net/ctn/ctntn/index.m3u8
-#EXTINF:-1 tvg-chno="624" tvg-id="389" tvg-name="CTN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785675453.webp" group-title="",624 CTN TV [RTMP]
-
-#EXTINF:-1 tvg-chno="626" tvg-id="391" tvg-name="SARAH TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785858499.webp" group-title="Entertainment",626 SARAH TV
-https://sarah-7starcloud-com.proxy.nellaiiptv.com/live/sarahtv/live.m3u8
-#EXTINF:-1 tvg-chno="626" tvg-id="391" tvg-name="SARAH TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785858499.webp" group-title="Entertainment",626 SARAH TV [RTMP]
-
 #EXTINF:-1 tvg-chno="627" tvg-id="392" tvg-name="JEYA SUBBU TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1786379346.webp" group-title="Entertainment",627 JEYA SUBBU TV
 http://view.rcserver.in/tmp_hls6/jeyasubbutv/index.m3u8
-#EXTINF:-1 tvg-chno="627" tvg-id="392" tvg-name="JEYA SUBBU TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1786379346.webp" group-title="Entertainment",627 JEYA SUBBU TV [RTMP]
-
-#EXTINF:-1 tvg-chno="628" tvg-id="393" tvg-name="AGSHAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1786803298.webp" group-title="Entertainment",628 AGSHAM TV
-https://agashamtv.stream.ipcloud.live/agashamtv/livestream/index.m3u8
-#EXTINF:-1 tvg-chno="628" tvg-id="393" tvg-name="AGSHAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1786803298.webp" group-title="Entertainment",628 AGSHAM TV [RTMP]
-
-#EXTINF:-1 tvg-chno="629" tvg-id="394" tvg-name="THANGAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1786972393.webp" group-title="Entertainment",629 THANGAM TV
-https://deva1.nellaiiptv.com/Thangam/tv/index.m3u8
-#EXTINF:-1 tvg-chno="629" tvg-id="394" tvg-name="THANGAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1786972393.webp" group-title="Entertainment",629 THANGAM TV [RTMP]
-
 #EXTINF:-1 tvg-chno="630" tvg-id="395" tvg-name="R TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787293238.webp" group-title="Entertainment",630 R TV
 http://217.216.79.247/rtv/rtv/index.m3u8
-#EXTINF:-1 tvg-chno="630" tvg-id="395" tvg-name="R TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787293238.webp" group-title="Entertainment",630 R TV [RTMP]
-
 #EXTINF:-1 tvg-chno="631" tvg-id="396" tvg-name="FAITH TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787295150.webp" group-title="Devotional",631 FAITH TV
 https://stream.iplive.xyz/faithtv/faithtv/index.m3u8
-#EXTINF:-1 tvg-chno="631" tvg-id="396" tvg-name="FAITH TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787295150.webp" group-title="Devotional",631 FAITH TV [RTMP]
-
-#EXTINF:-1 tvg-chno="632" tvg-id="397" tvg-name="JEEVA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787295257.webp" group-title="Entertainment",632 JEEVA TV
-https://cdn1.rojatv.cloud/kumaran/tv/index.m3u8
-#EXTINF:-1 tvg-chno="632" tvg-id="397" tvg-name="JEEVA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787295257.webp" group-title="Entertainment",632 JEEVA TV [RTMP]
-rtmp://stream1.rojatv.cloud:1935/kumaran/tv
-#EXTINF:-1 tvg-chno="633" tvg-id="398" tvg-name="ADHIYAMAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787311216.webp" group-title="Entertainment",633 ADHIYAMAN TV
-https://hd.singamcloud.in/adhiyamamtv/adhiyamamtv/index.m3u8
-#EXTINF:-1 tvg-chno="633" tvg-id="398" tvg-name="ADHIYAMAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787311216.webp" group-title="Entertainment",633 ADHIYAMAN TV [RTMP]
-
-#EXTINF:-1 tvg-chno="634" tvg-id="401" tvg-name="AADHAVAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787463159.webp" group-title="Entertainment",634 AADHAVAN TV
-https://aadhavantamiltv.tamilstream.in/aadhavantamiltv/aadhavantamiltv/playlist.m3u8
-#EXTINF:-1 tvg-chno="634" tvg-id="401" tvg-name="AADHAVAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787463159.webp" group-title="Entertainment",634 AADHAVAN TV [RTMP]
-
 #EXTINF:-1 tvg-chno="635" tvg-id="402" tvg-name="SPICE TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787546652.webp" group-title="Music",635 SPICE TV
 https://stream.onecloudlive.in/spicetv/spicetv/index.m3u8
-#EXTINF:-1 tvg-chno="635" tvg-id="402" tvg-name="SPICE TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787546652.webp" group-title="Music",635 SPICE TV [RTMP]
-
 #EXTINF:-1 tvg-chno="636" tvg-id="405" tvg-name="THENDRAL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787547123.webp" group-title="Entertainment",636 THENDRAL TV
 https://sscloud7.com/live/thendraltv/index.m3u8
-#EXTINF:-1 tvg-chno="636" tvg-id="405" tvg-name="THENDRAL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787547123.webp" group-title="Entertainment",636 THENDRAL TV [RTMP]
-
-#EXTINF:-1 tvg-chno="637" tvg-id="406" tvg-name="LION TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787936948.webp" group-title="Entertainment",637 LION TV
-https://stream.iplive.xyz/smmedia/liontv/index.m3u8
-#EXTINF:-1 tvg-chno="637" tvg-id="406" tvg-name="LION TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787936948.webp" group-title="Entertainment",637 LION TV [RTMP]
-
-#EXTINF:-1 tvg-chno="638" tvg-id="407" tvg-name="CGN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787749407.webp" group-title="Devotional",638 CGN TV
-https://play.applelive.in/cgntv/cgntv.m3u8
-#EXTINF:-1 tvg-chno="638" tvg-id="407" tvg-name="CGN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787749407.webp" group-title="Devotional",638 CGN TV [RTMP]
-
 #EXTINF:-1 tvg-chno="639" tvg-id="408" tvg-name="KRISHNA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787552716.webp" group-title="Entertainment",639 KRISHNA TV
 http://103.110.236.141:8080/hls/erodekrishnatv/index.m3u8
-#EXTINF:-1 tvg-chno="639" tvg-id="408" tvg-name="KRISHNA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787552716.webp" group-title="Entertainment",639 KRISHNA TV [RTMP]
-
 #EXTINF:-1 tvg-chno="640" tvg-id="409" tvg-name="PALAAR TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787937211.webp" group-title="Entertainment",640 PALAAR TV
 https://live.onecloudlive.in/palaartv/palaartv/index.m3u8
-#EXTINF:-1 tvg-chno="640" tvg-id="409" tvg-name="PALAAR TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787937211.webp" group-title="Entertainment",640 PALAAR TV [RTMP]
-
 #EXTINF:-1 tvg-chno="641" tvg-id="410" tvg-name="NILA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787937387.webp" group-title="Entertainment",641 NILA TV
 https://live.onecloudlive.in/palaartv/nilatv/index.m3u8
-#EXTINF:-1 tvg-chno="641" tvg-id="410" tvg-name="NILA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787937387.webp" group-title="Entertainment",641 NILA TV [RTMP]
-
 #EXTINF:-1 tvg-chno="642" tvg-id="411" tvg-name="KCL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788069960.webp" group-title="News",642 KCL TV
 https://kcltv.livebox.co.in/kclhls/live.m3u8
-#EXTINF:-1 tvg-chno="642" tvg-id="411" tvg-name="KCL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788069960.webp" group-title="News",642 KCL TV [RTMP]
-
 #EXTINF:-1 tvg-chno="643" tvg-id="414" tvg-name="JN VISION TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788149652.webp" group-title="Devotional",643 JN VISION TV
 https://live.applelive.in/jnvisiontv/jnvisiontv/index.m3u8
-#EXTINF:-1 tvg-chno="643" tvg-id="414" tvg-name="JN VISION TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788149652.webp" group-title="Devotional",643 JN VISION TV [RTMP]
-
-#EXTINF:-1 tvg-chno="644" tvg-id="415" tvg-name="IDHAYAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788150630.webp" group-title="Entertainment",644 IDHAYAM TV
-https://tvstream.cloudlive24.com/live/8527530ab689bf8a710430c189aa2906.m3u8
-#EXTINF:-1 tvg-chno="644" tvg-id="415" tvg-name="IDHAYAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788150630.webp" group-title="Entertainment",644 IDHAYAM TV [RTMP]
-
-#EXTINF:-1 tvg-chno="645" tvg-id="416" tvg-name="SGB TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788150776.webp" group-title="Entertainment",645 SGB TV
-https://hlsstream.olidigital.in/sgbtv/sgbtv/index.m3u8
-#EXTINF:-1 tvg-chno="645" tvg-id="416" tvg-name="SGB TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788150776.webp" group-title="Entertainment",645 SGB TV [RTMP]
-
-#EXTINF:-1 tvg-chno="646" tvg-id="417" tvg-name="DEIVA OLI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788150858.webp" group-title="Entertainment",646 DEIVA OLI TV
-https://stream.sscloud7.in/live/deivaoli/index.mpd
-#EXTINF:-1 tvg-chno="646" tvg-id="417" tvg-name="DEIVA OLI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788150858.webp" group-title="Entertainment",646 DEIVA OLI TV [RTMP]
-
-#EXTINF:-1 tvg-chno="647" tvg-id="418" tvg-name="BLUE MOON TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788150981.webp" group-title="Entertainment",647 BLUE MOON TV
-https://rtmp.bmlive.net/bms/bmtv/stream.m3u8
-#EXTINF:-1 tvg-chno="647" tvg-id="418" tvg-name="BLUE MOON TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788150981.webp" group-title="Entertainment",647 BLUE MOON TV [RTMP]
-
-#EXTINF:-1 tvg-chno="648" tvg-id="419" tvg-name="CC TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788151182.webp" group-title="Entertainment",648 CC TV
-https://stream.onecloudlive.in/cctv/cctvhd/index.m3u8
-#EXTINF:-1 tvg-chno="648" tvg-id="419" tvg-name="CC TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788151182.webp" group-title="Entertainment",648 CC TV [RTMP]
-
 #EXTINF:-1 tvg-chno="649" tvg-id="420" tvg-name="AP TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788151250.webp" group-title="Entertainment",649 AP TV
 http://hlsstream.apcloud.in/aptv/aptv/index.m3u8
-#EXTINF:-1 tvg-chno="649" tvg-id="420" tvg-name="AP TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788151250.webp" group-title="Entertainment",649 AP TV [RTMP]
-
 #EXTINF:-1 tvg-chno="650" tvg-id="421" tvg-name="POWER OF PRAYER TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788151353.webp" group-title="Devotional",650 POWER OF PRAYER TV
 http://210.18.191.60/hls/live.m3u8
-#EXTINF:-1 tvg-chno="650" tvg-id="421" tvg-name="POWER OF PRAYER TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788151353.webp" group-title="Devotional",650 POWER OF PRAYER TV [RTMP]
-
-#EXTINF:-1 tvg-chno="651" tvg-id="422" tvg-name="ICM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788151457.webp" group-title="Devotional",651 ICM TV
-http://icm.iptv.pics/live/icmtv/index.m3u8
-#EXTINF:-1 tvg-chno="651" tvg-id="422" tvg-name="ICM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788151457.webp" group-title="Devotional",651 ICM TV [RTMP]
-
 #EXTINF:-1 tvg-chno="652" tvg-id="423" tvg-name="KIRUBAI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788151951.webp" group-title="Devotional",652 KIRUBAI TV
 https://live.sscloud7.in/live/kirubaitv/index.m3u8
-#EXTINF:-1 tvg-chno="652" tvg-id="423" tvg-name="KIRUBAI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788151951.webp" group-title="Devotional",652 KIRUBAI TV [RTMP]
-
 #EXTINF:-1 tvg-chno="653" tvg-id="425" tvg-name="GOPURAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788546706.webp" group-title="Entertainment",653 GOPURAM TV
 https://gopuram.stream.onecloudlive.in/gopuram/gopuramhd/index.m3u8
-#EXTINF:-1 tvg-chno="653" tvg-id="425" tvg-name="GOPURAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788546706.webp" group-title="Entertainment",653 GOPURAM TV [RTMP]
-
 #EXTINF:-1 tvg-chno="655" tvg-id="427" tvg-name="SKY TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788934514.webp" group-title="Entertainment",655 SKY TV
 https://view.rcserver.in/tmp_hls11/skytv/index.m3u8
-#EXTINF:-1 tvg-chno="655" tvg-id="427" tvg-name="SKY TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788934514.webp" group-title="Entertainment",655 SKY TV [RTMP]
-
 #EXTINF:-1 tvg-chno="656" tvg-id="319" tvg-name="ANANDAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777820681.webp" group-title="Entertainment",656 ANANDAM TV
 https://mumt07.tangotv.in/zHjX9OFlANANDAMTV/index.m3u8
-#EXTINF:-1 tvg-chno="656" tvg-id="319" tvg-name="ANANDAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777820681.webp" group-title="Entertainment",656 ANANDAM TV [RTMP]
-
-#EXTINF:-1 tvg-chno="657" tvg-id="428" tvg-name="MCN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788934604.webp" group-title="Entertainment",657 MCN TV
-https://play.applelive.in/mcntv/mcntv.m3u8
-#EXTINF:-1 tvg-chno="657" tvg-id="428" tvg-name="MCN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788934604.webp" group-title="Entertainment",657 MCN TV [RTMP]
-
-#EXTINF:-1 tvg-chno="658" tvg-id="429" tvg-name="QUEENS TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788934660.webp" group-title="Entertainment",658 QUEENS TV
-https://notvstream.in/queens/queens/index.m3u8
-#EXTINF:-1 tvg-chno="658" tvg-id="429" tvg-name="QUEENS TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788934660.webp" group-title="Entertainment",658 QUEENS TV [RTMP]
-
-#EXTINF:-1 tvg-chno="659" tvg-id="430" tvg-name="SELFIEE TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1789017919.webp" group-title="Entertainment",659 SELFIEE TV
-https://play.applelive.in/selfeetv/selfeetv.m3u8
-#EXTINF:-1 tvg-chno="659" tvg-id="430" tvg-name="SELFIEE TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1789017919.webp" group-title="Entertainment",659 SELFIEE TV [RTMP]
-
-#EXTINF:-1 tvg-chno="660" tvg-id="431" tvg-name="JVC MUSIX TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1789019203.webp" group-title="Music",660 JVC MUSIX TV
-https://play.applelive.in/jcvtv/jcvmusix.m3u8
-#EXTINF:-1 tvg-chno="660" tvg-id="431" tvg-name="JVC MUSIX TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1789019203.webp" group-title="Music",660 JVC MUSIX TV [RTMP]
-
-#EXTINF:-1 tvg-chno="661" tvg-id="432" tvg-name="NTN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1789066336.webp" group-title="Entertainment",661 NTN TV
-https://live.skystream.in/live/ntntv/index.m3u8
-#EXTINF:-1 tvg-chno="661" tvg-id="432" tvg-name="NTN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1789066336.webp" group-title="Entertainment",661 NTN TV [RTMP]
-
 #EXTINF:-1 tvg-chno="662" tvg-id="433" tvg-name="ABI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1789111018.webp" group-title="Entertainment",662 ABI TV
 https://mumt07.tangotv.in/zHjX9OFlABITV/index.m3u8
-#EXTINF:-1 tvg-chno="662" tvg-id="433" tvg-name="ABI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1789111018.webp" group-title="Entertainment",662 ABI TV [RTMP]
-
 #EXTINF:-1 tvg-chno="663" tvg-id="434" tvg-name="U TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1789111068.webp" group-title="Entertainment",663 U TV
 https://mumt07.tangotv.in/zHjX9OFlUTVANANDAM/index.m3u8
-#EXTINF:-1 tvg-chno="663" tvg-id="434" tvg-name="U TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1789111068.webp" group-title="Entertainment",663 U TV [RTMP]
-
-
-
-
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/amazeyourself/m3u/epg/neotv.xml.gz"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/amazeyourself/m3u/epg/olitv.xml.gz"
 #EXTINF:-1 tvg-id="Newsnation" tvg-chno="108" tvg-name="News Nation" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/news-nation-1732293745825-1739730543958.png" group-title="News",News Nation
 https://nn-khabriyatv.originein.in/nntv/national/master_nnna_khabriyatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="112" tvg-name="Live Times" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/livetimes-1776462448775.jpg" group-title="News",Live Times
@@ -1559,8 +798,6 @@ https://legitpro.co.in/cnews/cnews/tracks-v1a1/mono.m3u8
 https://lamhas.net/bollywoodmasala/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="210" tvg-name="Swastik Stories" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/swastik-1775043332365.jpg" group-title="Entertainment",Swastik Stories
 https://amg14122-amg14122c1-amgplt0835.playout.now3.amagi.tv/playout/amg14122/amg14122c1/amgplt0835/amgplt0835.m3u8
-#EXTINF:-1 tvg-id="alighttv" tvg-chno="211" tvg-name="Alright TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/alrightv-1769284688135.jpg" group-title="Entertainment",Alright TV
-https://neotv-ruskmedia.cdn.runn.tv/ruskmedia/stream/alrght/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyTadka" tvg-chno="218" tvg-name="Comedy Tadka" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/comedy-tadka-1731693885418.jpg" group-title="Entertainment",Comedy Tadka
 https://streams2.sofast.tv/ptnr-khabriya/title-Comedy_Tadka_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fe323c2c-f5d1-469c-91cc-c35b9324bd6f/master.m3u8?ads.app_storeid=com.neotv.app&ads.app_storeurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.neotv.app&ads.app_name=NeoTV+&ads.language=EN&ads.inapp_browser=inapp&ads.w=1080&ads.h=720&ads.os_code=2&ads.device_type_code=3&ads.us_privacy=1NYN&ads.coppa=0&ads.lmt=0
 #EXTINF:-1 tvg-id="Bollywood4u" tvg-chno="230" tvg-name="Bollywood 4U" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/Bollywood4u logo-1705933938127.png" group-title="Entertainment",Bollywood 4U
@@ -1587,8 +824,6 @@ https://streams2.sofast.tv/ptnr-Khabriya/title-Unchained_TV_Khabriya/v1/master/6
 https://streams2.sofast.tv/ptnr-Khabriya/title-H20_TV_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fd7cffa3-41a1-4338-91ce-0e5e6027d086/manifest.m3u8?ads.app_storeid=com.neotv.app&ads.app_storeurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.neotv.app&ads.app_name=NeoTV+&ads.language=EN&ads.inapp_browser=inapp&ads.w=1080&ads.h=720&ads.os_code=2&ads.device_type_code=3&ads.us_privacy=1NYN&ads.coppa=0&ads.lmt=0
 #EXTINF:-1 tvg-id="ABSINTHETV" tvg-chno="699" tvg-name="AbsintheTV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/AbsintheTV_500x500-1763576402424.png" group-title="Lifestyle",AbsintheTV
 https://streams2.sofast.tv/ptnr-Khabriya/title-Absinthe-tv_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2e2fce58-a1f8-49b6-87de-45523f7bae19/manifest.m3u8?ads.app_storeid=com.neotv.app&ads.app_storeurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.neotv.app&ads.app_name=NeoTV+&ads.language=EN&ads.inapp_browser=inapp&ads.w=1080&ads.h=720&ads.os_code=2&ads.device_type_code=3&ads.us_privacy=1NYN&ads.coppa=0&ads.lmt=0
-#EXTINF:-1 tvg-id="" tvg-chno="700" tvg-name="Wild TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/WILDTV-1726163553535-1739729857426.png" group-title="Lifestyle",Wild TV
-https://d2rlaw70a3lx3m.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Khabriya-MuxIP-WildTV/476.m3u8
 #EXTINF:-1 tvg-id="beach-channel" tvg-chno="702" tvg-name="The Beach Channel" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/beach-1777931171989.jpg" group-title="Lifestyle",The Beach Channel
 https://streams2.sofast.tv/ptnr-khabriya/title-The_Beach_Channel_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a241e9e9-15c7-4828-8274-4f0f6ecf871b/manifest.m3u8
 #EXTINF:-1 tvg-id="HUNT FISH TV (Outdoor Channel)" tvg-chno="705" tvg-name="Hunt Fish" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/fish-hut-1739485330378-1774650493265.jpg" group-title="Lifestyle",Hunt Fish
@@ -1621,8 +856,6 @@ https://stream.ottlive.co.in/punjabihits/index.m3u8
 https://gtc.ottlive.co.in/gtcpunjabi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="807" tvg-name="Punjabi Shorts" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/punjabi-shorts-1767192407233.jpg" group-title="Entertainment",Punjabi Shorts
 https://gtc.ottlive.co.in/punjabshort/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="808" tvg-name="Pure Pink Punjabi" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/pure-pink-1777672998614.jpg" group-title="Entertainment",Pure Pink Punjabi
-https://knocktv1.wiseplayout.com/PurePink/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="808" tvg-name="Knock TV Punjabi" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/knock-tv-1777673558733.jpg" group-title="Entertainment",Knock TV Punjabi
 https://knocktv.wiseplayout.com/Knock_TV/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="809" tvg-name="Prime Asia" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/prime-asia-1774905958234.jpg" group-title="Entertainment",Prime Asia
@@ -1669,8 +902,6 @@ https://stream.ottlive.co.in/tribetv/index.m3u8
 https://stream.ottlive.co.in/cnnnews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="923" tvg-name="R Plus Gold" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/r-plus-1775854852278.jpg" group-title="Entertainment",R Plus Gold
 https://stream.ottlive.co.in/rplusgold/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="1014" tvg-name="Now USA" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/NOW-USA-1779314473532.jpg" group-title="News",Now USA
-https://nowushls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="1015" tvg-name="GB News" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/gb-news-1776691923182.jpg" group-title="News",GB News
 https://hlspackager.akamaized.net/live/DB/GB_NEWS/HLS/GB_NEWS.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="1028" tvg-name="Ticker" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/IMG_3739-1711106235894.webp" group-title="News",Ticker
@@ -1679,10 +910,6 @@ https://live-hls-7agy.livepush.io/live_abr_cdn/nsitWAl1pTZtwca/emnmZbKZcO8RfwJR/
 https://m113640-fcdn.mp.lura.live/live/origin-contribution-m1-btv-plus-khabriyadigitalmedia.m3u8
 #EXTINF:-1 tvg-id="Bloomberg Originals" tvg-chno="1032" tvg-name="BTV Originals" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/IMG_1643-1722608132541.png" group-title="News",BTV Originals
 https://m113640-fcdn.mp.lura.live/live/origin-contribution-m1-bloomberg-quicktake-khabriyadigitalmedia.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="1033" tvg-name="Now Global" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/NOW-global-1779314878670.jpg" group-title="News",Now Global
-https://nowhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="CNA-singapore" tvg-chno="1036" tvg-name="CNA Singapore" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/CNA-1689340822049.jpeg" group-title="News",CNA Singapore
-https://mediacorp-nca-prod-videos-bclive.akamaized.net/6379472319112/ap-southeast-1/6057994443001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGE2ODB1LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjA1Nzk5NDQ0MzAwMSIsImVobiI6Im1lZGlhY29ycC1uY2EtcHJvZC12aWRlb3MtYmNsaXZlLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYwNTc5OTQ0NDMwMDEiXSwianRpIjoiNjM3OTQ3MjMxOTExMiJ9.Cw77amOc6efNO32Sw9nD0SOhjQUc5ewKN8ZWJOPt15Y/chunklist__2.m3u8
 #EXTINF:-1 tvg-id="Arirang" tvg-chno="1037" tvg-name="Arirang TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/arirang-app-logo1-1692109738967.png" group-title="News",Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-id="CGNTV" tvg-chno="1039" tvg-name="CGTN Global" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/cgntv-1693594532150.jpg" group-title="News",CGTN Global
@@ -1701,10 +928,6 @@ https://streams2.sofast.tv/ptnr-khabriya/title-Xtrasports_Khabriya/v1/master/611
 https://streams2.sofast.tv/ptnr-khabriya/title-FiteTV_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/228def88-9b48-48ce-8382-1a39fe995936/manifest.m3u8
 #EXTINF:-1 tvg-id="Fight TV" tvg-chno="1121" tvg-name="Fight TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/fightv-1761929078436.jpg" group-title="Sports",Fight TV
 https://streams2.sofast.tv/ptnr-khabriya/title-FIGHT-TV-ENG_khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ffaa5cb7-7af7-4b01-85fc-6f903abcb0d0/manifest.m3u8
-#EXTINF:-1 tvg-id="Cricket Gold" tvg-chno="1130" tvg-name="Cricket Gold" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/CRICKET-GOLD-1726163735205.jpg" group-title="Sports",Cricket Gold
-https://d17d533u08po4z.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Khabriya-MuxIP-CricketGold/418.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="1140" tvg-name="Sports First TV " tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/sf-1726164461868.jpg" group-title="Sports",Sports First TV 
-https://d13f5ho7dp9xg4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Khabriya-MuxIP-SportsFirstTV/409.m3u8
 #EXTINF:-1 tvg-id="Goal TV" tvg-chno="1141" tvg-name="Goal TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/GOAL-1762021517665.jpg" group-title="Sports",Goal TV
 https://streams2.sofast.tv/ptnr-khabriya/title-Goal_TV_khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/42c099e0-2600-480e-827e-f0a2439d43ba/master.m3u8
 #EXTINF:-1 tvg-id="GOLF Network" tvg-chno="1142" tvg-name="GOLF Network" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/golf-network-1767112889435.png" group-title="Sports",GOLF Network
@@ -1767,8 +990,6 @@ https://hls.rojatv.cloud/rojamovies/rojamovies/index.m3u8
 https://stream.ottlive.co.in/utvtamil/index.m3u8
 #EXTINF:-1 tvg-id="OLI TV" tvg-chno="1808" tvg-name="Oli TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/oli-1776458876096.jpg" group-title="Entertainment",Oli TV
 https://hlslive.olidigital.in/olitv/olitv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="1809" tvg-name="SGB TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/1000159114-1781435419226.jpg" group-title="Entertainment",SGB TV
-https://hlsstream.olidigital.in/sgbtv/sgbtv/index.m3u8
 #EXTINF:-1 tvg-id="Bongo Movies" tvg-chno="1811" tvg-name="Prime Music HD" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/PRIME-1776360229431.jpg" group-title="Music",Prime Music HD
 https://live.primestream.in/prime/music/index.m3u8
 #EXTINF:-1 tvg-id="Tollytv" tvg-chno="1812" tvg-name="Tolly TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/tolly-1773786489879.jpg" group-title="Movies",Tolly TV
@@ -1835,8 +1056,6 @@ https://streams2.sofast.tv/ptnr-Khabriya/title-MI-MIEDO-CANAL-SPA_Khabriya/v1/ma
 https://streams2.sofast.tv/ptnr-Khabriya/title-MI-RAZA-CANAL_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1c8ad21c-5797-4ce0-bb93-30de3674f809/master.m3u8?ads.app_storeid=com.neotv.app&ads.app_storeurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.neotv.app&ads.app_name=NeoTV+&ads.language=EN&ads.inapp_browser=inapp&ads.w=1080&ads.h=720&ads.os_code=2&ads.device_type_code=3&ads.us_privacy=1NYN&ads.coppa=0&ads.lmt=0
 #EXTINF:-1 tvg-id="MI RAZA CANAL PLUS" tvg-chno="5015" tvg-name="MI RAZA CANAL PLUS" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/RAZAPLUS-1750086031160.jpg" group-title="Movies",MI RAZA CANAL PLUS
 https://streams2.sofast.tv/ptnr-Khabriya/title-MI_RAZA-CANAL-plus_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/dbef05ab-9d6c-40b3-a367-0feb6bc1dfc0/manifest.m3u8?ads.app_storeid=com.neotv.app&ads.app_storeurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.neotv.app&ads.app_name=NeoTV+&ads.language=EN&ads.inapp_browser=inapp&ads.w=1080&ads.h=720&ads.os_code=2&ads.device_type_code=3&ads.us_privacy=1NYN&ads.coppa=0&ads.lmt=0
-#EXTINF:-1 tvg-id="" tvg-chno="5016" tvg-name="TvOasis" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/1000087932-1764290268389.png" group-title="Entertainment",TvOasis
-https://servilive.com:3562/live/vav4c8z38live.m3u8
 #EXTINF:-1 tvg-id="NYX Stralight 2" tvg-chno="5017" tvg-name="NYX Stralight Espanol" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/nyx-1767379221718.jpg" group-title="Movies",NYX Stralight Espanol
 https://streams2.sofast.tv/ptnr-Khabriya/title-NYX_Starlight_Spa_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8d94ac9f-22b3-4339-a9aa-1c94355006f7/master.m3u8?ads.app_storeid=com.neotv.app&ads.app_storeurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.neotv.app&ads.app_name=NeoTV+&ads.language=EN&ads.inapp_browser=inapp&ads.w=1080&ads.h=720&ads.os_code=2&ads.device_type_code=3&ads.us_privacy=1NYN&ads.coppa=0&ads.lmt=0
 #EXTINF:-1 tvg-id="" tvg-chno="5200" tvg-name="RT News" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/1000124361-1773448260380.jpg" group-title="News",RT News
@@ -1859,17 +1078,12 @@ https://5790d294af2dc.streamlock.net:443/RGM/RGM/playlist.m3u8
 https://core-media2.wiseplayout.com:35555/DiverCityTV/master.m3u8
 #EXTINF:-1 tvg-id="ForwardOps TV" tvg-chno="6009" tvg-name="ForwardOps TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/frops-1789073077914.jpg" group-title="Entertainment",ForwardOps TV
 https://xpannsiontv.wiseplayout.com:8542/live/XPANNSIONTV/master.m3u8
-#EXTINF:-1 tvg-id="Get-Fit TV" tvg-chno="6010" tvg-name="Get-Fit TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/getfit-1789073208875.jpg" group-title="Entertainment",Get-Fit TV
-https://59d39900ebfb8.streamlock.net:443/onthemarctv/onthemarctv/playlist.m3u8
 #EXTINF:-1 tvg-id="NATiV" tvg-chno="6011" tvg-name="NATiV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/natuv-1789073358928.jpg" group-title="Entertainment",NATiV
 https://5790d294af2dc.streamlock.net:443/nativ/nativ/playlist.m3u8
 #EXTINF:-1 tvg-id="Cook at MyPlace" tvg-chno="6013" tvg-name="Cook at MyPlace" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/cook-1789073568026.jpg" group-title="Entertainment",Cook at MyPlace
 https://core-media2.wiseplayout.com:35555/DiverCityTV/master.m3u8
 #EXTINF:-1 tvg-id="Spydar TV" tvg-chno="6014" tvg-name="Spydar TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/spudar-1789073681210.jpg" group-title="Entertainment",Spydar TV
 https://classic51.wiseplayout.com:4466/Classic51/master.m3u8
-
-
-#EXTM3U
 #EXTINF:-1 tvg-id="NTVTELUGU" tvg-chno="1" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_1_1720509115.png" tvg-language="te" group-title="Telugu News",NTV FHD
 https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8
 #EXTINF:-1 tvg-id="BIGTV" tvg-chno="2" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_2_1734957616.png" tvg-language="te" group-title="Telugu News",BIG TV FHD
@@ -1884,8 +1098,6 @@ https://mumbai-edge.smartplaytv.in/ABNAJ/index.m3u8
 https://mumbai-edge.smartplaytv.in/CVRNews/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-chno="8" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_8_1743505433.png" tvg-language="te" group-title="Telugu News",Swatantra TV
 https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8
-#EXTINF:-1 tvg-id="ETVAP" tvg-chno="9" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_9_1743505575.png" tvg-language="te" group-title="Eenadu Network (ETV WIN)",ETV Andhra Pradesh FHD
-https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-chno="10" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_10_1743505786.png" tvg-language="te" group-title="Telugu News",Prime 9 FHD
 https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-chno="11" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_11_1720509737.png" tvg-language="te" group-title="Telugu News",Mahaa News HD
@@ -1898,18 +1110,10 @@ https://mumbai-edge.smartplaytv.in/TNews/index.m3u8
 https://mumbai-edge.smartplaytv.in/V6News/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-chno="16" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_16_1737294281.png" tvg-language="te" group-title="Telugu News",6TV
 https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8
-#EXTINF:-1 tvg-id="TV6" tvg-chno="18" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C18-1770974878.png" tvg-language="te" group-title="Telugu Local",TV6
-https://mumbai-edge.smartplaytv.in/TV6/index.m3u8
-#EXTINF:-1 tvg-id="99TV" tvg-chno="20" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_16_1737294281.png" tvg-language="te" group-title="Telugu News",6TV
-https://mumbai-edge.smartplaytv.in/99tv/index.m3u8
-#EXTINF:-1 tvg-id="133" tvg-chno="21" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_113_1721195229.png" tvg-language="te" group-title="Eenadu Network (ETV WIN)",ETV TELANGANA
-https://mumbai-edge.smartplaytv.in/ETVTG/index.m3u8
 #EXTINF:-1 tvg-id="134" tvg-chno="22" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_114_1743505617.png" tvg-language="te" group-title="Telugu News",I News
 https://mumbai-edge.smartplaytv.in/INews/index.m3u8
 #EXTINF:-1 tvg-id="23" tvg-chno="23" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_450_1721195523.png" tvg-language="te" group-title="Telugu News",CVR English News
 https://mumbai-edge.smartplaytv.in/CVREnglishNews/index.m3u8
-#EXTINF:-1 tvg-id="24" tvg-chno="24" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_19_1721195667.png" tvg-language="te" group-title="Telugu Entertainment",SSLC Mulitiplex  70mm
-https://mumbai-edge.smartplaytv.in/SSLCMultiplex/index.m3u8
 #EXTINF:-1 tvg-id="25" tvg-chno="25" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_20_1721192955.png" tvg-language="te" group-title="Telugu Entertainment",Bathukamma TV
 https://mumbai-edge.smartplaytv.in/BathukammaTV/index.m3u8
 #EXTINF:-1 tvg-id="26" tvg-chno="26" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C26-1768576004.png" tvg-language="te" group-title="Telugu Entertainment",RKTV
@@ -1922,8 +1126,6 @@ https://mumbai-edge.smartplaytv.in/SSLCGold/index.m3u8
 https://mumbai-edge.smartplaytv.in/SSLCCinemalu/index.m3u8
 #EXTINF:-1 tvg-id="VinodamHD" tvg-chno="30" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C30-1776056264.png" tvg-language="te" group-title="Telugu Entertainment",Vinodam HD
 https://mumbai-edge.smartplaytv.in/VinodamHD/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-chno="30" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_25_1744023786.png" tvg-language="te" group-title="Telugu Entertainment",BCT Classic
-https://mumbai-edge.smartplaytv.in/BCTClassic/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-chno="31" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C31-1765071127.png" tvg-language="te" group-title="Telugu Entertainment",VCN HD
 https://mumbai-edge.smartplaytv.in/vcn/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-chno="32" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C32-1768575915.png" tvg-language="te" group-title="Telugu Entertainment",Kathalu
@@ -1938,12 +1140,8 @@ https://mumbai-edge.smartplaytv.in/MahaMax/index.m3u8
 https://mumbai-edge.smartplaytv.in/DS9/index.m3u8
 #EXTINF:-1 tvg-id="37" tvg-chno="37" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_449_1721197140.png" tvg-language="te" group-title="Telugu Entertainment",CVR Health
 https://mumbai-edge.smartplaytv.in/CVRHealth/index.m3u8
-#EXTINF:-1 tvg-id="VanithaTV" tvg-chno="38" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_454_1728551126.png" tvg-language="te" group-title="Telugu Entertainment",Vanitha TV
-https://mumbai-edge.smartplaytv.in/VanithaTV/index.m3u8
 #EXTINF:-1 tvg-id="39" tvg-chno="39" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C39-1774421013.png" tvg-language="te" group-title="Telugu Local",Gee TV - Voice of AP
 https://mumbai-edge.smartplaytv.in/GeeTV/index.m3u8
-#EXTINF:-1 tvg-id="40" tvg-chno="40" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_471_1735830425.png" tvg-language="te" group-title="Telugu Entertainment",BCT News
-https://mumbai-edge.smartplaytv.in/BCTNews/index.m3u8
 #EXTINF:-1 tvg-id="41" tvg-chno="41" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_472_1748355012.png" tvg-language="te" group-title="Telugu Entertainment",Shreyas TV
 https://mumbai-edge.smartplaytv.in/ShreyasTV/index.m3u8
 #EXTINF:-1 tvg-id="42" tvg-chno="42" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_42_1721197005.png" tvg-language="te" group-title="Telugu Local",SD TV
@@ -1956,20 +1154,14 @@ https://mumbai-edge.smartplaytv.in/Prajavani/index.m3u8
 https://mumbai-edge.smartplaytv.in/S9News/index.m3u8
 #EXTINF:-1 tvg-id="45" tvg-chno="45" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_35_1721196906.png" tvg-language="te" group-title="Telugu Local",Tirumala
 https://mumbai-edge.smartplaytv.in/TirumalaHD/index.m3u8
-#EXTINF:-1 tvg-id="46" tvg-chno="46" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_462_1735827728.png" tvg-language="te" group-title="Telugu Local",MAA CABLE
-https://mumbai-edge.smartplaytv.in/MaaCable/index.m3u8
 #EXTINF:-1 tvg-id="NEWS9" tvg-chno="47" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C315-1770199375.png" tvg-language="te" group-title="Telugu Local",News 9 Today Telugu
 https://mumbai-edge.smartplaytv.in/News9/index.m3u8
-#EXTINF:-1 tvg-id="48" tvg-chno="48" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_38_1735827949.png" tvg-language="te" group-title="Telugu Local",BCT Movies
-https://mumbai-edge.smartplaytv.in/BCTMovies/index.m3u8
 #EXTINF:-1 tvg-id="PCN HD" tvg-chno="49" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C49-1760169213.png" tvg-language="te" group-title="Telugu Local",Anjali TV HD
 https://mumbai-edge.smartplaytv.in/AnjaliTV/index.m3u8
 #EXTINF:-1 tvg-id="50" tvg-chno="50" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C50-1763884010.png" tvg-language="te" group-title="Telugu Local",AB NEWS
 https://mumbai-edge.smartplaytv.in/ABNews/index.m3u8
 #EXTINF:-1 tvg-id="AVNTV" tvg-chno="51" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C51-1776094219.png" tvg-language="te" group-title="Telugu Local",AVN TV
 https://mumbai-edge.smartplaytv.in/AVNTV/index.m3u8
-#EXTINF:-1 tvg-id="51" tvg-chno="51" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C51-1760169524.png" tvg-language="te" group-title="Telugu Local",Reshya TV
-https://mumbai-edge.smartplaytv.in/ReshyaTV/index.m3u8
 #EXTINF:-1 tvg-id="HYDECCAN" tvg-chno="52" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C052-1772102864.png" tvg-language="te" group-title="Telugu Local",Deccan Today Telugu
 https://mumbai-edge.smartplaytv.in/DeccanToday/index.m3u8
 #EXTINF:-1 tvg-id="53" tvg-chno="53" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C53-1769000628.png" tvg-language="te" group-title="Telugu Local",TG5 News
@@ -1988,14 +1180,8 @@ https://mumbai-edge.smartplaytv.in/FAndH/index.m3u8
 https://mumbai-edge.smartplaytv.in/PMC/index.m3u8
 #EXTINF:-1 tvg-id="60" tvg-chno="60" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C60-1770307644.png" tvg-language="te" group-title="Telugu Local",NSTV
 https://mumbai-edge.smartplaytv.in/NSTV/index.m3u8
-#EXTINF:-1 tvg-id="61" tvg-chno="61" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_467_1735829116.png" tvg-language="te" group-title="Telugu Local",BCT Keerthana
-https://mumbai-edge.smartplaytv.in/BCTKeerthana/index.m3u8
-#EXTINF:-1 tvg-id="JTTV" tvg-chno="62" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C062-1774417061.png" tvg-language="te" group-title="Telugu Local",Journalist Today TV
-https://mumbai-edge.smartplaytv.in/JournalistToday/index.m3u8
 #EXTINF:-1 tvg-id="63" tvg-chno="63" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C63-1763645023.png" tvg-language="te" group-title="Telugu Local",DS9 Entertainment
 https://mumbai-edge.smartplaytv.in/ds9e/index.m3u8
-#EXTINF:-1 tvg-id="GARUDATV" tvg-chno="64" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C64-1767857123.png" tvg-language="te" group-title="Telugu Local",Garuda TV
-https://mumbai-edge.smartplaytv.in/GarudaTV/index.m3u8
 #EXTINF:-1 tvg-id="65" tvg-chno="65" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_486_1735830584.png" tvg-language="te" group-title="Telugu Local",BCT Music
 https://mumbai-edge.smartplaytv.in/BCTMusic/index.m3u8
 #EXTINF:-1 tvg-id="66" tvg-chno="66" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_51_1721211096.png" tvg-language="te" group-title="Music Channels",SSLC Janapadlu (Free)
@@ -2006,62 +1192,30 @@ https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
 https://mumbai-edge.smartplaytv.in/SSLCMusic/index.m3u8
 #EXTINF:-1 tvg-id="69" tvg-chno="69" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_54_1721211721.png" tvg-language="te" group-title="Music Channels",SSLC Banjara Dolu
 https://mumbai-edge.smartplaytv.in/SSLCBanjaraDolu/index.m3u8
-#EXTINF:-1 tvg-id="R5TV" tvg-chno="70" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C070-1773403095.png" tvg-language="te" group-title="Telugu Local",R5 TV
-https://mumbai-edge.smartplaytv.in/R5TV/index.m3u8
 #EXTINF:-1 tvg-id="RKBHAKTHITV" tvg-chno="71" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-71-1753712175.png" tvg-language="te" group-title="Hindu Devotional",RK Bhakthi TV
 https://mumbai-edge.smartplaytv.in/RKBhakthiTV/index.m3u8
-#EXTINF:-1 tvg-id="SRKNEWS" tvg-chno="72" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_487_1722748309.png" tvg-language="te" group-title="Telugu Local",SRK News
-https://mumbai-edge.smartplaytv.in/SRKNews/index.m3u8
 #EXTINF:-1 tvg-id="BCNCHANNEL" tvg-chno="73" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C73-1765374654.png" tvg-language="te" group-title="Telugu Local",BCN CHANNEL
 https://mumbai-edge.smartplaytv.in/BCN/index.m3u8
 #EXTINF:-1 tvg-id="MYTV" tvg-chno="74" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C74-1762845018.png" tvg-language="te" group-title="Telugu Local",MYTV FHD
 https://mumbai-edge.smartplaytv.in/MyTV/index.m3u8
-#EXTINF:-1 tvg-id="75" tvg-chno="75" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_494_1748355672.png" tvg-language="te" group-title="Music Channels",Shreyas Music
-https://mumbai-edge.smartplaytv.in/ShreyasMusic/index.m3u8
 #EXTINF:-1 tvg-id="LOCALTVHD" tvg-chno="76" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C76-1765071691.png" tvg-language="te" group-title="Telugu Local",Local TV News
 https://mumbai-edge.smartplaytv.in/LocalTVNews/index.m3u8
-#EXTINF:-1 tvg-id="77" tvg-chno="77" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C77-1774001644.png" tvg-language="te" group-title="Sun Network (SUN NXT)",Sun Gemini HD
-https://mumbai-edge.smartplaytv.in/GeminiTVHD/index.m3u8
-#EXTINF:-1 tvg-id="78" tvg-chno="78" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C78-1774001721.png" tvg-language="te" group-title="Sun Network (SUN NXT)",Sun Gemini Music HD
-https://mumbai-edge.smartplaytv.in/GeminiMusicHD/index.m3u8
-#EXTINF:-1 tvg-id="79" tvg-chno="79" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C79-1769705812.png" tvg-language="te" group-title="Sun Network (SUN NXT)",Gemini Movies HD
-https://mumbai-edge.smartplaytv.in/GeminiMoviesHD/index.m3u8
-#EXTINF:-1 tvg-id="80" tvg-chno="80" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_60_1721407640.png" tvg-language="te" group-title="Sun Network (SUN NXT)",Gemini Life
-https://mumbai-edge.smartplaytv.in/GeminiLife/index.m3u8
 #EXTINF:-1 tvg-id="81" tvg-chno="81" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C81-1771672190.png" tvg-language="te" group-title="Telugu Local",J News
 https://mumbai-edge.smartplaytv.in/JNews/index.m3u8
 #EXTINF:-1 tvg-id="52" tvg-chno="90" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_32_1721200720.png" tvg-language="te" group-title="Telugu Local",SV6
 https://mumbai-edge.smartplaytv.in/SV6/index.m3u8
 #EXTINF:-1 tvg-id="97" tvg-chno="97" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C62-1770381116.png" tvg-language="te" group-title="Telugu Local",Vee9 News
 https://mumbai-edge.smartplaytv.in/Vee9/index.m3u8
-#EXTINF:-1 tvg-id="103" tvg-chno="100" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_83_1749555558.png" tvg-language="te" group-title="Zee Entertainment (Z5)",Zee Telugu HD
-https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8
-#EXTINF:-1 tvg-id="101" tvg-chno="101" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_81_1749555599.png" tvg-language="te" group-title="Zee Entertainment (Z5)",Zee Cinemalu HD
-https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8
 #EXTINF:-1 tvg-id="TG24" tvg-chno="130" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C130-1770987944.png" tvg-language="te" group-title="Telugu Local",TG24 TV
 https://mumbai-edge.smartplaytv.in/TG24TV/index.m3u8
-#EXTINF:-1 tvg-id="131" tvg-chno="131" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_111_1721408142.png" tvg-language="te" group-title="Eenadu Network (ETV WIN)",ETV HD
-https://mumbai-edge.smartplaytv.in/ETVHD/index.m3u8
-#EXTINF:-1 tvg-id="132" tvg-chno="132" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_112_1721408385.png" tvg-language="te" group-title="Eenadu Network (ETV WIN)",ETV Plus
-https://mumbai-edge.smartplaytv.in/ETVPLUS/index.m3u8
 #EXTINF:-1 tvg-id="E69News" tvg-chno="133" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0133-1770988296.png" tvg-language="te" group-title="Telugu Local",E69 News
 https://mumbai-edge.smartplaytv.in/E69News/index.m3u8
-#EXTINF:-1 tvg-id="BAHUJANATV" tvg-chno="134" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0134-1770989093.png" tvg-language="te" group-title="Telugu Local",Bahujana News TV
-https://mumbai-edge.smartplaytv.in/BahujanaTV/index.m3u8
-#EXTINF:-1 tvg-id="135" tvg-chno="135" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_115_1721408224.png" tvg-language="te" group-title="Eenadu Network (ETV WIN)",ETV Abhiruchi
-https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8
-#EXTINF:-1 tvg-id="136" tvg-chno="136" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_116_1721408451.png" tvg-language="te" group-title="Eenadu Network (ETV WIN)",ETV Life
-https://mumbai-edge.smartplaytv.in/ETVLIFE/index.m3u8
-#EXTINF:-1 tvg-id="139" tvg-chno="139" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_119_1721408512.png" tvg-language="te" group-title="Eenadu Network (ETV WIN)",ETV Cinema
-https://mumbai-edge.smartplaytv.in/ETVCINEMA/index.m3u8
 #EXTINF:-1 tvg-id="AN" tvg-chno="140" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0140-1770986726.png" tvg-language="te" group-title="Telugu Local",Akshara News
 https://mumbai-edge.smartplaytv.in/AksharaNews/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-chno="141" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C141-1771242610.png" tvg-language="te" group-title="Telugu Local",A1TV TELUGU NEWS
 https://mumbai-edge.smartplaytv.in/A1TV/index.m3u8
 #EXTINF:-1 tvg-id="BHAKTI" tvg-chno="143" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_123_1721310317.png" tvg-language="te" group-title="Hindu Devotional",Bhakthi TV
 https://mumbai-edge.smartplaytv.in/BhakthiTv/index.m3u8
-#EXTINF:-1 tvg-id="144" tvg-chno="144" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_124_1721417469.png" tvg-language="te" group-title="Hindu Devotional",Hindu Dharmam
-https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8
 #EXTINF:-1 tvg-id="145" tvg-chno="145" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_125_1721309724.png" tvg-language="hi" group-title="Hindu Devotional",Peace of Mind
 https://mumbai-edge.smartplaytv.in/PeaceOfMind/index.m3u8
 #EXTINF:-1 tvg-id="146" tvg-chno="146" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_126_1721309978.png" tvg-language="te" group-title="Hindu Devotional",Aastha Telugu
@@ -2070,26 +1224,12 @@ https://mumbai-edge.smartplaytv.in/AasthaTelugu/index.m3u8
 https://mumbai-edge.smartplaytv.in/PCNHD/index.m3u8
 #EXTINF:-1 tvg-id="148" tvg-chno="148" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C148-1765072489.png" tvg-language="hi" group-title="Urdu Channels",MunsifTV
 https://mumbai-edge.smartplaytv.in/munsiftv/index.m3u8
-#EXTINF:-1 tvg-id="S90NEWS" tvg-chno="151" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0151-1770989606.png" tvg-language="te" group-title="Telugu Local",S90 News
-https://mumbai-edge.smartplaytv.in/S90News/index.m3u8
-#EXTINF:-1 tvg-id="WINTV" tvg-chno="155" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C155-1774869325.png" tvg-language="te" group-title="Telugu Entertainment",WIN TV
-https://mumbai-edge.smartplaytv.in/WINTV/index.m3u8
-#EXTINF:-1 tvg-id="160" tvg-chno="160" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C160-1765072598.png" tvg-language="te" group-title="Telugu Local",SUPER TV
-https://mumbai-edge.smartplaytv.in/supertv/index.m3u8
 #EXTINF:-1 tvg-id="DIVYAVANI" tvg-chno="161" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_497_1725878052.png" tvg-language="te" group-title="Christian Devotional",Divyavani
 https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8
 #EXTINF:-1 tvg-id="MERCYTV" tvg-chno="163" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_515_1741238616.png" tvg-language="hi" group-title="Urdu Channels",Mercy TV
 https://mumbai-edge.smartplaytv.in/MercyTV/index.m3u8
-#EXTINF:-1 tvg-id="166" tvg-chno="166" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_142_1721310566.png" tvg-language="te" group-title="Christian Devotional",Aradana TV
-https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8
 #EXTINF:-1 tvg-id="168" tvg-chno="168" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_144_1725429721.png" tvg-language="te" group-title="Hindu Devotional",Sai TV
 https://mumbai-edge.smartplaytv.in/SaiTV/index.m3u8
-#EXTINF:-1 tvg-id="170" tvg-chno="170" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_146_1721312315.png" tvg-language="te" group-title="Christian Devotional",BMC
-https://mumbai-edge.smartplaytv.in/BMC/index.m3u8
-#EXTINF:-1 tvg-id="171" tvg-chno="171" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_147_1721312422.png" tvg-language="en" group-title="Christian Devotional",Harvest TV
-https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8
-#EXTINF:-1 tvg-id="173" tvg-chno="173" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_149_1722243481.png" tvg-language="te" group-title="Christian Devotional",PratyakshataTV
-https://mumbai-edge.smartplaytv.in/PratyakshataTV/index.m3u8
 #EXTINF:-1 tvg-id="174" tvg-chno="174" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C174-1770466349.png" tvg-language="te" group-title="Christian Devotional",BIGJ TV
 https://mumbai-edge.smartplaytv.in/BIGJTV/index.m3u8
 #EXTINF:-1 tvg-id="175" tvg-chno="175" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C197-1770467074.png" tvg-language="en" group-title="Christian Devotional",Joy TV
@@ -2110,36 +1250,12 @@ https://mumbai-edge.smartplaytv.in/BeepBeep/index.m3u8
 https://mumbai-edge.smartplaytv.in/TheLego/index.m3u8
 #EXTINF:-1 tvg-id="MEENEWS" tvg-chno="198" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C198-1771157316.png" tvg-language="te" group-title="Telugu Local",Mee TV News
 https://mumbai-edge.smartplaytv.in/MeeNews/index.m3u8
-#EXTINF:-1 tvg-id="199" tvg-chno="199" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_174_1749057163.png" tvg-language="hi" group-title="Hindi Entertainment",Shemaroo Bollywood
-https://mumbai-edge.smartplaytv.in/ShemaroBollywood/index.m3u8
 #EXTINF:-1 tvg-id="200" tvg-chno="200" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C200-1768907242.png" tvg-language="te" group-title="Telugu Local",BJTV
 https://mumbai-edge.smartplaytv.in/BJTV/index.m3u8
-#EXTINF:-1 tvg-id="Awaaz News" tvg-chno="201" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C201-1771828232.png" tvg-language="te" group-title="Telugu Local",DNB NEWS
-https://mumbai-edge.smartplaytv.in/DNBNEWS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" tvg-language="te" group-title="Telugu Local",DNB NEWS
-https://mumbai-edge.smartplaytv.in/AWAAZNEWS/index.m3u8
-#EXTINF:-1 tvg-id="PSNEWS" tvg-chno="206" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0206-1771497542.png" tvg-language="te" group-title="Telugu Local",PS NEWS
-https://mumbai-edge.smartplaytv.in/PSNEWS/index.m3u8
-#EXTINF:-1 tvg-id="EYETV" tvg-chno="207" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0207-1771497724.png" tvg-language="te" group-title="Telugu Local",EYE TV
-https://mumbai-edge.smartplaytv.in/EYETV/index.m3u8
-#EXTINF:-1 tvg-id="N24NEWS" tvg-chno="208" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0208-1772616127.png" tvg-language="te" group-title="Telugu Local",N24 News
-https://mumbai-edge.smartplaytv.in/N24NEWS/index.m3u8
-#EXTINF:-1 tvg-id="IVIEW" tvg-chno="209" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0209-1772698494.png" tvg-language="te" group-title="Telugu Local",I VIEW
-https://mumbai-edge.smartplaytv.in/IVIEW/index.m3u8
-#EXTINF:-1 tvg-id="CKNEWS" tvg-chno="210" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0211-1772700646.png" tvg-language="te" group-title="Telugu Local",CK NEWS
-https://mumbai-edge.smartplaytv.in/CKNEWS/index.m3u8
-#EXTINF:-1 tvg-id="BV9" tvg-chno="211" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0210-1771828430.png" tvg-language="te" group-title="Telugu Local",BV9 News
-https://mumbai-edge.smartplaytv.in/BV9NEWS/index.m3u8
-#EXTINF:-1 tvg-id="TIME2TIME" tvg-chno="212" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0212-1771308915.png" tvg-language="te" group-title="Telugu Local",Time 2 Time
-https://mumbai-edge.smartplaytv.in/Time2Time/index.m3u8
 #EXTINF:-1 tvg-id="213" tvg-chno="213" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C2130-1770523570.png" tvg-language="hi" group-title="Hindi Entertainment",The Movie Club
 https://mumbai-edge.smartplaytv.in/TheMovieClub/index.m3u8
 #EXTINF:-1 tvg-id="Zoom" tvg-chno="218" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_184_1721313059.png" tvg-language="hi" group-title="Music Channels",ZOOM
 https://mumbai-edge.smartplaytv.in/Zoom/index.m3u8
-#EXTINF:-1 tvg-id="224" tvg-chno="224" tvg-logo="" tvg-language="hi" group-title="Hindi Entertainment",ABZY Movies
-https://mumbai-edge.smartplaytv.in/ABZYMovies/index.m3u8
-#EXTINF:-1 tvg-id="IBTV" tvg-chno="229" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C229-1771247401.png" tvg-language="te" group-title="Telugu Local",IBTV TELUGU
-https://mumbai-edge.smartplaytv.in/IBTV/index.m3u8
 #EXTINF:-1 tvg-id="236" tvg-chno="236" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_201_1722076488.png" tvg-language="en" group-title="Music Channels",Only Music
 https://mumbai-edge.smartplaytv.in/OnlyMusic/index.m3u8
 #EXTINF:-1 tvg-id="RTINDIA" tvg-chno="238" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C230-1768576180.png" tvg-language="en" group-title="Hindi News",RT India
@@ -2152,16 +1268,8 @@ https://mumbai-edge.smartplaytv.in/SVBC/index.m3u8
 https://mumbai-edge.smartplaytv.in/NDTVIndia/index.m3u8
 #EXTINF:-1 tvg-id="252" tvg-chno="252" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_215_1721420849.png" tvg-language="hi" group-title="Hindi News",ABP News
 https://mumbai-edge.smartplaytv.in/ABPNews/index.m3u8
-#EXTINF:-1 tvg-id="NEWSX" tvg-chno="254" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C254-1769334541.png" tvg-language="hi" group-title="Hindi News",News X
-https://mumbai-edge.smartplaytv.in/NewsX/index.m3u8
 #EXTINF:-1 tvg-id="255" tvg-chno="255" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_216_1721470214.png" tvg-language="hi" group-title="Hindu Devotional",Aastha
 https://mumbai-edge.smartplaytv.in/Aastha/index.m3u8
-#EXTINF:-1 tvg-id="259" tvg-chno="259" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_220_1715867780.png" tvg-language="hi" group-title="Hindu Devotional",jinavani
-https://mumbai-edge.smartplaytv.in/Jinavani/index.m3u8
-#EXTINF:-1 tvg-id="264" tvg-chno="264" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_222_1721474570.png" tvg-language="hi" group-title="Urdu Channels",DD Urdu
-https://mumbai-edge.smartplaytv.in/DDUrdu/index.m3u8
-#EXTINF:-1 tvg-id="268" tvg-chno="268" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_451_1717753818.png" tvg-language="hi" group-title="Urdu Channels",Siasat TV
-https://mumbai-edge.smartplaytv.in/siasat/index.m3u8
 #EXTINF:-1 tvg-id="280" tvg-chno="280" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_230_1737380306.png" tvg-language="ta" group-title="Hindu Devotional",Sri Sankara
 https://mumbai-edge.smartplaytv.in/SriSankara/index.m3u8
 #EXTINF:-1 tvg-id="285" tvg-chno="285" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_235_1721475445.png" tvg-language="ta" group-title="Tamil Entertainment",MNTV
@@ -2170,28 +1278,16 @@ https://mumbai-edge.smartplaytv.in/MNTV/index.m3u8
 https://mumbai-edge.smartplaytv.in/Puthiyathalaimurai/index.m3u8
 #EXTINF:-1 tvg-id="288" tvg-chno="288" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_238_1721475761.png" tvg-language="ta" group-title="Tamil News",IBC Tamil
 https://mumbai-edge.smartplaytv.in/IBCTamil/index.m3u8
-#EXTINF:-1 tvg-id="289" tvg-chno="289" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_498_1726317191.png" tvg-language="ta" group-title="Tamil Entertainment",mediacorp
-https://mumbai-edge.smartplaytv.in/mediacorp/index.m3u8
 #EXTINF:-1 tvg-id="294" tvg-chno="294" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_240_1715930016.png" tvg-language="bn" group-title="Bengali",Tv9 Bangla
 https://mumbai-edge.smartplaytv.in/Tv9Bangla/index.m3u8
 #EXTINF:-1 tvg-id="304" tvg-chno="304" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_250_1715930865.png" tvg-language="bn" group-title="Bengali",Globe TV
 https://mumbai-edge.smartplaytv.in/GlobeTV/index.m3u8
-#EXTINF:-1 tvg-id="305" tvg-chno="305" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_251_1715930973.png" tvg-language="bn" group-title="Bengali",Samay Kolkata
-https://mumbai-edge.smartplaytv.in/SamayKolkata/index.m3u8
 #EXTINF:-1 tvg-id="DDSPORTSHD" tvg-chno="313" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C313-1770642483.png" tvg-language="" group-title="Sports",DD Sports HD
 https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
-#EXTINF:-1 tvg-id="314" tvg-chno="314" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_452_1718712997.png" tvg-language="en" group-title="Music Channels",TraceLatina
-https://mumbai-edge.smartplaytv.in/TraceLatina/index.m3u8
 #EXTINF:-1 tvg-id="318" tvg-chno="318" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C318-1765979431.png" tvg-language="ta" group-title="Tamil Entertainment",Sana Plus HD
 https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
-#EXTINF:-1 tvg-id="323" tvg-chno="323" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_266_1735022512.png" tvg-language="kn" group-title="Music Channels",Public Music Kannada
-https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8
-#EXTINF:-1 tvg-id="FIRSTPOST" tvg-chno="334" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_499_1726317376.png" tvg-language="en" group-title="International News",First Post
-https://mumbai-edge.smartplaytv.in/FirstPost/index.m3u8
 #EXTINF:-1 tvg-id="337" tvg-chno="337" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C337-1763194746.png" tvg-language="en" group-title="International News",First Post
 https://mumbai-edge.smartplaytv.in/Manavooru/index.m3u8
-#EXTINF:-1 tvg-id="339" tvg-chno="339" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C339-1769754654.png" tvg-language="en" group-title="Sports",Racer Select
-https://mumbai-edge.smartplaytv.in/RacerSelect/index.m3u8
 #EXTINF:-1 tvg-id="340" tvg-chno="340" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_280_1721038526.png" tvg-language="en" group-title="Sports",Sports Grid
 https://mumbai-edge.smartplaytv.in/SportsGrid/index.m3u8
 #EXTINF:-1 tvg-id="341" tvg-chno="341" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_281_1721038584.png" tvg-language="en" group-title="Sports",People Are Awesome
@@ -2202,48 +1298,30 @@ https://mumbai-edge.smartplaytv.in/DDSports/index.m3u8
 https://mumbai-edge.smartplaytv.in/TraceSport/index.m3u8
 #EXTINF:-1 tvg-id="TENNIS2" tvg-chno="348" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C348-1770661451.png" tvg-language="en" group-title="Sports",Tennis 2
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
-#EXTINF:-1 tvg-id="349" tvg-chno="349" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_289_1715952095.png" tvg-language="en" group-title="Sports",Horizon Sports
-https://mumbai-edge.smartplaytv.in/HorizonSports/index.m3u8
 #EXTINF:-1 tvg-id="DD_madhy_Pradesh" tvg-chno="351" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C433-1759776438.png" tvg-language="hi" group-title="Hindi Entertainment",DD madhya pradesh
 https://mumbai-edge.smartplaytv.in/ddmadhyapradesh/index.m3u8
-#EXTINF:-1 tvg-id="SIRI_TV" tvg-chno="352" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C360-1770631624.png" tvg-language="en" group-title="Telugu Local",Janam Sakshi
-https://mumbai-edge.smartplaytv.in/JanamSakshi/index.m3u8
 #EXTINF:-1 tvg-id="353" tvg-chno="353" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_291_1721039186.png" tvg-language="en" group-title="Wild Animals",Wild Earth
 https://mumbai-edge.smartplaytv.in/wildearth/index.m3u8
 #EXTINF:-1 tvg-id="354" tvg-chno="354" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_292_1721039232.png" tvg-language="en" group-title="Wild Animals",INWILD
 https://mumbai-edge.smartplaytv.in/inwild/index.m3u8
 #EXTINF:-1 tvg-id="356" tvg-chno="356" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C356-1762592948.png" tvg-language="en" group-title="Wild Animals",Love Nature
 https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
-#EXTINF:-1 tvg-id="359" tvg-chno="359" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C359-1770190529.png" tvg-language="en" group-title="Telugu Local",Hyderabad Express
-https://mumbai-edge.smartplaytv.in/HyderabadExpress/index.m3u8
-#EXTINF:-1 tvg-id="TEAMUSA" tvg-chno="360" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0361-1770661670.png" tvg-language="en" group-title="Sports",Team USA
-https://mumbai-edge.smartplaytv.in/TeamUSA/index.m3u8
 #EXTINF:-1 tvg-id="BBCEARTH" tvg-chno="363" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C363-1770662200.png" tvg-language="en" group-title="Wild Animals",BBC Earth
 https://mumbai-edge.smartplaytv.in/BBCEarth/index.m3u8
-#EXTINF:-1 tvg-id="371" tvg-chno="371" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_306_1737379013.png" tvg-language="ta" group-title="Tamil Entertainment",Vasanth TV
-https://mumbai-edge.smartplaytv.in/VasanthTV/index.m3u8
-#EXTINF:-1 tvg-id="389" tvg-chno="389" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C389-1770751354.png" tvg-language="hi" group-title="Hindi Entertainment",RUN THRILLERS
-https://mumbai-edge.smartplaytv.in/runthrillers/index.m3u8
 #EXTINF:-1 tvg-id="401" tvg-chno="401" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_331_1716017598.png" tvg-language="en" group-title="International News",TRT World
 https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
 #EXTINF:-1 tvg-id="403" tvg-chno="403" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_333_1721039897.png" tvg-language="en" group-title="International News",BBC News
 https://mumbai-edge.smartplaytv.in/BBCNews/index.m3u8
 #EXTINF:-1 tvg-id="404" tvg-chno="404" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_334_1721040034.png" tvg-language="en" group-title="International News",Bloomberg
 https://mumbai-edge.smartplaytv.in/Bloomberg/index.m3u8
-#EXTINF:-1 tvg-id="CNN INTL" tvg-chno="405" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_335_1721040083.png" tvg-language="en" group-title="International News",CNN USA
-https://mumbai-edge.smartplaytv.in/CNNUSA/index.m3u8
 #EXTINF:-1 tvg-id="407" tvg-chno="407" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_337_1716018015.png" tvg-language="en" group-title="International News",France 24
 https://mumbai-edge.smartplaytv.in/france24/index.m3u8
-#EXTINF:-1 tvg-id="411" tvg-chno="411" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_341_1737379459.png" tvg-language="ta" group-title="Christian Devotional",Angel TV
-https://mumbai-edge.smartplaytv.in/AngelTV/index.m3u8
 #EXTINF:-1 tvg-id="414" tvg-chno="414" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_344_1716018312.png" tvg-language="en" group-title="International News",africanews
 https://mumbai-edge.smartplaytv.in/AfricaNews/index.m3u8
 #EXTINF:-1 tvg-id="418" tvg-chno="418" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C418-1770466596.png" tvg-language="ta" group-title="Christian Devotional",Power Vision
 https://mumbai-edge.smartplaytv.in/PowerVision/index.m3u8
 #EXTINF:-1 tvg-id="445" tvg-chno="445" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_362_1716025759.png" tvg-language="mr" group-title="45",TV9 Marathi
 https://mumbai-edge.smartplaytv.in/TV9Marathi/index.m3u8
-#EXTINF:-1 tvg-id="460" tvg-chno="460" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C460-1770466824.png" tvg-language="ta" group-title="Christian Devotional",Hosanna TV
-https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8
 #EXTINF:-1 tvg-id="469" tvg-chno="469" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C469-1759776723.png" tvg-language="hi" group-title="Hindi Entertainment",DD Rajasthan
 https://mumbai-edge.smartplaytv.in/ddrajasthan/index.m3u8
 #EXTINF:-1 tvg-id="472" tvg-chno="472" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C472-1759777055.png" tvg-language="hi" group-title="Hindi Entertainment",DD Bihar
@@ -2252,12 +1330,6 @@ https://mumbai-edge.smartplaytv.in/ddbihar/index.m3u8
 https://mumbai-edge.smartplaytv.in/primetv/index.m3u8
 #EXTINF:-1 tvg-id="486" tvg-chno="486" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_403_1716027931.png" tvg-language="en" group-title="International News",BloombergHT
 https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8
-#EXTINF:-1 tvg-id="488" tvg-chno="488" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C488-1759867570.png" tvg-language="ta" group-title="Tamil Local",Vedha Tv
-https://mumbai-edge.smartplaytv.in/vedhatv/index.m3u8
-#EXTINF:-1 tvg-id="490" tvg-chno="490" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_407_1716028072.png" tvg-language="ta" group-title="Tamil News",Jaya PLus
-https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
-#EXTINF:-1 tvg-id="564" tvg-chno="564" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C564-1761662323.png" tvg-language="te" group-title="Telugu Local",ACN TV
-https://mumbai-edge.smartplaytv.in/acn/index.m3u8
 #EXTINF:-1 tvg-id="581" tvg-chno="581" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_448_1717154009.png" tvg-language="te" group-title="Hindu Devotional",CVR OM
 https://mumbai-edge.smartplaytv.in/CVROM/index.m3u8
 #EXTINF:-1 tvg-id="584" tvg-chno="584" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_495_1725535223.png" tvg-language="kn" group-title="Kannada Entertainment",Sindhura TV
@@ -2272,60 +1344,32 @@ https://mumbai-edge.smartplaytv.in/channeldivya/index.m3u8
 https://mumbai-edge.smartplaytv.in/Velichamtv/index.m3u8
 #EXTINF:-1 tvg-id="DAINIK_ASHA" tvg-chno="624" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C615-1752503810.png" tvg-language="en" group-title="ODIYA CHANNELS",DAINIK ASHA
 https://mumbai-edge.smartplaytv.in/DainikAsha/index.m3u8
-#EXTINF:-1 tvg-id="628" tvg-chno="628" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_530_1727083991.png" tvg-language="en" group-title="Sports",Motor Racing
-https://mumbai-edge.smartplaytv.in/motorracing/index.m3u8
 #EXTINF:-1 tvg-id="631" tvg-chno="631" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_533_1729688528.png" tvg-language="te" group-title="Hindu Devotional",Darshanam Bhakthi
 https://mumbai-edge.smartplaytv.in/darshanambhakthi/index.m3u8
-#EXTINF:-1 tvg-id="636" tvg-chno="636" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_537_1727517751.png" tvg-language="en" group-title="Food",Food Food
-https://mumbai-edge.smartplaytv.in/FoodFood/index.m3u8
 #EXTINF:-1 tvg-id="638" tvg-chno="638" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_539_1727524609.png" tvg-language="kn" group-title="Kannada News",TV9 kannada
 https://mumbai-edge.smartplaytv.in/tv9kannada/index.m3u8
-#EXTINF:-1 tvg-id="640" tvg-chno="640" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_541_1727524760.png" tvg-language="kn" group-title="Kannada News",News 18 Kannada
-https://mumbai-edge.smartplaytv.in/news18kannada/index.m3u8
-#EXTINF:-1 tvg-id="642" tvg-chno="642" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_543_1727524863.png" tvg-language="kn" group-title="Kannada News",TV5 kannada
-https://mumbai-edge.smartplaytv.in/tv5kannada/index.m3u8
 #EXTINF:-1 tvg-id="651" tvg-chno="651" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_611_1734954306.png" tvg-language="kn" group-title="Kannada Entertainment",REPUBLIC KANNADA
 https://mumbai-edge.smartplaytv.in/republickannada/index.m3u8
-#EXTINF:-1 tvg-id="652" tvg-chno="652" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C652-1760172686.png" tvg-language="kn" group-title="Music Channels",NK TV
-https://mumbai-edge.smartplaytv.in/nktvkannada/index.m3u8
-#EXTINF:-1 tvg-id="Thanthi One" tvg-chno="700" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_577_1733037684.png" tvg-language="ta" group-title="Tamil Entertainment",Thanthi One
-https://mumbai-edge.smartplaytv.in/thanthione/index.m3u8
 #EXTINF:-1 tvg-id="Mnadu" tvg-chno="706" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C706-1770462513.png" tvg-language="ta" group-title="Tamil News",M Nadu
 https://mumbai-edge.smartplaytv.in/mnadu/index.m3u8
 #EXTINF:-1 tvg-id="Smart Sria" tvg-chno="707" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_583_1733038295.png" tvg-language="ta" group-title="Tamil Local",Smart Sria
 https://mumbai-edge.smartplaytv.in/smartsri/index.m3u8
-#EXTINF:-1 tvg-id="JAY_JAGANNATH" tvg-chno="708" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C708-1771589696.png" tvg-language="ta" group-title="ODIYA CHANNELS",JAY JAGANNATH
-https://mumbai-edge.smartplaytv.in/jayjagannath/index.m3u8
 #EXTINF:-1 tvg-id="EKAMRA_CINEMA" tvg-chno="709" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C709-1771588231.png" tvg-language="ta" group-title="ODIYA CHANNELS",EKAMRA CINEMA
 https://mumbai-edge.smartplaytv.in/ekamracinema/index.m3u8
-#EXTINF:-1 tvg-id="captain_tv" tvg-chno="710" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C710-1761814225.png" tvg-language="ta" group-title="Hindi Entertainment",Captain TV
-https://mumbai-edge.smartplaytv.in/captain/index.m3u8
-#EXTINF:-1 tvg-id="RAJA TV" tvg-chno="716" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_592_1733039228.png" tvg-language="ta" group-title="Tamil Local",Raja TV
-https://mumbai-edge.smartplaytv.in/RajaTV/index.m3u8
 #EXTINF:-1 tvg-id="EKAMRA_MUSIC" tvg-chno="718" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C719-1771588057.png" tvg-language="ta" group-title="ODIYA CHANNELS",EKAMRA MUSIC
 https://mumbai-edge.smartplaytv.in/ekamramusic/index.m3u8
-#EXTINF:-1 tvg-id="PCVchannel" tvg-chno="719" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_595_1733039463.png" tvg-language="ta" group-title="Tamil Local",PCV Channel
-https://mumbai-edge.smartplaytv.in/PCVchannel/index.m3u8
 #EXTINF:-1 tvg-id="7SMUSIC" tvg-chno="720" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C720-1760172614.png" tvg-language="ta" group-title="Music Channels",7S Music
 https://mumbai-edge.smartplaytv.in/7SMusic/index.m3u8
 #EXTINF:-1 tvg-id="utv" tvg-chno="723" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C723-1759872655.png" tvg-language="ta" group-title="Tamil Local",U TV
 https://mumbai-edge.smartplaytv.in/utv/index.m3u8
 #EXTINF:-1 tvg-id="makkaltv" tvg-chno="724" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_600_1739451757.png" tvg-language="ta" group-title="Tamil Entertainment",Makkal TV
 https://mumbai-edge.smartplaytv.in/MakkalTV/index.m3u8
-#EXTINF:-1 tvg-id="BADAKHABAR" tvg-chno="727" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C728-1771589348.png" tvg-language="ta" group-title="ODIYA CHANNELS",BADAKHABAR
-https://mumbai-edge.smartplaytv.in/BADAKHABAR/index.m3u8
 #EXTINF:-1 tvg-id="Ekamra_Manoranjan" tvg-chno="729" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C728-1771589348.png" tvg-language="ta" group-title="ODIYA CHANNELS",Ekamra Manoranjan
 https://mumbai-edge.smartplaytv.in/EkamraManoranjan/index.m3u8
 #EXTINF:-1 tvg-id="argustv" tvg-chno="730" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C730-1771579833.png" tvg-language="ta" group-title="ODIYA CHANNELS",Argus TV
 https://mumbai-edge.smartplaytv.in/argustv/index.m3u8
 #EXTINF:-1 tvg-id="Shrihigulambika" tvg-chno="733" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C733-1770975533.png" tvg-language="te" group-title="Live Darshan",Shrihigulambika
 https://mumbai-edge.smartplaytv.in/Shrihigulambika/index.m3u8
-#EXTINF:-1 tvg-id="Sidharth_tv" tvg-chno="734" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C734-1771581136.png" tvg-language="ta" group-title="ODIYA CHANNELS",Sidharth TV
-https://mumbai-edge.smartplaytv.in/sidharthtv/index.m3u8
-#EXTINF:-1 tvg-id="902" tvg-chno="901" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C901-1771577731.png" tvg-language="en" group-title="ODIYA CHANNELS",MBC T V
-https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8
-#EXTINF:-1 tvg-id="903" tvg-chno="903" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C903-1771579282.png" tvg-language="en" group-title="ODIYA CHANNELS",News 18 Odiya
-https://mumbai-edge.smartplaytv.in/news18odiya/index.m3u8
 #EXTINF:-1 tvg-id="904" tvg-chno="904" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C904-1771579427.png" tvg-language="en" group-title="ODIYA CHANNELS",DD ODIYA
 https://mumbai-edge.smartplaytv.in/ddodiya/index.m3u8
 #EXTINF:-1 tvg-id="C906" tvg-chno="907" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C907-1760172306.png" tvg-language="te" group-title="Telugu Local",MTV
@@ -2334,8 +1378,6 @@ https://mumbai-edge.smartplaytv.in/MTV/index.m3u8
 https://mumbai-edge.smartplaytv.in/ABPMajha/index.m3u8
 #EXTINF:-1 tvg-id="EKAMRA_NILACH_AKRA" tvg-chno="911" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C727-1771580055.png" tvg-language="mr" group-title="ODIYA CHANNELS",EKAMRA NILACH AKRA
 https://mumbai-edge.smartplaytv.in/EKAMRANILACHAKRA/index.m3u8
-#EXTINF:-1 tvg-id="kanaknews" tvg-chno="1104" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C1104-1771579576.png" tvg-language="ta" group-title="ODIYA CHANNELS",Kanak News
-https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8
 #EXTINF:-1 tvg-id="kalingatv" tvg-chno="1117" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C1117-1771580816.png" tvg-language="ta" group-title="ODIYA CHANNELS",Kalinga TV
 https://mumbai-edge.smartplaytv.in/kalingatv/index.m3u8
 #EXTINF:-1 tvg-id="205" tvg-chno="1119" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_175_1721312832.png" tvg-language="hi" group-title="DD Channels",DD National HD
@@ -2348,33 +1390,14 @@ https://mumbai-edge.smartplaytv.in/DDNews/index.m3u8
 https://mumbai-edge.smartplaytv.in/DDBharathi/index.m3u8
 #EXTINF:-1 tvg-id="209" tvg-chno="1123" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C209-1770733407.png" tvg-language="hi" group-title="DD Channels",DD Kisan
 https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8
-#EXTINF:-1 tvg-id="210" tvg-chno="1124" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C210-1771582119.png" tvg-language="hi" group-title="DD Channels",Sansad 1 HD
-https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8
 #EXTINF:-1 tvg-id="211" tvg-chno="1125" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_181_1715863828.png" tvg-language="te" group-title="DD Channels",DD Sapthagiri
 https://mumbai-edge.smartplaytv.in/DDSapthagiri/index.m3u8
-#EXTINF:-1 tvg-id="tarang" tvg-chno="2000" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C2000-1771577428.png" tvg-language="en" group-title="ODIYA CHANNELS",TARANG TV
-https://mumbai-edge.smartplaytv.in/tarang/index.m3u8
-#EXTINF:-1 tvg-id="ENCORE" tvg-chno="2001" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C2001-1770294575.png" tvg-language="en" group-title="English Entertainment",ENCORE
-https://mumbai-edge.smartplaytv.in/ENCORE/index.m3u8
-#EXTINF:-1 tvg-id="2003" tvg-chno="2003" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C2003-1773475755.png" tvg-language="hi" group-title="Hindu Devotional",Bhakthisiri
-https://mumbai-edge.smartplaytv.in/Bhakthisiri/index.m3u8
 #EXTINF:-1 tvg-id="DS9 Music" tvg-chno="2005" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C2005-1770460644.png" tvg-language="te" group-title="Music Channels",DS9 Music
 https://mumbai-edge.smartplaytv.in/Ds9music/index.m3u8
-#EXTINF:-1 tvg-id="DS9 Kathalu" tvg-chno="2006" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C2006-1770460706.png" tvg-language="te" group-title="Music Channels",DS9 Kathalu
-https://mumbai-edge.smartplaytv.in/DS9Kathalu/index.m3u8
 #EXTINF:-1 tvg-id="2009" tvg-chno="2009" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-c2009-1773479940.png" tvg-language="pa" group-title="PUNJAB NEWS",Global Punjab
 https://mumbai-edge.smartplaytv.in/Globalpunjab/index.m3u8
-#EXTINF:-1 tvg-id="73" tvg-chno="" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_488_1726319141.png" tvg-language="te" group-title="Telugu Local",Rapid Media
-https://mumbai-edge.smartplaytv.in/RapidMedia/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" tvg-language="te" group-title="Telugu Local",GS Grameena
 https://mumbai-edge.smartplaytv.in/GSGrameena/index.m3u8
-
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="Telugu",4 Sides TV Telugu
-https://mars.streambridge.cloud/4sidestv/telugu/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Telugu",AN TV
 https://mars.streambridge.link:8052/telugu/antv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Telugu",Anjali TV
@@ -2387,33 +1410,16 @@ https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
 https://mars.streambridge.cloud/uchannel/live/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kannada",Virat TV
 https://venus.streambridge.link:8047/kannada/virattv/index.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-id="5" tvg-chno="5" tvg-name="SRI VINAYAGA HOLLYWOOD" tvg-logo="http://phoenixcreations.online/ott/vinayagaott/uploads/1782962302_hollywood 2.png" tvg-region="Uthangarai",SRI VINAYAGA HOLLYWOOD
 http://112.133.198.71:1935/srivinayagatv/hollywood/playlist.m3u8
-#EXTINF:-1 tvg-id="6" tvg-chno="6" tvg-name="MAYIL TV" tvg-logo="http://phoenixcreations.online/ott/vinayagaott/uploads/1782824649_mayil tv logo ip tv copy.jpg" tvg-region="Mayiladuthurai ",MAYIL TV
-http://103.186.231.25:8080/hls/mayiltv/index.m3u8
-
-
-#EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="Kannada",Sindhura News
 https://vvsolutions-server12.in/sindhuranews_1/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kannada",Sindhura TV
 https://vvsolutions-server12.in/sindhuratv_2/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kannada",ACN Gold
 https://vvsolutions-server12.in/acngold_16/video.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telugu",Media 10
-https://vvsolutions-server14.in/media10news_22/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kannada",Nandi TV
 https://vvsolutions-server11.in/nanditv_10/video.m3u8
-
-
-
-
-
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://feeds.abplive.com/onecms/images/uploaded-images/2024/01/03/a7a105a5aea78d7f063886a48d22045f1704284190505616_original.jpeg",ABP Ananda
 https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/MZQcv8Hm/Bangla-Jago.jpg",Bangla Jago
@@ -2424,11 +1430,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/in
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi48_O0j0IZGFDZgm9ktByQNNUlaZ5y00XrQ&s",R Plus News
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg",ZB Cartoon
-https://server.zillarbarta.com/zbcatun/video.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Jungle Book
-https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://yt3.googleusercontent.com/azuv3RHKpHD92_KSeFg7APK2o_b_lVrqyYtbusBKA7OncnUBv59fr5_M0OZXKueqVvLu7EgpSA=s900-c-k-c0x00ffffff-no-rj",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png",Animal Planet HD
@@ -2445,156 +1446,27 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://i.postimg.cc/RZJmcSt6/9XM.jpg",News Max 2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-
-
 #EXTINF:-1 ,[MM] FortuneTv
 http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
 #EXTINF:-1 ,[MM] TVM
 http://203.81.84.130/hls/mwd_serie/index.m3u8
 #EXTINF:-1 ,[MM] Light
 http://203.81.84.130/hls/mwd_family/index.m3u8
-#EXTINF:-1 ,[MM] Golden Land
-
-
-
-
-#EXTINF:-1 tvg-id="abps9" group-title="FTA | Entertainment" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/aakash_bangla.png",Aakash Bangla
-https://ms2.alliancebroadband.in/media_aakash_bangla.m3u8
-
-
-#EXTINF:-1 tvg-id="abps11" group-title="FTA | English News" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/al_zazeera.png",Aljazeera
-https://ms4.alliancebroadband.in/media_al_zazeera.m3u8
-
-
-#EXTINF:-1 tvg-id="abps25" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/bhojpuri_cinema.png",Bhojpuri Cinema
-https://ms2.alliancebroadband.in/media_bhojpuri_cinema.m3u8
-
-#EXTINF:-1 tvg-id="abps26" group-title="FTA | Entertainment" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/box_cinema.png",Box Cinema
-https://ms4.alliancebroadband.in/media_box_cinema.m3u8
-
-#EXTINF:-1 tvg-id="abps27" group-title="FTA | English News" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/cgtn.png",CGTN
-https://ms4.alliancebroadband.in/media_cgtn.m3u8
-
-
-#EXTINF:-1 tvg-id="abps36" group-title="FTA | News" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/dd_bangla.png",DD Bangla
-https://ms2.alliancebroadband.in/media_dd_bangla.m3u8
-
-#EXTINF:-1 tvg-id="abps37" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/dd_bharti.png",DD Bharti
-https://ms2.alliancebroadband.in/media_dd_bharti.m3u8
-
-#EXTINF:-1 tvg-id="abps38" group-title="FTA | News" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/dd_hd_national.png",DD HD National
-https://ms4.alliancebroadband.in/media_dd_hd_national.m3u8
-
-#EXTINF:-1 tvg-id="abps39" group-title="FTA | Entertainment" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/dd_india_hd.png",DD India HD
-https://ms4.alliancebroadband.in/media_dd_india_hd.m3u8
-
-#EXTINF:-1 tvg-id="abps40" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/dd_kisan.png",DD Kisan
-https://ms2.alliancebroadband.in/media_dd_kisan.m3u8
-
-#EXTINF:-1 tvg-id="abps41" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/dd_mp.png",DD MP
-https://ms2.alliancebroadband.in/media_dd_mp.m3u8
-
-#EXTINF:-1 tvg-id="abps42" group-title="FTA | News" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/dd_news_hd.png",DD News HD
-https://ms4.alliancebroadband.in/media_dd_news_hd.m3u8
-
-#EXTINF:-1 tvg-id="abps43" group-title="FTA | Sports" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/dd_sports.png",DD Sports
-https://ms3.alliancebroadband.in/media_dd_sports.m3u8
-
-#EXTINF:-1 tvg-id="abps44" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/dsd_urdu.png",DD Urdu
-https://ms4.alliancebroadband.in/media_dsd_urdu.m3u8
-
-#EXTINF:-1 tvg-id="abps45" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/dd_uttarpradesh.png",DD Uttarpradesh
-https://ms4.alliancebroadband.in/media_dd_uttarpradesh.m3u8
-
-#EXTINF:-1 tvg-id="abps46" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/dy365.png",DY365
-https://ms1.alliancebroadband.in/media_dy365.m3u8
-
-#EXTINF:-1 tvg-id="abps47" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/dabangg.png",Dabangg
-https://ms2.alliancebroadband.in/media_dabangg.m3u8
-
-#EXTINF:-1 tvg-id="abps48" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/dangal.png",Dangal
-https://ms2.alliancebroadband.in/media_dangal.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="abps56" group-title="FTA | Entertainment" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/e24.png",E24
-https://ms4.alliancebroadband.in/media_e24.m3u8
-
-#EXTINF:-1 tvg-id="abps57" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/fakt_marathi.png",Fakt Marathi
-https://ms3.alliancebroadband.in/media_fakt_marathi.m3u8
-
-#EXTINF:-1 tvg-id="abps58" group-title="FTA | English News" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/fashion_tv.png",Fashion Tv
-https://ms1.alliancebroadband.in/media_fashion_tv.m3u8
-
-#EXTINF:-1 tvg-id="abps59" group-title="FTA | Entertainment" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/food_food.png",Food Food
-https://ms2.alliancebroadband.in/media_food_food.m3u8
-
-#EXTINF:-1 tvg-id="abps60" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/goldmines.png",Goldmines
-https://ms2.alliancebroadband.in/media_goldmines.m3u8
-
-#EXTINF:-1 tvg-id="abps61" group-title="FTA | Entertainment" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/goldmines.png",Goldmines Bollywood
-https://ms2.alliancebroadband.in/media_goldmines_bollywood.m3u8
-
-#EXTINF:-1 tvg-id="abps62" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/goldmines_movies.png",Goldmines Movies
-https://ms2.alliancebroadband.in/media_goldmines_movies.m3u8
-
-
-
-#EXTINF:-1 tvg-id="abps97" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/manoranjan_movie.png",Manoranjan Movie
-https://ms4.alliancebroadband.in/media_manoranjan_movie.m3u8
-
-#EXTINF:-1 tvg-id="abps98" group-title="FTA | Entertainment" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/manoranjan_tv.png",Manoranjan TV
-https://ms3.alliancebroadband.in/media_manoranjan_tv.m3u8
-
-
-
-#EXTINF:-1 tvg-id="abps118" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/ptc_news.png",PTC News
-https://ms1.alliancebroadband.in/media_ptc_news.m3u8
-
-#EXTINF:-1 tvg-id="abps119" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/ptc_simran.png",PTC SIMRAN
-https://ms1.alliancebroadband.in/media_ptc_simran.m3u8
-
-#EXTINF:-1 tvg-id="abps120" group-title="FTA | Spiritual" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/paras_gold.png",Paras Gold
-https://ms2.alliancebroadband.in/media_paras_gold.m3u8
-
 #EXTINF:-1 tvg-id="abps121" group-title="FTA | Spiritual" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/patnasahib.png",Patna Sahib
 https://cam.pc.cdn.bitgravity.com/cam/live/gurudwara_patnasahib/Alliance/live_darshan/playlist.m3u8?e=1801765799&h=128c55fd956bfe35a91d55fec005677b
-
-#EXTINF:-1 tvg-id="abps122" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/pitaara_tv.png",Pitaara TV
-https://ms1.alliancebroadband.in/media_pitaara_tv.m3u8
-
-#EXTINF:-1 tvg-id="abps125" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/public_movies.png",Public Movies
-https://ms1.alliancebroadband.in/media_public_movies.m3u8
-
-#EXTINF:-1 tvg-id="abps127" group-title="FTA | News" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/r_bangla.png",R Bangla
-https://ms4.alliancebroadband.in/media_r_bangla.m3u8
-
-#EXTINF:-1 tvg-id="abps128" group-title="FTA | Entertainment" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/r_plus_gold.png",R Plus Gold
-https://ms3.alliancebroadband.in/media_r_plus_gold.m3u8
-
-#EXTINF:-1 tvg-id="abps131" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/rang.png",Rang
-https://ms4.alliancebroadband.in/media_rang.m3u8
-
-#EXTINF:-1 tvg-id="abps132" group-title="FTA | Regional" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/rengoni.png",Rengoni
-https://ms2.alliancebroadband.in/media_rengoni.m3u8
-
 #EXTINF:-1 tvg-id="abps136" group-title="FTA | Music" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/rongeen_tv.png",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="abps138" group-title="FTA | Entertainment" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/rupashi_bangla.png",Rupashi Bangla
-https://ms2.alliancebroadband.in/media_rupashi_bangla.m3u8
-
 #EXTINF:-1 tvg-id="abps141" group-title="FTA | Spiritual" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/saibaba.png",Sai Baba, Shirdi
 https://cam3.pc.cdn.bitgravity.com/cam/live/feed006/Alliance/live_darshan/playlist.m3u8?e=1801765799&h=727466cbd9bc5ddaf60f777d71e263af
-
-#EXTINF:-1 tvg-id="abps150" group-title="FTA | Entertainment" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/shemaroo_tv.png",Shemaroo Tv
-https://ms2.alliancebroadband.in/media_shemaroo_tv.m3u8
-
 #EXTINF:-1 tvg-id="abps151" group-title="FTA | Spiritual" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/somnath.png",Somnath
 https://cam.pc.cdn.bitgravity.com/cam/live/somnath1/Alliance/live_darshan/playlist.m3u8?e=1801765799&h=455384ec507c887c68ab1b7abc1fd105
 #EXTINF:-1 tvg-id="abps161" group-title="FTA | News" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/total_tv.png",Total TV
 https://cdn.pishow.tv/ott/live/1522/master.m3u8
+
+
+
+
+
 
 
 
