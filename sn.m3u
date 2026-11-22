@@ -1290,10 +1290,6 @@ https://d1mgh147xpmgs8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 ================================================ Sky ==================================================================================================================
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="Sky",Sky Sports Main Event
-https://a1xs.vip/2000001
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="Sky",Sky Sports Main Event
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="Sky",Sky Sports News FHD
@@ -1301,22 +1297,6 @@ https://streamhub.dhruvpatil681.workers.dev/289.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="Sky",Sky Sports Cricket
 https://streamhub.dhruvpatil681.workers.dev/4340.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="Sky",Sky Sports Cricket FHD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9258/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="Sky",Sky Sports Mix
-https://streamhub.dhruvpatil681.workers.dev/1969.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="Sky",Sky Sports Laliga
-http://181.78.106.127:5000/play/ca029/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="Sky",Sky Sports Golf
-https://streamhub.dhruvpatil681.workers.dev/1962.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ccNV9ppd/Sky-Sportsplus.png" group-title="Sky",Sky Sports+ Live
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ccNV9ppd/Sky-Sportsplus.png" group-title="Sky",Sky Sports+ Live
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-title="Sky",Sky Sports Tennis 
 https://streamhub.dhruvpatil681.workers.dev/2452.m3u8
@@ -1337,23 +1317,6 @@ https://streamhub.dhruvpatil681.workers.dev/1968.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4qN4nsM/Sky-Sports-Arena.png" group-title="Sky",Sky Sports Arena
 https://streamhub.dhruvpatil681.workers.dev/4340.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Sky",Sky Atlantic FHD
-https://a1xs.vip/210001
-#EXTINF:-1 tvg-logo="" group-title="Sky",Sky Cinema Hits FHD
-https://a1xs.vip/210002
-#EXTINF:-1 tvg-logo="" group-title="Sky",Sky Cinema Hits FHD
-https://a1xs.vip/210003
-#EXTINF:-1 tvg-logo="" group-title="Sky",Sky Cinema Select FHD
-https://a1xs.vip/210004
-#EXTINF:-1 tvg-logo="" group-title="Sky",Sky Cinema Comedy FHD
-https://a1xs.vip/210005
-#EXTINF:-1 tvg-logo="" group-title="Sky",Sky Cinema Action FHD
-
-#EXTINF:-1 tvg-logo="" group-title="Sky",Sky Cinema Disney FHD
-https://vt-ip.vodep39240327.workers.dev/220.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sky",Sky Cinema Family FHD
-https://vt-ip.vodep39240327.workers.dev/221.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sky",Sky Racing 1
 https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
