@@ -20,6 +20,14 @@
 
 
 
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="FailArmy" tvg-logo="http://img.platform.wurl.dev/channel/1021/lg/6c6906/LG-400x225_v2.jpg" group-title="Comedy",FailArmy
 https://tmbijukin.global.transmit.live/hls/68d461e7f18d36c39be99d57/v1/jukin_failarmy_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="99991247" tvg-name="NBC News NOW" tvg-logo="https://image.xumo.com/v1/channels/channel/99991247/168x168.png?type=color_onBlack" group-title="News",NBC News NOW
@@ -222,9 +230,6 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_cha
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99991622/hls/playlist.m3u8?ads.xumo_channelId=99991622&ads.channelId=99991622&ads.csid=xumo_web_storiesbyamc_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_ifa_type=&ads._fw_did=304a5212-8d62-44d0-8321-d51733217c89&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_rating=&ads.xumo_contentId=2656&ads.xumo_contentName=storiesbyamc&ads.xumo_providerId=2656&ads.xumo_providerName=storiesbyamc&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-id="99951412" tvg-name="Xena Warrior Princess" tvg-logo="https://image.xumo.com/v1/channels/channel/99951412/168x168.png?type=color_onBlack" group-title="Action & Drama",Xena Warrior Princess
 https://live-content.xumo.com/4226/content/XM099ZKZ9Y4AGZ/27665520/master.m3u8
-#EXTINF:-1 tvg-id="99991381" tvg-name="Demand Africa" tvg-logo="https://image.xumo.com/v1/channels/channel/99991381/168x168.png?type=color_onBlack" group-title="Action & Drama",Demand Africa
-https://dbrb49pjoymg4.cloudfront.net/10001/99991381/hls/477.m3u8?ads.xumo_channelId=99991381&ads._fw_ifa_type=&ads._fw_did=f3a223aa-9771-4830-825c-dfee8175425f&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=TheAfricaChannelDemandAfrica&ads.csid=xumo_web_TheAfricaChannelDemandAfrica_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_rating=&ads.xumo_contentId=1827&ads.xumo_contentName=TheAfricaChannelDemandAfrica&ads.xumo_providerId=1827&ads.xumo_providerName=TheAfricaChannelDemandAfrica&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991381&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=##EXTINF:-1 tvg-id="99951435" tvg-name="Bizaar" tvg-logo="https://image.xumo.com/v1/channels/channel/99951435/168x168.png?type=color_onBlack" group-title="Action & Drama",Bizaar
-https://live-content.xumo.com/4237/content/XM078376ZY2K51/28202668/master.m3u8
 #EXTINF:-1 tvg-id="99951493" tvg-name="GoldenTV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951493/168x168.png?type=color_onBlack" group-title="Action & Drama",GoldenTV
 https://d38d8jwr5u7ckx.cloudfront.net/v1/master/2235ea0b65a152869ea53a8429808cfe476767a6/test-xumo-linear-main-hlsv3-ams/GOLDENTV_SCTE.m3u8?ads.xumo_channelId=99951493&ads.xumo_streamId=99951493&ads.channelId=99951493&ads.channelName=TripleBGoldenTV_us&ads.caid=TripleBGoldenTV&ads.csid=xumo_web_TripleBGoldenTV_ssai&ads._fw_coppa=0&ads.xumo_contentId=4338&ads.xumo_contentName=TripleBGoldenTV&ads.xumo_providerId=4338&ads.xumo_providerName=TripleBGoldenTV&ads._fw_ifa_type=&ads._fw_did=c2c39284-5890-4633-afb8-1a2d66232fee&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
 #EXTINF:-1 tvg-id="99991348" tvg-name="KOCOWA K-Drama" tvg-logo="https://image.xumo.com/v1/channels/channel/99991348/168x168.png?type=color_onBlack" group-title="Action & Drama",KOCOWA K-Drama
@@ -523,13 +528,6 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951226/hls/master.m3u8?ads.xumo_cha
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951164/hls/master.m3u8?ads.xumo_channelId=99951164&ads.asnw=169843&ads.afid=314801499&ads.sfid=17135549&ads.csid=xumo_web_NBCNLA_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=704488c2-e104-4f79-9f3e-2dfeb0aa4362&ads._fw_vcid2=512116:704488c2-e104-4f79-9f3e-2dfeb0aa4362&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=xumoplay&ads.xumo_contentId=3817&ads.xumo_contentName=NBCNLA&ads.xumo_providerId=3817&ads.xumo_providerName=NBCNLA&ads.channelId=99951164&ads._fw_ifa_type=
 #EXTINF:-1 tvg-id="99951183" tvg-name="NBC Connecticut News" tvg-logo="https://image.xumo.com/v1/channels/channel/99951183/168x168.png?type=color_onBlack" group-title="Local News",NBC Connecticut News
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951183/hls/master.m3u8?ads.xumo_channelId=99951183&ads.asnw=169843&ads.afid=348209236&ads.sfid=17135549&ads.csid=xumo_web_NBCNCT_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=cd7f152f-c84f-448d-a0e7-28972ea8322c&ads._fw_vcid2=512116:cd7f152f-c84f-448d-a0e7-28972ea8322c&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=xumo&ads.xumo_contentId=3832&ads.xumo_contentName=NBCNCT&ads.xumo_providerId=3832&ads.xumo_providerName=NBCNCT&ads.channelId=99951183&ads._fw_ifa_type=
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="LiveNOW_from_FOX" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/FOXLIVENOW/resized_0ad0a7ba3e5b534693911432e4b661dc0bd4563ff79dbe394605979c00ef331d_p20209211bh8aajpg_400_225.png" group-title="News",LiveNOW from FOX
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Newsmax_N2" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/NWSMX/resized_db06ce835bef5e705d7c9d7ce32a0f2ca3d1110e2b69d79c52e14ea03790f6b6_michaelsavagesavagenationjpg_400_225.png" group-title="News",Newsmax N2
@@ -570,8 +568,6 @@ https://d6b383jzkrtyn.cloudfront.net/hls/playlist.m3u8
 https://aenetworks.global.transmit.live/hls/68b7788c2bcf083f5d656232/v1/aenetworks_holidaymoviefavorites_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTime_Movie_Network" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MYTIMEA/resized_bc8fdc9f6c22eab491db1d6eb80b9a67838fbabe6f75b0b64fe217437c256839_defaultmytime1920x1080png_400_225.png" group-title="TV & Movies",MyTime Movie Network
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytime-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="Xumo_Free_Black_Cinema" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0W9PPB6MY77W/400x225.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992288%2F400x225.jpg%3Ftype%3DchannelTile" group-title="TV & Movies",Xumo Free Black Cinema
-https://d6b383jzkrtyn.cloudfront.net/hls/master.m3u8
 #EXTINF:-1 tvg-id="Maverick_Black_Cinema" tvg-logo="http://img.platform.wurl.dev/channel/527/lg/bce7d5/LG-400x225_v2.png" group-title="TV & Movies",Maverick Black Cinema
 https://wurlmaverickentertainment.global.transmit.live/hls/68df03f4399ba7e27674f1ed/playlist.m3u8
 #EXTINF:-1 tvg-id="The_Asylum" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/tasmc/resized_6e4292a81e34ff73ce927a3c1898bdf117d04717b066d09c2a0021beeb02b672_atlanticrim1920x1080jpg_400_225.png" group-title="TV & Movies",The Asylum
@@ -582,14 +578,10 @@ https://wurlcineverse.global.transmit.live/hls/6788648b58870f59fceabf97/v1/cined
 https://wurlrainbowmedia.global.transmit.live/hls/68c49e4709574e8405506cb3/v1/amc_scaresbyshudder_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="The_Beverly_Hillbillies" tvg-logo="http://img.platform.wurl.dev/channel/1342/lg/06eaa3/LG-400x225_v1.png" group-title="TV & Movies",The Beverly Hillbillies
 https://wurllg.global.transmit.live/hls/68dd675dbef7caea09cec819/playlist.m3u8
-#EXTINF:-1 tvg-id="The_Rifleman" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0LSQIZ2M2XYX/400x225.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992304%2F400x225.jpg%3Ftype%3DchannelTile" group-title="TV & Movies",The Rifleman
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
 #EXTINF:-1 tvg-id="CINEVAULT:_Westerns" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/690-LG-400x225_v4.png" group-title="TV & Movies",CINEVAULT: Westerns
 https://wurlgameshownetwork.global.transmit.live/hls/68d173430531b397b61a7794/v1/gsn_cinevault_westerns_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Lone_Star" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1846-LG-960x540_v2.png" group-title="TV & Movies",Lone Star
 https://wurlcineverse.global.transmit.live/hls/68cc54bdb014467887e8f3f8/v1/cinedigm_entertainment_corp_lonestar_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="Xumo_Free_Westerns" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0IG4ILBMCMUK/400x225.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992285%2F400x225.jpg%3Ftype%3DchannelTile" group-title="TV & Movies",Xumo Free Westerns
-https://d6b383jzkrtyn.cloudfront.net/hls/master.m3u8
 #EXTINF:-1 tvg-id="Degrassi" tvg-logo="http://img.platform.wurl.dev/channel/715/lg/50c09d/LG-400x225_v1.png" group-title="TV & Movies",Degrassi
 https://wurldhxmedia.global.transmit.live/hls/68cdaf0debffa02805c6b132/playlist.m3u8
 #EXTINF:-1 tvg-id="AllBlk_Gems" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1180-LG-960x540_v3.png" group-title="TV & Movies",AllBlk Gems
@@ -630,8 +622,6 @@ https://wurlewscripps.global.transmit.live/hls/68dab6f2432018160a46f75e/v1/scrip
 https://amg00353-amg00353c34-lg-us-3767.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ebonytv-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Curiosity_Now" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/CURFAST/resized_10a8d635ed1d7baab08ffc136ee8c8d749123b94f8c396d4435b7660c8f40782_curiositystreamlb391219201080jpeg_400_225.png" group-title="Entertainment",Curiosity Now
 https://amg00170-amg00170c1-lg-us-3478.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynow-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="Declassified" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/HISTIM/resized_d06aa6e9aa708f901547224768c1295ca10e655394ad92b9964e2e2140655336_hfa01055590jpg_400_225.png" group-title="Entertainment",Declassified
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC_Top_Gear" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/bbctgsf/resized_8e7db177191d87873235648084da5be7d9ed45058fc23b433b66a4e8081a8267_bbcstopgears016ep001epid53915snapshotepisodelangnone571i2nc92gjpg_400_225.png" group-title="Entertainment",BBC Top Gear
 https://amg00793-bbcstudios-amg00793c4-lg-us-2527.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8min-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Nash_Bridges" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/NBDGS/resized_6ebff841b39ec20c5b6b730537c59d2403dea1a195517845daa6bc499e8afe3e_nashbridgeslandscapejpg_400_225.png" group-title="Entertainment",Nash Bridges
@@ -706,7 +696,6 @@ https://wurlrainbowmedia.global.transmit.live/hls/68c4987e18e2a74e37774fb6/v1/am
 https://wurlrainbowmedia.global.transmit.live/hls/68c49b2318e2a74e37774fbc/v1/amc_networks_nesnnation_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="UFC" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=225&url=https://images.frequency.com/video/7465548905404826983/solid/rectangle/w1920_h1080/1xxs5348pd9rs1rj1s25ugefgh.jpg" group-title="Sports",UFC
 https://linear-893.frequency.stream/dist/lg-us/893/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Swerve_Combat" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=225&url=https://images.frequency.com/video/7463363299889332160/solid/rectangle/w1920_h1080/24jpxa64z60x1mkda3f1m8xg4.jpg" group-title="Sports",Swerve Combat
 https://linear-253.frequency.stream/dist/lg-us/253/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Monster_Jam" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1693-LG-960x540_v1.png" group-title="Sports",Monster Jam
@@ -795,6 +784,11 @@ https://lotus.stingray.com/ads/ose-134ads-montreal/lgchannels/master.m3u8
 https://lotus.stingray.com/ads/ose-232ads-montreal/lgchannels/master.m3u8
 #EXTINF:-1 tvg-id="Historian" tvg-logo="https://img.platform.wurl.dev/channel/1908/lg/b7ee6a/LG-768x432_v1.png" group-title="Documentary",Historian
 https://3a542e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfSGlzdG9yaWFuX0hMUw/playlist.m3u8
+
+
+
+
+
 
 
 
