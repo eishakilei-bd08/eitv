@@ -7,7 +7,128 @@
 
 
 
-
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1  HD" tvg-logo="https://i.postimg.cc/hGVdbCWv/Star-Sports-1.jpg" group-title="Sports",STAR SPORTS 1  HD
+https://playlist.nocablenetwork.workers.dev/stream/5.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://i.postimg.cc/jjy7Q80w/Star-Sports-2.jpg" group-title="Sports",STAR SPORTS 2 HD
+https://playlist.nocablenetwork.workers.dev/stream/6.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://i.postimg.cc/85sw40LV/Star-Sports-Select-1.jpg" group-title="Sports",STAR SPORTS SELECT 1 HD
+https://playlist.nocablenetwork.workers.dev/stream/7.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="https://i.postimg.cc/2jsTdTyR/Star-Sports-Select-2.jpg" group-title="Sports",STAR SPORTS SELECT 2 HD
+https://playlist.nocablenetwork.workers.dev/stream/8.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 3" tvg-logo="https://i.postimg.cc/mrLmzDDk/Star-Sports-3.jpg" group-title="Sports",STAR SPORTS 3
+https://playlist.nocablenetwork.workers.dev/stream/9.ts
+#EXTINF:-1 tvg-id="" tvg-name="T SPORTS" tvg-logo="https://i.postimg.cc/PfWvcMyz/T-Sports2.png" group-title="Sports",T SPORTS
+https://playlist.nocablenetwork.workers.dev/stream/10.ts
+#EXTINF:-1 tvg-id="" tvg-name="T SPORTS HD" tvg-logo="https://i.postimg.cc/j24W7sCV/T-Sports.png" group-title="Sports",T SPORTS HD
+https://playlist.nocablenetwork.workers.dev/stream/11.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY SPORTS TEN 1 HD" tvg-logo="https://i.postimg.cc/J48Z4FtV/Sony-Ten-1-HD.jpg" group-title="Sports",SONY SPORTS TEN 1 HD
+https://playlist.nocablenetwork.workers.dev/stream/12.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY SPORTS TEN 2 HD" tvg-logo="https://i.postimg.cc/FHsS0JjV/Sony-Ten-2-HD.jpg" group-title="Sports",SONY SPORTS TEN 2 HD
+https://playlist.nocablenetwork.workers.dev/stream/13.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY SPORTS TEN 3 HD" tvg-logo="https://i.postimg.cc/SxTMdNrB/Sony-Ten-3-HD.jpg" group-title="Sports",SONY SPORTS TEN 3 HD
+https://playlist.nocablenetwork.workers.dev/stream/14.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY SPORTS TEN 5 HD" tvg-logo="https://i.postimg.cc/7L5TW8tJ/Sony-Ten-5-HD.jpg" group-title="Sports",SONY SPORTS TEN 5 HD
+https://playlist.nocablenetwork.workers.dev/stream/15.ts
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT HD" tvg-logo="https://i.postimg.cc/WpdTqpF0/Eurosport.png" group-title="Sports",EUROSPORT HD
+https://playlist.nocablenetwork.workers.dev/stream/16.ts
+#EXTINF:-1 tvg-id="" tvg-name="A SPORTS HD" tvg-logo="https://i.postimg.cc/HncZYhLk/A-Sports.png" group-title="Sports",A SPORTS HD
+https://playlist.nocablenetwork.workers.dev/stream/17.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEN SPORTS HD" tvg-logo="https://i.postimg.cc/DZzpDZk4/Ten-Sports.png" group-title="Sports",TEN SPORTS HD
+https://playlist.nocablenetwork.workers.dev/stream/18.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEN CRICKET" tvg-logo="https://i.postimg.cc/26X9fDrJ/ten-cricket.png" group-title="Sports",TEN CRICKET
+https://playlist.nocablenetwork.workers.dev/stream/19.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTV SPORTS" tvg-logo="https://i.postimg.cc/3rcVsgwY/PTV-Sports.jpg" group-title="Sports",PTV SPORTS
+https://playlist.nocablenetwork.workers.dev/stream/21.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRICBUZZ" tvg-logo="https://i.postimg.cc/VvdTSNKN/CRICBUZZ.webp" group-title="Sports",CRICBUZZ
+https://playlist.nocablenetwork.workers.dev/stream/22.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY YAY" tvg-logo="https://i.postimg.cc/prj6qbB9/SONY-YAY.jpg" group-title="Kids",SONY YAY
+https://playlist.nocablenetwork.workers.dev/stream/23.ts
+#EXTINF:-1 tvg-id="" tvg-name="WILLOW 2" tvg-logo="https://i.postimg.cc/CKpVWbmd/WILLOW-SPORTS.png" group-title="Sports",WILLOW 2
+https://playlist.nocablenetwork.workers.dev/stream/24.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://i.postimg.cc/SRvBV9nN/SKY-SPORTS-CRICKET.png" group-title="Sports",SKY SPORTS CRICKET
+https://playlist.nocablenetwork.workers.dev/stream/25.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS CRICKET" tvg-logo="https://i.postimg.cc/XvktmmZY/fox-cricket.png" group-title="Sports",FOX SPORTS CRICKET
+https://playlist.nocablenetwork.workers.dev/stream/26.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1 HD" tvg-logo="https://i.postimg.cc/zvdkSTXs/TNT-Sports-1.png" group-title="Sports",TNT SPORTS 1 HD
+https://playlist.nocablenetwork.workers.dev/stream/27.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2 HD" tvg-logo="https://i.postimg.cc/tghtvK48/TNT-Sports-2.png" group-title="Sports",TNT SPORTS 2 HD
+https://playlist.nocablenetwork.workers.dev/stream/28.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3 HD" tvg-logo="https://i.postimg.cc/Wp9my6s3/TNT-Sports-3.png" group-title="Sports",TNT SPORTS 3 HD
+https://playlist.nocablenetwork.workers.dev/stream/29.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://i.postimg.cc/rFLZ8Nvc/BEIN-SPORTS-1.png" group-title="Sports",BEIN SPORTS 1 HD
+https://playlist.nocablenetwork.workers.dev/stream/30.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://i.postimg.cc/PqcK0Wm9/BEIN-SPORTS-2.png" group-title="Sports",BEIN SPORTS 2 HD
+https://playlist.nocablenetwork.workers.dev/stream/31.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD" tvg-logo="https://i.postimg.cc/ZnPc9X15/BEIN-SPORTS-3.png" group-title="Sports",BEIN SPORTS 3 HD
+https://playlist.nocablenetwork.workers.dev/stream/32.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ARABIC HD" tvg-logo="https://i.postimg.cc/QCqQN1TJ/BEIN-SPORTS-ARABIC.png" group-title="Sports",BEIN SPORTS ARABIC HD
+https://playlist.nocablenetwork.workers.dev/stream/33.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS EXTRA HD" tvg-logo="https://i.postimg.cc/NF23WG2g/Be-IN-Sports-XTRA.png" group-title="Sports",BEIN SPORTS EXTRA HD
+https://playlist.nocablenetwork.workers.dev/stream/34.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNITE8 SPORTS 1 HD" tvg-logo="https://i.postimg.cc/nhVXfN2N/Unite8-Sports-1.png" group-title="Sports",UNITE8 SPORTS 1 HD
+https://playlist.nocablenetwork.workers.dev/stream/35.ts
+#EXTINF:-1 tvg-id="" tvg-name="JAMUNA TV" tvg-logo="https://i.postimg.cc/xCPxcQ0K/Jamuna-tv.jpg" group-title="Bangla",JAMUNA TV
+https://playlist.nocablenetwork.workers.dev/stream/37.ts
+#EXTINF:-1 tvg-id="" tvg-name="SOMOY TV HD" tvg-logo="https://i.postimg.cc/bYCgM3dF/Somoy-TV.jpg" group-title="Bangla",SOMOY TV HD
+https://playlist.nocablenetwork.workers.dev/stream/38.ts
+#EXTINF:-1 tvg-id="" tvg-name="EKATTOR TV" tvg-logo="https://i.postimg.cc/YSHzgPyk/Ekattur.jpg" group-title="Bangla",EKATTOR TV
+https://playlist.nocablenetwork.workers.dev/stream/39.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 24" tvg-logo="https://i.postimg.cc/wv9FKrhQ/Channel-24.jpg" group-title="Bangla",CHANNEL 24
+https://playlist.nocablenetwork.workers.dev/stream/40.ts
+#EXTINF:-1 tvg-id="" tvg-name="DBC NEWS HD" tvg-logo="https://i.postimg.cc/C5zGSpdB/DBC-News.jpg" group-title="Bangla",DBC NEWS HD
+https://playlist.nocablenetwork.workers.dev/stream/41.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL I HD" tvg-logo="https://i.postimg.cc/yxtFNpZ4/Channel-i.jpg" group-title="Bangla",CHANNEL I HD
+https://playlist.nocablenetwork.workers.dev/stream/42.ts
+#EXTINF:-1 tvg-id="" tvg-name="NTV HD" tvg-logo="https://i.postimg.cc/pTd8JMfw/Ntv.jpg" group-title="Bangla",NTV HD
+https://playlist.nocablenetwork.workers.dev/stream/43.ts
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA VISION HD" tvg-logo="https://i.postimg.cc/q7wyKv3N/Banglavision.png" group-title="Bangla",BANGLA VISION HD
+https://playlist.nocablenetwork.workers.dev/stream/44.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAASRANGA TV HD" tvg-logo="https://i.postimg.cc/596kS6mM/MAASRANGA-TV-HD.jpg" group-title="Bangla",MAASRANGA TV HD
+https://playlist.nocablenetwork.workers.dev/stream/45.ts
+#EXTINF:-1 tvg-id="" tvg-name="GAZI TV HD" tvg-logo="https://i.postimg.cc/mhWtqv9f/Gazi-TV.jpg" group-title="Bangla",GAZI TV HD
+https://playlist.nocablenetwork.workers.dev/stream/46.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEEPTO TV HD" tvg-logo="https://i.postimg.cc/vBj17gHv/Deepto-TV.jpg" group-title="Bangla",DEEPTO TV HD
+https://playlist.nocablenetwork.workers.dev/stream/47.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAGORIK TV HD" tvg-logo="https://i.postimg.cc/rmz0tCTv/Nagorik-TV.jpg" group-title="Bangla",NAGORIK TV HD
+https://playlist.nocablenetwork.workers.dev/stream/48.ts
+#EXTINF:-1 tvg-id="" tvg-name="BTV NATIONAL HD" tvg-logo="https://i.postimg.cc/Sx7M0xDh/BTV.png" group-title="Bangla",BTV NATIONAL HD
+https://playlist.nocablenetwork.workers.dev/stream/49.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX HD" tvg-logo="https://i.postimg.cc/vZmZNfHd/Sony-Max-HD.jpg" group-title="Hindi",SONY MAX HD
+https://playlist.nocablenetwork.workers.dev/stream/50.ts
+#EXTINF:-1 tvg-id="" tvg-name="&PICTURES HD" tvg-logo="https://i.postimg.cc/ncSJM5px/And-Picture.jpg" group-title="Hindi",&PICTURES HD
+https://playlist.nocablenetwork.workers.dev/stream/51.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TV HD" tvg-logo="https://i.postimg.cc/05cgH36Q/Zee-TV.jpg" group-title="Hindi",ZEE TV HD
+https://playlist.nocablenetwork.workers.dev/stream/52.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS" tvg-logo="https://i.postimg.cc/B64ymc43/Star-Plus.jpg" group-title="Hindi",STAR PLUS
+https://playlist.nocablenetwork.workers.dev/stream/53.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES HD" tvg-logo="https://i.postimg.cc/SQZ5GM52/Star-Movies.jpg" group-title="Hindi",STAR MOVIES HD
+https://playlist.nocablenetwork.workers.dev/stream/54.ts
+#EXTINF:-1 tvg-id="" tvg-name="DURONTO TV HD" tvg-logo="https://i.postimg.cc/02MtdHDF/Duronto-TV.jpg" group-title="Kids",DURONTO TV HD
+https://playlist.nocablenetwork.workers.dev/stream/55.ts
+#EXTINF:-1 tvg-id="" tvg-name="POGO" tvg-logo="https://i.postimg.cc/502gHPf7/POGO1664977122.jpg" group-title="Kids",POGO
+https://playlist.nocablenetwork.workers.dev/stream/56.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://i.postimg.cc/65v0G4N6/CN.jpg" group-title="Kids",CARTOON NETWORK
+https://playlist.nocablenetwork.workers.dev/stream/57.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA" tvg-logo="https://i.postimg.cc/XYZzxt83/STAR-JALSHA.png" group-title="Kolkata Bangla",STAR JALSHA
+https://playlist.nocablenetwork.workers.dev/stream/58.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA" tvg-logo="https://i.postimg.cc/FFZ8Kyz4/ZEE-BANGLA.jpg" group-title="Kolkata Bangla",ZEE BANGLA
+https://playlist.nocablenetwork.workers.dev/stream/59.ts
+#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA" tvg-logo="https://i.postimg.cc/cH7jwYcT/COLORS-BANGLA.webp" group-title="Kolkata Bangla",COLORS BANGLA
+https://playlist.nocablenetwork.workers.dev/stream/60.ts
+#EXTINF:-1 tvg-id="" tvg-name="ENTER 10 BANGLA" tvg-logo="https://i.postimg.cc/CLc3cGpJ/ENTER-10-BANGLA.jpg" group-title="Kolkata Bangla",ENTER 10 BANGLA
+https://playlist.nocablenetwork.workers.dev/stream/61.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY AATH" tvg-logo="https://i.postimg.cc/xCKr5B9J/SONY-AATH.png" group-title="Kolkata Bangla",SONY AATH
+https://playlist.nocablenetwork.workers.dev/stream/62.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY BANGLA" tvg-logo="https://i.postimg.cc/bJbPMs9m/Discovery.png" group-title="Others",DISCOVERY BANGLA
+https://playlist.nocablenetwork.workers.dev/stream/63.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK BANGLA" tvg-logo="https://i.postimg.cc/9XvQFHny/Nick-Bangla.jpg" group-title="Kids",NICK BANGLA
+https://playlist.nocablenetwork.workers.dev/stream/64.ts
+#EXTINF:-1 tvg-id="" tvg-name="JALSHA MOVIES HD" tvg-logo="https://i.postimg.cc/Y2ytDB7c/Jalsha-Movies.jpg" group-title="Kolkata Bangla",JALSHA MOVIES HD
+https://playlist.nocablenetwork.workers.dev/stream/65.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA SONAR" tvg-logo="https://i.postimg.cc/qMBpXCY8/channels4-profile.jpg" group-title="Kolkata Bangla",ZEE BANGLA SONAR
+https://playlist.nocablenetwork.workers.dev/stream/66.ts
 
 
 
